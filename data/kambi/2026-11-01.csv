@@ -135,3 +135,12 @@ ts,event_id,group,home,away,start,type,line,dec_1,dec_2,pin_matchup_id,match_sco
 2026-11-01T15:18:06+00:00,1028646433,germany/bbl,Hamburg Towers,Syntainics MBC,2026-11-01T15:30:00+00:00,spread,1.5,1.82,1.89,1639261832,70.0
 2026-11-01T15:23:20+00:00,1028646433,germany/bbl,Hamburg Towers,Syntainics MBC,2026-11-01T15:30:00+00:00,moneyline,,2.12,1.63,1639261832,70.0
 2026-11-01T15:23:20+00:00,1028646433,germany/bbl,Hamburg Towers,Syntainics MBC,2026-11-01T15:30:00+00:00,spread,1.5,1.98,1.73,1639261832,70.0
+2026-11-01T15:49:32+00:00,1028927830,aba_league,Studentski Centar,KD Ilirija,2026-11-01T16:00:00+00:00,moneyline,,1.4,2.75,1639270477,100.0
+2026-11-01T15:49:32+00:00,1028927830,aba_league,Studentski Centar,KD Ilirija,2026-11-01T16:00:00+00:00,spread,-5.5,1.87,1.83,1639270477,100.0
+2026-11-01T15:49:32+00:00,1028635031,italy/lega_a,APU Old Wild West Udine,Bertram Tortona,2026-11-01T16:00:00+00:00,moneyline,,1.89,1.87,1639270550,76.1
+2026-11-01T15:49:32+00:00,1028635031,italy/lega_a,APU Old Wild West Udine,Bertram Tortona,2026-11-01T16:00:00+00:00,spread,0.5,1.89,1.87,1639270550,76.1
+2026-11-01T15:49:32+00:00,1028635031,italy/lega_a,APU Old Wild West Udine,Bertram Tortona,2026-11-01T16:00:00+00:00,total,167.5,1.85,1.85,1639270550,76.1
+2026-11-01T15:49:32+00:00,1028435537,portugal/lpb,Vitória S.C.,CD Povoa,2026-11-01T16:00:00+00:00,spread,2.5,1.82,1.88,1639270476,88.9
+2026-11-01T15:49:32+00:00,1029300256,united_kingdom/super_league_basketball,Liverpool,Manchester Basketball,2026-11-01T16:00:00+00:00,moneyline,,1.68,2.05,,44.0
+2026-11-01T15:49:32+00:00,1029300256,united_kingdom/super_league_basketball,Liverpool,Manchester Basketball,2026-11-01T16:00:00+00:00,spread,-1.5,1.8,1.9,,44.0
+2026-11-01T15:49:32+00:00,1029300256,united_kingdom/super_league_basketball,Liverpool,Manchester Basketball,2026-11-01T16:00:00+00:00,total,163.5,1.85,1.85,,44.0
