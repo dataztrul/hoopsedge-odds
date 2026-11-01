@@ -131,3 +131,5 @@ ts,event_id,group,home,away,start,type,line,dec_1,dec_2,pin_matchup_id,match_sco
 2026-11-01T15:10:29+00:00,1028992884,france/elite,Paris Basket,Elan Chalon,2026-11-01T18:00:00+00:00,total,180.5,1.76,1.95,1639275278,100.0
 2026-11-01T15:15:43+00:00,1028992879,france/elite,Saint-Quentin,ASVEL Lyon-Villeurbanne,2026-11-01T15:30:00+00:00,spread,9.5,1.84,1.92,1639270440,100.0
 2026-11-01T15:15:43+00:00,1028992879,france/elite,Saint-Quentin,ASVEL Lyon-Villeurbanne,2026-11-01T15:30:00+00:00,total,173.5,1.85,1.85,1639270440,100.0
+2026-11-01T15:18:06+00:00,1028646433,germany/bbl,Hamburg Towers,Syntainics MBC,2026-11-01T15:30:00+00:00,moneyline,,1.94,1.77,1639261832,70.0
+2026-11-01T15:18:06+00:00,1028646433,germany/bbl,Hamburg Towers,Syntainics MBC,2026-11-01T15:30:00+00:00,spread,1.5,1.82,1.89,1639261832,70.0
