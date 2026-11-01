@@ -144,3 +144,6 @@ ts,event_id,group,home,away,start,type,line,dec_1,dec_2,pin_matchup_id,match_sco
 2026-11-01T15:49:32+00:00,1029300256,united_kingdom/super_league_basketball,Liverpool,Manchester Basketball,2026-11-01T16:00:00+00:00,moneyline,,1.68,2.05,,44.0
 2026-11-01T15:49:32+00:00,1029300256,united_kingdom/super_league_basketball,Liverpool,Manchester Basketball,2026-11-01T16:00:00+00:00,spread,-1.5,1.8,1.9,,44.0
 2026-11-01T15:49:32+00:00,1029300256,united_kingdom/super_league_basketball,Liverpool,Manchester Basketball,2026-11-01T16:00:00+00:00,total,163.5,1.85,1.85,,44.0
+2026-11-01T15:54:46+00:00,1028280641,czech_republic/nbl,Sokol Pisek,BK Děčín,2026-11-01T16:00:00+00:00,total,169.5,1.98,1.73,1639270549,81.8
+2026-11-01T15:54:46+00:00,1028435537,portugal/lpb,Vitória S.C.,CD Povoa,2026-11-01T16:00:00+00:00,total,161.5,1.83,1.87,1639270476,88.9
+2026-11-01T15:54:46+00:00,1029704548,spain/liga_acb,Saski Baskonia,BAXI Manresa,2026-11-01T16:00:00+00:00,moneyline,,1.15,5.0,1639270536,73.2
