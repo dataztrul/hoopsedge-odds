@@ -255,3 +255,5 @@ ts,event_id,group,home,away,start,type,line,dec_1,dec_2,pin_matchup_id,match_sco
 2026-11-01T22:21:50+00:00,1029005671,brazil/nbb,EC Pinheiros B,Caxias do Sul,2026-11-02T14:00:00+00:00,spread,-13.5,1.83,1.87,,39.6
 2026-11-01T22:21:50+00:00,1029005671,brazil/nbb,EC Pinheiros B,Caxias do Sul,2026-11-02T14:00:00+00:00,total,148.5,1.96,1.75,,39.6
 2026-11-01T23:37:27+00:00,1029564917,turkey/super_league,Aliaga Petkim Spor,Anadolu Efes,2026-11-02T15:00:00+00:00,total,167.5,1.98,1.73,1639318742,100.0
+2026-11-01T23:52:34+00:00,1029564917,turkey/super_league,Aliaga Petkim Spor,Anadolu Efes,2026-11-02T15:00:00+00:00,moneyline,,2.23,1.58,1639318742,100.0
+2026-11-01T23:52:34+00:00,1029564917,turkey/super_league,Aliaga Petkim Spor,Anadolu Efes,2026-11-02T15:00:00+00:00,spread,4.5,1.7,2.02,1639318742,100.0
