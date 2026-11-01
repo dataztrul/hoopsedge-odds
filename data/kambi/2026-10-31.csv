@@ -1,0 +1,395 @@
+ts,event_id,group,home,away,start,type,line,dec_1,dec_2,pin_matchup_id,match_score
+2026-10-31T06:31:56+00:00,1027960450,sweden/basketligan,Köping Stars,Umeå BSKT,2026-10-31T15:04:00+00:00,moneyline,,1.19,4.1,1639201912,100.0
+2026-10-31T06:31:56+00:00,1027960450,sweden/basketligan,Köping Stars,Umeå BSKT,2026-10-31T15:04:00+00:00,spread,-10.5,1.91,1.8,1639201912,100.0
+2026-10-31T06:31:56+00:00,1027960450,sweden/basketligan,Köping Stars,Umeå BSKT,2026-10-31T15:04:00+00:00,total,171.5,1.78,1.92,1639201912,100.0
+2026-10-31T06:31:56+00:00,1028927699,aba_league,KK Cedevita Olimpija,FMP Beograd,2026-10-31T16:00:00+00:00,moneyline,,1.34,3.0,1639210951,100.0
+2026-10-31T06:31:56+00:00,1028927699,aba_league,KK Cedevita Olimpija,FMP Beograd,2026-10-31T16:00:00+00:00,spread,-6.5,1.87,1.83,1639210951,100.0
+2026-10-31T06:31:56+00:00,1028927699,aba_league,KK Cedevita Olimpija,FMP Beograd,2026-10-31T16:00:00+00:00,total,166.5,1.89,1.81,1639210951,100.0
+2026-10-31T06:31:56+00:00,1028927703,aba_league,Budućnost Podgorica,Borac Čačak,2026-10-31T18:00:00+00:00,moneyline,,1.06,7.0,1639213463,89.1
+2026-10-31T06:31:56+00:00,1028927703,aba_league,Budućnost Podgorica,Borac Čačak,2026-10-31T18:00:00+00:00,spread,-15.5,1.85,1.86,1639213463,89.1
+2026-10-31T06:31:56+00:00,1028927703,aba_league,Budućnost Podgorica,Borac Čačak,2026-10-31T18:00:00+00:00,total,171.5,1.85,1.85,1639213463,89.1
+2026-10-31T06:31:56+00:00,1028293076,austria/obl,Oberwart Gunners,Xion Dukes Klosterneuburg,2026-10-31T16:30:00+00:00,moneyline,,1.12,5.3,1639461722,100.0
+2026-10-31T06:31:56+00:00,1028293076,austria/obl,Oberwart Gunners,Xion Dukes Klosterneuburg,2026-10-31T16:30:00+00:00,spread,-12.5,1.82,1.88,1639461722,100.0
+2026-10-31T06:31:56+00:00,1028293076,austria/obl,Oberwart Gunners,Xion Dukes Klosterneuburg,2026-10-31T16:30:00+00:00,total,163.5,1.6,2.18,1639461722,100.0
+2026-10-31T06:31:56+00:00,1028293082,austria/obl,Pirlo Kufstein Towers,Kapfenberg Bulls,2026-10-31T17:30:00+00:00,moneyline,,5.2,1.12,1639456095,100.0
+2026-10-31T06:31:56+00:00,1028293082,austria/obl,Pirlo Kufstein Towers,Kapfenberg Bulls,2026-10-31T17:30:00+00:00,spread,12.5,1.88,1.82,1639456095,100.0
+2026-10-31T06:31:56+00:00,1028293082,austria/obl,Pirlo Kufstein Towers,Kapfenberg Bulls,2026-10-31T17:30:00+00:00,total,173.5,1.95,1.75,1639456095,100.0
+2026-10-31T06:31:56+00:00,1028130345,bnxt_league,ZZ Leiden,Donar Groningen,2026-10-31T19:00:00+00:00,moneyline,,1.7,2.02,1639222405,90.0
+2026-10-31T06:31:56+00:00,1028130345,bnxt_league,ZZ Leiden,Donar Groningen,2026-10-31T19:00:00+00:00,spread,-1.5,1.81,1.88,1639222405,90.0
+2026-10-31T06:31:56+00:00,1028130345,bnxt_league,ZZ Leiden,Donar Groningen,2026-10-31T19:00:00+00:00,total,162.5,1.81,1.87,1639222405,90.0
+2026-10-31T06:31:56+00:00,1028130365,bnxt_league,Antwerp Giants,Hubo Limburg United,2026-10-31T19:00:00+00:00,moneyline,,1.04,7.5,1639222221,100.0
+2026-10-31T06:31:56+00:00,1028130365,bnxt_league,Antwerp Giants,Hubo Limburg United,2026-10-31T19:00:00+00:00,spread,-15.5,1.85,1.84,1639222221,100.0
+2026-10-31T06:31:56+00:00,1028130365,bnxt_league,Antwerp Giants,Hubo Limburg United,2026-10-31T19:00:00+00:00,total,180.5,1.75,1.94,1639222221,100.0
+2026-10-31T06:31:56+00:00,1028130346,bnxt_league,Okapi Aalstar,Mons-Hainaut,2026-10-31T19:30:00+00:00,spread,-23.5,1.82,1.86,1639222232,95.8
+2026-10-31T06:31:56+00:00,1028130346,bnxt_league,Okapi Aalstar,Mons-Hainaut,2026-10-31T19:30:00+00:00,total,172.5,1.89,1.79,1639222232,95.8
+2026-10-31T06:31:56+00:00,1028130341,bnxt_league,BC Oostende,Leuven Bears,2026-10-31T19:30:00+00:00,moneyline,,1.07,6.25,1639222411,100.0
+2026-10-31T06:31:56+00:00,1028130341,bnxt_league,BC Oostende,Leuven Bears,2026-10-31T19:30:00+00:00,spread,-13.5,1.82,1.87,1639222411,100.0
+2026-10-31T06:31:56+00:00,1028130341,bnxt_league,BC Oostende,Leuven Bears,2026-10-31T19:30:00+00:00,total,153.5,1.9,1.78,1639222411,100.0
+2026-10-31T06:31:56+00:00,1028130343,bnxt_league,Landstede Hammers,Kortrijk Spurs Hse A,2026-11-01T13:00:00+00:00,moneyline,,1.55,2.25,1639261491,100.0
+2026-10-31T06:31:56+00:00,1028130343,bnxt_league,Landstede Hammers,Kortrijk Spurs Hse A,2026-11-01T13:00:00+00:00,spread,-2.5,1.76,1.93,1639261491,100.0
+2026-10-31T06:31:56+00:00,1028130343,bnxt_league,Landstede Hammers,Kortrijk Spurs Hse A,2026-11-01T13:00:00+00:00,total,157.5,1.76,1.94,1639261491,100.0
+2026-10-31T06:31:56+00:00,1028902615,bulgaria/nbl,Rilski Sportist,Lokomotiv Plovdiv 1926,2026-10-31T16:00:00+00:00,moneyline,,1.23,3.7,,52.4
+2026-10-31T06:31:56+00:00,1028902615,bulgaria/nbl,Rilski Sportist,Lokomotiv Plovdiv 1926,2026-10-31T16:00:00+00:00,spread,-9.5,1.92,1.79,,52.4
+2026-10-31T06:31:56+00:00,1028902615,bulgaria/nbl,Rilski Sportist,Lokomotiv Plovdiv 1926,2026-10-31T16:00:00+00:00,total,169.5,1.78,1.93,,52.4
+2026-10-31T06:31:56+00:00,1028902600,bulgaria/nbl,Cherno More Ticha,Spartak-Pleven,2026-10-31T16:00:00+00:00,moneyline,,1.27,3.4,,43.0
+2026-10-31T06:31:56+00:00,1028902600,bulgaria/nbl,Cherno More Ticha,Spartak-Pleven,2026-10-31T16:00:00+00:00,spread,-7.5,1.8,1.9,,43.0
+2026-10-31T06:31:56+00:00,1028902600,bulgaria/nbl,Cherno More Ticha,Spartak-Pleven,2026-10-31T16:00:00+00:00,total,168.5,1.88,1.82,,43.0
+2026-10-31T06:31:56+00:00,1028280651,czech_republic/nbl,USK Praha,BK Pardubice,2026-10-31T16:30:00+00:00,moneyline,,3.9,1.21,1639210963,86.8
+2026-10-31T06:31:56+00:00,1028280651,czech_republic/nbl,USK Praha,BK Pardubice,2026-10-31T16:30:00+00:00,spread,7.5,2.1,1.65,1639210963,86.8
+2026-10-31T06:31:56+00:00,1028280651,czech_republic/nbl,USK Praha,BK Pardubice,2026-10-31T16:30:00+00:00,total,167.5,1.87,1.83,1639210963,86.8
+2026-10-31T06:31:56+00:00,1028280648,czech_republic/nbl,NH Ostrava,Lokomotiva Plzeň,2026-10-31T16:30:00+00:00,moneyline,,1.02,9.0,1639202157,100.0
+2026-10-31T06:31:56+00:00,1028280648,czech_republic/nbl,NH Ostrava,Lokomotiva Plzeň,2026-10-31T16:30:00+00:00,spread,-18.5,1.89,1.82,1639202157,100.0
+2026-10-31T06:31:56+00:00,1028280648,czech_republic/nbl,NH Ostrava,Lokomotiva Plzeň,2026-10-31T16:30:00+00:00,total,172.5,1.95,1.76,1639202157,100.0
+2026-10-31T06:31:56+00:00,1028807413,denmark/basketligaen,Copenhagen Basketball,Svendborg Rabbits,2026-10-31T17:00:00+00:00,moneyline,,2.2,1.6,1639212038,100.0
+2026-10-31T06:31:56+00:00,1028807413,denmark/basketligaen,Copenhagen Basketball,Svendborg Rabbits,2026-10-31T17:00:00+00:00,spread,2.5,1.9,1.8,1639212038,100.0
+2026-10-31T06:31:56+00:00,1028807413,denmark/basketligaen,Copenhagen Basketball,Svendborg Rabbits,2026-10-31T17:00:00+00:00,total,163.5,1.86,1.84,1639212038,100.0
+2026-10-31T06:31:56+00:00,1028312597,finland/korisliiga,Bisons Loimaa,Kipina,2026-10-31T14:00:00+00:00,moneyline,,1.91,1.85,1639179829,100.0
+2026-10-31T06:31:56+00:00,1028312597,finland/korisliiga,Bisons Loimaa,Kipina,2026-10-31T14:00:00+00:00,spread,-0.5,1.91,1.85,1639179829,100.0
+2026-10-31T06:31:56+00:00,1028312597,finland/korisliiga,Bisons Loimaa,Kipina,2026-10-31T14:00:00+00:00,total,172.5,1.89,1.82,1639179829,100.0
+2026-10-31T06:31:56+00:00,1028312599,finland/korisliiga,Kataja Basket,Kauhajoki,2026-10-31T16:00:00+00:00,moneyline,,1.5,2.5,1639201947,100.0
+2026-10-31T06:31:56+00:00,1028312599,finland/korisliiga,Kataja Basket,Kauhajoki,2026-10-31T16:00:00+00:00,spread,-4.5,1.9,1.86,1639201947,100.0
+2026-10-31T06:31:56+00:00,1028312599,finland/korisliiga,Kataja Basket,Kauhajoki,2026-10-31T16:00:00+00:00,total,166.5,1.88,1.82,1639201947,100.0
+2026-10-31T06:31:56+00:00,1028992901,france/elite,Gravelines-Dunkerque,Chorale Roanne,2026-10-31T17:00:00+00:00,moneyline,,1.87,1.89,1639202180,100.0
+2026-10-31T06:31:56+00:00,1028992901,france/elite,Gravelines-Dunkerque,Chorale Roanne,2026-10-31T17:00:00+00:00,spread,0.5,1.87,1.89,1639202180,100.0
+2026-10-31T06:31:56+00:00,1028992901,france/elite,Gravelines-Dunkerque,Chorale Roanne,2026-10-31T17:00:00+00:00,total,166.5,1.85,1.85,1639202180,100.0
+2026-10-31T06:31:56+00:00,1028992900,france/elite,Le Mans BC,EB Pau-Lacq-Orthez,2026-10-31T17:00:00+00:00,moneyline,,1.13,5.6,1639202178,100.0
+2026-10-31T06:31:56+00:00,1028992900,france/elite,Le Mans BC,EB Pau-Lacq-Orthez,2026-10-31T17:00:00+00:00,spread,-13.5,1.97,1.8,1639202178,100.0
+2026-10-31T06:31:56+00:00,1028992900,france/elite,Le Mans BC,EB Pau-Lacq-Orthez,2026-10-31T17:00:00+00:00,total,171.5,1.89,1.82,1639202178,100.0
+2026-10-31T06:31:56+00:00,1028992878,france/elite,Limoges CSP,Boulazac,2026-10-31T17:30:00+00:00,moneyline,,1.41,2.8,1639212064,100.0
+2026-10-31T06:31:56+00:00,1028992878,france/elite,Limoges CSP,Boulazac,2026-10-31T17:30:00+00:00,spread,-5.5,1.87,1.89,1639212064,100.0
+2026-10-31T06:31:56+00:00,1028992878,france/elite,Limoges CSP,Boulazac,2026-10-31T17:30:00+00:00,total,168.5,1.88,1.82,1639212064,100.0
+2026-10-31T06:31:56+00:00,1028992874,france/elite,Strasbourg,Cholet,2026-10-31T17:30:00+00:00,moneyline,,1.95,1.82,1639216433,100.0
+2026-10-31T06:31:56+00:00,1028992874,france/elite,Strasbourg,Cholet,2026-10-31T17:30:00+00:00,spread,1.5,1.82,1.94,1639216433,100.0
+2026-10-31T06:31:56+00:00,1028992874,france/elite,Strasbourg,Cholet,2026-10-31T17:30:00+00:00,total,167.5,1.87,1.83,1639216433,100.0
+2026-10-31T06:31:56+00:00,1028992882,france/elite,Bourg-en-Bresse,Nanterre,2026-10-31T19:30:00+00:00,moneyline,,1.52,2.45,1639222230,88.5
+2026-10-31T06:31:56+00:00,1028992882,france/elite,Bourg-en-Bresse,Nanterre,2026-10-31T19:30:00+00:00,spread,-4.5,1.94,1.83,1639222230,88.5
+2026-10-31T06:31:56+00:00,1028992882,france/elite,Bourg-en-Bresse,Nanterre,2026-10-31T19:30:00+00:00,total,169.5,1.89,1.81,1639222230,88.5
+2026-10-31T06:31:56+00:00,1028475232,france/elite_2,Orléans Loiret Basket,Quimper,2026-10-31T19:00:00+00:00,moneyline,,1.1,5.25,1639418445,100.0
+2026-10-31T06:31:56+00:00,1028475232,france/elite_2,Orléans Loiret Basket,Quimper,2026-10-31T19:00:00+00:00,spread,-11.5,1.75,1.9,1639418445,100.0
+2026-10-31T06:31:56+00:00,1028475232,france/elite_2,Orléans Loiret Basket,Quimper,2026-10-31T19:00:00+00:00,total,160.5,1.79,1.85,1639418445,100.0
+2026-10-31T06:31:56+00:00,1028475234,france/elite_2,ADA Blois Basket 41,Vichy,2026-10-31T19:00:00+00:00,moneyline,,1.37,2.7,1639222394,100.0
+2026-10-31T06:31:56+00:00,1028475234,france/elite_2,ADA Blois Basket 41,Vichy,2026-10-31T19:00:00+00:00,spread,-5.5,1.84,1.8,1639222394,100.0
+2026-10-31T06:31:56+00:00,1028475234,france/elite_2,ADA Blois Basket 41,Vichy,2026-10-31T19:00:00+00:00,total,169.5,1.81,1.83,1639222394,100.0
+2026-10-31T06:31:56+00:00,1028646443,germany/bbl,Basketball Löwen Braunschweig,Würzburg Baskets,2026-10-31T17:30:00+00:00,moneyline,,2.45,1.48,1639212066,100.0
+2026-10-31T06:31:56+00:00,1028646443,germany/bbl,Basketball Löwen Braunschweig,Würzburg Baskets,2026-10-31T17:30:00+00:00,spread,4.5,1.82,1.88,1639212066,100.0
+2026-10-31T06:31:56+00:00,1028646443,germany/bbl,Basketball Löwen Braunschweig,Würzburg Baskets,2026-10-31T17:30:00+00:00,total,168.5,1.91,1.79,1639212066,100.0
+2026-10-31T06:31:56+00:00,1028646442,germany/bbl,Ulm Basketball,EWE Baskets Oldenburg,2026-10-31T17:30:00+00:00,moneyline,,1.3,3.15,1639216438,100.0
+2026-10-31T06:31:56+00:00,1028646442,germany/bbl,Ulm Basketball,EWE Baskets Oldenburg,2026-10-31T17:30:00+00:00,spread,-7.5,1.9,1.8,1639216438,100.0
+2026-10-31T06:31:56+00:00,1028646442,germany/bbl,Ulm Basketball,EWE Baskets Oldenburg,2026-10-31T17:30:00+00:00,total,163.5,1.84,1.86,1639216438,100.0
+2026-10-31T06:31:56+00:00,1028646436,germany/bbl,BV Chemnitz 99,MHP RIESEN Ludwigsburg,2026-10-31T19:00:00+00:00,moneyline,,1.38,2.75,1639222219,100.0
+2026-10-31T06:31:56+00:00,1028646436,germany/bbl,BV Chemnitz 99,MHP RIESEN Ludwigsburg,2026-10-31T19:00:00+00:00,spread,-5.5,1.84,1.86,1639222219,100.0
+2026-10-31T06:31:56+00:00,1028646436,germany/bbl,BV Chemnitz 99,MHP RIESEN Ludwigsburg,2026-10-31T19:00:00+00:00,total,172.5,1.92,1.79,1639222219,100.0
+2026-10-31T06:31:56+00:00,1029153050,greece/gbl,Vikos BC,AEK B.C.,2026-10-31T13:00:00+00:00,moneyline,,3.1,1.35,,46.7
+2026-10-31T06:31:56+00:00,1029153050,greece/gbl,Vikos BC,AEK B.C.,2026-10-31T13:00:00+00:00,spread,6.5,1.8,1.88,,46.7
+2026-10-31T06:31:56+00:00,1029153050,greece/gbl,Vikos BC,AEK B.C.,2026-10-31T13:00:00+00:00,total,159.5,1.87,1.83,,46.7
+2026-10-31T06:31:56+00:00,1029153058,greece/gbl,AO Mykonos BC,Doxa Lefkadas,2026-10-31T14:00:00+00:00,moneyline,,1.3,3.4,,41.9
+2026-10-31T06:31:56+00:00,1029153058,greece/gbl,AO Mykonos BC,Doxa Lefkadas,2026-10-31T14:00:00+00:00,spread,-7.5,1.83,1.85,,41.9
+2026-10-31T06:31:56+00:00,1029153058,greece/gbl,AO Mykonos BC,Doxa Lefkadas,2026-10-31T14:00:00+00:00,total,160.5,1.81,1.89,,41.9
+2026-10-31T06:31:56+00:00,1029153054,greece/gbl,AS Karditsas,Kolossos Rhodes,2026-10-31T14:00:00+00:00,moneyline,,1.58,2.3,,41.8
+2026-10-31T06:31:56+00:00,1029153054,greece/gbl,AS Karditsas,Kolossos Rhodes,2026-10-31T14:00:00+00:00,spread,-3.5,1.88,1.8,,41.8
+2026-10-31T06:31:56+00:00,1029153054,greece/gbl,AS Karditsas,Kolossos Rhodes,2026-10-31T14:00:00+00:00,total,159.5,1.82,1.88,,41.8
+2026-10-31T06:31:56+00:00,1029153062,greece/gbl,Maroussi,ASP Promitheas,2026-10-31T15:00:00+00:00,moneyline,,1.38,2.95,,45.2
+2026-10-31T06:31:56+00:00,1029153062,greece/gbl,Maroussi,ASP Promitheas,2026-10-31T15:00:00+00:00,spread,-6.5,1.89,1.79,,45.2
+2026-10-31T06:31:56+00:00,1029153062,greece/gbl,Maroussi,ASP Promitheas,2026-10-31T15:00:00+00:00,total,164.5,1.86,1.84,,45.2
+2026-10-31T06:31:56+00:00,1029153068,greece/gbl,Iraklis,PAOK Thessaloniki BC,2026-10-31T15:30:00+00:00,moneyline,,3.25,1.32,,49.3
+2026-10-31T06:31:56+00:00,1029153068,greece/gbl,Iraklis,PAOK Thessaloniki BC,2026-10-31T15:30:00+00:00,spread,7.5,1.8,1.89,,49.3
+2026-10-31T06:31:56+00:00,1029153068,greece/gbl,Iraklis,PAOK Thessaloniki BC,2026-10-31T15:30:00+00:00,total,164.5,1.9,1.8,,49.3
+2026-10-31T06:31:56+00:00,1028635046,italy/lega_a,Tezenis Verona,Openjobmetis Varese,2026-10-31T19:00:00+00:00,moneyline,,1.63,2.2,1639216503,80.0
+2026-10-31T06:31:56+00:00,1028635046,italy/lega_a,Tezenis Verona,Openjobmetis Varese,2026-10-31T19:00:00+00:00,spread,-2.5,1.85,1.91,1639216503,80.0
+2026-10-31T06:31:56+00:00,1028635046,italy/lega_a,Tezenis Verona,Openjobmetis Varese,2026-10-31T19:00:00+00:00,total,175.5,1.85,1.85,1639216503,80.0
+2026-10-31T06:31:56+00:00,1029269541,italy/lega_a,BC Roma,Givova Scafati,2026-10-31T19:00:00+00:00,moneyline,,1.2,4.3,1639222220,100.0
+2026-10-31T06:31:56+00:00,1029269541,italy/lega_a,BC Roma,Givova Scafati,2026-10-31T19:00:00+00:00,spread,-10.5,1.92,1.84,1639222220,100.0
+2026-10-31T06:31:56+00:00,1029269541,italy/lega_a,BC Roma,Givova Scafati,2026-10-31T19:00:00+00:00,total,179.5,1.9,1.8,1639222220,100.0
+2026-10-31T06:31:56+00:00,1028635020,italy/lega_a,Treviso Basket,Unahotels Reggio Emilia,2026-10-31T19:30:00+00:00,moneyline,,1.41,2.8,1639222410,72.6
+2026-10-31T06:31:56+00:00,1028635020,italy/lega_a,Treviso Basket,Unahotels Reggio Emilia,2026-10-31T19:30:00+00:00,spread,-5.5,1.87,1.89,1639222410,72.6
+2026-10-31T06:31:56+00:00,1028635020,italy/lega_a,Treviso Basket,Unahotels Reggio Emilia,2026-10-31T19:30:00+00:00,total,171.5,1.85,1.85,1639222410,72.6
+2026-10-31T06:31:56+00:00,1028635640,italy/serie_a2,Basket Mestre,Happy Casa Brindisi,2026-10-31T19:30:00+00:00,moneyline,,2.55,1.41,1639471496,90.0
+2026-10-31T06:31:56+00:00,1028635640,italy/serie_a2,Basket Mestre,Happy Casa Brindisi,2026-10-31T19:30:00+00:00,spread,4.5,1.86,1.78,1639471496,90.0
+2026-10-31T06:31:56+00:00,1028635640,italy/serie_a2,Basket Mestre,Happy Casa Brindisi,2026-10-31T19:30:00+00:00,total,155.5,1.82,1.82,1639471496,90.0
+2026-10-31T06:31:56+00:00,1028726973,lithuania/lkl,BC Lietkabelis,BC Neptūnas,2026-10-31T14:50:00+00:00,moneyline,,1.8,1.9,1639183624,100.0
+2026-10-31T06:31:56+00:00,1028726973,lithuania/lkl,BC Lietkabelis,BC Neptūnas,2026-10-31T14:50:00+00:00,spread,0.5,1.8,1.9,1639183624,100.0
+2026-10-31T06:31:56+00:00,1028726973,lithuania/lkl,BC Lietkabelis,BC Neptūnas,2026-10-31T14:50:00+00:00,total,162.5,1.81,1.89,1639183624,100.0
+2026-10-31T06:31:56+00:00,1029581561,lithuania/lkl,BC Šiauliai,KK Taurage,2026-10-31T15:00:00+00:00,moneyline,,1.29,3.25,1639192334,100.0
+2026-10-31T06:31:56+00:00,1029581561,lithuania/lkl,BC Šiauliai,KK Taurage,2026-10-31T15:00:00+00:00,spread,-7.5,1.85,1.85,1639192334,100.0
+2026-10-31T06:31:56+00:00,1029581561,lithuania/lkl,BC Šiauliai,KK Taurage,2026-10-31T15:00:00+00:00,total,169.5,1.75,1.96,1639192334,100.0
+2026-10-31T06:31:56+00:00,1028726979,lithuania/lkl,Jonavos SK,BC Juventus,2026-10-31T17:10:00+00:00,moneyline,,2.2,1.58,1639213418,88.5
+2026-10-31T06:31:56+00:00,1028726979,lithuania/lkl,Jonavos SK,BC Juventus,2026-10-31T17:10:00+00:00,spread,2.5,1.9,1.8,1639213418,88.5
+2026-10-31T06:31:56+00:00,1028726979,lithuania/lkl,Jonavos SK,BC Juventus,2026-10-31T17:10:00+00:00,total,170.5,2.14,1.63,1639213418,88.5
+2026-10-31T06:31:56+00:00,1028304647,poland/plk,Trefl Sopot,Enea Abramczyk Astoria Bydgoszcz,2026-10-31T11:30:00+00:00,moneyline,,1.63,2.14,1639261555,100.0
+2026-10-31T06:31:56+00:00,1028304647,poland/plk,Trefl Sopot,Enea Abramczyk Astoria Bydgoszcz,2026-10-31T11:30:00+00:00,spread,-2.5,1.86,1.85,1639261555,100.0
+2026-10-31T06:31:56+00:00,1028304647,poland/plk,Trefl Sopot,Enea Abramczyk Astoria Bydgoszcz,2026-10-31T11:30:00+00:00,total,174.5,1.85,1.85,1639261555,100.0
+2026-10-31T06:31:56+00:00,1028304632,poland/plk,Legia Warszawa,Dziki Warszawa,2026-10-31T16:30:00+00:00,moneyline,,1.79,1.92,1639381279,96.4
+2026-10-31T06:31:56+00:00,1028304632,poland/plk,Legia Warszawa,Dziki Warszawa,2026-10-31T16:30:00+00:00,spread,-1.5,1.92,1.79,1639381279,96.4
+2026-10-31T06:31:56+00:00,1028304632,poland/plk,Legia Warszawa,Dziki Warszawa,2026-10-31T16:30:00+00:00,total,168.5,1.82,1.88,1639381279,96.4
+2026-10-31T06:31:56+00:00,1028304635,poland/plk,Energa Icon Sea Czarni Słupsk,Arka Gdynia,2026-10-31T18:30:00+00:00,moneyline,,1.98,1.73,,66.9
+2026-10-31T06:31:56+00:00,1028304635,poland/plk,Energa Icon Sea Czarni Słupsk,Arka Gdynia,2026-10-31T18:30:00+00:00,spread,1.5,1.85,1.85,,66.9
+2026-10-31T06:31:56+00:00,1028304635,poland/plk,Energa Icon Sea Czarni Słupsk,Arka Gdynia,2026-10-31T18:30:00+00:00,total,165.5,1.82,1.88,,66.9
+2026-10-31T06:31:56+00:00,1028304689,poland/plk,Arriva Polski Cukier Toruń,Zastal Zielona Góra,2026-10-31T19:00:00+00:00,moneyline,,2.55,1.44,1639381282,73.4
+2026-10-31T06:31:56+00:00,1028304689,poland/plk,Arriva Polski Cukier Toruń,Zastal Zielona Góra,2026-10-31T19:00:00+00:00,spread,4.5,1.89,1.82,1639381282,73.4
+2026-10-31T06:31:56+00:00,1028304689,poland/plk,Arriva Polski Cukier Toruń,Zastal Zielona Góra,2026-10-31T19:00:00+00:00,total,174.5,1.82,1.89,1639381282,73.4
+2026-10-31T06:31:56+00:00,1028435524,portugal/lpb,CAB Madeira,UD Oliveirense,2026-10-31T15:00:00+00:00,moneyline,,2.1,1.65,1639192330,100.0
+2026-10-31T06:31:56+00:00,1028435524,portugal/lpb,CAB Madeira,UD Oliveirense,2026-10-31T15:00:00+00:00,spread,2.5,1.83,1.87,1639192330,100.0
+2026-10-31T06:31:56+00:00,1028435524,portugal/lpb,CAB Madeira,UD Oliveirense,2026-10-31T15:00:00+00:00,total,169.5,1.89,1.81,1639192330,100.0
+2026-10-31T06:31:56+00:00,1028435533,portugal/lpb,Portimonense SC,SL Benfica,2026-10-31T18:00:00+00:00,moneyline,,11.0,1.03,1639213462,100.0
+2026-10-31T06:31:56+00:00,1028435533,portugal/lpb,Portimonense SC,SL Benfica,2026-10-31T18:00:00+00:00,spread,19.5,1.87,1.83,1639213462,100.0
+2026-10-31T06:31:56+00:00,1028435533,portugal/lpb,Portimonense SC,SL Benfica,2026-10-31T18:00:00+00:00,total,168.5,1.9,1.81,1639213462,100.0
+2026-10-31T06:31:56+00:00,1028435536,portugal/lpb,CP Esgueira,Clube Atletico Queluz,2026-10-31T21:00:00+00:00,moneyline,,2.63,1.43,1639222250,90.0
+2026-10-31T06:31:56+00:00,1028435536,portugal/lpb,CP Esgueira,Clube Atletico Queluz,2026-10-31T21:00:00+00:00,spread,5.5,1.8,1.9,1639222250,90.0
+2026-10-31T06:31:56+00:00,1028435536,portugal/lpb,CP Esgueira,Clube Atletico Queluz,2026-10-31T21:00:00+00:00,total,172.5,1.88,1.82,1639222250,90.0
+2026-10-31T06:31:56+00:00,1029652005,slovakia/extraliga,MBK Handlová,Lucenec,2026-10-31T17:00:00+00:00,moneyline,,1.64,2.12,,43.5
+2026-10-31T06:31:56+00:00,1029652005,slovakia/extraliga,MBK Handlová,Lucenec,2026-10-31T17:00:00+00:00,spread,-2.5,1.87,1.83,,43.5
+2026-10-31T06:31:56+00:00,1029652005,slovakia/extraliga,MBK Handlová,Lucenec,2026-10-31T17:00:00+00:00,total,166.5,1.85,1.85,,43.5
+2026-10-31T06:31:56+00:00,1029652004,slovakia/extraliga,BK Iskra Svit,MBK Rieker Komárno,2026-10-31T17:00:00+00:00,moneyline,,1.57,2.25,,46.1
+2026-10-31T06:31:56+00:00,1029652004,slovakia/extraliga,BK Iskra Svit,MBK Rieker Komárno,2026-10-31T17:00:00+00:00,spread,-2.5,1.77,1.94,,46.1
+2026-10-31T06:31:56+00:00,1029652004,slovakia/extraliga,BK Iskra Svit,MBK Rieker Komárno,2026-10-31T17:00:00+00:00,total,165.5,1.86,1.84,,46.1
+2026-10-31T06:31:56+00:00,1029493556,slovakia/extraliga,Spisski Rytieri,BC Prievidza,2026-10-31T18:00:00+00:00,moneyline,,3.45,1.26,,42.2
+2026-10-31T06:31:56+00:00,1029493556,slovakia/extraliga,Spisski Rytieri,BC Prievidza,2026-10-31T18:00:00+00:00,spread,8.5,1.82,1.88,,42.2
+2026-10-31T06:31:56+00:00,1029493556,slovakia/extraliga,Spisski Rytieri,BC Prievidza,2026-10-31T18:00:00+00:00,total,171.5,1.87,1.83,,42.2
+2026-10-31T06:31:56+00:00,1028697334,spain/leb_oro,C.B. Granada,Baloncesto Fuenlabrada,2026-10-31T17:00:00+00:00,moneyline,,1.38,2.65,1639211007,100.0
+2026-10-31T06:31:56+00:00,1028697334,spain/leb_oro,C.B. Granada,Baloncesto Fuenlabrada,2026-10-31T17:00:00+00:00,spread,-4.5,1.73,1.93,1639211007,100.0
+2026-10-31T06:31:56+00:00,1028697334,spain/leb_oro,C.B. Granada,Baloncesto Fuenlabrada,2026-10-31T17:00:00+00:00,total,159.5,1.61,2.1,1639211007,100.0
+2026-10-31T06:31:56+00:00,1028697351,spain/leb_oro,CD Estela,Chocolates Trapa Palencia,2026-10-31T18:00:00+00:00,moneyline,,2.07,1.63,1639216461,81.1
+2026-10-31T06:31:56+00:00,1028697351,spain/leb_oro,CD Estela,Chocolates Trapa Palencia,2026-10-31T18:00:00+00:00,spread,2.5,1.79,1.86,1639216461,81.1
+2026-10-31T06:31:56+00:00,1028697351,spain/leb_oro,CD Estela,Chocolates Trapa Palencia,2026-10-31T18:00:00+00:00,total,162.5,1.86,1.79,1639216461,81.1
+2026-10-31T06:31:56+00:00,1028697346,spain/leb_oro,CB Zamora,CDE Albacete Basket,2026-10-31T18:30:00+00:00,moneyline,,1.29,3.1,1639213475,100.0
+2026-10-31T06:31:56+00:00,1028697346,spain/leb_oro,CB Zamora,CDE Albacete Basket,2026-10-31T18:30:00+00:00,spread,-7.5,1.88,1.76,1639213475,100.0
+2026-10-31T06:31:56+00:00,1028697346,spain/leb_oro,CB Zamora,CDE Albacete Basket,2026-10-31T18:30:00+00:00,total,164.5,1.85,1.79,1639213475,100.0
+2026-10-31T06:31:56+00:00,1028697349,spain/leb_oro,Menorca Bàsquet,Caja'87 Baloncesto,2026-10-31T18:30:00+00:00,moneyline,,1.34,2.85,1639313813,100.0
+2026-10-31T06:31:56+00:00,1028697349,spain/leb_oro,Menorca Bàsquet,Caja'87 Baloncesto,2026-10-31T18:30:00+00:00,spread,-5.5,1.77,1.87,1639313813,100.0
+2026-10-31T06:31:56+00:00,1028697349,spain/leb_oro,Menorca Bàsquet,Caja'87 Baloncesto,2026-10-31T18:30:00+00:00,total,153.5,1.84,1.8,1639313813,100.0
+2026-10-31T06:31:56+00:00,1028697343,spain/leb_oro,Palmer Basket Mallorca,Oviedo CB,2026-11-01T17:00:00+00:00,moneyline,,1.72,1.93,1639326186,100.0
+2026-10-31T06:31:56+00:00,1028697343,spain/leb_oro,Palmer Basket Mallorca,Oviedo CB,2026-11-01T17:00:00+00:00,spread,-1.5,1.83,1.81,1639326186,100.0
+2026-10-31T06:31:56+00:00,1028697343,spain/leb_oro,Palmer Basket Mallorca,Oviedo CB,2026-11-01T17:00:00+00:00,total,167.5,1.82,1.82,1639326186,100.0
+2026-10-31T06:31:56+00:00,1028697370,spain/leb_oro,Movistar Estudiantes,Dreamland Gran Canaria,2026-11-01T17:30:00+00:00,moneyline,,1.81,1.83,,44.1
+2026-10-31T06:31:56+00:00,1028697370,spain/leb_oro,Movistar Estudiantes,Dreamland Gran Canaria,2026-11-01T17:30:00+00:00,spread,-0.5,1.81,1.83,,44.1
+2026-10-31T06:31:56+00:00,1028697370,spain/leb_oro,Movistar Estudiantes,Dreamland Gran Canaria,2026-11-01T17:30:00+00:00,total,166.5,1.87,1.77,,44.1
+2026-10-31T06:31:56+00:00,1028750640,spain/liga_acb,Casademont Zaragoza,Club Basquet Girona 2014,2026-10-31T17:00:00+00:00,moneyline,,1.37,3.0,1639212040,100.0
+2026-10-31T06:31:56+00:00,1028750640,spain/liga_acb,Casademont Zaragoza,Club Basquet Girona 2014,2026-10-31T17:00:00+00:00,spread,-6.5,1.88,1.88,1639212040,100.0
+2026-10-31T06:31:56+00:00,1028750640,spain/liga_acb,Casademont Zaragoza,Club Basquet Girona 2014,2026-10-31T17:00:00+00:00,total,182.5,1.82,1.88,1639212040,100.0
+2026-10-31T06:31:56+00:00,1028750610,spain/liga_acb,UCAM Murcia,Força Lleida CE,2026-10-31T18:30:00+00:00,moneyline,,1.21,4.1,1639216476,100.0
+2026-10-31T06:31:56+00:00,1028750610,spain/liga_acb,UCAM Murcia,Força Lleida CE,2026-10-31T18:30:00+00:00,spread,-9.5,1.82,1.95,1639216476,100.0
+2026-10-31T06:31:56+00:00,1028750610,spain/liga_acb,UCAM Murcia,Força Lleida CE,2026-10-31T18:30:00+00:00,total,182.5,1.88,1.82,1639216476,100.0
+2026-10-31T06:31:56+00:00,1028750616,spain/liga_acb,Leyma Coruña,La Laguna Tenerife,2026-10-31T20:00:00+00:00,moneyline,,3.05,1.35,1639227162,100.0
+2026-10-31T06:31:56+00:00,1028750616,spain/liga_acb,Leyma Coruña,La Laguna Tenerife,2026-10-31T20:00:00+00:00,spread,6.5,1.87,1.89,1639227162,100.0
+2026-10-31T06:31:56+00:00,1028750616,spain/liga_acb,Leyma Coruña,La Laguna Tenerife,2026-10-31T20:00:00+00:00,total,178.5,1.84,1.86,1639227162,100.0
+2026-10-31T06:31:56+00:00,1028660165,turkey/super_league,Manisa Buyuksehir Belediye,Trabzonspor BK,2026-10-31T12:30:00+00:00,moneyline,,2.38,1.5,,56.2
+2026-10-31T06:31:56+00:00,1028660165,turkey/super_league,Manisa Buyuksehir Belediye,Trabzonspor BK,2026-10-31T12:30:00+00:00,spread,3.5,1.9,1.8,,56.2
+2026-10-31T06:31:56+00:00,1028660165,turkey/super_league,Manisa Buyuksehir Belediye,Trabzonspor BK,2026-10-31T12:30:00+00:00,total,167.5,1.87,1.83,,56.2
+2026-10-31T06:31:56+00:00,1028660160,turkey/super_league,Bordo BK,Bahcesehir Koleji,2026-10-31T15:00:00+00:00,moneyline,,3.35,1.28,1639261779,100.0
+2026-10-31T06:31:56+00:00,1028660160,turkey/super_league,Bordo BK,Bahcesehir Koleji,2026-10-31T15:00:00+00:00,spread,7.5,1.88,1.82,1639261779,100.0
+2026-10-31T06:31:56+00:00,1028660160,turkey/super_league,Bordo BK,Bahcesehir Koleji,2026-10-31T15:00:00+00:00,total,166.5,1.83,1.87,1639261779,100.0
+2026-10-31T06:31:56+00:00,1028660159,turkey/super_league,Yukatel Merkezefendi Belediyesi Denizli Basket,Galatasaray S.K.,2026-10-31T17:30:00+00:00,moneyline,,2.5,1.47,1639034799,100.0
+2026-10-31T06:31:56+00:00,1028660159,turkey/super_league,Yukatel Merkezefendi Belediyesi Denizli Basket,Galatasaray S.K.,2026-10-31T17:30:00+00:00,spread,4.5,1.83,1.87,1639034799,100.0
+2026-10-31T06:31:56+00:00,1028660159,turkey/super_league,Yukatel Merkezefendi Belediyesi Denizli Basket,Galatasaray S.K.,2026-10-31T17:30:00+00:00,total,164.5,1.87,1.83,1639034799,100.0
+2026-10-31T06:31:56+00:00,1029396623,turkey/tbl,Cedi Osman Basketbol,Keçiören Belediyesi,2026-10-31T11:00:00+00:00,moneyline,,1.82,1.88,1639163552,77.6
+2026-10-31T06:31:56+00:00,1029396623,turkey/tbl,Cedi Osman Basketbol,Keçiören Belediyesi,2026-10-31T11:00:00+00:00,spread,0.5,1.82,1.88,1639163552,77.6
+2026-10-31T06:31:56+00:00,1029396623,turkey/tbl,Cedi Osman Basketbol,Keçiören Belediyesi,2026-10-31T11:00:00+00:00,total,166.5,1.7,2.04,1639163552,77.6
+2026-10-31T06:31:56+00:00,1029396618,turkey/tbl,Mersin Spor,TED Ankara Kolejliler,2026-10-31T13:00:00+00:00,moneyline,,1.18,4.2,1639183556,88.1
+2026-10-31T06:31:56+00:00,1029396618,turkey/tbl,Mersin Spor,TED Ankara Kolejliler,2026-10-31T13:00:00+00:00,spread,-10.5,1.89,1.81,1639183556,88.1
+2026-10-31T06:31:56+00:00,1029396618,turkey/tbl,Mersin Spor,TED Ankara Kolejliler,2026-10-31T13:00:00+00:00,total,157.5,1.68,2.05,1639183556,88.1
+2026-10-31T06:31:56+00:00,1029396621,turkey/tbl,OGM Ormanspor,Darüşşafaka,2026-10-31T13:00:00+00:00,moneyline,,1.15,4.6,1639183557,100.0
+2026-10-31T06:31:56+00:00,1029396621,turkey/tbl,OGM Ormanspor,Darüşşafaka,2026-10-31T13:00:00+00:00,spread,-9.5,1.75,1.96,1639183557,100.0
+2026-10-31T06:31:56+00:00,1029396621,turkey/tbl,OGM Ormanspor,Darüşşafaka,2026-10-31T13:00:00+00:00,total,164.5,1.86,1.84,1639183557,100.0
+2026-10-31T06:31:56+00:00,1029396625,turkey/tbl,Harem Spor Kulübü,Balikesir Buyuksehir Belediyespor,2026-10-31T13:30:00+00:00,moneyline,,1.09,6.0,1639183568,89.3
+2026-10-31T06:31:56+00:00,1029396625,turkey/tbl,Harem Spor Kulübü,Balikesir Buyuksehir Belediyespor,2026-10-31T13:30:00+00:00,spread,-13.5,1.85,1.85,1639183568,89.3
+2026-10-31T06:31:56+00:00,1029396625,turkey/tbl,Harem Spor Kulübü,Balikesir Buyuksehir Belediyespor,2026-10-31T13:30:00+00:00,total,150.5,1.84,1.86,1639183568,89.3
+2026-10-31T06:31:56+00:00,1029396616,turkey/tbl,Ankaragucu Mamak,Gaziantep Basketbol,2026-10-31T15:00:00+00:00,moneyline,,2.9,1.36,1639192332,93.3
+2026-10-31T06:31:56+00:00,1029396616,turkey/tbl,Ankaragucu Mamak,Gaziantep Basketbol,2026-10-31T15:00:00+00:00,spread,5.5,1.91,1.8,1639192332,93.3
+2026-10-31T06:31:56+00:00,1029396616,turkey/tbl,Ankaragucu Mamak,Gaziantep Basketbol,2026-10-31T15:00:00+00:00,total,162.5,1.83,1.87,1639192332,93.3
+2026-10-31T08:21:15+00:00,1028130343,bnxt_league,Landstede Hammers,Kortrijk Spurs Hse A,2026-11-01T13:00:00+00:00,moneyline,,1.46,2.5,1639261491,100.0
+2026-10-31T08:21:15+00:00,1028130343,bnxt_league,Landstede Hammers,Kortrijk Spurs Hse A,2026-11-01T13:00:00+00:00,spread,-2.5,1.63,2.12,1639261491,100.0
+2026-10-31T08:21:15+00:00,1028902615,bulgaria/nbl,Rilski Sportist,Lokomotiv Plovdiv 1926,2026-10-31T16:00:00+00:00,moneyline,,1.29,3.25,,52.4
+2026-10-31T08:21:15+00:00,1028902615,bulgaria/nbl,Rilski Sportist,Lokomotiv Plovdiv 1926,2026-10-31T16:00:00+00:00,spread,-9.5,2.1,1.65,,52.4
+2026-10-31T08:21:15+00:00,1028902615,bulgaria/nbl,Rilski Sportist,Lokomotiv Plovdiv 1926,2026-10-31T16:00:00+00:00,total,169.5,1.77,1.94,,52.4
+2026-10-31T08:21:15+00:00,1028312599,finland/korisliiga,Kataja Basket,Kauhajoki,2026-10-31T16:00:00+00:00,moneyline,,1.74,2.04,1639201947,100.0
+2026-10-31T08:21:15+00:00,1028312599,finland/korisliiga,Kataja Basket,Kauhajoki,2026-10-31T16:00:00+00:00,spread,-3.5,2.15,1.67,1639201947,100.0
+2026-10-31T08:21:15+00:00,1029153054,greece/gbl,AS Karditsas,Kolossos Rhodes,2026-10-31T14:00:00+00:00,total,159.5,1.88,1.82,,41.8
+2026-10-31T08:21:15+00:00,1028435528,portugal/lpb,Ovarense,Porto,2026-10-31T16:00:00+00:00,moneyline,,2.95,1.34,1639201951,100.0
+2026-10-31T08:21:15+00:00,1028435528,portugal/lpb,Ovarense,Porto,2026-10-31T16:00:00+00:00,spread,6.5,1.86,1.84,1639201951,100.0
+2026-10-31T08:21:15+00:00,1028435528,portugal/lpb,Ovarense,Porto,2026-10-31T16:00:00+00:00,total,165.5,1.78,1.92,1639201951,100.0
+2026-10-31T08:21:15+00:00,1029652005,slovakia/extraliga,MBK Handlová,Lucenec,2026-10-31T17:00:00+00:00,total,166.5,1.8,1.9,,43.5
+2026-10-31T08:21:15+00:00,1029493559,slovakia/extraliga,Nitra Blue Wings,Kosice Wolves,2026-10-31T18:00:00+00:00,moneyline,,1.1,5.8,,43.3
+2026-10-31T08:21:15+00:00,1029493559,slovakia/extraliga,Nitra Blue Wings,Kosice Wolves,2026-10-31T18:00:00+00:00,spread,-13.5,1.91,1.79,,43.3
+2026-10-31T08:21:15+00:00,1029493559,slovakia/extraliga,Nitra Blue Wings,Kosice Wolves,2026-10-31T18:00:00+00:00,total,165.5,1.89,1.81,,43.3
+2026-10-31T15:16:28+00:00,1028293076,austria/obl,Oberwart Gunners,Xion Dukes Klosterneuburg,2026-10-31T16:30:00+00:00,moneyline,,1.12,5.4,1639461722,100.0
+2026-10-31T15:16:28+00:00,1028293076,austria/obl,Oberwart Gunners,Xion Dukes Klosterneuburg,2026-10-31T16:30:00+00:00,spread,-12.5,1.8,1.9,1639461722,100.0
+2026-10-31T15:16:28+00:00,1028293076,austria/obl,Oberwart Gunners,Xion Dukes Klosterneuburg,2026-10-31T16:30:00+00:00,total,168.5,1.85,1.85,1639461722,100.0
+2026-10-31T15:16:28+00:00,1028293077,austria/obl,WBC Raiffeisen Wels,BC Nord,2026-11-01T14:30:00+00:00,moneyline,,1.3,3.15,1639465993,76.7
+2026-10-31T15:16:28+00:00,1028293077,austria/obl,WBC Raiffeisen Wels,BC Nord,2026-11-01T14:30:00+00:00,spread,-7.5,1.9,1.8,1639465993,76.7
+2026-10-31T15:16:28+00:00,1028293077,austria/obl,WBC Raiffeisen Wels,BC Nord,2026-11-01T14:30:00+00:00,total,164.5,1.66,2.08,1639465993,76.7
+2026-10-31T15:16:28+00:00,1028293086,austria/obl,Basketclubs Vienna,Allianz Swans Gmunden,2026-11-01T17:00:00+00:00,moneyline,,13.0,1.03,,52.1
+2026-10-31T15:16:28+00:00,1028293086,austria/obl,Basketclubs Vienna,Allianz Swans Gmunden,2026-11-01T17:00:00+00:00,spread,21.5,1.85,1.85,,52.1
+2026-10-31T15:16:28+00:00,1028293086,austria/obl,Basketclubs Vienna,Allianz Swans Gmunden,2026-11-01T17:00:00+00:00,total,172.5,1.9,1.8,,52.1
+2026-10-31T15:16:28+00:00,1028130345,bnxt_league,ZZ Leiden,Donar Groningen,2026-10-31T19:00:00+00:00,moneyline,,1.48,2.45,1639222405,90.0
+2026-10-31T15:16:28+00:00,1028130345,bnxt_league,ZZ Leiden,Donar Groningen,2026-10-31T19:00:00+00:00,spread,-2.5,1.65,2.08,1639222405,90.0
+2026-10-31T15:16:28+00:00,1028130341,bnxt_league,BC Oostende,Leuven Bears,2026-10-31T19:30:00+00:00,moneyline,,1.1,5.5,1639222411,100.0
+2026-10-31T15:16:28+00:00,1028130341,bnxt_league,BC Oostende,Leuven Bears,2026-10-31T19:30:00+00:00,spread,-12.5,1.84,1.84,1639222411,100.0
+2026-10-31T15:16:28+00:00,1028130341,bnxt_league,BC Oostende,Leuven Bears,2026-10-31T19:30:00+00:00,total,153.5,1.89,1.79,1639222411,100.0
+2026-10-31T15:16:28+00:00,1028130343,bnxt_league,Landstede Hammers,Kortrijk Spurs Hse A,2026-11-01T13:00:00+00:00,moneyline,,1.55,2.25,1639261491,100.0
+2026-10-31T15:16:28+00:00,1028130343,bnxt_league,Landstede Hammers,Kortrijk Spurs Hse A,2026-11-01T13:00:00+00:00,spread,-2.5,1.76,1.93,1639261491,100.0
+2026-10-31T15:16:28+00:00,1028280648,czech_republic/nbl,NH Ostrava,Lokomotiva Plzeň,2026-10-31T16:30:00+00:00,moneyline,,1.01,10.5,1639202157,100.0
+2026-10-31T15:16:28+00:00,1028280648,czech_republic/nbl,NH Ostrava,Lokomotiva Plzeň,2026-10-31T16:30:00+00:00,spread,-19.5,1.87,1.83,1639202157,100.0
+2026-10-31T15:16:28+00:00,1028280648,czech_republic/nbl,NH Ostrava,Lokomotiva Plzeň,2026-10-31T16:30:00+00:00,total,172.5,2.07,1.67,1639202157,100.0
+2026-10-31T15:16:28+00:00,1028807413,denmark/basketligaen,Copenhagen Basketball,Svendborg Rabbits,2026-10-31T17:00:00+00:00,moneyline,,2.7,1.41,1639212038,100.0
+2026-10-31T15:16:28+00:00,1028807413,denmark/basketligaen,Copenhagen Basketball,Svendborg Rabbits,2026-10-31T17:00:00+00:00,spread,5.5,1.83,1.87,1639212038,100.0
+2026-10-31T15:16:28+00:00,1028807413,denmark/basketligaen,Copenhagen Basketball,Svendborg Rabbits,2026-10-31T17:00:00+00:00,total,164.5,2.02,1.71,1639212038,100.0
+2026-10-31T15:16:28+00:00,1028312599,finland/korisliiga,Kataja Basket,Kauhajoki,2026-10-31T16:00:00+00:00,moneyline,,1.88,1.88,1639201947,100.0
+2026-10-31T15:16:28+00:00,1028312599,finland/korisliiga,Kataja Basket,Kauhajoki,2026-10-31T16:00:00+00:00,spread,-0.5,1.88,1.88,1639201947,100.0
+2026-10-31T15:16:28+00:00,1028312599,finland/korisliiga,Kataja Basket,Kauhajoki,2026-10-31T16:00:00+00:00,total,167.5,1.85,1.85,1639201947,100.0
+2026-10-31T15:16:28+00:00,1028992901,france/elite,Gravelines-Dunkerque,Chorale Roanne,2026-10-31T17:00:00+00:00,moneyline,,1.95,1.82,1639202180,100.0
+2026-10-31T15:16:28+00:00,1028992901,france/elite,Gravelines-Dunkerque,Chorale Roanne,2026-10-31T17:00:00+00:00,spread,0.5,1.95,1.82,1639202180,100.0
+2026-10-31T15:16:28+00:00,1028992882,france/elite,Bourg-en-Bresse,Nanterre,2026-10-31T19:30:00+00:00,moneyline,,1.28,3.5,1639222230,88.5
+2026-10-31T15:16:28+00:00,1028992882,france/elite,Bourg-en-Bresse,Nanterre,2026-10-31T19:30:00+00:00,spread,-7.5,1.81,1.96,1639222230,88.5
+2026-10-31T15:16:28+00:00,1028992882,france/elite,Bourg-en-Bresse,Nanterre,2026-10-31T19:30:00+00:00,total,168.5,1.82,1.88,1639222230,88.5
+2026-10-31T15:16:28+00:00,1028992884,france/elite,Paris Basket,Elan Chalon,2026-11-01T18:00:00+00:00,moneyline,,1.27,3.6,1639275278,100.0
+2026-10-31T15:16:28+00:00,1028992884,france/elite,Paris Basket,Elan Chalon,2026-11-01T18:00:00+00:00,spread,-8.5,1.89,1.87,1639275278,100.0
+2026-10-31T15:16:28+00:00,1028992884,france/elite,Paris Basket,Elan Chalon,2026-11-01T18:00:00+00:00,total,178.5,1.83,1.87,1639275278,100.0
+2026-10-31T15:16:28+00:00,1028646442,germany/bbl,Ulm Basketball,EWE Baskets Oldenburg,2026-10-31T17:30:00+00:00,moneyline,,1.25,3.55,1639216438,100.0
+2026-10-31T15:16:28+00:00,1028646442,germany/bbl,Ulm Basketball,EWE Baskets Oldenburg,2026-10-31T17:30:00+00:00,spread,-8.5,1.87,1.83,1639216438,100.0
+2026-10-31T15:16:28+00:00,1029153068,greece/gbl,Iraklis,PAOK Thessaloniki BC,2026-10-31T15:30:00+00:00,moneyline,,3.15,1.34,,49.3
+2026-10-31T15:16:28+00:00,1029153068,greece/gbl,Iraklis,PAOK Thessaloniki BC,2026-10-31T15:30:00+00:00,spread,6.5,1.88,1.81,,49.3
+2026-10-31T15:16:28+00:00,1029153068,greece/gbl,Iraklis,PAOK Thessaloniki BC,2026-10-31T15:30:00+00:00,total,160.5,1.86,1.84,,49.3
+2026-10-31T15:16:28+00:00,1029153069,greece/gbl,Olympiacos BC,Peristeri,2026-11-01T11:00:00+00:00,spread,-19.5,1.85,1.83,,36.4
+2026-10-31T15:16:28+00:00,1029153069,greece/gbl,Olympiacos BC,Peristeri,2026-11-01T11:00:00+00:00,total,167.5,1.85,1.85,,36.4
+2026-10-31T15:16:28+00:00,1029153071,greece/gbl,Aris,Panathinaikos,2026-11-01T15:00:00+00:00,moneyline,,2.12,1.68,,61.1
+2026-10-31T15:16:28+00:00,1029153071,greece/gbl,Aris,Panathinaikos,2026-11-01T15:00:00+00:00,spread,2.5,1.81,1.88,,61.1
+2026-10-31T15:16:28+00:00,1029153071,greece/gbl,Aris,Panathinaikos,2026-11-01T15:00:00+00:00,total,163.5,1.88,1.82,,61.1
+2026-10-31T15:16:28+00:00,1028635020,italy/lega_a,Treviso Basket,Unahotels Reggio Emilia,2026-10-31T19:30:00+00:00,moneyline,,1.27,3.6,1639222410,72.6
+2026-10-31T15:16:28+00:00,1028635020,italy/lega_a,Treviso Basket,Unahotels Reggio Emilia,2026-10-31T19:30:00+00:00,spread,-8.5,1.9,1.87,1639222410,72.6
+2026-10-31T15:16:28+00:00,1028635020,italy/lega_a,Treviso Basket,Unahotels Reggio Emilia,2026-10-31T19:30:00+00:00,total,172.5,1.85,1.85,1639222410,72.6
+2026-10-31T15:16:28+00:00,1028635604,italy/serie_a2,Banco di Sardegna Sassari,Juvecaserta,2026-11-01T17:00:00+00:00,moneyline,,1.12,4.9,,38.4
+2026-10-31T15:16:28+00:00,1028635604,italy/serie_a2,Banco di Sardegna Sassari,Juvecaserta,2026-11-01T17:00:00+00:00,spread,-11.5,1.8,1.84,,38.4
+2026-10-31T15:16:28+00:00,1028635604,italy/serie_a2,Banco di Sardegna Sassari,Juvecaserta,2026-11-01T17:00:00+00:00,total,157.5,1.86,1.79,,38.4
+2026-10-31T15:16:28+00:00,1028635602,italy/serie_a2,Real Sebastiani Rieti,Juvi Cremona,2026-11-01T17:00:00+00:00,moneyline,,1.24,3.45,1639527594,100.0
+2026-10-31T15:16:28+00:00,1028635602,italy/serie_a2,Real Sebastiani Rieti,Juvi Cremona,2026-11-01T17:00:00+00:00,spread,-7.5,1.76,1.88,1639527594,100.0
+2026-10-31T15:16:28+00:00,1028635602,italy/serie_a2,Real Sebastiani Rieti,Juvi Cremona,2026-11-01T17:00:00+00:00,total,155.5,1.85,1.79,1639527594,100.0
+2026-10-31T15:16:28+00:00,1028635634,italy/serie_a2,Unieuro Forlì,Virtus Ruvo di Puglia,2026-11-01T17:00:00+00:00,moneyline,,1.28,3.15,1639525523,87.9
+2026-10-31T15:16:28+00:00,1028635634,italy/serie_a2,Unieuro Forlì,Virtus Ruvo di Puglia,2026-11-01T17:00:00+00:00,spread,-7.5,1.88,1.77,1639525523,87.9
+2026-10-31T15:16:28+00:00,1028635634,italy/serie_a2,Unieuro Forlì,Virtus Ruvo di Puglia,2026-11-01T17:00:00+00:00,total,164.5,1.79,1.85,1639525523,87.9
+2026-10-31T15:16:28+00:00,1028726979,lithuania/lkl,Jonavos SK,BC Juventus,2026-10-31T17:10:00+00:00,moneyline,,2.45,1.48,1639213418,88.5
+2026-10-31T15:16:28+00:00,1028726979,lithuania/lkl,Jonavos SK,BC Juventus,2026-10-31T17:10:00+00:00,spread,3.5,1.94,1.77,1639213418,88.5
+2026-10-31T15:16:28+00:00,1028726979,lithuania/lkl,Jonavos SK,BC Juventus,2026-10-31T17:10:00+00:00,total,170.5,2.17,1.61,1639213418,88.5
+2026-10-31T15:16:28+00:00,1028435528,portugal/lpb,Ovarense,Porto,2026-10-31T16:00:00+00:00,moneyline,,3.05,1.33,1639201951,100.0
+2026-10-31T15:16:28+00:00,1028435528,portugal/lpb,Ovarense,Porto,2026-10-31T16:00:00+00:00,spread,6.5,1.88,1.83,1639201951,100.0
+2026-10-31T15:16:28+00:00,1028435528,portugal/lpb,Ovarense,Porto,2026-10-31T16:00:00+00:00,total,166.5,1.84,1.86,1639201951,100.0
+2026-10-31T15:16:28+00:00,1028435536,portugal/lpb,CP Esgueira,Clube Atletico Queluz,2026-10-31T21:00:00+00:00,total,172.5,1.7,2.04,1639222250,90.0
+2026-10-31T15:16:28+00:00,1029652005,slovakia/extraliga,MBK Handlová,Lucenec,2026-10-31T17:00:00+00:00,moneyline,,1.53,2.35,,43.5
+2026-10-31T15:16:28+00:00,1029652005,slovakia/extraliga,MBK Handlová,Lucenec,2026-10-31T17:00:00+00:00,spread,-3.5,1.83,1.87,,43.5
+2026-10-31T15:16:28+00:00,1029652005,slovakia/extraliga,MBK Handlová,Lucenec,2026-10-31T17:00:00+00:00,total,169.5,1.83,1.87,,43.5
+2026-10-31T15:16:28+00:00,1029652004,slovakia/extraliga,BK Iskra Svit,MBK Rieker Komárno,2026-10-31T17:00:00+00:00,moneyline,,1.68,2.04,,46.1
+2026-10-31T15:16:28+00:00,1029652004,slovakia/extraliga,BK Iskra Svit,MBK Rieker Komárno,2026-10-31T17:00:00+00:00,spread,-1.5,1.8,1.9,,46.1
+2026-10-31T15:16:28+00:00,1029493556,slovakia/extraliga,Spisski Rytieri,BC Prievidza,2026-10-31T18:00:00+00:00,moneyline,,3.5,1.25,,42.2
+2026-10-31T15:16:28+00:00,1029493556,slovakia/extraliga,Spisski Rytieri,BC Prievidza,2026-10-31T18:00:00+00:00,spread,8.5,1.83,1.87,,42.2
+2026-10-31T15:16:28+00:00,1029493556,slovakia/extraliga,Spisski Rytieri,BC Prievidza,2026-10-31T18:00:00+00:00,total,171.5,1.67,2.07,,42.2
+2026-10-31T15:16:28+00:00,1028750640,spain/liga_acb,Casademont Zaragoza,Club Basquet Girona 2014,2026-10-31T17:00:00+00:00,total,182.5,1.84,1.86,1639212040,100.0
+2026-10-31T15:16:28+00:00,1028660159,turkey/super_league,Yukatel Merkezefendi Belediyesi Denizli Basket,Galatasaray S.K.,2026-10-31T17:30:00+00:00,moneyline,,2.75,1.38,1639034799,100.0
+2026-10-31T15:16:28+00:00,1028660159,turkey/super_league,Yukatel Merkezefendi Belediyesi Denizli Basket,Galatasaray S.K.,2026-10-31T17:30:00+00:00,spread,5.5,1.85,1.85,1639034799,100.0
+2026-10-31T15:16:28+00:00,1028660159,turkey/super_league,Yukatel Merkezefendi Belediyesi Denizli Basket,Galatasaray S.K.,2026-10-31T17:30:00+00:00,total,164.5,1.78,1.93,1639034799,100.0
+2026-10-31T15:16:28+00:00,1029564920,turkey/super_league,Esenler Erokspor,TÜRK Telekom,2026-11-01T10:00:00+00:00,moneyline,,1.77,1.95,1639261778,100.0
+2026-10-31T15:16:28+00:00,1029564920,turkey/super_league,Esenler Erokspor,TÜRK Telekom,2026-11-01T10:00:00+00:00,spread,-1.5,1.89,1.81,1639261778,100.0
+2026-10-31T15:16:28+00:00,1029564920,turkey/super_league,Esenler Erokspor,TÜRK Telekom,2026-11-01T10:00:00+00:00,total,163.5,1.89,1.81,1639261778,100.0
+2026-10-31T15:16:28+00:00,1029396624,turkey/tbl,Konya Buyuksehir Belediye Spor Kulubu,iLab Basketbol,2026-11-01T12:00:00+00:00,moneyline,,1.65,2.1,1639253085,83.3
+2026-10-31T15:16:28+00:00,1029396624,turkey/tbl,Konya Buyuksehir Belediye Spor Kulubu,iLab Basketbol,2026-11-01T12:00:00+00:00,spread,-2.5,1.88,1.82,1639253085,83.3
+2026-10-31T15:16:28+00:00,1029396624,turkey/tbl,Konya Buyuksehir Belediye Spor Kulubu,iLab Basketbol,2026-11-01T12:00:00+00:00,total,168.5,1.86,1.84,1639253085,83.3
+2026-10-31T15:16:28+00:00,1029396622,turkey/tbl,Goztepe SK,Final Gençlik,2026-11-01T13:00:00+00:00,moneyline,,1.27,3.4,1639261492,100.0
+2026-10-31T15:16:28+00:00,1029396622,turkey/tbl,Goztepe SK,Final Gençlik,2026-11-01T13:00:00+00:00,spread,-7.5,1.81,1.9,1639261492,100.0
+2026-10-31T15:16:28+00:00,1029396622,turkey/tbl,Goztepe SK,Final Gençlik,2026-11-01T13:00:00+00:00,total,156.5,1.85,1.85,1639261492,100.0
+2026-10-31T15:16:28+00:00,1029396626,turkey/tbl,Demir İnşaat Büyükçekmece,Kahramanmaras Istiklal,2026-11-01T13:30:00+00:00,moneyline,,1.68,2.04,,40.0
+2026-10-31T15:16:28+00:00,1029396626,turkey/tbl,Demir İnşaat Büyükçekmece,Kahramanmaras Istiklal,2026-11-01T13:30:00+00:00,spread,-1.5,1.8,1.9,,40.0
+2026-10-31T15:16:28+00:00,1029396626,turkey/tbl,Demir İnşaat Büyükçekmece,Kahramanmaras Istiklal,2026-11-01T13:30:00+00:00,total,159.5,1.85,1.85,,40.0
+2026-10-31T15:16:28+00:00,1029420900,united_kingdom/super_league_basketball,Surrey 89ers,Sheffield Sharks,2026-11-01T14:00:00+00:00,moneyline,,1.73,1.98,,37.8
+2026-10-31T15:16:28+00:00,1029420900,united_kingdom/super_league_basketball,Surrey 89ers,Sheffield Sharks,2026-11-01T14:00:00+00:00,spread,-1.5,1.85,1.85,,37.8
+2026-10-31T15:16:28+00:00,1029420900,united_kingdom/super_league_basketball,Surrey 89ers,Sheffield Sharks,2026-11-01T14:00:00+00:00,total,168.5,1.88,1.82,,37.8
+2026-10-31T15:16:28+00:00,1028803925,united_kingdom/super_league_basketball,Caledonia Gladiators,Newcastle Eagles,2026-11-01T17:00:00+00:00,moneyline,,2.65,1.42,,46.0
+2026-10-31T15:16:28+00:00,1028803925,united_kingdom/super_league_basketball,Caledonia Gladiators,Newcastle Eagles,2026-11-01T17:00:00+00:00,spread,5.5,1.81,1.9,,46.0
+2026-10-31T15:16:28+00:00,1028803925,united_kingdom/super_league_basketball,Caledonia Gladiators,Newcastle Eagles,2026-11-01T17:00:00+00:00,total,167.5,1.87,1.83,,46.0
+2026-10-31T15:34:35+00:00,1028927699,aba_league,KK Cedevita Olimpija,FMP Beograd,2026-10-31T16:00:00+00:00,moneyline,,1.32,3.1,1639210951,100.0
+2026-10-31T15:34:35+00:00,1028927699,aba_league,KK Cedevita Olimpija,FMP Beograd,2026-10-31T16:00:00+00:00,spread,-6.5,1.83,1.88,1639210951,100.0
+2026-10-31T15:34:35+00:00,1028927699,aba_league,KK Cedevita Olimpija,FMP Beograd,2026-10-31T16:00:00+00:00,total,165.5,1.81,1.89,1639210951,100.0
+2026-10-31T15:34:35+00:00,1028902600,bulgaria/nbl,Cherno More Ticha,Spartak-Pleven,2026-10-31T16:00:00+00:00,moneyline,,1.33,3.0,,43.0
+2026-10-31T15:34:35+00:00,1028902600,bulgaria/nbl,Cherno More Ticha,Spartak-Pleven,2026-10-31T16:00:00+00:00,spread,-6.5,1.84,1.86,,43.0
+2026-10-31T15:34:35+00:00,1028902600,bulgaria/nbl,Cherno More Ticha,Spartak-Pleven,2026-10-31T16:00:00+00:00,total,168.5,1.87,1.83,,43.0
+2026-10-31T15:34:35+00:00,1028475234,france/elite_2,ADA Blois Basket 41,Vichy,2026-10-31T19:00:00+00:00,moneyline,,1.3,3.05,1639222394,100.0
+2026-10-31T15:34:35+00:00,1028475234,france/elite_2,ADA Blois Basket 41,Vichy,2026-10-31T19:00:00+00:00,spread,-6.5,1.8,1.84,1639222394,100.0
+2026-10-31T15:34:35+00:00,1028475234,france/elite_2,ADA Blois Basket 41,Vichy,2026-10-31T19:00:00+00:00,total,169.5,1.82,1.82,1639222394,100.0
+2026-10-31T15:34:35+00:00,1028750640,spain/liga_acb,Casademont Zaragoza,Club Basquet Girona 2014,2026-10-31T17:00:00+00:00,moneyline,,1.46,2.65,1639212040,100.0
+2026-10-31T15:34:35+00:00,1028750640,spain/liga_acb,Casademont Zaragoza,Club Basquet Girona 2014,2026-10-31T17:00:00+00:00,spread,-5.5,1.94,1.82,1639212040,100.0
+2026-10-31T15:34:35+00:00,1028750613,spain/liga_acb,Joventut Badalona,Bilbao Basket,2026-11-01T11:00:00+00:00,moneyline,,1.38,2.95,1639256578,100.0
+2026-10-31T15:34:35+00:00,1028750613,spain/liga_acb,Joventut Badalona,Bilbao Basket,2026-11-01T11:00:00+00:00,spread,-6.5,1.92,1.84,1639256578,100.0
+2026-10-31T15:34:35+00:00,1028750613,spain/liga_acb,Joventut Badalona,Bilbao Basket,2026-11-01T11:00:00+00:00,total,178.5,1.81,1.89,1639256578,100.0
+2026-10-31T15:34:35+00:00,1028750620,spain/liga_acb,Monbus Obradoiro,Rio Breogán,2026-11-01T11:00:00+00:00,moneyline,,1.77,2.0,1639256579,90.9
+2026-10-31T15:34:35+00:00,1028750620,spain/liga_acb,Monbus Obradoiro,Rio Breogán,2026-11-01T11:00:00+00:00,spread,-1.5,1.89,1.87,1639256579,90.9
+2026-10-31T15:34:35+00:00,1028750620,spain/liga_acb,Monbus Obradoiro,Rio Breogán,2026-11-01T11:00:00+00:00,total,188.5,1.82,1.88,1639256579,90.9
+2026-10-31T15:34:35+00:00,1028750618,spain/liga_acb,Real Madrid Baloncesto,San Pablo Burgos,2026-11-01T11:30:00+00:00,moneyline,,1.09,6.5,1639253069,100.0
+2026-10-31T15:34:35+00:00,1028750618,spain/liga_acb,Real Madrid Baloncesto,San Pablo Burgos,2026-11-01T11:30:00+00:00,spread,-14.5,1.82,1.94,1639253069,100.0
+2026-10-31T15:34:35+00:00,1028750618,spain/liga_acb,Real Madrid Baloncesto,San Pablo Burgos,2026-11-01T11:30:00+00:00,total,188.5,1.88,1.82,1639253069,100.0
+2026-10-31T15:34:35+00:00,1028750598,spain/liga_acb,MoraBanc Andorra,Valencia Basket Club,2026-11-01T17:00:00+00:00,moneyline,,3.5,1.28,1639270571,100.0
+2026-10-31T15:34:35+00:00,1028750598,spain/liga_acb,MoraBanc Andorra,Valencia Basket Club,2026-11-01T17:00:00+00:00,spread,8.5,1.86,1.9,1639270571,100.0
+2026-10-31T15:34:35+00:00,1028750598,spain/liga_acb,MoraBanc Andorra,Valencia Basket Club,2026-11-01T17:00:00+00:00,total,182.5,1.84,1.86,1639270571,100.0
+2026-10-31T15:34:35+00:00,1028750588,spain/liga_acb,Unicaja Málaga,FC Barcelona,2026-11-01T18:00:00+00:00,moneyline,,1.68,2.12,1639275608,100.0
+2026-10-31T15:34:35+00:00,1028750588,spain/liga_acb,Unicaja Málaga,FC Barcelona,2026-11-01T18:00:00+00:00,spread,-2.5,1.91,1.85,1639275608,100.0
+2026-10-31T15:34:35+00:00,1028750588,spain/liga_acb,Unicaja Málaga,FC Barcelona,2026-11-01T18:00:00+00:00,total,177.5,1.85,1.85,1639275608,100.0
+2026-10-31T19:33:03+00:00,1028927691,aba_league,KK Crvena Zvezda Belgrade,Široki WWin,2026-11-01T12:00:00+00:00,spread,-21.5,1.8,1.91,1639253080,100.0
+2026-10-31T19:33:03+00:00,1028927691,aba_league,KK Crvena Zvezda Belgrade,Široki WWin,2026-11-01T12:00:00+00:00,total,169.5,1.86,1.84,1639253080,100.0
+2026-10-31T19:33:03+00:00,1029005659,brazil/nbb,Flamengo,União Corinthians,2026-11-01T14:00:00+00:00,moneyline,,1.05,7.0,,46.2
+2026-10-31T19:33:03+00:00,1029005659,brazil/nbb,Flamengo,União Corinthians,2026-11-01T14:00:00+00:00,spread,-15.5,1.85,1.85,,46.2
+2026-10-31T19:33:03+00:00,1029005659,brazil/nbb,Flamengo,União Corinthians,2026-11-01T14:00:00+00:00,total,163.5,1.92,1.79,,46.2
+2026-10-31T19:33:03+00:00,1028280641,czech_republic/nbl,Sokol Pisek,BK Děčín,2026-11-01T16:00:00+00:00,moneyline,,1.57,2.25,1639270549,81.8
+2026-10-31T19:33:03+00:00,1028280641,czech_republic/nbl,Sokol Pisek,BK Děčín,2026-11-01T16:00:00+00:00,spread,-3.5,1.89,1.81,1639270549,81.8
+2026-10-31T19:33:03+00:00,1028280641,czech_republic/nbl,Sokol Pisek,BK Děčín,2026-11-01T16:00:00+00:00,total,169.5,1.87,1.83,1639270549,81.8
+2026-10-31T19:33:03+00:00,1028992879,france/elite,Saint-Quentin,ASVEL Lyon-Villeurbanne,2026-11-01T15:30:00+00:00,moneyline,,4.25,1.2,1639270440,100.0
+2026-10-31T19:33:03+00:00,1028992879,france/elite,Saint-Quentin,ASVEL Lyon-Villeurbanne,2026-11-01T15:30:00+00:00,spread,9.5,1.85,1.91,1639270440,100.0
+2026-10-31T19:33:03+00:00,1028992879,france/elite,Saint-Quentin,ASVEL Lyon-Villeurbanne,2026-11-01T15:30:00+00:00,total,173.5,1.84,1.86,1639270440,100.0
+2026-10-31T19:33:03+00:00,1029633674,germany/bbl,Rostock Seawolves,FC Bayern München,2026-11-01T14:00:00+00:00,moneyline,,4.1,1.19,1639261562,94.4
+2026-10-31T19:33:03+00:00,1029633674,germany/bbl,Rostock Seawolves,FC Bayern München,2026-11-01T14:00:00+00:00,spread,9.5,1.84,1.86,1639261562,94.4
+2026-10-31T19:33:03+00:00,1029633674,germany/bbl,Rostock Seawolves,FC Bayern München,2026-11-01T14:00:00+00:00,total,169.5,1.85,1.85,1639261562,94.4
+2026-10-31T19:33:03+00:00,1028646433,germany/bbl,Hamburg Towers,Syntainics MBC,2026-11-01T15:30:00+00:00,moneyline,,1.95,1.76,1639261832,70.0
+2026-10-31T19:33:03+00:00,1028646433,germany/bbl,Hamburg Towers,Syntainics MBC,2026-11-01T15:30:00+00:00,spread,1.5,1.82,1.88,1639261832,70.0
+2026-10-31T19:33:03+00:00,1028646433,germany/bbl,Hamburg Towers,Syntainics MBC,2026-11-01T15:30:00+00:00,total,170.5,1.85,1.85,1639261832,70.0
+2026-10-31T19:33:03+00:00,1028646434,germany/bbl,Baskets Bonn,Alba Berlin,2026-11-01T17:00:00+00:00,moneyline,,1.95,1.76,1639271763,100.0
+2026-10-31T19:33:03+00:00,1028646434,germany/bbl,Baskets Bonn,Alba Berlin,2026-11-01T17:00:00+00:00,spread,1.5,1.82,1.88,1639271763,100.0
+2026-10-31T19:33:03+00:00,1028646434,germany/bbl,Baskets Bonn,Alba Berlin,2026-11-01T17:00:00+00:00,total,166.5,1.77,1.93,1639271763,100.0
+2026-10-31T19:33:03+00:00,1029153069,greece/gbl,Olympiacos BC,Peristeri,2026-11-01T11:00:00+00:00,spread,-19.5,1.88,1.8,,36.4
+2026-10-31T19:33:03+00:00,1029153069,greece/gbl,Olympiacos BC,Peristeri,2026-11-01T11:00:00+00:00,total,166.5,1.87,1.83,,36.4
+2026-10-31T19:33:03+00:00,1029153071,greece/gbl,Aris,Panathinaikos,2026-11-01T15:00:00+00:00,moneyline,,2.38,1.56,,61.1
+2026-10-31T19:33:03+00:00,1029153071,greece/gbl,Aris,Panathinaikos,2026-11-01T15:00:00+00:00,spread,3.5,1.84,1.84,,61.1
+2026-10-31T19:33:03+00:00,1029153071,greece/gbl,Aris,Panathinaikos,2026-11-01T15:00:00+00:00,total,163.5,1.89,1.81,,61.1
+2026-10-31T19:33:03+00:00,1028635021,italy/lega_a,GeVi Napoli,Umana Reyer Venezia,2026-11-01T11:00:00+00:00,moneyline,,1.37,3.0,1639252275,100.0
+2026-10-31T19:33:03+00:00,1028635021,italy/lega_a,GeVi Napoli,Umana Reyer Venezia,2026-11-01T11:00:00+00:00,spread,-5.5,1.78,1.98,1639252275,100.0
+2026-10-31T19:33:03+00:00,1028635021,italy/lega_a,GeVi Napoli,Umana Reyer Venezia,2026-11-01T11:00:00+00:00,total,177.5,1.84,1.86,1639252275,100.0
+2026-10-31T19:33:03+00:00,1029281509,italy/lega_a,Dolomiti Energia Trento,Maxima Roma,2026-11-01T15:00:00+00:00,moneyline,,1.8,1.96,1639270502,81.6
+2026-10-31T19:33:03+00:00,1029281509,italy/lega_a,Dolomiti Energia Trento,Maxima Roma,2026-11-01T15:00:00+00:00,spread,-1.5,1.93,1.83,1639270502,81.6
+2026-10-31T19:33:03+00:00,1029281509,italy/lega_a,Dolomiti Energia Trento,Maxima Roma,2026-11-01T15:00:00+00:00,total,169.5,1.82,1.88,1639270502,81.6
+2026-10-31T19:33:03+00:00,1028635031,italy/lega_a,APU Old Wild West Udine,Bertram Tortona,2026-11-01T16:00:00+00:00,moneyline,,1.74,2.04,1639270550,76.1
+2026-10-31T19:33:03+00:00,1028635031,italy/lega_a,APU Old Wild West Udine,Bertram Tortona,2026-11-01T16:00:00+00:00,spread,-1.5,1.85,1.91,1639270550,76.1
+2026-10-31T19:33:03+00:00,1028635031,italy/lega_a,APU Old Wild West Udine,Bertram Tortona,2026-11-01T16:00:00+00:00,total,167.5,1.84,1.86,1639270550,76.1
+2026-10-31T19:33:03+00:00,1028635599,italy/serie_a2,Giorgio Tesi Group Pistoia,Fortitudo Lavoropiù Bologna,2026-11-01T17:00:00+00:00,moneyline,,1.83,1.81,1639525520,100.0
+2026-10-31T19:33:03+00:00,1028635599,italy/serie_a2,Giorgio Tesi Group Pistoia,Fortitudo Lavoropiù Bologna,2026-11-01T17:00:00+00:00,spread,0.5,1.83,1.81,1639525520,100.0
+2026-10-31T19:33:03+00:00,1028635599,italy/serie_a2,Giorgio Tesi Group Pistoia,Fortitudo Lavoropiù Bologna,2026-11-01T17:00:00+00:00,total,152.5,1.82,1.82,1639525520,100.0
+2026-10-31T19:33:03+00:00,1028635630,italy/serie_a2,IVPC Del Fes Avellino,Carpegna Prosciutto Basket Pesaro,2026-11-01T17:00:00+00:00,moneyline,,1.38,2.65,1639527590,90.0
+2026-10-31T19:33:03+00:00,1028635630,italy/serie_a2,IVPC Del Fes Avellino,Carpegna Prosciutto Basket Pesaro,2026-11-01T17:00:00+00:00,spread,-5.5,1.85,1.78,1639527590,90.0
+2026-10-31T19:33:03+00:00,1028635630,italy/serie_a2,IVPC Del Fes Avellino,Carpegna Prosciutto Basket Pesaro,2026-11-01T17:00:00+00:00,total,160.5,1.79,1.85,1639527590,90.0
+2026-10-31T19:33:03+00:00,1028635624,italy/serie_a2,Nouva Pallacanestro Vigevano,Libertas Livorno,2026-11-01T17:00:00+00:00,moneyline,,3.85,1.19,1639527592,86.4
+2026-10-31T19:33:03+00:00,1028635624,italy/serie_a2,Nouva Pallacanestro Vigevano,Libertas Livorno,2026-11-01T17:00:00+00:00,spread,8.5,1.88,1.77,1639527592,86.4
+2026-10-31T19:33:03+00:00,1028635624,italy/serie_a2,Nouva Pallacanestro Vigevano,Libertas Livorno,2026-11-01T17:00:00+00:00,total,154.5,1.79,1.85,1639527592,86.4
+2026-10-31T19:33:03+00:00,1028304673,poland/plk,Polski Cukier Start Lublin,MKS Dabrowa Gornicza,2026-11-01T14:30:00+00:00,moneyline,,2.23,1.58,1639471953,94.4
+2026-10-31T19:33:03+00:00,1028304673,poland/plk,Polski Cukier Start Lublin,MKS Dabrowa Gornicza,2026-11-01T14:30:00+00:00,spread,2.5,1.9,1.8,1639471953,94.4
+2026-10-31T19:33:03+00:00,1028304673,poland/plk,Polski Cukier Start Lublin,MKS Dabrowa Gornicza,2026-11-01T14:30:00+00:00,total,172.5,1.89,1.82,1639471953,94.4
+2026-10-31T19:33:03+00:00,1028304630,poland/plk,GTK Gliwice,WKS Śląsk Wrocław,2026-11-01T16:30:00+00:00,moneyline,,3.0,1.34,1639471951,91.4
+2026-10-31T19:33:03+00:00,1028304630,poland/plk,GTK Gliwice,WKS Śląsk Wrocław,2026-11-01T16:30:00+00:00,spread,6.5,1.82,1.88,1639471951,91.4
+2026-10-31T19:33:03+00:00,1028304630,poland/plk,GTK Gliwice,WKS Śląsk Wrocław,2026-11-01T16:30:00+00:00,total,169.5,1.92,1.79,1639471951,91.4
+2026-10-31T19:33:03+00:00,1028304693,poland/plk,Górnik Zamek Książ Wałbrzych,King Szczecin,2026-11-01T18:00:00+00:00,moneyline,,1.66,2.08,1639471952,84.9
+2026-10-31T19:33:03+00:00,1028304693,poland/plk,Górnik Zamek Książ Wałbrzych,King Szczecin,2026-11-01T18:00:00+00:00,spread,-2.5,1.92,1.79,1639471952,84.9
+2026-10-31T19:33:03+00:00,1028304693,poland/plk,Górnik Zamek Książ Wałbrzych,King Szczecin,2026-11-01T18:00:00+00:00,total,165.5,1.83,1.87,1639471952,84.9
+2026-10-31T19:33:03+00:00,1028435519,portugal/lpb,SC Braga,Sporting,2026-11-01T15:00:00+00:00,moneyline,,2.14,1.63,1639270420,100.0
+2026-10-31T19:33:03+00:00,1028435519,portugal/lpb,SC Braga,Sporting,2026-11-01T15:00:00+00:00,spread,2.5,1.85,1.85,1639270420,100.0
+2026-10-31T19:33:03+00:00,1028435519,portugal/lpb,SC Braga,Sporting,2026-11-01T15:00:00+00:00,total,164.5,1.83,1.87,1639270420,100.0
+2026-10-31T19:33:03+00:00,1028435537,portugal/lpb,Vitória S.C.,CD Povoa,2026-11-01T16:00:00+00:00,moneyline,,1.93,1.77,,48.3
+2026-10-31T19:33:03+00:00,1028435537,portugal/lpb,Vitória S.C.,CD Povoa,2026-11-01T16:00:00+00:00,spread,1.5,1.8,1.9,,48.3
+2026-10-31T19:33:03+00:00,1028435537,portugal/lpb,Vitória S.C.,CD Povoa,2026-11-01T16:00:00+00:00,total,164.5,1.82,1.88,,48.3
+2026-10-31T22:49:23+00:00,1028293077,austria/obl,WBC Raiffeisen Wels,BC Nord,2026-11-01T14:30:00+00:00,moneyline,,1.38,2.8,1639465993,76.7
+2026-10-31T22:49:23+00:00,1028293077,austria/obl,WBC Raiffeisen Wels,BC Nord,2026-11-01T14:30:00+00:00,spread,-7.5,2.08,1.66,1639465993,76.7
+2026-10-31T22:49:23+00:00,1028130343,bnxt_league,Landstede Hammers,Kortrijk Spurs Hse A,2026-11-01T13:00:00+00:00,moneyline,,1.67,2.05,1639261491,100.0
+2026-10-31T22:49:23+00:00,1028130343,bnxt_league,Landstede Hammers,Kortrijk Spurs Hse A,2026-11-01T13:00:00+00:00,spread,-2.5,1.91,1.78,1639261491,100.0
+2026-10-31T22:49:23+00:00,1028280641,czech_republic/nbl,Sokol Pisek,BK Děčín,2026-11-01T16:00:00+00:00,moneyline,,1.7,2.02,1639270549,81.8
+2026-10-31T22:49:23+00:00,1028280641,czech_republic/nbl,Sokol Pisek,BK Děčín,2026-11-01T16:00:00+00:00,spread,-3.5,2.07,1.67,1639270549,81.8

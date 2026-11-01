@@ -1,0 +1,54 @@
+name: log-odds
+
+# GitHub's schedule is unreliable (gaps of hours), so one run loops for ~5.5 h - a snapshot every
+# 5 min when a game starts within 75 min, otherwise every 10-15 min - and then starts the next run
+# itself. The hourly schedule is only a watchdog that restarts the chain if it breaks.
+
+on:
+  schedule:
+    - cron: "17 * * * *"
+  workflow_dispatch:
+
+concurrency:
+  group: log-odds
+  cancel-in-progress: false
+
+permissions:
+  contents: write
+  actions: write
+
+jobs:
+  log:
+    runs-on: ubuntu-latest
+    timeout-minutes: 350
+    env:
+      LOOP_MINUTES: "330"
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+      - run: pip install -r requirements.txt
+      - name: Snapshot loop
+        run: |
+          git config user.name "odds-bot"
+          git config user.email "odds-bot@users.noreply.github.com"
+          end=$(( $(date +%s) + LOOP_MINUTES * 60 ))
+          while true; do
+            git pull -q --rebase -X theirs || true
+            python scripts/log_odds.py || echo "snapshot failed"
+            git add data
+            if ! git diff --cached --quiet; then
+              git commit -q -m "odds $(date -u +%Y-%m-%dT%H:%MZ)"
+              for i in 1 2 3 4; do git pull -q --rebase -X theirs && git push -q && break; sleep 7; done
+            fi
+            wait=$(python scripts/next_wait.py)
+            [ $(( $(date +%s) + wait )) -lt $end ] || break
+            sleep "$wait"
+          done
+      - name: Start the next run
+        if: always()
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: gh workflow run log-odds.yml --ref "${GITHUB_REF_NAME}"

@@ -1,0 +1,531 @@
+{
+ "_comment": "key: our id. pinnacle: exact Pinnacle league name(s). betexplorer: country/slug (current season = no year suffix). euroleague_api: E/U for box scores. gender: m/w. split: true if season spans two years.",
+ "leagues": [
+  {
+   "key": "euroleague",
+   "name": "EuroLeague",
+   "gender": "m",
+   "pinnacle": [
+    "Europe - Euroleague"
+   ],
+   "betexplorer": "europe/euroleague",
+   "euroleague_api": "E",
+   "split": true
+  },
+  {
+   "key": "eurocup",
+   "name": "EuroCup",
+   "gender": "m",
+   "pinnacle": [
+    "Europe - Eurocup"
+   ],
+   "betexplorer": "europe/eurocup",
+   "euroleague_api": "U",
+   "split": true
+  },
+  {
+   "key": "bcl",
+   "name": "Basketball Champions League",
+   "gender": "m",
+   "pinnacle": [
+    "Europe - Champions League"
+   ],
+   "betexplorer": "europe/champions-league",
+   "split": true
+  },
+  {
+   "key": "fiba_europe_cup",
+   "name": "FIBA Europe Cup",
+   "gender": "m",
+   "pinnacle": [
+    "FIBA - Europe Cup"
+   ],
+   "betexplorer": "europe/fiba-europe-cup",
+   "split": true
+  },
+  {
+   "key": "aba",
+   "name": "ABA League",
+   "gender": "m",
+   "pinnacle": [
+    "ABA - Adriatic League"
+   ],
+   "betexplorer": "europe/admiralbet-aba-league",
+   "alt_betexplorer": [
+    "europe/aba-league"
+   ],
+   "split": true
+  },
+  {
+   "key": "bnxt",
+   "name": "BNXT League",
+   "gender": "m",
+   "pinnacle": [
+    "Europe - BNXT League"
+   ],
+   "betexplorer": "europe/bnxt-league",
+   "split": true
+  },
+  {
+   "key": "vtb",
+   "name": "VTB United League",
+   "gender": "m",
+   "pinnacle": [
+    "Europe - VTB United League"
+   ],
+   "betexplorer": "russia/vtb-united-league",
+   "split": true
+  },
+  {
+   "key": "lat_est",
+   "name": "Latvian-Estonian League",
+   "gender": "m",
+   "pinnacle": [
+    "Estonian - Latvian Basketball League"
+   ],
+   "betexplorer": "europe/latvian-estonian-league",
+   "split": true
+  },
+  {
+   "key": "acb",
+   "name": "Spain ACB",
+   "gender": "m",
+   "pinnacle": [
+    "Spain - ACB"
+   ],
+   "betexplorer": "spain/acb",
+   "split": true
+  },
+  {
+   "key": "primera_feb",
+   "name": "Spain Primera FEB",
+   "gender": "m",
+   "pinnacle": [
+    "Spain - Liga FEB"
+   ],
+   "betexplorer": "spain/primera-feb",
+   "split": true,
+   "alt_betexplorer": [
+    "spain/leb-oro"
+   ]
+  },
+  {
+   "key": "bbl",
+   "name": "Germany BBL",
+   "gender": "m",
+   "pinnacle": [
+    "Germany - Bundesliga"
+   ],
+   "betexplorer": "germany/bbl",
+   "split": true
+  },
+  {
+   "key": "de_pro_a",
+   "name": "Germany Pro A",
+   "gender": "m",
+   "pinnacle": [
+    "Germany - Pro A"
+   ],
+   "betexplorer": "germany/pro-a",
+   "split": true
+  },
+  {
+   "key": "lba",
+   "name": "Italy Lega A",
+   "gender": "m",
+   "pinnacle": [
+    "Italy - Lega A"
+   ],
+   "betexplorer": "italy/lega-a",
+   "split": true
+  },
+  {
+   "key": "it_a2",
+   "name": "Italy Serie A2",
+   "gender": "m",
+   "pinnacle": [
+    "Italy - Serie A2"
+   ],
+   "betexplorer": "italy/serie-a2",
+   "split": true
+  },
+  {
+   "key": "fr_pro_a",
+   "name": "France Pro A",
+   "gender": "m",
+   "pinnacle": [
+    "France - Championnat Pro A"
+   ],
+   "betexplorer": "france/lnb",
+   "split": true,
+   "alt_betexplorer": [
+    "france/pro-a"
+   ]
+  },
+  {
+   "key": "fr_pro_b",
+   "name": "France Pro B",
+   "gender": "m",
+   "pinnacle": [
+    "France - Championnat Pro B"
+   ],
+   "betexplorer": "france/elite-2",
+   "split": true,
+   "alt_betexplorer": [
+    "france/pro-b"
+   ]
+  },
+  {
+   "key": "greece",
+   "name": "Greece Basket League",
+   "gender": "m",
+   "pinnacle": [
+    "Greece - Elite League"
+   ],
+   "betexplorer": "greece/basket-league",
+   "alt_betexplorer": [
+    "greece/elite-league"
+   ],
+   "split": true
+  },
+  {
+   "key": "turkey",
+   "name": "Turkey BSL",
+   "gender": "m",
+   "pinnacle": [
+    "Turkey - Super League"
+   ],
+   "betexplorer": "turkey/super-lig",
+   "split": true
+  },
+  {
+   "key": "turkey_tbl",
+   "name": "Turkey TBL",
+   "gender": "m",
+   "pinnacle": [
+    "Turkey - TBL First League"
+   ],
+   "betexplorer": "turkey/tbl",
+   "split": true
+  },
+  {
+   "key": "lkl",
+   "name": "Lithuania LKL",
+   "gender": "m",
+   "pinnacle": [
+    "Lithuania - Lietuvos Krepsinio Lyga"
+   ],
+   "betexplorer": "lithuania/lkl",
+   "split": true
+  },
+  {
+   "key": "nkl",
+   "name": "Lithuania NKL",
+   "gender": "m",
+   "pinnacle": [
+    "Lithuania - National Basketball League"
+   ],
+   "betexplorer": "lithuania/nkl",
+   "split": true
+  },
+  {
+   "key": "israel",
+   "name": "Israel Premier League",
+   "gender": "m",
+   "pinnacle": [
+    "Israel - Premier League"
+   ],
+   "betexplorer": "israel/super-league",
+   "split": true
+  },
+  {
+   "key": "poland",
+   "name": "Poland Basket Liga",
+   "gender": "m",
+   "pinnacle": [
+    "Poland - Basket Liga"
+   ],
+   "betexplorer": "poland/basket-liga",
+   "split": true
+  },
+  {
+   "key": "czech",
+   "name": "Czech NBL",
+   "gender": "m",
+   "pinnacle": [
+    "Czech Republic - NBL"
+   ],
+   "betexplorer": "czech-republic/nbl",
+   "split": true
+  },
+  {
+   "key": "sweden",
+   "name": "Sweden Basketligan",
+   "gender": "m",
+   "pinnacle": [
+    "Sweden - Basketligan"
+   ],
+   "betexplorer": "sweden/basketligan",
+   "split": true
+  },
+  {
+   "key": "denmark",
+   "name": "Denmark Basketligaen",
+   "gender": "m",
+   "pinnacle": [
+    "Denmark - Basketligaen"
+   ],
+   "betexplorer": "denmark/basketligaen",
+   "split": true
+  },
+  {
+   "key": "finland",
+   "name": "Finland Korisliiga",
+   "gender": "m",
+   "pinnacle": [
+    "Finland - Korisliiga"
+   ],
+   "betexplorer": "finland/korisliiga",
+   "split": true
+  },
+  {
+   "key": "hungary",
+   "name": "Hungary NB I.A",
+   "gender": "m",
+   "pinnacle": [
+    "Hungary - Nemzeti Bajnoksag I.A"
+   ],
+   "betexplorer": "hungary/nb-i-a",
+   "split": true
+  },
+  {
+   "key": "serbia",
+   "name": "Serbia KLS",
+   "gender": "m",
+   "pinnacle": [
+    "Serbia - Nasa Liga"
+   ],
+   "betexplorer": "serbia/first-league",
+   "split": true
+  },
+  {
+   "key": "croatia",
+   "name": "Croatia A1",
+   "gender": "m",
+   "pinnacle": [
+    "Croatia - A1 Liga"
+   ],
+   "betexplorer": "croatia/premijer-liga",
+   "split": true
+  },
+  {
+   "key": "slovenia",
+   "name": "Slovenia SKL",
+   "gender": "m",
+   "pinnacle": [
+    "Slovenia - 1. SKL"
+   ],
+   "betexplorer": "slovenia/liga-otp-banka",
+   "split": true
+  },
+  {
+   "key": "portugal",
+   "name": "Portugal LPB",
+   "gender": "m",
+   "pinnacle": [
+    "Portugal - Liga Portuguesa de Basquetebol"
+   ],
+   "betexplorer": "portugal/lpb",
+   "split": true
+  },
+  {
+   "key": "swiss",
+   "name": "Switzerland SB League",
+   "gender": "m",
+   "pinnacle": [
+    "Switzerland - SB League"
+   ],
+   "betexplorer": "switzerland/sb-league",
+   "split": true
+  },
+  {
+   "key": "euroleague_w",
+   "name": "EuroLeague Women",
+   "gender": "w",
+   "pinnacle": [
+    "Europe - Euroleague Women"
+   ],
+   "betexplorer": "europe/euroleague-women",
+   "split": true
+  },
+  {
+   "key": "eurocup_w",
+   "name": "EuroCup Women",
+   "gender": "w",
+   "pinnacle": [
+    "Europe - Eurocup Women"
+   ],
+   "betexplorer": "europe/eurocup-women",
+   "split": true
+  },
+  {
+   "key": "spain_w",
+   "name": "Spain Liga Femenina",
+   "gender": "w",
+   "pinnacle": [
+    "Spain - Liga Women"
+   ],
+   "betexplorer": "spain/liga-femenina-women",
+   "split": true
+  },
+  {
+   "key": "france_w",
+   "name": "France LFB",
+   "gender": "w",
+   "pinnacle": [
+    "France - Ligue Féminine de Basketball"
+   ],
+   "betexplorer": "france/lfb-women",
+   "split": true
+  },
+  {
+   "key": "turkey_w",
+   "name": "Turkey KBSL",
+   "gender": "w",
+   "pinnacle": [
+    "Turkey - Super League Women"
+   ],
+   "betexplorer": "turkey/kbsl-women",
+   "split": true
+  },
+  {
+   "key": "italy_w",
+   "name": "Italy Serie A1 Women",
+   "gender": "w",
+   "pinnacle": [
+    "Italy - Lega A1 Women"
+   ],
+   "betexplorer": "italy/serie-a1-women",
+   "split": true
+  },
+  {
+   "key": "germany_w",
+   "name": "Germany DBBL",
+   "gender": "w",
+   "pinnacle": [
+    "Germany - DBBL Women"
+   ],
+   "betexplorer": "germany/dbbl-women",
+   "split": true
+  },
+  {
+   "key": "sweden_w",
+   "name": "Sweden Basketligan Women",
+   "gender": "w",
+   "pinnacle": [
+    "Sweden - Basketligan Women"
+   ],
+   "betexplorer": "sweden/basketligan-women",
+   "split": true
+  },
+  {
+   "key": "czech_w",
+   "name": "Czech ZBL",
+   "gender": "w",
+   "pinnacle": [
+    "Czech Republic - ZBL Women"
+   ],
+   "betexplorer": "czech-republic/zbl-women",
+   "split": true
+  },
+  {
+   "key": "poland_w",
+   "name": "Poland BLK",
+   "gender": "w",
+   "pinnacle": [
+    "Poland - BLK Women"
+   ],
+   "betexplorer": "poland/basket-liga-women",
+   "split": true
+  },
+  {
+   "key": "hungary_w",
+   "name": "Hungary NB I.A Women",
+   "gender": "w",
+   "pinnacle": [
+    "Hungary - Nemzeti Bajnoksag I.A Women"
+   ],
+   "betexplorer": "hungary/nb-i-a-women",
+   "split": true
+  },
+  {
+   "key": "belgium_w",
+   "name": "Belgium Women",
+   "gender": "w",
+   "pinnacle": [
+    "Belgium - Division 1 Women"
+   ],
+   "betexplorer": "belgium/top-division-women",
+   "split": true
+  },
+  {
+   "key": "finland_w",
+   "name": "Finland Korisliiga Women",
+   "gender": "w",
+   "pinnacle": [
+    "Finland - Korisliiga Women"
+   ],
+   "betexplorer": "finland/korisliiga-women",
+   "split": true
+  },
+  {
+   "key": "italy_a2_w",
+   "name": "Italy Serie A2 Women",
+   "gender": "w",
+   "pinnacle": [
+    "Italy - Serie A2 Women"
+   ],
+   "betexplorer": null,
+   "split": true
+  },
+  {
+   "key": "greece_w",
+   "name": "Greece A1 Women",
+   "gender": "w",
+   "pinnacle": [
+    "Greece - A1 Women"
+   ],
+   "betexplorer": "greece/wbl1-women",
+   "split": true
+  }
+ ],
+ "log_all_pinnacle_leagues_matching": [
+  "Europe",
+  "Spain",
+  "Germany",
+  "Italy",
+  "France",
+  "Greece",
+  "Turkey",
+  "ABA",
+  "Lithuania",
+  "Israel",
+  "Poland",
+  "Czech",
+  "Sweden",
+  "Denmark",
+  "Finland",
+  "Hungary",
+  "Serbia",
+  "Croatia",
+  "Slovenia",
+  "Portugal",
+  "Switzerland",
+  "Belgium",
+  "Estonian",
+  "FIBA - Europe",
+  "Netherlands",
+  "Austria",
+  "Latvia"
+ ]
+}
