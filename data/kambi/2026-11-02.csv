@@ -132,3 +132,12 @@ ts,event_id,group,home,away,start,type,line,dec_1,dec_2,pin_matchup_id,match_sco
 2026-11-02T13:47:14+00:00,1028405590,eurocup,Budućnost Podgorica,BV Chemnitz 99,2026-11-03T18:00:00+00:00,total,171.5,1.85,1.85,,63.8
 2026-11-02T13:47:14+00:00,1029005671,brazil/nbb,EC Pinheiros B,Caxias do Sul,2026-11-02T14:00:00+00:00,spread,-13.5,1.82,1.88,,39.6
 2026-11-02T13:47:14+00:00,1029005671,brazil/nbb,EC Pinheiros B,Caxias do Sul,2026-11-02T14:00:00+00:00,total,148.5,1.95,1.76,,39.6
+2026-11-02T13:52:26+00:00,1029385765,euroleague,Fenerbahce SK,Saski Baskonia,2026-11-05T18:00:00+00:00,moneyline,,1.1,6.75,,0.0
+2026-11-02T13:52:26+00:00,1029385765,euroleague,Fenerbahce SK,Saski Baskonia,2026-11-05T18:00:00+00:00,spread,-14.5,1.95,1.85,,0.0
+2026-11-02T13:52:26+00:00,1029385765,euroleague,Fenerbahce SK,Saski Baskonia,2026-11-05T18:00:00+00:00,total,169.5,1.92,1.88,,0.0
+2026-11-02T13:52:26+00:00,1028562772,euroleague,Hapoel Tel Aviv,FC Barcelona,2026-11-05T18:45:00+00:00,moneyline,,1.48,2.63,,0.0
+2026-11-02T13:52:26+00:00,1028562772,euroleague,Hapoel Tel Aviv,FC Barcelona,2026-11-05T18:45:00+00:00,spread,-4.5,1.86,1.94,,0.0
+2026-11-02T13:52:26+00:00,1028562772,euroleague,Hapoel Tel Aviv,FC Barcelona,2026-11-05T18:45:00+00:00,total,175.5,1.89,1.91,,0.0
+2026-11-02T13:52:26+00:00,1028562775,euroleague,ASVEL Lyon-Villeurbanne,FC Bayern München,2026-11-05T19:00:00+00:00,moneyline,,1.77,2.04,,0.0
+2026-11-02T13:52:26+00:00,1028562775,euroleague,ASVEL Lyon-Villeurbanne,FC Bayern München,2026-11-05T19:00:00+00:00,spread,-1.5,1.9,1.9,,0.0
+2026-11-02T13:52:26+00:00,1028562775,euroleague,ASVEL Lyon-Villeurbanne,FC Bayern München,2026-11-05T19:00:00+00:00,total,177.5,1.92,1.88,,0.0
