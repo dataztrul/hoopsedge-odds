@@ -87,3 +87,6 @@ ts,event_id,group,home,away,start,type,line,dec_1,dec_2,pin_matchup_id,match_sco
 2026-11-02T10:26:03+00:00,1029337353,france/elite,Cholet,Paris Basket,2026-11-03T18:30:00+00:00,total,175.5,1.96,1.75,,36.4
 2026-11-02T10:26:03+00:00,1028635042,italy/lega_a,Virtus Bologna,Allianz Trieste,2026-11-02T19:00:00+00:00,spread,-10.5,1.87,1.89,1639304036,100.0
 2026-11-02T10:26:03+00:00,1028635042,italy/lega_a,Virtus Bologna,Allianz Trieste,2026-11-02T19:00:00+00:00,total,178.5,2.0,1.72,1639304036,100.0
+2026-11-02T11:07:14+00:00,1028312657,finland/korisliiga,Tapiolan Honka,Helsinki Seagulls,2026-11-03T16:30:00+00:00,moneyline,,1.48,2.55,1639363814,82.0
+2026-11-02T11:07:14+00:00,1028312657,finland/korisliiga,Tapiolan Honka,Helsinki Seagulls,2026-11-03T16:30:00+00:00,spread,-4.5,1.87,1.89,1639363814,82.0
+2026-11-02T11:07:14+00:00,1028312657,finland/korisliiga,Tapiolan Honka,Helsinki Seagulls,2026-11-03T16:30:00+00:00,total,180.5,1.87,1.83,1639363814,82.0
