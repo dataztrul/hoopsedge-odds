@@ -141,3 +141,7 @@ ts,event_id,group,home,away,start,type,line,dec_1,dec_2,pin_matchup_id,match_sco
 2026-11-02T13:52:26+00:00,1028562775,euroleague,ASVEL Lyon-Villeurbanne,FC Bayern München,2026-11-05T19:00:00+00:00,moneyline,,1.77,2.04,,0.0
 2026-11-02T13:52:26+00:00,1028562775,euroleague,ASVEL Lyon-Villeurbanne,FC Bayern München,2026-11-05T19:00:00+00:00,spread,-1.5,1.9,1.9,,0.0
 2026-11-02T13:52:26+00:00,1028562775,euroleague,ASVEL Lyon-Villeurbanne,FC Bayern München,2026-11-05T19:00:00+00:00,total,177.5,1.92,1.88,,0.0
+2026-11-02T13:57:39+00:00,1028562777,euroleague,Milano,Valencia Basket Club,2026-11-05T19:30:00+00:00,moneyline,,2.38,1.58,,0.0
+2026-11-02T13:57:39+00:00,1028562777,euroleague,Milano,Valencia Basket Club,2026-11-05T19:30:00+00:00,spread,3.5,1.9,1.9,,0.0
+2026-11-02T13:57:39+00:00,1028562777,euroleague,Milano,Valencia Basket Club,2026-11-05T19:30:00+00:00,total,179.5,1.88,1.92,,0.0
+2026-11-02T13:57:39+00:00,1029564917,turkey/super_league,Aliaga Petkim Spor,Anadolu Efes,2026-11-02T15:00:00+00:00,total,167.5,2.1,1.65,1639318742,100.0
