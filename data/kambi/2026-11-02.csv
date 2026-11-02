@@ -31,3 +31,6 @@ ts,event_id,group,home,away,start,type,line,dec_1,dec_2,pin_matchup_id,match_sco
 2026-11-02T06:31:38+00:00,1029299337,fiba_europe_cup,Würzburg Baskets,Tartu Ülikool,2026-11-02T18:00:00+00:00,moneyline,,1.08,6.25,1639304841,100.0
 2026-11-02T06:31:38+00:00,1029299337,fiba_europe_cup,Würzburg Baskets,Tartu Ülikool,2026-11-02T18:00:00+00:00,spread,-14.5,1.85,1.85,1639304841,100.0
 2026-11-02T06:31:38+00:00,1029299337,fiba_europe_cup,Würzburg Baskets,Tartu Ülikool,2026-11-02T18:00:00+00:00,total,166.5,1.81,1.89,1639304841,100.0
+2026-11-02T07:22:24+00:00,1028405557,eurocup,Tofaş,BC Neptūnas,2026-11-03T17:00:00+00:00,moneyline,,1.15,4.75,,65.0
+2026-11-02T07:22:24+00:00,1028405557,eurocup,Tofaş,BC Neptūnas,2026-11-03T17:00:00+00:00,spread,-11.5,1.93,1.83,,65.0
+2026-11-02T07:22:24+00:00,1028405557,eurocup,Tofaş,BC Neptūnas,2026-11-03T17:00:00+00:00,total,173.5,1.87,1.83,,65.0
