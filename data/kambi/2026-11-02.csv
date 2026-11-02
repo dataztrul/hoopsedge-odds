@@ -66,3 +66,6 @@ ts,event_id,group,home,away,start,type,line,dec_1,dec_2,pin_matchup_id,match_sco
 2026-11-02T09:24:56+00:00,1029719010,eurocup__w_,Beşiktaş JK İstanbul (W),Maccabi Ashdod (W),2026-11-02T17:00:00+00:00,moneyline,,1.12,5.2,1639296423,100.0
 2026-11-02T09:24:56+00:00,1029719010,eurocup__w_,Beşiktaş JK İstanbul (W),Maccabi Ashdod (W),2026-11-02T17:00:00+00:00,spread,-11.5,1.83,1.87,1639296423,100.0
 2026-11-02T09:24:56+00:00,1029719010,eurocup__w_,Beşiktaş JK İstanbul (W),Maccabi Ashdod (W),2026-11-02T17:00:00+00:00,total,139.5,1.88,1.82,1639296423,100.0
+2026-11-02T09:45:18+00:00,1029299299,fiba_europe_cup,Rilski Sportist,Kolossos Rhodes,2026-11-03T17:00:00+00:00,moneyline,,5.0,1.14,1639375228,100.0
+2026-11-02T09:45:18+00:00,1029299299,fiba_europe_cup,Rilski Sportist,Kolossos Rhodes,2026-11-03T17:00:00+00:00,spread,11.5,1.88,1.82,1639375228,100.0
+2026-11-02T09:45:18+00:00,1029299299,fiba_europe_cup,Rilski Sportist,Kolossos Rhodes,2026-11-03T17:00:00+00:00,total,161.5,1.89,1.81,1639375228,100.0
