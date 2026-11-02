@@ -124,3 +124,11 @@ ts,event_id,group,home,away,start,type,line,dec_1,dec_2,pin_matchup_id,match_sco
 2026-11-02T13:31:48+00:00,1029567091,fiba_champions_league,Salon Vilpas,Antwerp Giants,2026-11-03T17:30:00+00:00,moneyline,,3.75,1.25,1639363837,100.0
 2026-11-02T13:31:48+00:00,1029567091,fiba_champions_league,Salon Vilpas,Antwerp Giants,2026-11-03T17:30:00+00:00,spread,8.5,1.92,1.84,1639363837,100.0
 2026-11-02T13:31:48+00:00,1029567091,fiba_champions_league,Salon Vilpas,Antwerp Giants,2026-11-03T17:30:00+00:00,total,172.5,1.89,1.81,1639363837,100.0
+2026-11-02T13:47:14+00:00,1028562724,euroleague,Anadolu Efes,Paris Basket,2026-11-05T17:15:00+00:00,moneyline,,1.37,3.1,,0.0
+2026-11-02T13:47:14+00:00,1028562724,euroleague,Anadolu Efes,Paris Basket,2026-11-05T17:15:00+00:00,spread,-6.5,1.89,1.91,,0.0
+2026-11-02T13:47:14+00:00,1028562724,euroleague,Anadolu Efes,Paris Basket,2026-11-05T17:15:00+00:00,total,176.5,1.9,1.9,,0.0
+2026-11-02T13:47:14+00:00,1028405590,eurocup,Budućnost Podgorica,BV Chemnitz 99,2026-11-03T18:00:00+00:00,moneyline,,1.23,3.8,,63.8
+2026-11-02T13:47:14+00:00,1028405590,eurocup,Budućnost Podgorica,BV Chemnitz 99,2026-11-03T18:00:00+00:00,spread,-8.5,1.84,1.92,,63.8
+2026-11-02T13:47:14+00:00,1028405590,eurocup,Budućnost Podgorica,BV Chemnitz 99,2026-11-03T18:00:00+00:00,total,171.5,1.85,1.85,,63.8
+2026-11-02T13:47:14+00:00,1029005671,brazil/nbb,EC Pinheiros B,Caxias do Sul,2026-11-02T14:00:00+00:00,spread,-13.5,1.82,1.88,,39.6
+2026-11-02T13:47:14+00:00,1029005671,brazil/nbb,EC Pinheiros B,Caxias do Sul,2026-11-02T14:00:00+00:00,total,148.5,1.95,1.76,,39.6
