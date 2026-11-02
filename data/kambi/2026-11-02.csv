@@ -233,3 +233,5 @@ ts,event_id,group,home,away,start,type,line,dec_1,dec_2,pin_matchup_id,match_sco
 2026-11-02T18:44:34+00:00,1028635042,italy/lega_a,Virtus Bologna,Allianz Trieste,2026-11-02T19:00:00+00:00,moneyline,,1.17,4.8,1639304036,100.0
 2026-11-02T18:44:34+00:00,1028635042,italy/lega_a,Virtus Bologna,Allianz Trieste,2026-11-02T19:00:00+00:00,spread,-10.5,1.83,1.93,1639304036,100.0
 2026-11-02T18:44:34+00:00,1028635042,italy/lega_a,Virtus Bologna,Allianz Trieste,2026-11-02T19:00:00+00:00,total,178.5,1.88,1.82,1639304036,100.0
+2026-11-02T19:00:07+00:00,1029693697,morocco/division_1,Wydad,TAS Casablanca,2026-11-02T19:05:00+00:00,spread,-17.5,1.85,1.85,,37.3
+2026-11-02T19:00:07+00:00,1029693697,morocco/division_1,Wydad,TAS Casablanca,2026-11-02T19:05:00+00:00,total,144.5,1.85,1.85,,37.3
