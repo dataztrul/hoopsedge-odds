@@ -313,3 +313,7 @@ ts,event_id,group,home,away,start,type,line,dec_1,dec_2,pin_matchup_id,match_sco
 2026-11-03T17:43:31+00:00,1028405590,eurocup,Budućnost Podgorica,BV Chemnitz 99,2026-11-03T18:00:00+00:00,moneyline,,1.23,3.85,1639374166,89.1
 2026-11-03T17:43:31+00:00,1028405590,eurocup,Budućnost Podgorica,BV Chemnitz 99,2026-11-03T18:00:00+00:00,spread,-8.5,1.82,1.94,1639374166,89.1
 2026-11-03T17:43:31+00:00,1028405622,eurocup,BC Lietkabelis,BAXI Manresa,2026-11-04T17:00:00+00:00,total,172.5,1.97,1.75,1639456090,86.8
+2026-11-03T17:48:53+00:00,1029269528,eurocup,PAOK Thessaloniki BC,BC Roma,2026-11-03T18:00:00+00:00,spread,-9.5,1.88,1.88,1639375243,100.0
+2026-11-03T17:48:53+00:00,1028405590,eurocup,Budućnost Podgorica,BV Chemnitz 99,2026-11-03T18:00:00+00:00,moneyline,,1.14,5.0,1639374166,89.1
+2026-11-03T17:48:53+00:00,1028405590,eurocup,Budućnost Podgorica,BV Chemnitz 99,2026-11-03T18:00:00+00:00,total,175.5,1.85,1.85,1639374166,89.1
+2026-11-03T17:48:53+00:00,1028492480,fiba_champions_league,BC Juventus,BK Pardubice,2026-11-03T18:00:00+00:00,spread,-7.5,1.91,1.85,1639363850,100.0
