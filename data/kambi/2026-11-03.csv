@@ -172,3 +172,6 @@ ts,event_id,group,home,away,start,type,line,dec_1,dec_2,pin_matchup_id,match_sco
 2026-11-03T13:20:22+00:00,1028405590,eurocup,Budućnost Podgorica,BV Chemnitz 99,2026-11-03T18:00:00+00:00,total,172.5,1.81,1.89,1639374166,89.1
 2026-11-03T13:25:36+00:00,1028312657,finland/korisliiga,Tapiolan Honka,Helsinki Seagulls,2026-11-03T16:30:00+00:00,moneyline,,1.44,2.7,1639363814,82.0
 2026-11-03T13:25:36+00:00,1028312657,finland/korisliiga,Tapiolan Honka,Helsinki Seagulls,2026-11-03T16:30:00+00:00,spread,-5.5,1.91,1.85,1639363814,82.0
+2026-11-03T13:30:50+00:00,1029299299,fiba_europe_cup,Rilski Sportist,Kolossos Rhodes,2026-11-03T17:00:00+00:00,moneyline,,4.8,1.15,1639375228,100.0
+2026-11-03T13:30:50+00:00,1029299299,fiba_europe_cup,Rilski Sportist,Kolossos Rhodes,2026-11-03T17:00:00+00:00,spread,11.5,1.84,1.86,1639375228,100.0
+2026-11-03T13:30:50+00:00,1029299299,fiba_europe_cup,Rilski Sportist,Kolossos Rhodes,2026-11-03T17:00:00+00:00,total,159.5,1.93,1.78,1639375228,100.0
