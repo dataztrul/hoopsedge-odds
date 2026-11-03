@@ -197,3 +197,5 @@ ts,event_id,group,home,away,start,type,line,dec_1,dec_2,pin_matchup_id,match_sco
 2026-11-03T13:46:31+00:00,1028405473,eurocup,Hapoel Jerusalem,Aris,2026-11-04T19:00:00+00:00,total,169.5,1.81,1.89,,40.0
 2026-11-03T13:46:31+00:00,1029331279,euroleague__w_,Rapid Bucuresti (W),Flammes Carolo Basket (W),2026-11-03T17:30:00+00:00,spread,38.5,1.89,1.81,,40.7
 2026-11-03T13:46:31+00:00,1029331279,euroleague__w_,Rapid Bucuresti (W),Flammes Carolo Basket (W),2026-11-03T17:30:00+00:00,total,147.5,1.83,1.87,,40.7
+2026-11-03T13:51:44+00:00,1028492481,fiba_champions_league,Unicaja Málaga,Unahotels Reggio Emilia,2026-11-03T19:30:00+00:00,spread,-14.5,1.84,1.92,1639375269,72.6
+2026-11-03T13:51:44+00:00,1028492481,fiba_champions_league,Unicaja Málaga,Unahotels Reggio Emilia,2026-11-03T19:30:00+00:00,total,163.5,1.93,1.77,1639375269,72.6
