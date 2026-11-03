@@ -77,3 +77,24 @@ ts,event_id,group,home,away,start,type,line,dec_1,dec_2,pin_matchup_id,match_sco
 2026-11-03T08:13:19+00:00,1029246908,euroleague__w_,Basket Landes (W),Casademont Zaragoza (W),2026-11-03T18:30:00+00:00,moneyline,,2.15,1.62,1639374177,100.0
 2026-11-03T08:13:19+00:00,1029246908,euroleague__w_,Basket Landes (W),Casademont Zaragoza (W),2026-11-03T18:30:00+00:00,spread,2.5,1.85,1.85,1639374177,100.0
 2026-11-03T08:28:29+00:00,1028646536,germany/bbl,FC Bayern München,Basketball Löwen Braunschweig,2026-11-03T19:00:00+00:00,spread,-21.5,1.88,1.82,1639374180,94.4
+2026-11-03T08:43:40+00:00,1029567091,fiba_champions_league,Salon Vilpas,Antwerp Giants,2026-11-03T17:30:00+00:00,moneyline,,5.2,1.14,1639363837,100.0
+2026-11-03T08:43:40+00:00,1029567091,fiba_champions_league,Salon Vilpas,Antwerp Giants,2026-11-03T17:30:00+00:00,spread,11.5,1.85,1.91,1639363837,100.0
+2026-11-03T08:43:40+00:00,1029567091,fiba_champions_league,Salon Vilpas,Antwerp Giants,2026-11-03T17:30:00+00:00,total,171.5,1.83,1.87,1639363837,100.0
+2026-11-03T08:43:40+00:00,1029343953,eurocup__w_,Ślęza Wrocław (W),CBK Mersin Yenisehir Bld (W),2026-11-03T17:30:00+00:00,moneyline,,16.0,1.02,1639363836,98.0
+2026-11-03T08:43:40+00:00,1029343953,eurocup__w_,Ślęza Wrocław (W),CBK Mersin Yenisehir Bld (W),2026-11-03T17:30:00+00:00,spread,21.5,1.88,1.82,1639363836,98.0
+2026-11-03T08:43:40+00:00,1029343953,eurocup__w_,Ślęza Wrocław (W),CBK Mersin Yenisehir Bld (W),2026-11-03T17:30:00+00:00,total,144.5,1.89,1.81,1639363836,98.0
+2026-11-03T08:43:40+00:00,1029331342,euroleague__w_,AZS UMCS Lublin (W),Emlak Konut Spor Kulubu (W),2026-11-03T17:00:00+00:00,moneyline,,4.2,1.18,1639363830,100.0
+2026-11-03T08:43:40+00:00,1029331342,euroleague__w_,AZS UMCS Lublin (W),Emlak Konut Spor Kulubu (W),2026-11-03T17:00:00+00:00,spread,9.5,1.9,1.8,1639363830,100.0
+2026-11-03T08:43:40+00:00,1029331342,euroleague__w_,AZS UMCS Lublin (W),Emlak Konut Spor Kulubu (W),2026-11-03T17:00:00+00:00,total,145.5,1.85,1.85,1639363830,100.0
+2026-11-03T08:43:40+00:00,1029331045,euroleague__w_,Athinaikos BC (W),Vilniaus Kibirkstis-MRU (W),2026-11-03T18:30:00+00:00,moneyline,,1.47,2.48,1639363860,100.0
+2026-11-03T08:43:40+00:00,1029331045,euroleague__w_,Athinaikos BC (W),Vilniaus Kibirkstis-MRU (W),2026-11-03T18:30:00+00:00,spread,-4.5,1.88,1.82,1639363860,100.0
+2026-11-03T08:43:40+00:00,1029331045,euroleague__w_,Athinaikos BC (W),Vilniaus Kibirkstis-MRU (W),2026-11-03T18:30:00+00:00,total,149.5,1.86,1.84,1639363860,100.0
+2026-11-03T08:43:40+00:00,1029246975,euroleague__w_,Bourges Basket (W),USK Praha (W),2026-11-03T19:00:00+00:00,moneyline,,2.18,1.6,1639363869,79.2
+2026-11-03T08:43:40+00:00,1029246975,euroleague__w_,Bourges Basket (W),USK Praha (W),2026-11-03T19:00:00+00:00,spread,2.5,1.88,1.82,1639363869,79.2
+2026-11-03T08:43:40+00:00,1029246975,euroleague__w_,Bourges Basket (W),USK Praha (W),2026-11-03T19:00:00+00:00,total,145.5,1.84,1.86,1639363869,79.2
+2026-11-03T08:43:40+00:00,1028312660,finland/korisliiga,Tampereen Pyrintö,Kouvot,2026-11-03T16:30:00+00:00,moneyline,,1.49,2.55,1639363815,100.0
+2026-11-03T08:43:40+00:00,1028312660,finland/korisliiga,Tampereen Pyrintö,Kouvot,2026-11-03T16:30:00+00:00,spread,-5.5,2.0,1.76,1639363815,100.0
+2026-11-03T08:43:40+00:00,1028312660,finland/korisliiga,Tampereen Pyrintö,Kouvot,2026-11-03T16:30:00+00:00,total,173.5,1.77,1.94,1639363815,100.0
+2026-11-03T08:43:40+00:00,1029505362,france/coupe_de_france,Dijon JDA,Limoges CSP,2026-11-03T19:00:00+00:00,moneyline,,1.15,4.35,1639375253,100.0
+2026-11-03T08:43:40+00:00,1029505362,france/coupe_de_france,Dijon JDA,Limoges CSP,2026-11-03T19:00:00+00:00,spread,-10.5,1.79,1.85,1639375253,100.0
+2026-11-03T08:43:40+00:00,1029505362,france/coupe_de_france,Dijon JDA,Limoges CSP,2026-11-03T19:00:00+00:00,total,173.5,1.91,1.74,1639375253,100.0
