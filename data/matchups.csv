@@ -533,79 +533,79 @@ matchup_id,league_key,pin_league,start,home,away,first_seen,last_seen
 1639375269,bcl,Europe - Champions League,2026-11-03T19:30:00+00:00,Unicaja Malaga,Pallacanestro Reggiana,2026-11-02T11:48:49+00:00,2026-11-03T19:24:31+00:00
 1639381210,bcl,Europe - Champions League,2026-11-03T19:30:00+00:00,FC Porto,Club Joventut Badalona,2026-11-02T11:48:49+00:00,2026-11-03T19:24:31+00:00
 1639387163,fr_pro_b,France - Championnat Pro B,2026-11-03T19:30:00+00:00,Levallois,Poitiers,2026-10-31T22:49:23+00:00,2026-11-03T19:24:31+00:00
-1639456057,eurocup_w,Europe - Eurocup Women,2026-11-04T16:00:00+00:00,MGS Panserraikos,AZS AJP Gorzow Wielkopolski,2026-11-03T14:17:55+00:00,2026-11-03T19:30:17+00:00
-1639456063,eurocup_w,Europe - Eurocup Women,2026-11-04T16:15:00+00:00,SBS Ostrava,Spar Citylift Girona,2026-11-03T14:17:55+00:00,2026-11-03T19:30:17+00:00
-1639456065,finland,Finland - Korisliiga,2026-11-04T16:30:00+00:00,Kipina Basket,KTP Basket Kotka,2026-11-02T16:54:55+00:00,2026-11-03T19:30:17+00:00
-1639461718,eurocup,Europe - Eurocup,2026-11-04T16:30:00+00:00,Turk Telekom,Skyliners Frankfurt,2026-11-03T14:02:12+00:00,2026-11-03T19:30:17+00:00
-1639461720,eurocup_w,Europe - Eurocup Women,2026-11-04T16:30:00+00:00,HBA-Marsky,Charnay Basket Bourgogne Sud,2026-11-03T14:17:55+00:00,2026-11-03T19:30:17+00:00
-1639465991,finland,Finland - Korisliiga,2026-11-04T16:30:00+00:00,Bisons Loimaa,Lahti Basketball,2026-11-02T16:54:55+00:00,2026-11-03T19:30:17+00:00
-1639465992,finland,Finland - Korisliiga,2026-11-04T16:30:00+00:00,Korihait Uusikaupunki,Kauhajoki Karhu Basket,2026-11-02T16:54:55+00:00,2026-11-03T19:30:17+00:00
-1639456078,eurocup_w,Europe - Eurocup Women,2026-11-04T17:00:00+00:00,Brandys nad Labem,ESB Villeneuve d´Ascq,2026-11-03T14:17:55+00:00,2026-11-03T19:30:17+00:00
-1639456082,eurocup,Europe - Eurocup,2026-11-04T17:00:00+00:00,Rigas Zelli,Le Mans Sarthe Basket,2026-11-03T14:02:12+00:00,2026-11-03T19:30:17+00:00
-1639456090,eurocup,Europe - Eurocup,2026-11-04T17:00:00+00:00,BC Lietkabelis Panevezys,Assignia Manresa,2026-11-03T14:02:12+00:00,2026-11-03T19:30:17+00:00
-1639456091,slovenia,Slovenia - 1. SKL,2026-11-04T17:00:00+00:00,Kk Rogaska,KD Ilirija,2026-11-02T17:20:57+00:00,2026-11-03T19:30:17+00:00
-1639461728,bcl,Europe - Champions League,2026-11-04T17:00:00+00:00,Legia Warszawa,Galatasaray,2026-11-02T17:05:20+00:00,2026-11-03T19:30:17+00:00
-1639461729,eurocup_w,Europe - Eurocup Women,2026-11-04T17:00:00+00:00,CS Universitatea Cluj,Reyer Venezia Mestre,2026-11-03T14:17:55+00:00,2026-11-03T19:30:17+00:00
-1639461730,bcl,Europe - Champions League,2026-11-04T17:00:00+00:00,Falco KC Szombathely,AEK Athens,2026-11-02T17:05:20+00:00,2026-11-03T19:30:17+00:00
-1639461733,eurocup_w,Europe - Eurocup Women,2026-11-04T17:00:00+00:00,Elitzur Ramla,TTT Riga,2026-11-03T14:17:55+00:00,2026-11-03T19:30:17+00:00
-1639466001,eurocup_w,Europe - Eurocup Women,2026-11-04T17:00:00+00:00,ZKK Celje,Magnolia Basket,2026-11-03T13:30:50+00:00,2026-11-03T19:30:17+00:00
-1639466003,eurocup_w,Europe - Eurocup Women,2026-11-04T17:00:00+00:00,MBK Ruzomberok,CB Avenida,2026-11-03T14:17:55+00:00,2026-11-03T19:30:17+00:00
-1639466004,czech,Czech Republic - NBL,2026-11-04T17:00:00+00:00,SK Slavia Prague ERA NBK,BK Decin,2026-11-02T17:20:57+00:00,2026-11-03T19:30:17+00:00
-1639466010,,Europe - ENBL,2026-11-04T17:00:00+00:00,Cso Voluntari,Fyllingen BK,2026-11-02T17:20:57+00:00,2026-11-03T19:30:17+00:00
-1639466011,czech,Czech Republic - NBL,2026-11-04T17:00:00+00:00,Basket Brno,Basketbal Olomouc,2026-11-02T17:20:57+00:00,2026-11-03T19:30:17+00:00
-1639577950,lat_est,Estonian - Latvian Basketball League,2026-11-04T17:00:00+00:00,BK Liepaja,Keila,2026-11-02T17:20:57+00:00,2026-11-03T19:30:17+00:00
-1639461740,eurocup,Europe - Eurocup,2026-11-04T17:30:00+00:00,KK Cedevita Olimpija Ljubljana,Derthona Basket,2026-11-03T14:02:12+00:00,2026-11-03T19:30:17+00:00
-1639461742,eurocup_w,Europe - Eurocup Women,2026-11-04T17:30:00+00:00,AEL Limassol,BK Zabiny Brno,2026-11-03T14:17:55+00:00,2026-11-03T19:30:17+00:00
-1639461744,,Denmark - Kvindebasketligaen,2026-11-04T17:30:00+00:00,Horsholm 79ers,BK Amager,2026-11-02T17:52:06+00:00,2026-11-03T19:30:17+00:00
-1639466014,eurocup_w,Europe - Eurocup Women,2026-11-04T17:30:00+00:00,Montana 2003 BC,Stars Keltern,2026-11-03T14:17:55+00:00,2026-11-03T19:30:17+00:00
-1639466016,denmark,Denmark - Basketligaen,2026-11-04T17:30:00+00:00,Bears Academy,Horsens IC,2026-11-02T17:52:06+00:00,2026-11-03T19:30:17+00:00
-1639466038,eurocup_w,Europe - Eurocup Women,2026-11-04T18:00:00+00:00,Student Nis,Sopron Basket,2026-11-03T14:17:55+00:00,2026-11-03T19:30:17+00:00
-1639466042,denmark,Denmark - Basketligaen,2026-11-04T18:00:00+00:00,Vaerlose BBK,Team FOG Naestved,2026-11-02T18:23:21+00:00,2026-11-03T19:30:17+00:00
-1639466043,sweden_w,Sweden - Basketligan Women,2026-11-04T18:00:00+00:00,Alvik Basket,Uppsala Basket,2026-11-02T18:23:21+00:00,2026-11-03T19:30:17+00:00
-1639471452,eurocup_w,Europe - Eurocup Women,2026-11-04T18:00:00+00:00,Saarlouis Royals,SL Benfica,2026-11-03T14:17:55+00:00,2026-11-03T19:30:17+00:00
-1639471453,,Europe - ENBL,2026-11-04T18:00:00+00:00,Kapfenberg Bulls,Mitteldeutscher BC,2026-11-02T18:23:21+00:00,2026-11-03T19:30:17+00:00
-1639471455,eurocup,Europe - Eurocup,2026-11-04T18:00:00+00:00,Slask Wroclaw,JL Bourg Basket,2026-11-03T14:02:12+00:00,2026-11-03T19:30:17+00:00
-1639471870,eurocup_w,Europe - Eurocup Women,2026-11-04T18:00:00+00:00,Castelnuovo Scrivia,Elfic Fribourg,2026-11-03T14:17:55+00:00,2026-11-03T19:30:17+00:00
-1639471872,eurocup_w,Europe - Eurocup Women,2026-11-04T18:00:00+00:00,Chartres,BC Namur Capitale,2026-11-03T14:17:55+00:00,2026-11-03T19:30:17+00:00
-1639471874,denmark,Denmark - Basketligaen,2026-11-04T18:00:00+00:00,BMS Herlev,Copenhagen,2026-11-02T18:23:21+00:00,2026-11-03T19:30:17+00:00
-1639466049,eurocup_w,Europe - Eurocup Women,2026-11-04T18:30:00+00:00,Panathlitikos,DVTK Miskolc,2026-11-03T14:17:55+00:00,2026-11-03T19:30:17+00:00
-1639466054,eurocup_w,Europe - Eurocup Women,2026-11-04T18:30:00+00:00,Polisportiva A Galli San Giovanni Valdarno,Royal Castors Braine,2026-11-03T14:17:55+00:00,2026-11-03T19:30:17+00:00
-1639466055,eurocup,Europe - Eurocup,2026-11-04T18:30:00+00:00,KK Bosna Royal Sarajevo,Balkan Botevgrad,2026-11-03T14:02:12+00:00,2026-11-03T19:30:17+00:00
-1639471464,eurocup_w,Europe - Eurocup Women,2026-11-04T18:30:00+00:00,Landerneau Bretagne Basket,AZS Poznan,2026-11-03T14:17:55+00:00,2026-11-03T19:30:17+00:00
-1639471465,eurocup_w,Europe - Eurocup Women,2026-11-04T18:30:00+00:00,Alba Berlin,Panathinaikos BC,2026-11-03T14:17:55+00:00,2026-11-03T19:30:17+00:00
-1639471466,eurocup_w,Europe - Eurocup Women,2026-11-04T18:30:00+00:00,Nyon Basket,Valosun KP Brno,2026-11-03T14:17:55+00:00,2026-11-03T19:30:17+00:00
-1639466071,bcl,Europe - Champions League,2026-11-04T19:00:00+00:00,Baskets Bonn,Bnei Herzliya,2026-11-02T19:10:32+00:00,2026-11-03T19:30:17+00:00
-1639466074,eurocup,Europe - Eurocup,2026-11-04T19:00:00+00:00,Hapoel Jerusalem,Aris Thessaloniki BC,2026-11-03T14:02:12+00:00,2026-11-03T19:30:17+00:00
-1639471475,euroleague_w,Europe - Euroleague Women,2026-11-04T19:00:00+00:00,PF Schio,Galatasaray,2026-11-03T14:02:12+00:00,2026-11-03T19:30:17+00:00
-1639471478,eurocup,Europe - Eurocup,2026-11-04T19:00:00+00:00,Reyer Venezia,BC Siauliai,2026-11-03T14:02:12+00:00,2026-11-03T19:30:17+00:00
-1639471480,eurocup_w,Europe - Eurocup Women,2026-11-04T19:00:00+00:00,Porta XI Ensino,Basket Lattes Montpellier,2026-11-03T14:17:55+00:00,2026-11-03T19:30:17+00:00
-1639471482,denmark,Denmark - Basketligaen,2026-11-04T19:00:00+00:00,Gladsaxe BK,Holbaek,2026-11-02T19:26:02+00:00,2026-11-03T19:30:17+00:00
-1639471890,eurocup_w,Europe - Eurocup Women,2026-11-04T19:00:00+00:00,ZKK Brod Na Savi,Cb Jairis,2026-11-03T14:17:55+00:00,2026-11-03T19:30:17+00:00
-1639855027,,France - Nationale 1,2026-11-04T19:00:00+00:00,Boulogne Sur Mer,Mulhouse,2026-11-03T06:57:25+00:00,2026-11-03T19:30:17+00:00
-1639466079,eurocup,Europe - Eurocup,2026-11-04T19:30:00+00:00,Maxima Roma,London Lions,2026-11-03T14:02:12+00:00,2026-11-03T19:30:17+00:00
-1639466080,eurocup,Europe - Eurocup,2026-11-04T19:30:00+00:00,CB San Pablo Burgos,Rostock Seawolves,2026-11-03T14:02:12+00:00,2026-11-03T19:30:17+00:00
-1639471495,,France - Nationale 1,2026-11-04T19:30:00+00:00,Laval,Toulouse,2026-11-02T19:56:46+00:00,2026-11-03T19:30:17+00:00
-1639471905,,Switzerland - SB League Women,2026-11-04T19:30:00+00:00,Geneva Elite Basket,Esperance Sportive Pully,2026-11-02T19:56:46+00:00,2026-11-03T19:30:17+00:00
-1639773913,euroleague_w,Europe - Euroleague Women,2026-11-04T19:30:00+00:00,Kangoeroes Mechelen,Crvena Zvezda,2026-11-03T14:17:55+00:00,2026-11-03T19:30:17+00:00
-1639891342,,Switzerland - NLB,2026-11-04T19:30:00+00:00,Swiss Central Basket,Lugano Tigers U23,2026-11-03T18:16:27+00:00,2026-11-03T19:30:17+00:00
-1639375297,euroleague,Europe - Euroleague,2026-11-04T19:45:00+00:00,Real Madrid,Panathinaikos BC,2026-11-03T14:49:08+00:00,2026-11-03T19:30:17+00:00
-1639471913,eurocup_w,Europe - Eurocup Women,2026-11-04T19:45:00+00:00,Maccabi Ashdod,Besiktas JK,2026-11-03T14:17:55+00:00,2026-11-03T19:30:17+00:00
-1639797997,it_a2,Italy - Serie A2,2026-11-04T19:45:00+00:00,Libertas Livorno,Benedetto XIV Cento,2026-11-02T19:56:46+00:00,2026-11-03T19:30:17+00:00
-1639476202,,Portugal - Division 1 Women,2026-11-04T21:30:00+00:00,CLIP,SC Coimbroes II,2026-11-03T14:33:39+00:00,2026-11-03T19:30:17+00:00
-1638230175,poland_w,Poland - BLK Women,2026-11-05T16:00:00+00:00,Jelenia Gora,Sleza Wroclaw,2026-11-03T16:18:59+00:00,2026-11-03T19:30:17+00:00
-1639510666,nkl,Lithuania - National Basketball League,2026-11-05T16:00:00+00:00,Neptunas-Akvaservis Klaipeda,Suduva-Mantinga,2026-11-03T19:18:45+00:00,2026-11-03T19:30:17+00:00
-1639510670,nkl,Lithuania - National Basketball League,2026-11-05T16:00:00+00:00,Vilkaviskis,Ukmerges Stekas,2026-11-03T19:18:45+00:00,2026-11-03T19:30:17+00:00
-1639510671,nkl,Lithuania - National Basketball League,2026-11-05T16:00:00+00:00,Mazeikiai M Basket,Vytis-VDU Sakiai,2026-11-03T18:16:27+00:00,2026-11-03T19:30:17+00:00
-1639525501,nkl,Lithuania - National Basketball League,2026-11-05T16:00:00+00:00,Alytaus Patriotai,Plunge Olimpas,2026-11-02T16:23:34+00:00,2026-11-03T19:30:17+00:00
-1639525502,nkl,Lithuania - National Basketball League,2026-11-05T16:00:00+00:00,BC Zalgiris Kaunas II,Vilnius Rytas-2,2026-11-02T16:23:34+00:00,2026-11-03T19:30:17+00:00
-1639527568,nkl,Lithuania - National Basketball League,2026-11-05T16:05:00+00:00,BC Telsiai,BC Silute,2026-11-03T18:16:27+00:00,2026-11-03T19:30:17+00:00
-1639855131,lkl,Lithuania - Lietuvos Krepsinio Lyga,2026-11-05T16:50:00+00:00,BC Jonava,Rytas Vilnius,2026-11-03T17:16:53+00:00,2026-11-03T19:30:17+00:00
-1639510684,,Finland - Division 1,2026-11-05T17:00:00+00:00,Pyrinto Akatemia A,Jyvaskyla Basketball Academy,2026-11-03T17:16:53+00:00,2026-11-03T19:30:17+00:00
-1639525517,aba,ABA - Adriatic League,2026-11-05T17:00:00+00:00,Spartak Subotica,KK Zadar,2026-11-02T20:53:28+00:00,2026-11-03T19:30:17+00:00
-1639527584,nkl,Lithuania - National Basketball League,2026-11-05T17:00:00+00:00,Kretingos Kretinga,BC Olimpas Palanga,2026-11-02T17:20:57+00:00,2026-11-03T19:30:17+00:00
-1639527585,nkl,Lithuania - National Basketball League,2026-11-05T17:00:00+00:00,Kedainiu SC,Atletas,2026-11-02T17:20:57+00:00,2026-11-03T19:30:17+00:00
-1639529603,nkl,Lithuania - National Basketball League,2026-11-05T18:00:00+00:00,Omega-Tauras,BC Jurbarkas-Karys,2026-11-02T18:23:21+00:00,2026-11-03T19:30:17+00:00
-1639559716,,Poland - 1. Liga,2026-11-05T18:00:00+00:00,Kotwica Kolobrzeg,KKK Mosir Krosno,2026-11-03T18:16:27+00:00,2026-11-03T19:30:17+00:00
-1639529621,bnxt,Europe - BNXT League,2026-11-05T19:30:00+00:00,Spirou Charleroi,Rotterdam City,2026-11-03T17:32:50+00:00,2026-11-03T19:30:17+00:00
+1639456057,eurocup_w,Europe - Eurocup Women,2026-11-04T16:00:00+00:00,MGS Panserraikos,AZS AJP Gorzow Wielkopolski,2026-11-03T14:17:55+00:00,2026-11-03T19:35:56+00:00
+1639456063,eurocup_w,Europe - Eurocup Women,2026-11-04T16:15:00+00:00,SBS Ostrava,Spar Citylift Girona,2026-11-03T14:17:55+00:00,2026-11-03T19:35:56+00:00
+1639456065,finland,Finland - Korisliiga,2026-11-04T16:30:00+00:00,Kipina Basket,KTP Basket Kotka,2026-11-02T16:54:55+00:00,2026-11-03T19:35:56+00:00
+1639461718,eurocup,Europe - Eurocup,2026-11-04T16:30:00+00:00,Turk Telekom,Skyliners Frankfurt,2026-11-03T14:02:12+00:00,2026-11-03T19:35:56+00:00
+1639461720,eurocup_w,Europe - Eurocup Women,2026-11-04T16:30:00+00:00,HBA-Marsky,Charnay Basket Bourgogne Sud,2026-11-03T14:17:55+00:00,2026-11-03T19:35:56+00:00
+1639465991,finland,Finland - Korisliiga,2026-11-04T16:30:00+00:00,Bisons Loimaa,Lahti Basketball,2026-11-02T16:54:55+00:00,2026-11-03T19:35:56+00:00
+1639465992,finland,Finland - Korisliiga,2026-11-04T16:30:00+00:00,Korihait Uusikaupunki,Kauhajoki Karhu Basket,2026-11-02T16:54:55+00:00,2026-11-03T19:35:56+00:00
+1639456078,eurocup_w,Europe - Eurocup Women,2026-11-04T17:00:00+00:00,Brandys nad Labem,ESB Villeneuve d´Ascq,2026-11-03T14:17:55+00:00,2026-11-03T19:35:56+00:00
+1639456082,eurocup,Europe - Eurocup,2026-11-04T17:00:00+00:00,Rigas Zelli,Le Mans Sarthe Basket,2026-11-03T14:02:12+00:00,2026-11-03T19:35:56+00:00
+1639456090,eurocup,Europe - Eurocup,2026-11-04T17:00:00+00:00,BC Lietkabelis Panevezys,Assignia Manresa,2026-11-03T14:02:12+00:00,2026-11-03T19:35:56+00:00
+1639456091,slovenia,Slovenia - 1. SKL,2026-11-04T17:00:00+00:00,Kk Rogaska,KD Ilirija,2026-11-02T17:20:57+00:00,2026-11-03T19:35:56+00:00
+1639461728,bcl,Europe - Champions League,2026-11-04T17:00:00+00:00,Legia Warszawa,Galatasaray,2026-11-02T17:05:20+00:00,2026-11-03T19:35:56+00:00
+1639461729,eurocup_w,Europe - Eurocup Women,2026-11-04T17:00:00+00:00,CS Universitatea Cluj,Reyer Venezia Mestre,2026-11-03T14:17:55+00:00,2026-11-03T19:35:56+00:00
+1639461730,bcl,Europe - Champions League,2026-11-04T17:00:00+00:00,Falco KC Szombathely,AEK Athens,2026-11-02T17:05:20+00:00,2026-11-03T19:35:56+00:00
+1639461733,eurocup_w,Europe - Eurocup Women,2026-11-04T17:00:00+00:00,Elitzur Ramla,TTT Riga,2026-11-03T14:17:55+00:00,2026-11-03T19:35:56+00:00
+1639466001,eurocup_w,Europe - Eurocup Women,2026-11-04T17:00:00+00:00,ZKK Celje,Magnolia Basket,2026-11-03T13:30:50+00:00,2026-11-03T19:35:56+00:00
+1639466003,eurocup_w,Europe - Eurocup Women,2026-11-04T17:00:00+00:00,MBK Ruzomberok,CB Avenida,2026-11-03T14:17:55+00:00,2026-11-03T19:35:56+00:00
+1639466004,czech,Czech Republic - NBL,2026-11-04T17:00:00+00:00,SK Slavia Prague ERA NBK,BK Decin,2026-11-02T17:20:57+00:00,2026-11-03T19:35:56+00:00
+1639466010,,Europe - ENBL,2026-11-04T17:00:00+00:00,Cso Voluntari,Fyllingen BK,2026-11-02T17:20:57+00:00,2026-11-03T19:35:56+00:00
+1639466011,czech,Czech Republic - NBL,2026-11-04T17:00:00+00:00,Basket Brno,Basketbal Olomouc,2026-11-02T17:20:57+00:00,2026-11-03T19:35:56+00:00
+1639577950,lat_est,Estonian - Latvian Basketball League,2026-11-04T17:00:00+00:00,BK Liepaja,Keila,2026-11-02T17:20:57+00:00,2026-11-03T19:35:56+00:00
+1639461740,eurocup,Europe - Eurocup,2026-11-04T17:30:00+00:00,KK Cedevita Olimpija Ljubljana,Derthona Basket,2026-11-03T14:02:12+00:00,2026-11-03T19:35:56+00:00
+1639461742,eurocup_w,Europe - Eurocup Women,2026-11-04T17:30:00+00:00,AEL Limassol,BK Zabiny Brno,2026-11-03T14:17:55+00:00,2026-11-03T19:35:56+00:00
+1639461744,,Denmark - Kvindebasketligaen,2026-11-04T17:30:00+00:00,Horsholm 79ers,BK Amager,2026-11-02T17:52:06+00:00,2026-11-03T19:35:56+00:00
+1639466014,eurocup_w,Europe - Eurocup Women,2026-11-04T17:30:00+00:00,Montana 2003 BC,Stars Keltern,2026-11-03T14:17:55+00:00,2026-11-03T19:35:56+00:00
+1639466016,denmark,Denmark - Basketligaen,2026-11-04T17:30:00+00:00,Bears Academy,Horsens IC,2026-11-02T17:52:06+00:00,2026-11-03T19:35:56+00:00
+1639466038,eurocup_w,Europe - Eurocup Women,2026-11-04T18:00:00+00:00,Student Nis,Sopron Basket,2026-11-03T14:17:55+00:00,2026-11-03T19:35:56+00:00
+1639466042,denmark,Denmark - Basketligaen,2026-11-04T18:00:00+00:00,Vaerlose BBK,Team FOG Naestved,2026-11-02T18:23:21+00:00,2026-11-03T19:35:56+00:00
+1639466043,sweden_w,Sweden - Basketligan Women,2026-11-04T18:00:00+00:00,Alvik Basket,Uppsala Basket,2026-11-02T18:23:21+00:00,2026-11-03T19:35:56+00:00
+1639471452,eurocup_w,Europe - Eurocup Women,2026-11-04T18:00:00+00:00,Saarlouis Royals,SL Benfica,2026-11-03T14:17:55+00:00,2026-11-03T19:35:56+00:00
+1639471453,,Europe - ENBL,2026-11-04T18:00:00+00:00,Kapfenberg Bulls,Mitteldeutscher BC,2026-11-02T18:23:21+00:00,2026-11-03T19:35:56+00:00
+1639471455,eurocup,Europe - Eurocup,2026-11-04T18:00:00+00:00,Slask Wroclaw,JL Bourg Basket,2026-11-03T14:02:12+00:00,2026-11-03T19:35:56+00:00
+1639471870,eurocup_w,Europe - Eurocup Women,2026-11-04T18:00:00+00:00,Castelnuovo Scrivia,Elfic Fribourg,2026-11-03T14:17:55+00:00,2026-11-03T19:35:56+00:00
+1639471872,eurocup_w,Europe - Eurocup Women,2026-11-04T18:00:00+00:00,Chartres,BC Namur Capitale,2026-11-03T14:17:55+00:00,2026-11-03T19:35:56+00:00
+1639471874,denmark,Denmark - Basketligaen,2026-11-04T18:00:00+00:00,BMS Herlev,Copenhagen,2026-11-02T18:23:21+00:00,2026-11-03T19:35:56+00:00
+1639466049,eurocup_w,Europe - Eurocup Women,2026-11-04T18:30:00+00:00,Panathlitikos,DVTK Miskolc,2026-11-03T14:17:55+00:00,2026-11-03T19:35:56+00:00
+1639466054,eurocup_w,Europe - Eurocup Women,2026-11-04T18:30:00+00:00,Polisportiva A Galli San Giovanni Valdarno,Royal Castors Braine,2026-11-03T14:17:55+00:00,2026-11-03T19:35:56+00:00
+1639466055,eurocup,Europe - Eurocup,2026-11-04T18:30:00+00:00,KK Bosna Royal Sarajevo,Balkan Botevgrad,2026-11-03T14:02:12+00:00,2026-11-03T19:35:56+00:00
+1639471464,eurocup_w,Europe - Eurocup Women,2026-11-04T18:30:00+00:00,Landerneau Bretagne Basket,AZS Poznan,2026-11-03T14:17:55+00:00,2026-11-03T19:35:56+00:00
+1639471465,eurocup_w,Europe - Eurocup Women,2026-11-04T18:30:00+00:00,Alba Berlin,Panathinaikos BC,2026-11-03T14:17:55+00:00,2026-11-03T19:35:56+00:00
+1639471466,eurocup_w,Europe - Eurocup Women,2026-11-04T18:30:00+00:00,Nyon Basket,Valosun KP Brno,2026-11-03T14:17:55+00:00,2026-11-03T19:35:56+00:00
+1639466071,bcl,Europe - Champions League,2026-11-04T19:00:00+00:00,Baskets Bonn,Bnei Herzliya,2026-11-02T19:10:32+00:00,2026-11-03T19:35:56+00:00
+1639466074,eurocup,Europe - Eurocup,2026-11-04T19:00:00+00:00,Hapoel Jerusalem,Aris Thessaloniki BC,2026-11-03T14:02:12+00:00,2026-11-03T19:35:56+00:00
+1639471475,euroleague_w,Europe - Euroleague Women,2026-11-04T19:00:00+00:00,PF Schio,Galatasaray,2026-11-03T14:02:12+00:00,2026-11-03T19:35:56+00:00
+1639471478,eurocup,Europe - Eurocup,2026-11-04T19:00:00+00:00,Reyer Venezia,BC Siauliai,2026-11-03T14:02:12+00:00,2026-11-03T19:35:56+00:00
+1639471480,eurocup_w,Europe - Eurocup Women,2026-11-04T19:00:00+00:00,Porta XI Ensino,Basket Lattes Montpellier,2026-11-03T14:17:55+00:00,2026-11-03T19:35:56+00:00
+1639471482,denmark,Denmark - Basketligaen,2026-11-04T19:00:00+00:00,Gladsaxe BK,Holbaek,2026-11-02T19:26:02+00:00,2026-11-03T19:35:56+00:00
+1639471890,eurocup_w,Europe - Eurocup Women,2026-11-04T19:00:00+00:00,ZKK Brod Na Savi,Cb Jairis,2026-11-03T14:17:55+00:00,2026-11-03T19:35:56+00:00
+1639855027,,France - Nationale 1,2026-11-04T19:00:00+00:00,Boulogne Sur Mer,Mulhouse,2026-11-03T06:57:25+00:00,2026-11-03T19:35:56+00:00
+1639466079,eurocup,Europe - Eurocup,2026-11-04T19:30:00+00:00,Maxima Roma,London Lions,2026-11-03T14:02:12+00:00,2026-11-03T19:35:56+00:00
+1639466080,eurocup,Europe - Eurocup,2026-11-04T19:30:00+00:00,CB San Pablo Burgos,Rostock Seawolves,2026-11-03T14:02:12+00:00,2026-11-03T19:35:56+00:00
+1639471495,,France - Nationale 1,2026-11-04T19:30:00+00:00,Laval,Toulouse,2026-11-02T19:56:46+00:00,2026-11-03T19:35:56+00:00
+1639471905,,Switzerland - SB League Women,2026-11-04T19:30:00+00:00,Geneva Elite Basket,Esperance Sportive Pully,2026-11-02T19:56:46+00:00,2026-11-03T19:35:56+00:00
+1639773913,euroleague_w,Europe - Euroleague Women,2026-11-04T19:30:00+00:00,Kangoeroes Mechelen,Crvena Zvezda,2026-11-03T14:17:55+00:00,2026-11-03T19:35:56+00:00
+1639891342,,Switzerland - NLB,2026-11-04T19:30:00+00:00,Swiss Central Basket,Lugano Tigers U23,2026-11-03T18:16:27+00:00,2026-11-03T19:35:56+00:00
+1639375297,euroleague,Europe - Euroleague,2026-11-04T19:45:00+00:00,Real Madrid,Panathinaikos BC,2026-11-03T14:49:08+00:00,2026-11-03T19:35:56+00:00
+1639471913,eurocup_w,Europe - Eurocup Women,2026-11-04T19:45:00+00:00,Maccabi Ashdod,Besiktas JK,2026-11-03T14:17:55+00:00,2026-11-03T19:35:56+00:00
+1639797997,it_a2,Italy - Serie A2,2026-11-04T19:45:00+00:00,Libertas Livorno,Benedetto XIV Cento,2026-11-02T19:56:46+00:00,2026-11-03T19:35:56+00:00
+1639476202,,Portugal - Division 1 Women,2026-11-04T21:30:00+00:00,CLIP,SC Coimbroes II,2026-11-03T14:33:39+00:00,2026-11-03T19:35:56+00:00
+1638230175,poland_w,Poland - BLK Women,2026-11-05T16:00:00+00:00,Jelenia Gora,Sleza Wroclaw,2026-11-03T16:18:59+00:00,2026-11-03T19:35:56+00:00
+1639510666,nkl,Lithuania - National Basketball League,2026-11-05T16:00:00+00:00,Neptunas-Akvaservis Klaipeda,Suduva-Mantinga,2026-11-03T19:18:45+00:00,2026-11-03T19:35:56+00:00
+1639510670,nkl,Lithuania - National Basketball League,2026-11-05T16:00:00+00:00,Vilkaviskis,Ukmerges Stekas,2026-11-03T19:18:45+00:00,2026-11-03T19:35:56+00:00
+1639510671,nkl,Lithuania - National Basketball League,2026-11-05T16:00:00+00:00,Mazeikiai M Basket,Vytis-VDU Sakiai,2026-11-03T18:16:27+00:00,2026-11-03T19:35:56+00:00
+1639525501,nkl,Lithuania - National Basketball League,2026-11-05T16:00:00+00:00,Alytaus Patriotai,Plunge Olimpas,2026-11-02T16:23:34+00:00,2026-11-03T19:35:56+00:00
+1639525502,nkl,Lithuania - National Basketball League,2026-11-05T16:00:00+00:00,BC Zalgiris Kaunas II,Vilnius Rytas-2,2026-11-02T16:23:34+00:00,2026-11-03T19:35:56+00:00
+1639527568,nkl,Lithuania - National Basketball League,2026-11-05T16:05:00+00:00,BC Telsiai,BC Silute,2026-11-03T18:16:27+00:00,2026-11-03T19:35:56+00:00
+1639855131,lkl,Lithuania - Lietuvos Krepsinio Lyga,2026-11-05T16:50:00+00:00,BC Jonava,Rytas Vilnius,2026-11-03T17:16:53+00:00,2026-11-03T19:35:56+00:00
+1639510684,,Finland - Division 1,2026-11-05T17:00:00+00:00,Pyrinto Akatemia A,Jyvaskyla Basketball Academy,2026-11-03T17:16:53+00:00,2026-11-03T19:35:56+00:00
+1639525517,aba,ABA - Adriatic League,2026-11-05T17:00:00+00:00,Spartak Subotica,KK Zadar,2026-11-02T20:53:28+00:00,2026-11-03T19:35:56+00:00
+1639527584,nkl,Lithuania - National Basketball League,2026-11-05T17:00:00+00:00,Kretingos Kretinga,BC Olimpas Palanga,2026-11-02T17:20:57+00:00,2026-11-03T19:35:56+00:00
+1639527585,nkl,Lithuania - National Basketball League,2026-11-05T17:00:00+00:00,Kedainiu SC,Atletas,2026-11-02T17:20:57+00:00,2026-11-03T19:35:56+00:00
+1639529603,nkl,Lithuania - National Basketball League,2026-11-05T18:00:00+00:00,Omega-Tauras,BC Jurbarkas-Karys,2026-11-02T18:23:21+00:00,2026-11-03T19:35:56+00:00
+1639559716,,Poland - 1. Liga,2026-11-05T18:00:00+00:00,Kotwica Kolobrzeg,KKK Mosir Krosno,2026-11-03T18:16:27+00:00,2026-11-03T19:35:56+00:00
+1639529621,bnxt,Europe - BNXT League,2026-11-05T19:30:00+00:00,Spirou Charleroi,Rotterdam City,2026-11-03T17:32:50+00:00,2026-11-03T19:35:56+00:00
 1639400893,,France - Cup,2026-11-09T18:00:00+00:00,Boulogne Sur Mer,Rennes,2026-10-30T16:05:20+00:00,2026-11-03T19:12:55+00:00
-1639400894,,France - Cup,2026-11-10T19:00:00+00:00,Poitiers,Caen Basket Calvados,2026-10-30T16:05:20+00:00,2026-11-03T19:30:17+00:00
+1639400894,,France - Cup,2026-11-10T19:00:00+00:00,Poitiers,Caen Basket Calvados,2026-10-30T16:05:20+00:00,2026-11-03T19:35:56+00:00
