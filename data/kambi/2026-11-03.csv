@@ -21,3 +21,6 @@ ts,event_id,group,home,away,start,type,line,dec_1,dec_2,pin_matchup_id,match_sco
 2026-11-03T04:55:27+00:00,1028312651,finland/korisliiga,Korihait,Kauhajoki,2026-11-04T16:30:00+00:00,spread,-0.5,1.94,1.82,1639465992,100.0
 2026-11-03T04:55:27+00:00,1028312651,finland/korisliiga,Korihait,Kauhajoki,2026-11-04T16:30:00+00:00,total,171.5,1.88,1.82,1639465992,100.0
 2026-11-03T05:10:37+00:00,1028405557,eurocup,Tofaş,BC Neptūnas,2026-11-03T17:00:00+00:00,total,174.5,1.84,1.86,1639353424,100.0
+2026-11-03T05:26:21+00:00,1028492459,fiba_champions_league,Legia Warszawa,Galatasaray S.K.,2026-11-04T17:00:00+00:00,moneyline,,2.48,1.52,1639461728,100.0
+2026-11-03T05:26:21+00:00,1028492459,fiba_champions_league,Legia Warszawa,Galatasaray S.K.,2026-11-04T17:00:00+00:00,spread,3.5,1.96,1.81,1639461728,100.0
+2026-11-03T05:26:21+00:00,1028492459,fiba_champions_league,Legia Warszawa,Galatasaray S.K.,2026-11-04T17:00:00+00:00,total,167.5,1.83,1.87,1639461728,100.0
