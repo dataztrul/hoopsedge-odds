@@ -168,3 +168,5 @@ ts,event_id,group,home,away,start,type,line,dec_1,dec_2,pin_matchup_id,match_sco
 2026-11-03T13:10:06+00:00,1029619092,mexico/lnbp,Fuerza Regia de Monterey,Astros de Jalisco,2026-11-04T02:15:00+00:00,moneyline,,2.02,1.7,,0.0
 2026-11-03T13:10:06+00:00,1029619092,mexico/lnbp,Fuerza Regia de Monterey,Astros de Jalisco,2026-11-04T02:15:00+00:00,spread,1.5,1.89,1.81,,0.0
 2026-11-03T13:10:06+00:00,1029619092,mexico/lnbp,Fuerza Regia de Monterey,Astros de Jalisco,2026-11-04T02:15:00+00:00,total,175.5,2.0,1.71,,0.0
+2026-11-03T13:20:22+00:00,1028405590,eurocup,Budućnost Podgorica,BV Chemnitz 99,2026-11-03T18:00:00+00:00,spread,-8.5,1.83,1.93,1639374166,89.1
+2026-11-03T13:20:22+00:00,1028405590,eurocup,Budućnost Podgorica,BV Chemnitz 99,2026-11-03T18:00:00+00:00,total,172.5,1.81,1.89,1639374166,89.1
