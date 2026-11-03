@@ -367,3 +367,8 @@ ts,event_id,group,home,away,start,type,line,dec_1,dec_2,pin_matchup_id,match_sco
 2026-11-03T18:55:48+00:00,1029299362,fiba_europe_cup,Nancy SLUC,Keravnos Nicosia,2026-11-03T19:00:00+00:00,total,162.5,1.75,1.96,1639375258,100.0
 2026-11-03T18:55:48+00:00,1028646536,germany/bbl,FC Bayern München,Basketball Löwen Braunschweig,2026-11-03T19:00:00+00:00,spread,-22.5,1.9,1.8,1639374180,94.4
 2026-11-03T18:55:48+00:00,1028646536,germany/bbl,FC Bayern München,Basketball Löwen Braunschweig,2026-11-03T19:00:00+00:00,total,173.5,2.0,1.73,1639374180,94.4
+2026-11-03T19:01:16+00:00,1029735939,eurocup,KK Bosna,Balkan Botevgrad,2026-11-04T18:30:00+00:00,moneyline,,1.14,5.1,1639466055,100.0
+2026-11-03T19:01:16+00:00,1029735939,eurocup,KK Bosna,Balkan Botevgrad,2026-11-04T18:30:00+00:00,spread,-11.5,1.9,1.86,1639466055,100.0
+2026-11-03T19:01:16+00:00,1029735939,eurocup,KK Bosna,Balkan Botevgrad,2026-11-04T18:30:00+00:00,total,161.5,1.85,1.85,1639466055,100.0
+2026-11-03T19:01:16+00:00,1029343948,eurocup__w_,Star Center-Uni Ferrol (W),Olympiacos Piraeus BC (W),2026-11-03T19:15:00+00:00,moneyline,,2.15,1.62,1639374189,100.0
+2026-11-03T19:01:16+00:00,1029343948,eurocup__w_,Star Center-Uni Ferrol (W),Olympiacos Piraeus BC (W),2026-11-03T19:15:00+00:00,spread,2.5,1.85,1.85,1639374189,100.0
