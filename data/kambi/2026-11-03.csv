@@ -47,3 +47,12 @@ ts,event_id,group,home,away,start,type,line,dec_1,dec_2,pin_matchup_id,match_sco
 2026-11-03T07:12:36+00:00,1029299362,fiba_europe_cup,Nancy SLUC,Keravnos Nicosia,2026-11-03T19:00:00+00:00,moneyline,,1.03,8.5,1639375258,100.0
 2026-11-03T07:12:36+00:00,1029299362,fiba_europe_cup,Nancy SLUC,Keravnos Nicosia,2026-11-03T19:00:00+00:00,spread,-15.5,1.68,2.05,1639375258,100.0
 2026-11-03T07:12:36+00:00,1029299362,fiba_europe_cup,Nancy SLUC,Keravnos Nicosia,2026-11-03T19:00:00+00:00,total,158.5,1.75,1.96,1639375258,100.0
+2026-11-03T07:27:47+00:00,1028405616,eurocup,Ulm Basketball,Bahcesehir Koleji,2026-11-03T18:30:00+00:00,moneyline,,2.9,1.37,1639363859,100.0
+2026-11-03T07:27:47+00:00,1028405616,eurocup,Ulm Basketball,Bahcesehir Koleji,2026-11-03T18:30:00+00:00,spread,6.5,1.83,1.94,1639363859,100.0
+2026-11-03T07:27:47+00:00,1029246923,euroleague__w_,Famila Schio (W),Galatasaray S.K. (W),2026-11-04T19:00:00+00:00,moneyline,,1.38,2.75,,65.4
+2026-11-03T07:27:47+00:00,1029246923,euroleague__w_,Famila Schio (W),Galatasaray S.K. (W),2026-11-04T19:00:00+00:00,spread,-5.5,1.86,1.84,,65.4
+2026-11-03T07:27:47+00:00,1029246923,euroleague__w_,Famila Schio (W),Galatasaray S.K. (W),2026-11-04T19:00:00+00:00,total,143.5,1.86,1.84,,65.4
+2026-11-03T07:27:47+00:00,1029396129,fiba_europe_cup,Club Basquet Girona 2014,BK Levickí Patrioti,2026-11-03T19:00:00+00:00,moneyline,,1.03,8.5,1639374188,94.1
+2026-11-03T07:27:47+00:00,1029396129,fiba_europe_cup,Club Basquet Girona 2014,BK Levickí Patrioti,2026-11-03T19:00:00+00:00,spread,-15.5,1.63,2.14,1639374188,94.1
+2026-11-03T07:27:47+00:00,1029299362,fiba_europe_cup,Nancy SLUC,Keravnos Nicosia,2026-11-03T19:00:00+00:00,spread,-17.5,1.85,1.85,1639375258,100.0
+2026-11-03T07:27:47+00:00,1029299362,fiba_europe_cup,Nancy SLUC,Keravnos Nicosia,2026-11-03T19:00:00+00:00,total,162.5,1.87,1.83,1639375258,100.0
