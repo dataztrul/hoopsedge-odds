@@ -30,3 +30,6 @@ ts,event_id,group,home,away,start,type,line,dec_1,dec_2,pin_matchup_id,match_sco
 2026-11-03T05:41:31+00:00,1028300980,denmark/basketligaen,EBAA,Horsens IC,2026-11-04T17:30:00+00:00,moneyline,,7.5,1.04,,67.6
 2026-11-03T05:41:31+00:00,1028300980,denmark/basketligaen,EBAA,Horsens IC,2026-11-04T17:30:00+00:00,spread,16.5,1.84,1.86,,67.6
 2026-11-03T05:41:31+00:00,1028300980,denmark/basketligaen,EBAA,Horsens IC,2026-11-04T17:30:00+00:00,total,165.5,1.91,1.79,,67.6
+2026-11-03T06:11:52+00:00,1028492459,fiba_champions_league,Legia Warszawa,Galatasaray S.K.,2026-11-04T17:00:00+00:00,moneyline,,2.8,1.42,1639461728,100.0
+2026-11-03T06:11:52+00:00,1028492459,fiba_champions_league,Legia Warszawa,Galatasaray S.K.,2026-11-04T17:00:00+00:00,spread,3.5,2.16,1.66,1639461728,100.0
+2026-11-03T06:11:52+00:00,1028492459,fiba_champions_league,Legia Warszawa,Galatasaray S.K.,2026-11-04T17:00:00+00:00,total,167.5,1.84,1.86,1639461728,100.0
