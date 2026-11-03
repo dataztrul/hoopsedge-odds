@@ -343,3 +343,17 @@ ts,event_id,group,home,away,start,type,line,dec_1,dec_2,pin_matchup_id,match_sco
 2026-11-03T18:38:55+00:00,1028405589,eurocup,GeVi Napoli,Dolomiti Energia Trento,2026-11-03T19:00:00+00:00,total,177.5,1.87,1.83,1639375256,81.6
 2026-11-03T18:44:35+00:00,1028405589,eurocup,GeVi Napoli,Dolomiti Energia Trento,2026-11-03T19:00:00+00:00,moneyline,,1.24,3.75,1639375256,81.6
 2026-11-03T18:44:35+00:00,1028405589,eurocup,GeVi Napoli,Dolomiti Energia Trento,2026-11-03T19:00:00+00:00,spread,-8.5,1.83,1.93,1639375256,81.6
+2026-11-03T18:50:13+00:00,1028562772,euroleague,Hapoel Tel Aviv,FC Barcelona,2026-11-05T18:45:00+00:00,total,177.5,1.92,1.88,,41.2
+2026-11-03T18:50:13+00:00,1028492471,fiba_champions_league,Strasbourg,Cibona Zagreb,2026-11-03T19:00:00+00:00,moneyline,,1.26,3.65,1639375255,100.0
+2026-11-03T18:50:13+00:00,1028492471,fiba_champions_league,Strasbourg,Cibona Zagreb,2026-11-03T19:00:00+00:00,spread,-8.5,1.9,1.86,1639375255,100.0
+2026-11-03T18:50:13+00:00,1028492471,fiba_champions_league,Strasbourg,Cibona Zagreb,2026-11-03T19:00:00+00:00,total,166.5,1.86,1.84,1639375255,100.0
+2026-11-03T18:50:13+00:00,1029246975,euroleague__w_,Bourges Basket (W),USK Praha (W),2026-11-03T19:00:00+00:00,moneyline,,2.02,1.71,1639363869,79.2
+2026-11-03T18:50:13+00:00,1029246975,euroleague__w_,Bourges Basket (W),USK Praha (W),2026-11-03T19:00:00+00:00,spread,1.5,1.87,1.83,1639363869,79.2
+2026-11-03T18:50:13+00:00,1029246975,euroleague__w_,Bourges Basket (W),USK Praha (W),2026-11-03T19:00:00+00:00,total,145.5,1.83,1.87,1639363869,79.2
+2026-11-03T18:50:13+00:00,1029396129,fiba_europe_cup,Club Basquet Girona 2014,BK Levickí Patrioti,2026-11-03T19:00:00+00:00,moneyline,,1.05,8.0,1639374188,94.1
+2026-11-03T18:50:13+00:00,1029396129,fiba_europe_cup,Club Basquet Girona 2014,BK Levickí Patrioti,2026-11-03T19:00:00+00:00,spread,-17.5,1.84,1.86,1639374188,94.1
+2026-11-03T18:50:13+00:00,1029396129,fiba_europe_cup,Club Basquet Girona 2014,BK Levickí Patrioti,2026-11-03T19:00:00+00:00,total,170.5,1.9,1.8,1639374188,94.1
+2026-11-03T18:50:13+00:00,1029299362,fiba_europe_cup,Nancy SLUC,Keravnos Nicosia,2026-11-03T19:00:00+00:00,moneyline,,1.08,6.5,1639375258,100.0
+2026-11-03T18:50:13+00:00,1029299362,fiba_europe_cup,Nancy SLUC,Keravnos Nicosia,2026-11-03T19:00:00+00:00,spread,-15.5,1.93,1.78,1639375258,100.0
+2026-11-03T18:50:13+00:00,1028646536,germany/bbl,FC Bayern München,Basketball Löwen Braunschweig,2026-11-03T19:00:00+00:00,spread,-22.5,1.88,1.82,1639374180,94.4
+2026-11-03T18:50:13+00:00,1028646536,germany/bbl,FC Bayern München,Basketball Löwen Braunschweig,2026-11-03T19:00:00+00:00,total,174.5,1.96,1.75,1639374180,94.4
