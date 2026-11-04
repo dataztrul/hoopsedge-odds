@@ -379,3 +379,9 @@ ts,event_id,group,home,away,start,type,line,dec_1,dec_2,pin_matchup_id,match_sco
 2026-11-04T12:55:28+00:00,1029336750,fiba_europe_cup,Lokomotiv Plovdiv 1926,Neftchi IK,2026-11-04T17:00:00+00:00,spread,-9.5,1.85,1.85,1639456079,100.0
 2026-11-04T12:55:28+00:00,1029410916,fiba_europe_cup,SCM Craiova,Gence BK,2026-11-04T17:00:00+00:00,total,164.5,1.7,2.02,1639461735,88.9
 2026-11-04T13:05:40+00:00,1028562724,euroleague,Anadolu Efes,Paris Basket,2026-11-05T17:15:00+00:00,spread,-6.5,1.87,1.93,,38.4
+2026-11-04T13:15:52+00:00,1028405587,eurocup,WKS Śląsk Wrocław,Bourg-en-Bresse,2026-11-04T18:00:00+00:00,moneyline,,2.95,1.36,1639471455,79.8
+2026-11-04T13:15:52+00:00,1028405587,eurocup,WKS Śląsk Wrocław,Bourg-en-Bresse,2026-11-04T18:00:00+00:00,spread,6.5,1.85,1.92,1639471455,79.8
+2026-11-04T13:15:52+00:00,1028492455,fiba_champions_league,Szombathely,AEK B.C.,2026-11-04T17:00:00+00:00,total,169.5,2.05,1.68,1639461730,80.0
+2026-11-04T13:15:52+00:00,1028312648,finland/korisliiga,Kipina,KTP-Basket,2026-11-04T16:30:00+00:00,moneyline,,2.55,1.48,1639456065,100.0
+2026-11-04T13:15:52+00:00,1028312648,finland/korisliiga,Kipina,KTP-Basket,2026-11-04T16:30:00+00:00,spread,3.5,2.05,1.74,1639456065,100.0
+2026-11-04T13:15:52+00:00,1028312648,finland/korisliiga,Kipina,KTP-Basket,2026-11-04T16:30:00+00:00,total,181.5,1.84,1.87,1639456065,100.0
