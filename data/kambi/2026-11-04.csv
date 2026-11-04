@@ -367,3 +367,14 @@ ts,event_id,group,home,away,start,type,line,dec_1,dec_2,pin_matchup_id,match_sco
 2026-11-04T12:45:16+00:00,1029336750,fiba_europe_cup,Lokomotiv Plovdiv 1926,Neftchi IK,2026-11-04T17:00:00+00:00,total,166.5,1.85,1.85,1639456079,100.0
 2026-11-04T12:45:16+00:00,1029299245,fiba_europe_cup,Gladiators Trier,KB Trepça,2026-11-04T19:00:00+00:00,spread,-17.5,2.0,1.73,1639471483,85.7
 2026-11-04T12:45:16+00:00,1029299245,fiba_europe_cup,Gladiators Trier,KB Trepça,2026-11-04T19:00:00+00:00,total,176.5,2.1,1.65,1639471483,85.7
+2026-11-04T12:55:28+00:00,1028562724,euroleague,Anadolu Efes,Paris Basket,2026-11-05T17:15:00+00:00,moneyline,,1.36,3.1,,38.4
+2026-11-04T12:55:28+00:00,1028562724,euroleague,Anadolu Efes,Paris Basket,2026-11-05T17:15:00+00:00,spread,-6.5,1.88,1.92,,38.4
+2026-11-04T12:55:28+00:00,1028562724,euroleague,Anadolu Efes,Paris Basket,2026-11-05T17:15:00+00:00,total,176.5,1.89,1.91,,38.4
+2026-11-04T12:55:28+00:00,1028405622,eurocup,BC Lietkabelis,BAXI Manresa,2026-11-04T17:00:00+00:00,moneyline,,1.92,1.81,1639456090,86.8
+2026-11-04T12:55:28+00:00,1028405622,eurocup,BC Lietkabelis,BAXI Manresa,2026-11-04T17:00:00+00:00,spread,0.5,1.94,1.83,1639456090,86.8
+2026-11-04T12:55:28+00:00,1028405622,eurocup,BC Lietkabelis,BAXI Manresa,2026-11-04T17:00:00+00:00,total,170.5,1.89,1.81,1639456090,86.8
+2026-11-04T12:55:28+00:00,1029335964,euroleague__w_,Kangoeroes Basket Mechelen (W),ZKK Crvena Zvezda (W),2026-11-04T19:30:00+00:00,moneyline,,10.5,1.03,1639773913,100.0
+2026-11-04T12:55:28+00:00,1029335964,euroleague__w_,Kangoeroes Basket Mechelen (W),ZKK Crvena Zvezda (W),2026-11-04T19:30:00+00:00,spread,17.5,2.02,1.7,1639773913,100.0
+2026-11-04T12:55:28+00:00,1029336750,fiba_europe_cup,Lokomotiv Plovdiv 1926,Neftchi IK,2026-11-04T17:00:00+00:00,moneyline,,1.21,3.9,1639456079,100.0
+2026-11-04T12:55:28+00:00,1029336750,fiba_europe_cup,Lokomotiv Plovdiv 1926,Neftchi IK,2026-11-04T17:00:00+00:00,spread,-9.5,1.85,1.85,1639456079,100.0
+2026-11-04T12:55:28+00:00,1029410916,fiba_europe_cup,SCM Craiova,Gence BK,2026-11-04T17:00:00+00:00,total,164.5,1.7,2.02,1639461735,88.9
