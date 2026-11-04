@@ -693,3 +693,10 @@ ts,event_id,group,home,away,start,type,line,dec_1,dec_2,pin_matchup_id,match_sco
 2026-11-04T19:18:38+00:00,1029335964,euroleague__w_,Kangoeroes Basket Mechelen (W),ZKK Crvena Zvezda (W),2026-11-04T19:30:00+00:00,total,148.5,1.89,1.82,1639773913,100.0
 2026-11-04T19:18:38+00:00,1028635614,italy/serie_a2,Reale Mutua Torino,Montecatiniterme Basket,2026-11-04T19:30:00+00:00,moneyline,,1.13,4.75,1639709236,84.4
 2026-11-04T19:18:38+00:00,1028635614,italy/serie_a2,Reale Mutua Torino,Montecatiniterme Basket,2026-11-04T19:30:00+00:00,spread,-11.5,1.88,1.77,1639709236,84.4
+2026-11-04T19:28:59+00:00,1028562720,euroleague,Real Madrid Baloncesto,Panathinaikos,2026-11-04T19:45:00+00:00,moneyline,,2.17,1.68,1639375297,100.0
+2026-11-04T19:28:59+00:00,1028562720,euroleague,Real Madrid Baloncesto,Panathinaikos,2026-11-04T19:45:00+00:00,spread,2.5,1.88,1.92,1639375297,100.0
+2026-11-04T19:28:59+00:00,1028562720,euroleague,Real Madrid Baloncesto,Panathinaikos,2026-11-04T19:45:00+00:00,total,172.5,1.88,1.92,1639375297,100.0
+2026-11-04T19:28:59+00:00,1028405428,eurocup,San Pablo Burgos,Rostock Seawolves,2026-11-04T19:34:00+00:00,moneyline,,1.38,2.88,1639466080,100.0
+2026-11-04T19:28:59+00:00,1028405428,eurocup,San Pablo Burgos,Rostock Seawolves,2026-11-04T19:34:00+00:00,spread,-6.5,1.95,1.81,1639466080,100.0
+2026-11-04T19:28:59+00:00,1029299287,fiba_europe_cup,BC Oostende,Szolnoki Olaj,2026-11-04T19:34:00+00:00,total,164.5,2.02,1.7,1639471904,100.0
+2026-11-04T19:28:59+00:00,1028635556,italy/serie_a2,Libertas Livorno,Tramec Cento,2026-11-04T19:45:00+00:00,total,154.5,1.84,1.8,1639797997,79.4
