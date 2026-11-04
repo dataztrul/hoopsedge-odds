@@ -719,3 +719,5 @@ ts,event_id,group,home,away,start,type,line,dec_1,dec_2,pin_matchup_id,match_sco
 2026-11-04T22:53:21+00:00,1029005687,brazil/nbb,Mogi das Cruzes,Basquete Cearense,2026-11-04T23:00:00+00:00,spread,-27.5,1.84,1.86,,23.0
 2026-11-04T22:53:21+00:00,1029005691,brazil/nbb,Brasília Basquete,Flamengo,2026-11-04T23:15:00+00:00,moneyline,,2.55,1.45,,18.2
 2026-11-04T22:53:21+00:00,1029005691,brazil/nbb,Brasília Basquete,Flamengo,2026-11-04T23:15:00+00:00,spread,4.5,1.88,1.82,,18.2
+2026-11-04T23:08:29+00:00,1029005691,brazil/nbb,Brasília Basquete,Flamengo,2026-11-04T23:15:00+00:00,moneyline,,2.85,1.37,,18.2
+2026-11-04T23:08:29+00:00,1029005691,brazil/nbb,Brasília Basquete,Flamengo,2026-11-04T23:15:00+00:00,spread,5.5,1.92,1.79,,18.2
