@@ -319,3 +319,5 @@ ts,event_id,group,home,away,start,type,line,dec_1,dec_2,pin_matchup_id,match_sco
 2026-11-04T10:08:49+00:00,1029286069,eurocup__w_,Nyon Basket Féminin (W),Valosun KP Brno (W),2026-11-04T18:30:00+00:00,total,145.5,1.98,1.74,1639471466,100.0
 2026-11-04T10:08:49+00:00,1029344139,eurocup__w_,Porta XI Ensino (W),Basket Lattes Montpellier (W),2026-11-04T19:00:00+00:00,moneyline,,4.9,1.14,1639471480,100.0
 2026-11-04T10:08:49+00:00,1029344139,eurocup__w_,Porta XI Ensino (W),Basket Lattes Montpellier (W),2026-11-04T19:00:00+00:00,spread,11.5,1.82,1.88,1639471480,100.0
+2026-11-04T10:20:08+00:00,1029299395,fiba_europe_cup,Valmiera Glass VIA,Manchester Basketball,2026-11-04T17:00:00+00:00,moneyline,,1.5,2.4,1639461737,100.0
+2026-11-04T10:20:08+00:00,1029299395,fiba_europe_cup,Valmiera Glass VIA,Manchester Basketball,2026-11-04T17:00:00+00:00,spread,-3.5,1.79,1.91,1639461737,100.0
