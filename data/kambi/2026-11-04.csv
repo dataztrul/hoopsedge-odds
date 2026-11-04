@@ -421,3 +421,7 @@ ts,event_id,group,home,away,start,type,line,dec_1,dec_2,pin_matchup_id,match_sco
 2026-11-04T14:27:49+00:00,1028405530,eurocup,La Laguna Tenerife,Universitatea Cluj-Napoca,2026-11-05T20:00:00+00:00,total,172.5,1.87,1.83,1639527633,100.0
 2026-11-04T14:27:49+00:00,1029335964,euroleague__w_,Kangoeroes Basket Mechelen (W),ZKK Crvena Zvezda (W),2026-11-04T19:30:00+00:00,spread,17.5,2.05,1.68,1639773913,100.0
 2026-11-04T14:27:49+00:00,1029335964,euroleague__w_,Kangoeroes Basket Mechelen (W),ZKK Crvena Zvezda (W),2026-11-04T19:30:00+00:00,total,145.5,1.75,1.96,1639773913,100.0
+2026-11-04T14:38:01+00:00,1029190943,denmark/basketligaen,Gladsaxe,Holbaek-Stenhus,2026-11-04T19:00:00+00:00,moneyline,,1.4,2.7,1639471482,100.0
+2026-11-04T14:38:01+00:00,1029190943,denmark/basketligaen,Gladsaxe,Holbaek-Stenhus,2026-11-04T19:00:00+00:00,spread,-4.5,1.73,1.98,1639471482,100.0
+2026-11-04T14:38:01+00:00,1029674083,eurocup__w_,Helmi Basket HBA (W),Charnay Basket (W),2026-11-04T16:30:00+00:00,spread,29.5,1.86,1.84,1639461720,76.3
+2026-11-04T14:38:01+00:00,1029674083,eurocup__w_,Helmi Basket HBA (W),Charnay Basket (W),2026-11-04T16:30:00+00:00,total,151.5,1.76,1.95,1639461720,76.3
