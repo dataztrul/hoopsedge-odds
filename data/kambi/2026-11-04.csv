@@ -340,3 +340,6 @@ ts,event_id,group,home,away,start,type,line,dec_1,dec_2,pin_matchup_id,match_sco
 2026-11-04T11:33:54+00:00,1028312654,finland/korisliiga,Bisons Loimaa,Lahti Basketball,2026-11-04T16:30:00+00:00,total,166.5,1.87,1.83,1639465991,100.0
 2026-11-04T11:44:06+00:00,1028722038,czech_republic/nbl,BLK Slavia Praha,BK Děčín,2026-11-04T17:00:00+00:00,spread,-19.5,1.72,2.0,1639466004,85.1
 2026-11-04T11:44:06+00:00,1029299395,fiba_europe_cup,Valmiera Glass VIA,Manchester Basketball,2026-11-04T17:00:00+00:00,total,164.5,1.67,2.07,1639461737,100.0
+2026-11-04T12:04:29+00:00,1028492459,fiba_champions_league,Legia Warszawa,Galatasaray S.K.,2026-11-04T17:00:00+00:00,moneyline,,3.5,1.28,1639461728,100.0
+2026-11-04T12:04:29+00:00,1028492459,fiba_champions_league,Legia Warszawa,Galatasaray S.K.,2026-11-04T17:00:00+00:00,spread,8.5,1.83,1.94,1639461728,100.0
+2026-11-04T12:04:29+00:00,1028492459,fiba_champions_league,Legia Warszawa,Galatasaray S.K.,2026-11-04T17:00:00+00:00,total,166.5,1.87,1.83,1639461728,100.0
