@@ -103,3 +103,9 @@ ts,event_id,group,home,away,start,type,line,dec_1,dec_2,pin_matchup_id,match_sco
 2026-11-04T07:04:29+00:00,1029299422,fiba_europe_cup,Fribourg Olympic,VEF Riga,2026-11-04T19:00:00+00:00,moneyline,,3.5,1.25,,50.6
 2026-11-04T07:04:29+00:00,1029299422,fiba_europe_cup,Fribourg Olympic,VEF Riga,2026-11-04T19:00:00+00:00,spread,8.5,1.82,1.88,,50.6
 2026-11-04T07:04:29+00:00,1029299422,fiba_europe_cup,Fribourg Olympic,VEF Riga,2026-11-04T19:00:00+00:00,total,166.5,1.89,1.81,,50.6
+2026-11-04T07:19:41+00:00,1029299391,fiba_europe_cup,Elan Chalon,Bigbank/Kalev,2026-11-04T19:00:00+00:00,moneyline,,1.03,8.5,,41.1
+2026-11-04T07:19:41+00:00,1029299391,fiba_europe_cup,Elan Chalon,Bigbank/Kalev,2026-11-04T19:00:00+00:00,spread,-17.5,1.81,1.89,,41.1
+2026-11-04T07:19:41+00:00,1029299391,fiba_europe_cup,Elan Chalon,Bigbank/Kalev,2026-11-04T19:00:00+00:00,total,163.5,1.82,1.88,,41.1
+2026-11-04T07:19:41+00:00,1029299381,fiba_europe_cup,SL Benfica,Absheron Lions,2026-11-04T19:00:00+00:00,moneyline,,1.06,7.0,,46.7
+2026-11-04T07:19:41+00:00,1029299381,fiba_europe_cup,SL Benfica,Absheron Lions,2026-11-04T19:00:00+00:00,spread,-16.5,1.87,1.83,,46.7
+2026-11-04T07:19:41+00:00,1029299381,fiba_europe_cup,SL Benfica,Absheron Lions,2026-11-04T19:00:00+00:00,total,175.5,1.89,1.81,,46.7
