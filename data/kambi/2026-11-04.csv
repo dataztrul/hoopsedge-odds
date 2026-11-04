@@ -360,3 +360,10 @@ ts,event_id,group,home,away,start,type,line,dec_1,dec_2,pin_matchup_id,match_sco
 2026-11-04T12:35:04+00:00,1028405477,eurocup,KK Cedevita Olimpija,Bertram Tortona,2026-11-04T17:30:00+00:00,total,167.5,2.05,1.68,1639461740,76.1
 2026-11-04T12:35:04+00:00,1028722038,czech_republic/nbl,BLK Slavia Praha,BK Děčín,2026-11-04T17:00:00+00:00,spread,-22.5,1.9,1.8,1639466004,85.1
 2026-11-04T12:35:04+00:00,1028722038,czech_republic/nbl,BLK Slavia Praha,BK Děčín,2026-11-04T17:00:00+00:00,total,170.5,1.84,1.86,1639466004,85.1
+2026-11-04T12:45:16+00:00,1029335964,euroleague__w_,Kangoeroes Basket Mechelen (W),ZKK Crvena Zvezda (W),2026-11-04T19:30:00+00:00,moneyline,,9.5,1.04,1639773913,100.0
+2026-11-04T12:45:16+00:00,1029335964,euroleague__w_,Kangoeroes Basket Mechelen (W),ZKK Crvena Zvezda (W),2026-11-04T19:30:00+00:00,spread,17.5,1.87,1.83,1639773913,100.0
+2026-11-04T12:45:16+00:00,1029336750,fiba_europe_cup,Lokomotiv Plovdiv 1926,Neftchi IK,2026-11-04T17:00:00+00:00,moneyline,,1.26,3.45,1639456079,100.0
+2026-11-04T12:45:16+00:00,1029336750,fiba_europe_cup,Lokomotiv Plovdiv 1926,Neftchi IK,2026-11-04T17:00:00+00:00,spread,-8.5,1.88,1.82,1639456079,100.0
+2026-11-04T12:45:16+00:00,1029336750,fiba_europe_cup,Lokomotiv Plovdiv 1926,Neftchi IK,2026-11-04T17:00:00+00:00,total,166.5,1.85,1.85,1639456079,100.0
+2026-11-04T12:45:16+00:00,1029299245,fiba_europe_cup,Gladiators Trier,KB Trepça,2026-11-04T19:00:00+00:00,spread,-17.5,2.0,1.73,1639471483,85.7
+2026-11-04T12:45:16+00:00,1029299245,fiba_europe_cup,Gladiators Trier,KB Trepça,2026-11-04T19:00:00+00:00,total,176.5,2.1,1.65,1639471483,85.7
