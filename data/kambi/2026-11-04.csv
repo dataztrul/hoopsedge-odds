@@ -90,3 +90,7 @@ ts,event_id,group,home,away,start,type,line,dec_1,dec_2,pin_matchup_id,match_sco
 2026-11-04T06:34:05+00:00,1029343793,eurocup__w_,DSK Basketball (W),ESB Villeneuve d'Ascq Lille (W),2026-11-04T17:00:00+00:00,total,143.5,1.96,1.75,,60.0
 2026-11-04T06:34:05+00:00,1029344001,eurocup__w_,Universitatea Cluj-Napoca (W),Umana Reyer Venezia (W),2026-11-04T17:00:00+00:00,spread,47.5,1.79,1.92,1639461729,90.6
 2026-11-04T06:34:05+00:00,1029344001,eurocup__w_,Universitatea Cluj-Napoca (W),Umana Reyer Venezia (W),2026-11-04T17:00:00+00:00,total,149.5,1.87,1.83,1639461729,90.6
+2026-11-04T06:49:17+00:00,1028492459,fiba_champions_league,Legia Warszawa,Galatasaray S.K.,2026-11-04T17:00:00+00:00,total,167.5,1.95,1.76,1639461728,100.0
+2026-11-04T06:49:17+00:00,1029344027,eurocup__w_,ZKK Cinkarna Celje (W),Magnolia Basket Campobasso (W),2026-11-04T17:00:00+00:00,moneyline,,4.9,1.14,1639466001,100.0
+2026-11-04T06:49:17+00:00,1029344027,eurocup__w_,ZKK Cinkarna Celje (W),Magnolia Basket Campobasso (W),2026-11-04T17:00:00+00:00,spread,9.5,2.05,1.68,1639466001,100.0
+2026-11-04T06:49:17+00:00,1029344027,eurocup__w_,ZKK Cinkarna Celje (W),Magnolia Basket Campobasso (W),2026-11-04T17:00:00+00:00,total,133.5,1.88,1.82,1639466001,100.0
