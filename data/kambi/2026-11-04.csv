@@ -343,3 +343,10 @@ ts,event_id,group,home,away,start,type,line,dec_1,dec_2,pin_matchup_id,match_sco
 2026-11-04T12:04:29+00:00,1028492459,fiba_champions_league,Legia Warszawa,Galatasaray S.K.,2026-11-04T17:00:00+00:00,moneyline,,3.5,1.28,1639461728,100.0
 2026-11-04T12:04:29+00:00,1028492459,fiba_champions_league,Legia Warszawa,Galatasaray S.K.,2026-11-04T17:00:00+00:00,spread,8.5,1.83,1.94,1639461728,100.0
 2026-11-04T12:04:29+00:00,1028492459,fiba_champions_league,Legia Warszawa,Galatasaray S.K.,2026-11-04T17:00:00+00:00,total,166.5,1.87,1.83,1639461728,100.0
+2026-11-04T12:14:41+00:00,1028722038,czech_republic/nbl,BLK Slavia Praha,BK Děčín,2026-11-04T17:00:00+00:00,spread,-22.5,1.9,1.8,1639466004,85.1
+2026-11-04T12:14:41+00:00,1028722038,czech_republic/nbl,BLK Slavia Praha,BK Děčín,2026-11-04T17:00:00+00:00,total,170.5,1.84,1.86,1639466004,85.1
+2026-11-04T12:14:41+00:00,1029286048,eurocup__w_,Alba Berlin (W),Panathinaikos (W),2026-11-04T18:30:00+00:00,spread,8.5,1.78,1.92,1639471465,100.0
+2026-11-04T12:14:41+00:00,1029286048,eurocup__w_,Alba Berlin (W),Panathinaikos (W),2026-11-04T18:30:00+00:00,total,147.5,1.87,1.83,1639471465,100.0
+2026-11-04T12:14:41+00:00,1029490662,eurocup__w_,ZK Brod na Savi (W),Hozono Global Jairis (W),2026-11-04T19:00:00+00:00,spread,35.5,2.04,1.68,1639471890,98.4
+2026-11-04T12:14:41+00:00,1029490662,eurocup__w_,ZK Brod na Savi (W),Hozono Global Jairis (W),2026-11-04T19:00:00+00:00,total,139.5,1.82,1.88,1639471890,98.4
+2026-11-04T12:14:41+00:00,1029299246,fiba_europe_cup,ASP Promitheas,BK Opava,2026-11-04T17:00:00+00:00,total,165.5,1.68,2.06,1639461736,91.9
