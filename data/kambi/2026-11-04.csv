@@ -63,3 +63,12 @@ ts,event_id,group,home,away,start,type,line,dec_1,dec_2,pin_matchup_id,match_sco
 2026-11-04T05:18:06+00:00,1028635614,italy/serie_a2,Reale Mutua Torino,Montecatiniterme Basket,2026-11-04T19:30:00+00:00,moneyline,,1.12,4.8,1639709236,84.4
 2026-11-04T05:18:06+00:00,1028635614,italy/serie_a2,Reale Mutua Torino,Montecatiniterme Basket,2026-11-04T19:30:00+00:00,spread,-11.5,1.86,1.78,1639709236,84.4
 2026-11-04T05:18:06+00:00,1028635614,italy/serie_a2,Reale Mutua Torino,Montecatiniterme Basket,2026-11-04T19:30:00+00:00,total,152.5,1.83,1.81,1639709236,84.4
+2026-11-04T05:33:17+00:00,1029344137,eurocup__w_,MGS Panseraikos (W),AZS Gorzów (W),2026-11-04T16:00:00+00:00,moneyline,,14.0,1.02,1639456057,98.4
+2026-11-04T05:33:17+00:00,1029344137,eurocup__w_,MGS Panseraikos (W),AZS Gorzów (W),2026-11-04T16:00:00+00:00,spread,21.5,1.83,1.87,1639456057,98.4
+2026-11-04T05:33:17+00:00,1029344137,eurocup__w_,MGS Panseraikos (W),AZS Gorzów (W),2026-11-04T16:00:00+00:00,total,152.5,1.9,1.8,1639456057,98.4
+2026-11-04T05:33:17+00:00,1029299336,fiba_europe_cup,Iraklis,AEK Larnaca,2026-11-04T17:30:00+00:00,moneyline,,1.12,5.2,,41.7
+2026-11-04T05:33:17+00:00,1029299336,fiba_europe_cup,Iraklis,AEK Larnaca,2026-11-04T17:30:00+00:00,spread,-12.5,1.87,1.83,,41.7
+2026-11-04T05:33:17+00:00,1029299336,fiba_europe_cup,Iraklis,AEK Larnaca,2026-11-04T17:30:00+00:00,total,161.5,1.85,1.85,,41.7
+2026-11-04T05:33:17+00:00,1028726951,lithuania/lkl,Jonavos SK,BC Rytas Vilnius,2026-11-05T16:50:00+00:00,moneyline,,3.7,1.23,1639855131,88.5
+2026-11-04T05:33:17+00:00,1028726951,lithuania/lkl,Jonavos SK,BC Rytas Vilnius,2026-11-05T16:50:00+00:00,spread,9.5,1.8,1.9,1639855131,88.5
+2026-11-04T05:33:17+00:00,1028726951,lithuania/lkl,Jonavos SK,BC Rytas Vilnius,2026-11-05T16:50:00+00:00,total,171.5,1.88,1.82,1639855131,88.5
