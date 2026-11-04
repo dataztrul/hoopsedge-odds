@@ -580,3 +580,12 @@ ts,event_id,group,home,away,start,type,line,dec_1,dec_2,pin_matchup_id,match_sco
 2026-11-04T17:18:57+00:00,1029286054,eurocup__w_,Imperial AEL Limassol (W),BK Zabiny Brno (W),2026-11-04T17:30:00+00:00,total,153.5,1.86,1.84,1639461742,100.0
 2026-11-04T17:39:40+00:00,1028300978,denmark/basketligaen,BMS Herlev Wolfpack,Copenhagen Basketball,2026-11-04T18:00:00+00:00,moneyline,,7.5,1.04,1639471874,100.0
 2026-11-04T17:39:40+00:00,1028300978,denmark/basketligaen,BMS Herlev Wolfpack,Copenhagen Basketball,2026-11-04T18:00:00+00:00,spread,16.5,1.87,1.83,1639471874,100.0
+2026-11-04T17:44:51+00:00,1029281502,eurocup,Maxima Roma,London Lions,2026-11-04T19:30:00+00:00,spread,-6.5,1.92,1.85,1639466079,100.0
+2026-11-04T17:44:51+00:00,1029281502,eurocup,Maxima Roma,London Lions,2026-11-04T19:30:00+00:00,total,163.5,1.88,1.83,1639466079,100.0
+2026-11-04T17:44:51+00:00,1028300978,denmark/basketligaen,BMS Herlev Wolfpack,Copenhagen Basketball,2026-11-04T18:00:00+00:00,moneyline,,8.5,1.03,1639471874,100.0
+2026-11-04T17:44:51+00:00,1028300978,denmark/basketligaen,BMS Herlev Wolfpack,Copenhagen Basketball,2026-11-04T18:00:00+00:00,spread,17.5,1.9,1.8,1639471874,100.0
+2026-11-04T17:44:51+00:00,1029345182,eurocup__w_,UZKK Student (W),UE Sopron (W),2026-11-04T18:00:00+00:00,moneyline,,6.5,1.08,1639466038,88.9
+2026-11-04T17:44:51+00:00,1029345182,eurocup__w_,UZKK Student (W),UE Sopron (W),2026-11-04T18:00:00+00:00,spread,14.5,1.86,1.84,1639466038,88.9
+2026-11-04T17:44:51+00:00,1029345182,eurocup__w_,UZKK Student (W),UE Sopron (W),2026-11-04T18:00:00+00:00,total,152.5,1.82,1.88,1639466038,88.9
+2026-11-04T17:44:51+00:00,1029344072,eurocup__w_,Eco Program Castelnuovo S. (W),Elfic Fribourg (W),2026-11-04T18:00:00+00:00,spread,-21.5,1.82,1.88,1639471870,86.7
+2026-11-04T17:44:51+00:00,1029344072,eurocup__w_,Eco Program Castelnuovo S. (W),Elfic Fribourg (W),2026-11-04T18:00:00+00:00,total,143.5,1.89,1.81,1639471870,86.7
