@@ -416,3 +416,8 @@ ts,event_id,group,home,away,start,type,line,dec_1,dec_2,pin_matchup_id,match_sco
 2026-11-04T14:07:25+00:00,1029299298,fiba_europe_cup,Esenler Erokspor,Sporting,2026-11-04T16:00:00+00:00,spread,-15.5,1.71,2.0,1639456059,100.0
 2026-11-04T14:17:37+00:00,1029299391,fiba_europe_cup,Elan Chalon,Bigbank/Kalev,2026-11-04T19:00:00+00:00,moneyline,,1.01,11.0,1639471891,81.2
 2026-11-04T14:17:37+00:00,1029299391,fiba_europe_cup,Elan Chalon,Bigbank/Kalev,2026-11-04T19:00:00+00:00,spread,-19.5,1.83,1.87,1639471891,81.2
+2026-11-04T14:27:49+00:00,1028405530,eurocup,La Laguna Tenerife,Universitatea Cluj-Napoca,2026-11-05T20:00:00+00:00,moneyline,,1.14,4.9,1639527633,100.0
+2026-11-04T14:27:49+00:00,1028405530,eurocup,La Laguna Tenerife,Universitatea Cluj-Napoca,2026-11-05T20:00:00+00:00,spread,-11.5,1.84,1.92,1639527633,100.0
+2026-11-04T14:27:49+00:00,1028405530,eurocup,La Laguna Tenerife,Universitatea Cluj-Napoca,2026-11-05T20:00:00+00:00,total,172.5,1.87,1.83,1639527633,100.0
+2026-11-04T14:27:49+00:00,1029335964,euroleague__w_,Kangoeroes Basket Mechelen (W),ZKK Crvena Zvezda (W),2026-11-04T19:30:00+00:00,spread,17.5,2.05,1.68,1639773913,100.0
+2026-11-04T14:27:49+00:00,1029335964,euroleague__w_,Kangoeroes Basket Mechelen (W),ZKK Crvena Zvezda (W),2026-11-04T19:30:00+00:00,total,145.5,1.75,1.96,1639773913,100.0
