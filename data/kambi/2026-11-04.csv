@@ -310,3 +310,9 @@ ts,event_id,group,home,away,start,type,line,dec_1,dec_2,pin_matchup_id,match_sco
 2026-11-04T09:37:02+00:00,1029344139,eurocup__w_,Porta XI Ensino (W),Basket Lattes Montpellier (W),2026-11-04T19:00:00+00:00,moneyline,,4.3,1.17,1639471480,100.0
 2026-11-04T09:37:02+00:00,1029344139,eurocup__w_,Porta XI Ensino (W),Basket Lattes Montpellier (W),2026-11-04T19:00:00+00:00,spread,11.5,1.7,2.02,1639471480,100.0
 2026-11-04T09:37:02+00:00,1029336667,fiba_europe_cup,Zastal Zielona Góra,CS Dinamo Bucuresti,2026-11-04T18:00:00+00:00,total,167.5,2.08,1.67,1639461741,100.0
+2026-11-04T09:53:04+00:00,1029281502,eurocup,Maxima Roma,London Lions,2026-11-04T19:30:00+00:00,total,164.5,1.93,1.77,1639466079,100.0
+2026-11-04T09:53:04+00:00,1028492459,fiba_champions_league,Legia Warszawa,Galatasaray S.K.,2026-11-04T17:00:00+00:00,moneyline,,3.1,1.35,1639461728,100.0
+2026-11-04T09:53:04+00:00,1028492459,fiba_champions_league,Legia Warszawa,Galatasaray S.K.,2026-11-04T17:00:00+00:00,spread,6.5,1.92,1.84,1639461728,100.0
+2026-11-04T09:53:04+00:00,1028492459,fiba_champions_league,Legia Warszawa,Galatasaray S.K.,2026-11-04T17:00:00+00:00,total,166.5,1.88,1.83,1639461728,100.0
+2026-11-04T09:53:04+00:00,1029286081,eurocup__w_,Landerneau Bretagne Basket (W),AZS Poznan (W),2026-11-04T18:30:00+00:00,moneyline,,1.43,2.6,1639471464,100.0
+2026-11-04T09:53:04+00:00,1029286081,eurocup__w_,Landerneau Bretagne Basket (W),AZS Poznan (W),2026-11-04T18:30:00+00:00,spread,-5.5,1.97,1.75,1639471464,100.0
