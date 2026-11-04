@@ -425,3 +425,8 @@ ts,event_id,group,home,away,start,type,line,dec_1,dec_2,pin_matchup_id,match_sco
 2026-11-04T14:38:01+00:00,1029190943,denmark/basketligaen,Gladsaxe,Holbaek-Stenhus,2026-11-04T19:00:00+00:00,spread,-4.5,1.73,1.98,1639471482,100.0
 2026-11-04T14:38:01+00:00,1029674083,eurocup__w_,Helmi Basket HBA (W),Charnay Basket (W),2026-11-04T16:30:00+00:00,spread,29.5,1.86,1.84,1639461720,76.3
 2026-11-04T14:38:01+00:00,1029674083,eurocup__w_,Helmi Basket HBA (W),Charnay Basket (W),2026-11-04T16:30:00+00:00,total,151.5,1.76,1.95,1639461720,76.3
+2026-11-04T14:48:14+00:00,1028562724,euroleague,Anadolu Efes,Paris Basket,2026-11-05T17:15:00+00:00,moneyline,,1.36,3.15,1639476200,100.0
+2026-11-04T14:48:14+00:00,1028562724,euroleague,Anadolu Efes,Paris Basket,2026-11-05T17:15:00+00:00,total,179.5,1.9,1.9,1639476200,100.0
+2026-11-04T14:48:14+00:00,1028562792,euroleague,Virtus Bologna,BC Dubai,2026-11-06T19:30:00+00:00,moneyline,,2.25,1.64,,0.0
+2026-11-04T14:48:14+00:00,1028562792,euroleague,Virtus Bologna,BC Dubai,2026-11-06T19:30:00+00:00,spread,2.5,1.94,1.86,,0.0
+2026-11-04T14:48:14+00:00,1028492459,fiba_champions_league,Legia Warszawa,Galatasaray S.K.,2026-11-04T17:00:00+00:00,total,165.5,1.89,1.81,1639461728,100.0
