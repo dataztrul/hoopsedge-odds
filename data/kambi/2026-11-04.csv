@@ -298,3 +298,15 @@ ts,event_id,group,home,away,start,type,line,dec_1,dec_2,pin_matchup_id,match_sco
 2026-11-04T09:21:49+00:00,1028405622,eurocup,BC Lietkabelis,BAXI Manresa,2026-11-04T17:00:00+00:00,moneyline,,1.92,1.8,1639456090,86.8
 2026-11-04T09:21:49+00:00,1028405622,eurocup,BC Lietkabelis,BAXI Manresa,2026-11-04T17:00:00+00:00,spread,0.5,1.95,1.82,1639456090,86.8
 2026-11-04T09:21:49+00:00,1028405622,eurocup,BC Lietkabelis,BAXI Manresa,2026-11-04T17:00:00+00:00,total,171.5,1.86,1.84,1639456090,86.8
+2026-11-04T09:37:02+00:00,1028562720,euroleague,Real Madrid Baloncesto,Panathinaikos,2026-11-04T19:45:00+00:00,moneyline,,2.15,1.7,1639375297,100.0
+2026-11-04T09:37:02+00:00,1028562720,euroleague,Real Madrid Baloncesto,Panathinaikos,2026-11-04T19:45:00+00:00,spread,2.5,1.87,1.94,1639375297,100.0
+2026-11-04T09:37:02+00:00,1028562720,euroleague,Real Madrid Baloncesto,Panathinaikos,2026-11-04T19:45:00+00:00,total,171.5,1.94,1.87,1639375297,100.0
+2026-11-04T09:37:02+00:00,1028405587,eurocup,WKS Śląsk Wrocław,Bourg-en-Bresse,2026-11-04T18:00:00+00:00,moneyline,,3.35,1.29,1639471455,79.8
+2026-11-04T09:37:02+00:00,1028405587,eurocup,WKS Śląsk Wrocław,Bourg-en-Bresse,2026-11-04T18:00:00+00:00,total,172.5,1.82,1.88,1639471455,79.8
+2026-11-04T09:37:02+00:00,1028405473,eurocup,Hapoel Jerusalem,Aris,2026-11-04T19:00:00+00:00,moneyline,,1.58,2.25,1639466074,100.0
+2026-11-04T09:37:02+00:00,1028405473,eurocup,Hapoel Jerusalem,Aris,2026-11-04T19:00:00+00:00,spread,-2.5,1.81,1.96,1639466074,100.0
+2026-11-04T09:37:02+00:00,1029286048,eurocup__w_,Alba Berlin (W),Panathinaikos (W),2026-11-04T18:30:00+00:00,moneyline,,3.6,1.24,1639471465,100.0
+2026-11-04T09:37:02+00:00,1029286048,eurocup__w_,Alba Berlin (W),Panathinaikos (W),2026-11-04T18:30:00+00:00,spread,8.5,1.79,1.92,1639471465,100.0
+2026-11-04T09:37:02+00:00,1029344139,eurocup__w_,Porta XI Ensino (W),Basket Lattes Montpellier (W),2026-11-04T19:00:00+00:00,moneyline,,4.3,1.17,1639471480,100.0
+2026-11-04T09:37:02+00:00,1029344139,eurocup__w_,Porta XI Ensino (W),Basket Lattes Montpellier (W),2026-11-04T19:00:00+00:00,spread,11.5,1.7,2.02,1639471480,100.0
+2026-11-04T09:37:02+00:00,1029336667,fiba_europe_cup,Zastal Zielona Góra,CS Dinamo Bucuresti,2026-11-04T18:00:00+00:00,total,167.5,2.08,1.67,1639461741,100.0
