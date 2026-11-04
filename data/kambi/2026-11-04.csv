@@ -683,3 +683,13 @@ ts,event_id,group,home,away,start,type,line,dec_1,dec_2,pin_matchup_id,match_sco
 2026-11-04T19:13:27+00:00,1029299287,fiba_europe_cup,BC Oostende,Szolnoki Olaj,2026-11-04T19:30:00+00:00,moneyline,,1.41,2.65,1639471904,100.0
 2026-11-04T19:13:27+00:00,1029299287,fiba_europe_cup,BC Oostende,Szolnoki Olaj,2026-11-04T19:30:00+00:00,spread,-5.5,1.88,1.82,1639471904,100.0
 2026-11-04T19:13:27+00:00,1029299287,fiba_europe_cup,BC Oostende,Szolnoki Olaj,2026-11-04T19:30:00+00:00,total,162.5,1.84,1.86,1639471904,100.0
+2026-11-04T19:18:38+00:00,1028405428,eurocup,San Pablo Burgos,Rostock Seawolves,2026-11-04T19:30:00+00:00,moneyline,,1.3,3.25,1639466080,100.0
+2026-11-04T19:18:38+00:00,1028405428,eurocup,San Pablo Burgos,Rostock Seawolves,2026-11-04T19:30:00+00:00,total,169.5,1.85,1.85,1639466080,100.0
+2026-11-04T19:18:38+00:00,1029742287,eurocup__w_,Maccabi Ashdod (W),Beşiktaş JK İstanbul (W),2026-11-04T19:45:00+00:00,moneyline,,5.75,1.1,1639471913,100.0
+2026-11-04T19:18:38+00:00,1029742287,eurocup__w_,Maccabi Ashdod (W),Beşiktaş JK İstanbul (W),2026-11-04T19:45:00+00:00,spread,14.5,1.68,2.06,1639471913,100.0
+2026-11-04T19:18:38+00:00,1029742287,eurocup__w_,Maccabi Ashdod (W),Beşiktaş JK İstanbul (W),2026-11-04T19:45:00+00:00,total,139.5,1.98,1.73,1639471913,100.0
+2026-11-04T19:18:38+00:00,1029335964,euroleague__w_,Kangoeroes Basket Mechelen (W),ZKK Crvena Zvezda (W),2026-11-04T19:30:00+00:00,moneyline,,11.0,1.03,1639773913,100.0
+2026-11-04T19:18:38+00:00,1029335964,euroleague__w_,Kangoeroes Basket Mechelen (W),ZKK Crvena Zvezda (W),2026-11-04T19:30:00+00:00,spread,19.5,1.8,1.9,1639773913,100.0
+2026-11-04T19:18:38+00:00,1029335964,euroleague__w_,Kangoeroes Basket Mechelen (W),ZKK Crvena Zvezda (W),2026-11-04T19:30:00+00:00,total,148.5,1.89,1.82,1639773913,100.0
+2026-11-04T19:18:38+00:00,1028635614,italy/serie_a2,Reale Mutua Torino,Montecatiniterme Basket,2026-11-04T19:30:00+00:00,moneyline,,1.13,4.75,1639709236,84.4
+2026-11-04T19:18:38+00:00,1028635614,italy/serie_a2,Reale Mutua Torino,Montecatiniterme Basket,2026-11-04T19:30:00+00:00,spread,-11.5,1.88,1.77,1639709236,84.4
