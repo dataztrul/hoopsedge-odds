@@ -18,3 +18,6 @@ ts,event_id,group,home,away,start,type,line,dec_1,dec_2,pin_matchup_id,match_sco
 2026-11-04T00:59:27+00:00,1029619095,mexico/lnbp,Panteras de Aguascalientes,Soles de Mexicali,2026-11-04T02:30:00+00:00,total,159.5,1.67,2.08,,0.0
 2026-11-04T02:30:34+00:00,1029619095,mexico/lnbp,Panteras de Aguascalientes,Soles de Mexicali,2026-11-04T02:36:00+00:00,spread,6.5,1.79,1.91,,0.0
 2026-11-04T02:30:34+00:00,1029619095,mexico/lnbp,Panteras de Aguascalientes,Soles de Mexicali,2026-11-04T02:36:00+00:00,total,162.5,1.87,1.83,,0.0
+2026-11-04T02:45:45+00:00,1028405517,eurocup,TÜRK Telekom,Skyliners Frankfurt,2026-11-04T16:30:00+00:00,moneyline,,1.18,4.4,1639461718,100.0
+2026-11-04T02:45:45+00:00,1028405517,eurocup,TÜRK Telekom,Skyliners Frankfurt,2026-11-04T16:30:00+00:00,spread,-10.5,1.91,1.85,1639461718,100.0
+2026-11-04T02:45:45+00:00,1028405517,eurocup,TÜRK Telekom,Skyliners Frankfurt,2026-11-04T16:30:00+00:00,total,165.5,1.83,1.87,1639461718,100.0
