@@ -193,3 +193,6 @@ ts,event_id,group,home,away,start,type,line,dec_1,dec_2,pin_matchup_id,match_sco
 2026-11-04T08:05:18+00:00,1029299245,fiba_europe_cup,Gladiators Trier,KB Trepça,2026-11-04T19:00:00+00:00,total,176.5,1.98,1.74,,36.4
 2026-11-04T08:05:18+00:00,1029336715,fiba_europe_cup,Les Lions de Genève,BC Prievidza,2026-11-04T19:30:00+00:00,moneyline,,1.63,2.12,,42.1
 2026-11-04T08:05:18+00:00,1029336715,fiba_europe_cup,Les Lions de Genève,BC Prievidza,2026-11-04T19:30:00+00:00,spread,-1.5,1.74,1.98,,42.1
+2026-11-04T08:05:48+00:00,1029299422,fiba_europe_cup,Fribourg Olympic,VEF Riga,2026-11-04T19:00:00+00:00,moneyline,,3.1,1.32,,50.6
+2026-11-04T08:05:48+00:00,1029299422,fiba_europe_cup,Fribourg Olympic,VEF Riga,2026-11-04T19:00:00+00:00,spread,7.5,1.78,1.92,,50.6
+2026-11-04T08:05:48+00:00,1029299422,fiba_europe_cup,Fribourg Olympic,VEF Riga,2026-11-04T19:00:00+00:00,total,166.5,1.89,1.82,,50.6
