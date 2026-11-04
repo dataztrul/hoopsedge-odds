@@ -705,3 +705,6 @@ ts,event_id,group,home,away,start,type,line,dec_1,dec_2,pin_matchup_id,match_sco
 2026-11-04T19:34:10+00:00,1029742287,eurocup__w_,Maccabi Ashdod (W),Beşiktaş JK İstanbul (W),2026-11-04T19:45:00+00:00,total,138.5,1.89,1.81,1639471913,100.0
 2026-11-04T19:39:21+00:00,1028562720,euroleague,Real Madrid Baloncesto,Panathinaikos,2026-11-04T19:45:00+00:00,moneyline,,1.97,1.84,1639375297,100.0
 2026-11-04T19:39:21+00:00,1028562720,euroleague,Real Madrid Baloncesto,Panathinaikos,2026-11-04T19:45:00+00:00,spread,0.5,1.97,1.84,1639375297,100.0
+2026-11-04T19:44:32+00:00,1029742287,eurocup__w_,Maccabi Ashdod (W),Beşiktaş JK İstanbul (W),2026-11-04T19:49:00+00:00,moneyline,,5.75,1.1,1639471913,100.0
+2026-11-04T19:44:32+00:00,1029742287,eurocup__w_,Maccabi Ashdod (W),Beşiktaş JK İstanbul (W),2026-11-04T19:49:00+00:00,spread,12.5,1.87,1.83,1639471913,100.0
+2026-11-04T19:44:32+00:00,1029742287,eurocup__w_,Maccabi Ashdod (W),Beşiktaş JK İstanbul (W),2026-11-04T19:49:00+00:00,total,138.5,2.0,1.73,1639471913,100.0
