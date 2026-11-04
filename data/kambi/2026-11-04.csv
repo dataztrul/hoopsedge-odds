@@ -455,3 +455,7 @@ ts,event_id,group,home,away,start,type,line,dec_1,dec_2,pin_matchup_id,match_sco
 2026-11-04T15:09:01+00:00,1029336750,fiba_europe_cup,Lokomotiv Plovdiv 1926,Neftchi IK,2026-11-04T17:00:00+00:00,spread,-9.5,1.71,2.02,1639456079,100.0
 2026-11-04T15:24:36+00:00,1028562720,euroleague,Real Madrid Baloncesto,Panathinaikos,2026-11-04T19:45:00+00:00,moneyline,,1.95,1.85,1639375297,100.0
 2026-11-04T15:24:36+00:00,1028562720,euroleague,Real Madrid Baloncesto,Panathinaikos,2026-11-04T19:45:00+00:00,spread,0.5,1.95,1.85,1639375297,100.0
+2026-11-04T15:29:49+00:00,1028405477,eurocup,KK Cedevita Olimpija,Bertram Tortona,2026-11-04T17:30:00+00:00,moneyline,,1.5,2.45,1639461740,76.1
+2026-11-04T15:29:49+00:00,1028405477,eurocup,KK Cedevita Olimpija,Bertram Tortona,2026-11-04T17:30:00+00:00,spread,-2.5,1.68,2.1,1639461740,76.1
+2026-11-04T15:29:49+00:00,1029345143,eurocup__w_,Ružomberok (W),Perfumerías Avenida (W),2026-11-04T17:00:00+00:00,moneyline,,5.1,1.13,1639466003,100.0
+2026-11-04T15:29:49+00:00,1029345143,eurocup__w_,Ružomberok (W),Perfumerías Avenida (W),2026-11-04T17:00:00+00:00,spread,12.5,1.75,1.95,1639466003,100.0
