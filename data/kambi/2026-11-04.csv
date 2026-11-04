@@ -124,3 +124,32 @@ ts,event_id,group,home,away,start,type,line,dec_1,dec_2,pin_matchup_id,match_sco
 2026-11-04T07:34:53+00:00,1029344072,eurocup__w_,Eco Program Castelnuovo S. (W),Elfic Fribourg (W),2026-11-04T18:00:00+00:00,moneyline,,1.02,17.0,1639471870,86.7
 2026-11-04T07:34:53+00:00,1029344072,eurocup__w_,Eco Program Castelnuovo S. (W),Elfic Fribourg (W),2026-11-04T18:00:00+00:00,spread,-21.5,1.83,1.88,1639471870,86.7
 2026-11-04T07:34:53+00:00,1029344072,eurocup__w_,Eco Program Castelnuovo S. (W),Elfic Fribourg (W),2026-11-04T18:00:00+00:00,total,143.5,1.93,1.78,1639471870,86.7
+2026-11-04T07:50:06+00:00,1028562720,euroleague,Real Madrid Baloncesto,Panathinaikos,2026-11-04T19:45:00+00:00,moneyline,,2.17,1.68,1639375297,100.0
+2026-11-04T07:50:06+00:00,1028562720,euroleague,Real Madrid Baloncesto,Panathinaikos,2026-11-04T19:45:00+00:00,spread,2.5,1.87,1.93,1639375297,100.0
+2026-11-04T07:50:06+00:00,1028562720,euroleague,Real Madrid Baloncesto,Panathinaikos,2026-11-04T19:45:00+00:00,total,171.5,1.92,1.88,1639375297,100.0
+2026-11-04T07:50:06+00:00,1028130350,bnxt_league,Spirou Basket,Rotterdam City Basketball,2026-11-05T19:30:00+00:00,moneyline,,1.05,6.75,1639529621,100.0
+2026-11-04T07:50:06+00:00,1028130350,bnxt_league,Spirou Basket,Rotterdam City Basketball,2026-11-05T19:30:00+00:00,spread,-15.5,1.87,1.81,1639529621,100.0
+2026-11-04T07:50:06+00:00,1029286054,eurocup__w_,Imperial AEL Limassol (W),BK Zabiny Brno (W),2026-11-04T17:30:00+00:00,moneyline,,26.0,1.01,1639461742,100.0
+2026-11-04T07:50:06+00:00,1029286054,eurocup__w_,Imperial AEL Limassol (W),BK Zabiny Brno (W),2026-11-04T17:30:00+00:00,spread,23.5,2.0,1.71,1639461742,100.0
+2026-11-04T07:50:06+00:00,1029286054,eurocup__w_,Imperial AEL Limassol (W),BK Zabiny Brno (W),2026-11-04T17:30:00+00:00,total,154.5,1.85,1.85,1639461742,100.0
+2026-11-04T07:50:06+00:00,1029345182,eurocup__w_,UZKK Student (W),UE Sopron (W),2026-11-04T18:00:00+00:00,moneyline,,8.5,1.05,1639466038,88.9
+2026-11-04T07:50:06+00:00,1029345182,eurocup__w_,UZKK Student (W),UE Sopron (W),2026-11-04T18:00:00+00:00,spread,17.5,1.82,1.88,1639466038,88.9
+2026-11-04T07:50:06+00:00,1029345182,eurocup__w_,UZKK Student (W),UE Sopron (W),2026-11-04T18:00:00+00:00,total,153.5,1.92,1.78,1639466038,88.9
+2026-11-04T07:50:06+00:00,1029345180,eurocup__w_,Saarlouis Royals (W),SL Benfica (W),2026-11-04T18:00:00+00:00,moneyline,,1.8,1.9,1639471452,100.0
+2026-11-04T07:50:06+00:00,1029345180,eurocup__w_,Saarlouis Royals (W),SL Benfica (W),2026-11-04T18:00:00+00:00,spread,-0.5,1.8,1.9,1639471452,100.0
+2026-11-04T07:50:06+00:00,1029345180,eurocup__w_,Saarlouis Royals (W),SL Benfica (W),2026-11-04T18:00:00+00:00,total,139.5,1.82,1.88,1639471452,100.0
+2026-11-04T07:50:06+00:00,1029345141,eurocup__w_,Chartres (W),Belfius Namur Capitale (W),2026-11-04T18:00:00+00:00,moneyline,,1.05,8.0,1639471872,100.0
+2026-11-04T07:50:06+00:00,1029345141,eurocup__w_,Chartres (W),Belfius Namur Capitale (W),2026-11-04T18:00:00+00:00,spread,-16.5,1.92,1.79,1639471872,100.0
+2026-11-04T07:50:06+00:00,1029345141,eurocup__w_,Chartres (W),Belfius Namur Capitale (W),2026-11-04T18:00:00+00:00,total,140.5,1.85,1.85,1639471872,100.0
+2026-11-04T07:50:06+00:00,1029286048,eurocup__w_,Alba Berlin (W),Panathinaikos (W),2026-11-04T18:30:00+00:00,moneyline,,4.0,1.2,1639471465,100.0
+2026-11-04T07:50:06+00:00,1029286048,eurocup__w_,Alba Berlin (W),Panathinaikos (W),2026-11-04T18:30:00+00:00,spread,8.5,1.92,1.78,1639471465,100.0
+2026-11-04T07:50:06+00:00,1029286048,eurocup__w_,Alba Berlin (W),Panathinaikos (W),2026-11-04T18:30:00+00:00,total,147.5,1.86,1.84,1639471465,100.0
+2026-11-04T07:50:06+00:00,1029299287,fiba_europe_cup,BC Oostende,Szolnoki Olaj,2026-11-04T19:30:00+00:00,moneyline,,1.33,3.0,,36.8
+2026-11-04T07:50:06+00:00,1029299287,fiba_europe_cup,BC Oostende,Szolnoki Olaj,2026-11-04T19:30:00+00:00,spread,-6.5,1.85,1.85,,36.8
+2026-11-04T07:50:06+00:00,1029299287,fiba_europe_cup,BC Oostende,Szolnoki Olaj,2026-11-04T19:30:00+00:00,total,164.5,1.9,1.81,,36.8
+2026-11-04T07:50:06+00:00,1029336715,fiba_europe_cup,Les Lions de Genève,BC Prievidza,2026-11-04T19:30:00+00:00,moneyline,,1.77,1.94,,42.1
+2026-11-04T07:50:06+00:00,1029336715,fiba_europe_cup,Les Lions de Genève,BC Prievidza,2026-11-04T19:30:00+00:00,spread,-1.5,1.89,1.81,,42.1
+2026-11-04T07:50:06+00:00,1029336715,fiba_europe_cup,Les Lions de Genève,BC Prievidza,2026-11-04T19:30:00+00:00,total,167.5,1.9,1.8,,42.1
+2026-11-04T07:50:06+00:00,1028312648,finland/korisliiga,Kipina,KTP-Basket,2026-11-04T16:30:00+00:00,moneyline,,2.28,1.6,1639456065,100.0
+2026-11-04T07:50:06+00:00,1028312648,finland/korisliiga,Kipina,KTP-Basket,2026-11-04T16:30:00+00:00,spread,3.5,1.85,1.91,1639456065,100.0
+2026-11-04T07:50:06+00:00,1028312648,finland/korisliiga,Kipina,KTP-Basket,2026-11-04T16:30:00+00:00,total,180.5,1.85,1.85,1639456065,100.0
