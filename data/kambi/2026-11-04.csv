@@ -321,3 +321,9 @@ ts,event_id,group,home,away,start,type,line,dec_1,dec_2,pin_matchup_id,match_sco
 2026-11-04T10:08:49+00:00,1029344139,eurocup__w_,Porta XI Ensino (W),Basket Lattes Montpellier (W),2026-11-04T19:00:00+00:00,spread,11.5,1.82,1.88,1639471480,100.0
 2026-11-04T10:20:08+00:00,1029299395,fiba_europe_cup,Valmiera Glass VIA,Manchester Basketball,2026-11-04T17:00:00+00:00,moneyline,,1.5,2.4,1639461737,100.0
 2026-11-04T10:20:08+00:00,1029299395,fiba_europe_cup,Valmiera Glass VIA,Manchester Basketball,2026-11-04T17:00:00+00:00,spread,-3.5,1.79,1.91,1639461737,100.0
+2026-11-04T10:52:05+00:00,1029299358,fiba_europe_cup,Nitra Blue Wings,Basketclubs Vienna,2026-11-04T17:00:00+00:00,moneyline,,2.2,1.6,,46.2
+2026-11-04T10:52:05+00:00,1029299358,fiba_europe_cup,Nitra Blue Wings,Basketclubs Vienna,2026-11-04T17:00:00+00:00,spread,2.5,1.89,1.81,,46.2
+2026-11-04T10:52:05+00:00,1029299358,fiba_europe_cup,Nitra Blue Wings,Basketclubs Vienna,2026-11-04T17:00:00+00:00,total,163.5,1.91,1.79,,46.2
+2026-11-04T10:52:05+00:00,1029410916,fiba_europe_cup,SCM Craiova,Gence BK,2026-11-04T17:00:00+00:00,moneyline,,1.32,3.1,1639461735,88.9
+2026-11-04T10:52:05+00:00,1029410916,fiba_europe_cup,SCM Craiova,Gence BK,2026-11-04T17:00:00+00:00,spread,-6.5,1.81,1.89,1639461735,88.9
+2026-11-04T10:52:05+00:00,1029410916,fiba_europe_cup,SCM Craiova,Gence BK,2026-11-04T17:00:00+00:00,total,163.5,1.8,1.9,1639461735,88.9
