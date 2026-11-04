@@ -569,3 +569,12 @@ ts,event_id,group,home,away,start,type,line,dec_1,dec_2,pin_matchup_id,match_sco
 2026-11-04T17:13:46+00:00,1028300978,denmark/basketligaen,BMS Herlev Wolfpack,Copenhagen Basketball,2026-11-04T18:00:00+00:00,spread,15.5,1.82,1.88,1639471874,100.0
 2026-11-04T17:13:46+00:00,1029299336,fiba_europe_cup,Iraklis,AEK Larnaca,2026-11-04T17:30:00+00:00,spread,-9.5,1.81,1.89,1639461745,100.0
 2026-11-04T17:13:46+00:00,1029299336,fiba_europe_cup,Iraklis,AEK Larnaca,2026-11-04T17:30:00+00:00,total,163.5,1.9,1.8,1639461745,100.0
+2026-11-04T17:18:57+00:00,1028405477,eurocup,KK Cedevita Olimpija,Bertram Tortona,2026-11-04T17:30:00+00:00,moneyline,,1.4,2.75,1639461740,76.1
+2026-11-04T17:18:57+00:00,1028405477,eurocup,KK Cedevita Olimpija,Bertram Tortona,2026-11-04T17:30:00+00:00,spread,-5.5,1.9,1.86,1639461740,76.1
+2026-11-04T17:18:57+00:00,1028405477,eurocup,KK Cedevita Olimpija,Bertram Tortona,2026-11-04T17:30:00+00:00,total,165.5,1.86,1.84,1639461740,76.1
+2026-11-04T17:18:57+00:00,1029344255,eurocup__w_,Montana 2003 (W),Rutronik Stars Keltern (W),2026-11-04T17:30:00+00:00,moneyline,,1.54,2.32,1639466014,100.0
+2026-11-04T17:18:57+00:00,1029344255,eurocup__w_,Montana 2003 (W),Rutronik Stars Keltern (W),2026-11-04T17:30:00+00:00,spread,-4.5,2.0,1.72,1639466014,100.0
+2026-11-04T17:18:57+00:00,1029344255,eurocup__w_,Montana 2003 (W),Rutronik Stars Keltern (W),2026-11-04T17:30:00+00:00,total,140.5,1.9,1.81,1639466014,100.0
+2026-11-04T17:18:57+00:00,1029286054,eurocup__w_,Imperial AEL Limassol (W),BK Zabiny Brno (W),2026-11-04T17:30:00+00:00,moneyline,,31.0,1.01,1639461742,100.0
+2026-11-04T17:18:57+00:00,1029286054,eurocup__w_,Imperial AEL Limassol (W),BK Zabiny Brno (W),2026-11-04T17:30:00+00:00,spread,25.5,1.87,1.83,1639461742,100.0
+2026-11-04T17:18:57+00:00,1029286054,eurocup__w_,Imperial AEL Limassol (W),BK Zabiny Brno (W),2026-11-04T17:30:00+00:00,total,153.5,1.86,1.84,1639461742,100.0
