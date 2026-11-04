@@ -494,3 +494,6 @@ ts,event_id,group,home,away,start,type,line,dec_1,dec_2,pin_matchup_id,match_sco
 2026-11-04T16:16:37+00:00,1028312654,finland/korisliiga,Bisons Loimaa,Lahti Basketball,2026-11-04T16:30:00+00:00,moneyline,,2.06,1.73,1639465991,100.0
 2026-11-04T16:16:37+00:00,1028312654,finland/korisliiga,Bisons Loimaa,Lahti Basketball,2026-11-04T16:30:00+00:00,spread,1.5,1.92,1.85,1639465991,100.0
 2026-11-04T16:16:37+00:00,1028312654,finland/korisliiga,Bisons Loimaa,Lahti Basketball,2026-11-04T16:30:00+00:00,total,166.5,1.89,1.81,1639465991,100.0
+2026-11-04T16:21:50+00:00,1028492459,fiba_champions_league,Legia Warszawa,Galatasaray S.K.,2026-11-04T17:00:00+00:00,total,165.5,2.0,1.72,1639461728,100.0
+2026-11-04T16:21:50+00:00,1028312651,finland/korisliiga,Korihait,Kauhajoki,2026-11-04T16:30:00+00:00,total,170.5,1.9,1.8,1639465992,100.0
+2026-11-04T16:21:50+00:00,1028312654,finland/korisliiga,Bisons Loimaa,Lahti Basketball,2026-11-04T16:30:00+00:00,total,165.5,1.91,1.8,1639465991,100.0
