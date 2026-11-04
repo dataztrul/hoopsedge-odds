@@ -565,3 +565,7 @@ ts,event_id,group,home,away,start,type,line,dec_1,dec_2,pin_matchup_id,match_sco
 2026-11-04T17:08:35+00:00,1028405530,eurocup,La Laguna Tenerife,Universitatea Cluj-Napoca,2026-11-05T20:00:00+00:00,spread,-11.5,1.7,2.1,1639527633,100.0
 2026-11-04T17:08:35+00:00,1029336667,fiba_europe_cup,Zastal Zielona Góra,CS Dinamo Bucuresti,2026-11-04T18:00:00+00:00,moneyline,,1.38,2.75,1639461741,100.0
 2026-11-04T17:08:35+00:00,1029336667,fiba_europe_cup,Zastal Zielona Góra,CS Dinamo Bucuresti,2026-11-04T18:00:00+00:00,spread,-4.5,1.72,2.0,1639461741,100.0
+2026-11-04T17:13:46+00:00,1028300978,denmark/basketligaen,BMS Herlev Wolfpack,Copenhagen Basketball,2026-11-04T18:00:00+00:00,moneyline,,6.5,1.08,1639471874,100.0
+2026-11-04T17:13:46+00:00,1028300978,denmark/basketligaen,BMS Herlev Wolfpack,Copenhagen Basketball,2026-11-04T18:00:00+00:00,spread,15.5,1.82,1.88,1639471874,100.0
+2026-11-04T17:13:46+00:00,1029299336,fiba_europe_cup,Iraklis,AEK Larnaca,2026-11-04T17:30:00+00:00,spread,-9.5,1.81,1.89,1639461745,100.0
+2026-11-04T17:13:46+00:00,1029299336,fiba_europe_cup,Iraklis,AEK Larnaca,2026-11-04T17:30:00+00:00,total,163.5,1.9,1.8,1639461745,100.0
