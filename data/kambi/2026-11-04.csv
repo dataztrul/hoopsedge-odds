@@ -521,3 +521,22 @@ ts,event_id,group,home,away,start,type,line,dec_1,dec_2,pin_matchup_id,match_sco
 2026-11-04T16:42:38+00:00,1029343793,eurocup__w_,DSK Basketball (W),ESB Villeneuve d'Ascq Lille (W),2026-11-04T17:00:00+00:00,total,142.5,1.88,1.82,,60.0
 2026-11-04T16:42:38+00:00,1029344001,eurocup__w_,Universitatea Cluj-Napoca (W),Umana Reyer Venezia (W),2026-11-04T17:00:00+00:00,spread,47.5,1.66,2.1,1639461729,90.6
 2026-11-04T16:42:38+00:00,1029344001,eurocup__w_,Universitatea Cluj-Napoca (W),Umana Reyer Venezia (W),2026-11-04T17:00:00+00:00,total,149.5,1.94,1.77,1639461729,90.6
+2026-11-04T16:47:49+00:00,1028405622,eurocup,BC Lietkabelis,BAXI Manresa,2026-11-04T17:00:00+00:00,spread,2.5,1.87,1.89,1639456090,86.8
+2026-11-04T16:47:49+00:00,1028492459,fiba_champions_league,Legia Warszawa,Galatasaray S.K.,2026-11-04T17:00:00+00:00,spread,7.5,1.94,1.82,1639461728,100.0
+2026-11-04T16:47:49+00:00,1028492459,fiba_champions_league,Legia Warszawa,Galatasaray S.K.,2026-11-04T17:00:00+00:00,total,163.5,1.83,1.88,1639461728,100.0
+2026-11-04T16:47:49+00:00,1028492455,fiba_champions_league,Szombathely,AEK B.C.,2026-11-04T17:00:00+00:00,moneyline,,1.67,2.15,1639461730,80.0
+2026-11-04T16:47:49+00:00,1028492455,fiba_champions_league,Szombathely,AEK B.C.,2026-11-04T17:00:00+00:00,total,167.5,1.85,1.85,1639461730,80.0
+2026-11-04T16:47:49+00:00,1028300980,denmark/basketligaen,EBAA,Horsens IC,2026-11-04T17:30:00+00:00,moneyline,,8.5,1.02,,67.6
+2026-11-04T16:47:49+00:00,1028300980,denmark/basketligaen,EBAA,Horsens IC,2026-11-04T17:30:00+00:00,spread,17.5,1.9,1.8,,67.6
+2026-11-04T16:47:49+00:00,1028300980,denmark/basketligaen,EBAA,Horsens IC,2026-11-04T17:30:00+00:00,total,165.5,1.8,1.9,,67.6
+2026-11-04T16:47:49+00:00,1029344027,eurocup__w_,ZKK Cinkarna Celje (W),Magnolia Basket Campobasso (W),2026-11-04T17:00:00+00:00,spread,11.5,1.77,1.94,1639466001,100.0
+2026-11-04T16:47:49+00:00,1029286077,eurocup__w_,Elitzur Ramla (W),TTT Riga (W),2026-11-04T17:00:00+00:00,spread,-12.5,1.85,1.85,1639461733,100.0
+2026-11-04T16:47:49+00:00,1029286077,eurocup__w_,Elitzur Ramla (W),TTT Riga (W),2026-11-04T17:00:00+00:00,total,151.5,1.87,1.84,1639461733,100.0
+2026-11-04T16:47:49+00:00,1029345143,eurocup__w_,Ružomberok (W),Perfumerías Avenida (W),2026-11-04T17:00:00+00:00,spread,11.5,1.86,1.84,1639466003,100.0
+2026-11-04T16:47:49+00:00,1029344001,eurocup__w_,Universitatea Cluj-Napoca (W),Umana Reyer Venezia (W),2026-11-04T17:00:00+00:00,spread,45.5,1.86,1.84,1639461729,90.6
+2026-11-04T16:47:49+00:00,1029344001,eurocup__w_,Universitatea Cluj-Napoca (W),Umana Reyer Venezia (W),2026-11-04T17:00:00+00:00,total,148.5,1.85,1.85,1639461729,90.6
+2026-11-04T16:47:49+00:00,1029299246,fiba_europe_cup,ASP Promitheas,BK Opava,2026-11-04T17:00:00+00:00,moneyline,,1.03,8.5,1639461736,91.9
+2026-11-04T16:47:49+00:00,1029299246,fiba_europe_cup,ASP Promitheas,BK Opava,2026-11-04T17:00:00+00:00,spread,-17.5,1.83,1.87,1639461736,91.9
+2026-11-04T16:47:49+00:00,1029299246,fiba_europe_cup,ASP Promitheas,BK Opava,2026-11-04T17:00:00+00:00,total,168.5,1.89,1.81,1639461736,91.9
+2026-11-04T16:47:49+00:00,1029410916,fiba_europe_cup,SCM Craiova,Gence BK,2026-11-04T17:00:00+00:00,spread,-8.5,1.9,1.81,1639461735,88.9
+2026-11-04T16:47:49+00:00,1029410916,fiba_europe_cup,SCM Craiova,Gence BK,2026-11-04T17:00:00+00:00,total,166.5,1.85,1.85,1639461735,88.9
