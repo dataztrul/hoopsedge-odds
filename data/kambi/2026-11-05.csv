@@ -80,3 +80,5 @@ ts,event_id,group,home,away,start,type,line,dec_1,dec_2,pin_matchup_id,match_sco
 2026-11-05T10:21:02+00:00,1028562775,euroleague,ASVEL Lyon-Villeurbanne,FC Bayern München,2026-11-05T19:00:00+00:00,moneyline,,1.73,2.1,1639471507,94.4
 2026-11-05T10:21:02+00:00,1028562775,euroleague,ASVEL Lyon-Villeurbanne,FC Bayern München,2026-11-05T19:00:00+00:00,spread,-1.5,1.84,1.96,1639471507,94.4
 2026-11-05T10:21:02+00:00,1028562775,euroleague,ASVEL Lyon-Villeurbanne,FC Bayern München,2026-11-05T19:00:00+00:00,total,177.5,1.9,1.9,1639471507,94.4
+2026-11-05T10:31:12+00:00,1028562775,euroleague,ASVEL Lyon-Villeurbanne,FC Bayern München,2026-11-05T19:00:00+00:00,spread,-2.5,1.96,1.84,1639471507,94.4
+2026-11-05T10:31:12+00:00,1028562775,euroleague,ASVEL Lyon-Villeurbanne,FC Bayern München,2026-11-05T19:00:00+00:00,total,177.5,1.91,1.89,1639471507,94.4
