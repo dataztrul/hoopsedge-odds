@@ -114,3 +114,6 @@ ts,event_id,group,home,away,start,type,line,dec_1,dec_2,pin_matchup_id,match_sco
 2026-11-05T12:23:50+00:00,1028130393,bnxt_league,CB Liege,Landstede Hammers,2026-11-06T19:30:00+00:00,moneyline,,3.25,1.28,,46.4
 2026-11-05T12:23:50+00:00,1028130393,bnxt_league,CB Liege,Landstede Hammers,2026-11-06T19:30:00+00:00,spread,7.5,1.83,1.85,,46.4
 2026-11-05T12:23:50+00:00,1028130393,bnxt_league,CB Liege,Landstede Hammers,2026-11-06T19:30:00+00:00,total,156.5,1.76,1.93,,46.4
+2026-11-05T12:34:01+00:00,1027960492,sweden/basketligan,KFUM Nässjö,Köping Stars,2026-11-06T18:04:00+00:00,moneyline,,1.71,2.02,1639596217,100.0
+2026-11-05T12:34:01+00:00,1027960492,sweden/basketligan,KFUM Nässjö,Köping Stars,2026-11-06T18:04:00+00:00,spread,-1.5,1.81,1.89,1639596217,100.0
+2026-11-05T12:34:01+00:00,1027960492,sweden/basketligan,KFUM Nässjö,Köping Stars,2026-11-06T18:04:00+00:00,total,171.5,1.85,1.85,1639596217,100.0
