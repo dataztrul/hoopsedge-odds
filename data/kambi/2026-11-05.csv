@@ -177,3 +177,6 @@ ts,event_id,group,home,away,start,type,line,dec_1,dec_2,pin_matchup_id,match_sco
 2026-11-05T16:36:33+00:00,1029385765,euroleague,Fenerbahce SK,Saski Baskonia,2026-11-05T18:00:00+00:00,spread,-14.5,1.93,1.87,1639476198,86.4
 2026-11-05T16:36:33+00:00,1029385765,euroleague,Fenerbahce SK,Saski Baskonia,2026-11-05T18:00:00+00:00,total,168.5,1.86,1.94,1639476198,86.4
 2026-11-05T16:36:33+00:00,1028726951,lithuania/lkl,Jonavos SK,BC Rytas Vilnius,2026-11-05T16:50:00+00:00,spread,8.5,1.9,1.8,1639855131,88.5
+2026-11-05T16:41:44+00:00,1029385765,euroleague,Fenerbahce SK,Saski Baskonia,2026-11-05T18:00:00+00:00,total,168.5,1.88,1.92,1639476198,86.4
+2026-11-05T16:41:44+00:00,1028927810,aba_league,KK Spartak Subotica,Zadar,2026-11-05T17:00:00+00:00,spread,-9.5,1.9,1.81,1639525517,100.0
+2026-11-05T16:41:44+00:00,1028927810,aba_league,KK Spartak Subotica,Zadar,2026-11-05T17:00:00+00:00,total,158.5,1.84,1.86,1639525517,100.0
