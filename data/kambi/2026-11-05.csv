@@ -237,3 +237,6 @@ ts,event_id,group,home,away,start,type,line,dec_1,dec_2,pin_matchup_id,match_sco
 2026-11-05T21:06:29+00:00,1029005624,brazil/nbb,Franca Basquetebol Clube,Cruzeiro Basquete,2026-11-05T23:00:00+00:00,moneyline,,1.12,5.4,,29.7
 2026-11-05T21:06:29+00:00,1029005624,brazil/nbb,Franca Basquetebol Clube,Cruzeiro Basquete,2026-11-05T23:00:00+00:00,spread,-12.5,1.84,1.86,,29.7
 2026-11-05T21:06:29+00:00,1029005624,brazil/nbb,Franca Basquetebol Clube,Cruzeiro Basquete,2026-11-05T23:00:00+00:00,total,157.5,1.91,1.79,,29.7
+2026-11-05T21:53:14+00:00,1028697368,spain/leb_oro,Chocolates Trapa Palencia,C.B. Granada,2026-11-06T20:00:00+00:00,moneyline,,1.2,3.75,1639620717,81.1
+2026-11-05T21:53:14+00:00,1028697368,spain/leb_oro,Chocolates Trapa Palencia,C.B. Granada,2026-11-06T20:00:00+00:00,spread,-9.5,1.9,1.75,1639620717,81.1
+2026-11-05T21:53:14+00:00,1028697368,spain/leb_oro,Chocolates Trapa Palencia,C.B. Granada,2026-11-06T20:00:00+00:00,total,160.5,1.77,1.87,1639620717,81.1
