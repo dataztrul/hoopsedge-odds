@@ -34,3 +34,9 @@ ts,event_id,group,home,away,start,type,line,dec_1,dec_2,pin_matchup_id,match_sco
 2026-11-05T06:13:09+00:00,1028300993,denmark/basketligaen,BK Vejen,Holbaek-Stenhus,2026-11-06T18:00:00+00:00,moneyline,,1.6,2.2,1639596218,100.0
 2026-11-05T06:13:09+00:00,1028300993,denmark/basketligaen,BK Vejen,Holbaek-Stenhus,2026-11-06T18:00:00+00:00,spread,-2.5,1.82,1.89,1639596218,100.0
 2026-11-05T06:13:09+00:00,1028300993,denmark/basketligaen,BK Vejen,Holbaek-Stenhus,2026-11-06T18:00:00+00:00,total,172.5,1.88,1.82,1639596218,100.0
+2026-11-05T06:28:18+00:00,1027960469,sweden/basketligan,BC Luleå,Uppsala Basket,2026-11-06T18:04:00+00:00,moneyline,,1.07,6.5,1639596216,100.0
+2026-11-05T06:28:18+00:00,1027960469,sweden/basketligan,BC Luleå,Uppsala Basket,2026-11-06T18:04:00+00:00,spread,-15.5,1.9,1.81,1639596216,100.0
+2026-11-05T06:28:18+00:00,1027960469,sweden/basketligan,BC Luleå,Uppsala Basket,2026-11-06T18:04:00+00:00,total,171.5,1.97,1.75,1639596216,100.0
+2026-11-05T06:28:18+00:00,1027960466,sweden/basketligan,Umeå BSKT,Sloga Uppsala,2026-11-06T18:04:00+00:00,moneyline,,1.91,1.79,1639596215,100.0
+2026-11-05T06:28:18+00:00,1027960466,sweden/basketligan,Umeå BSKT,Sloga Uppsala,2026-11-06T18:04:00+00:00,spread,0.5,1.91,1.79,1639596215,100.0
+2026-11-05T06:28:18+00:00,1027960466,sweden/basketligan,Umeå BSKT,Sloga Uppsala,2026-11-06T18:04:00+00:00,total,169.5,1.85,1.85,1639596215,100.0
