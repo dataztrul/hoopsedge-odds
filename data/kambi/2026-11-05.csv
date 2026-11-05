@@ -50,3 +50,6 @@ ts,event_id,group,home,away,start,type,line,dec_1,dec_2,pin_matchup_id,match_sco
 2026-11-05T07:28:57+00:00,1028992927,france/elite,Boulazac,Gravelines-Dunkerque,2026-11-06T19:00:00+00:00,moneyline,,1.38,2.9,,40.7
 2026-11-05T07:28:57+00:00,1028992927,france/elite,Boulazac,Gravelines-Dunkerque,2026-11-06T19:00:00+00:00,spread,-6.5,1.94,1.82,,40.7
 2026-11-05T07:28:57+00:00,1028992927,france/elite,Boulazac,Gravelines-Dunkerque,2026-11-06T19:00:00+00:00,total,166.5,1.88,1.82,,40.7
+2026-11-05T07:44:07+00:00,1028130393,bnxt_league,CB Liege,Landstede Hammers,2026-11-06T19:30:00+00:00,moneyline,,3.2,1.29,,46.4
+2026-11-05T07:44:07+00:00,1028130393,bnxt_league,CB Liege,Landstede Hammers,2026-11-06T19:30:00+00:00,spread,6.5,1.9,1.78,,46.4
+2026-11-05T07:44:07+00:00,1028130393,bnxt_league,CB Liege,Landstede Hammers,2026-11-06T19:30:00+00:00,total,160.5,1.84,1.84,,46.4
