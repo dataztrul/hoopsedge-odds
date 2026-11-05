@@ -263,3 +263,5 @@ ts,event_id,group,home,away,start,type,line,dec_1,dec_2,pin_matchup_id,match_sco
 2026-11-05T22:53:55+00:00,1029005624,brazil/nbb,Franca Basquetebol Clube,Cruzeiro Basquete,2026-11-05T23:00:00+00:00,total,156.5,1.84,1.86,,29.7
 2026-11-05T22:53:55+00:00,1029728998,mexico/lnbp,Panteras de Aguascalientes,Soles de Mexicali,2026-11-06T02:30:00+00:00,moneyline,,2.9,1.35,,0.0
 2026-11-05T22:53:55+00:00,1029728998,mexico/lnbp,Panteras de Aguascalientes,Soles de Mexicali,2026-11-06T02:30:00+00:00,spread,4.5,2.08,1.66,,0.0
+2026-11-05T23:24:16+00:00,1028562752,euroleague,Partizan Belgrade,Maccabi Tel Aviv,2026-11-06T19:45:00+00:00,moneyline,,1.42,2.85,1639538375,100.0
+2026-11-05T23:24:16+00:00,1028562752,euroleague,Partizan Belgrade,Maccabi Tel Aviv,2026-11-06T19:45:00+00:00,spread,-5.5,1.9,1.9,1639538375,100.0
