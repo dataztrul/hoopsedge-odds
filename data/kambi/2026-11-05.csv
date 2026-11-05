@@ -73,3 +73,5 @@ ts,event_id,group,home,away,start,type,line,dec_1,dec_2,pin_matchup_id,match_sco
 2026-11-05T09:45:29+00:00,1029728998,mexico/lnbp,Panteras de Aguascalientes,Soles de Mexicali,2026-11-06T02:30:00+00:00,moneyline,,2.35,1.53,,0.0
 2026-11-05T09:45:29+00:00,1029728998,mexico/lnbp,Panteras de Aguascalientes,Soles de Mexicali,2026-11-06T02:30:00+00:00,spread,3.5,1.88,1.83,,0.0
 2026-11-05T09:45:29+00:00,1029728998,mexico/lnbp,Panteras de Aguascalientes,Soles de Mexicali,2026-11-06T02:30:00+00:00,total,164.5,1.95,1.75,,0.0
+2026-11-05T10:00:40+00:00,1028562772,euroleague,Hapoel Tel Aviv,FC Barcelona,2026-11-05T18:45:00+00:00,moneyline,,1.42,2.88,1639471508,100.0
+2026-11-05T10:00:40+00:00,1028562772,euroleague,Hapoel Tel Aviv,FC Barcelona,2026-11-05T18:45:00+00:00,total,179.5,1.89,1.91,1639471508,100.0
