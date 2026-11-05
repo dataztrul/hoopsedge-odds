@@ -256,3 +256,10 @@ ts,event_id,group,home,away,start,type,line,dec_1,dec_2,pin_matchup_id,match_sco
 2026-11-05T22:23:35+00:00,1028304672,poland/plk,Enea Abramczyk Astoria Bydgoszcz,Polski Cukier Start Lublin,2026-11-06T19:15:00+00:00,moneyline,,1.37,2.85,1639647366,94.4
 2026-11-05T22:23:35+00:00,1028304672,poland/plk,Enea Abramczyk Astoria Bydgoszcz,Polski Cukier Start Lublin,2026-11-06T19:15:00+00:00,spread,-5.5,1.8,1.9,1639647366,94.4
 2026-11-05T22:23:35+00:00,1028304672,poland/plk,Enea Abramczyk Astoria Bydgoszcz,Polski Cukier Start Lublin,2026-11-06T19:15:00+00:00,total,174.5,1.83,1.87,1639647366,94.4
+2026-11-05T22:53:55+00:00,1029005621,brazil/nbb,AERC Osasco,São José Basketball,2026-11-05T23:00:00+00:00,moneyline,,2.18,1.61,,37.5
+2026-11-05T22:53:55+00:00,1029005621,brazil/nbb,AERC Osasco,São José Basketball,2026-11-05T23:00:00+00:00,spread,2.5,1.88,1.82,,37.5
+2026-11-05T22:53:55+00:00,1029005621,brazil/nbb,AERC Osasco,São José Basketball,2026-11-05T23:00:00+00:00,total,164.5,1.85,1.85,,37.5
+2026-11-05T22:53:55+00:00,1029005624,brazil/nbb,Franca Basquetebol Clube,Cruzeiro Basquete,2026-11-05T23:00:00+00:00,moneyline,,1.11,5.4,,29.7
+2026-11-05T22:53:55+00:00,1029005624,brazil/nbb,Franca Basquetebol Clube,Cruzeiro Basquete,2026-11-05T23:00:00+00:00,total,156.5,1.84,1.86,,29.7
+2026-11-05T22:53:55+00:00,1029728998,mexico/lnbp,Panteras de Aguascalientes,Soles de Mexicali,2026-11-06T02:30:00+00:00,moneyline,,2.9,1.35,,0.0
+2026-11-05T22:53:55+00:00,1029728998,mexico/lnbp,Panteras de Aguascalientes,Soles de Mexicali,2026-11-06T02:30:00+00:00,spread,4.5,2.08,1.66,,0.0
