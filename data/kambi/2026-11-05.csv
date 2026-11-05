@@ -59,3 +59,9 @@ ts,event_id,group,home,away,start,type,line,dec_1,dec_2,pin_matchup_id,match_sco
 2026-11-05T08:29:38+00:00,1029005624,brazil/nbb,Franca Basquetebol Clube,Cruzeiro Basquete,2026-11-05T23:00:00+00:00,moneyline,,1.11,5.4,,29.7
 2026-11-05T08:29:38+00:00,1029005624,brazil/nbb,Franca Basquetebol Clube,Cruzeiro Basquete,2026-11-05T23:00:00+00:00,spread,-12.5,1.82,1.88,,29.7
 2026-11-05T08:29:38+00:00,1029005624,brazil/nbb,Franca Basquetebol Clube,Cruzeiro Basquete,2026-11-05T23:00:00+00:00,total,157.5,1.82,1.88,,29.7
+2026-11-05T08:59:59+00:00,1029385765,euroleague,Fenerbahce SK,Saski Baskonia,2026-11-05T18:00:00+00:00,moneyline,,1.11,6.5,1639476198,86.4
+2026-11-05T08:59:59+00:00,1028562752,euroleague,Partizan Belgrade,Maccabi Tel Aviv,2026-11-06T19:45:00+00:00,moneyline,,1.46,2.7,,42.2
+2026-11-05T08:59:59+00:00,1028562752,euroleague,Partizan Belgrade,Maccabi Tel Aviv,2026-11-06T19:45:00+00:00,spread,-4.5,1.85,1.96,,42.2
+2026-11-05T08:59:59+00:00,1027960469,sweden/basketligan,BC Luleå,Uppsala Basket,2026-11-06T18:04:00+00:00,moneyline,,1.06,7.0,1639596216,100.0
+2026-11-05T08:59:59+00:00,1027960469,sweden/basketligan,BC Luleå,Uppsala Basket,2026-11-06T18:04:00+00:00,spread,-16.5,1.86,1.84,1639596216,100.0
+2026-11-05T08:59:59+00:00,1027960469,sweden/basketligan,BC Luleå,Uppsala Basket,2026-11-06T18:04:00+00:00,total,169.5,1.89,1.81,1639596216,100.0
