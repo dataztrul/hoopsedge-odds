@@ -246,3 +246,13 @@ ts,event_id,group,home,away,start,type,line,dec_1,dec_2,pin_matchup_id,match_sco
 2026-11-05T22:08:24+00:00,1029336191,slovakia/extraliga,MBK Rieker Komárno,BC Slovan Bratislava,2026-11-06T17:00:00+00:00,moneyline,,5.8,1.1,,42.9
 2026-11-05T22:08:24+00:00,1029336191,slovakia/extraliga,MBK Rieker Komárno,BC Slovan Bratislava,2026-11-06T17:00:00+00:00,spread,13.5,1.87,1.83,,42.9
 2026-11-05T22:08:24+00:00,1029336191,slovakia/extraliga,MBK Rieker Komárno,BC Slovan Bratislava,2026-11-06T17:00:00+00:00,total,161.5,1.9,1.8,,42.9
+2026-11-05T22:23:35+00:00,1029005690,brazil/nbb,Associacao Bauru Basketball Team,Minas Tênis Clube,2026-11-05T22:30:00+00:00,moneyline,,3.3,1.28,,36.7
+2026-11-05T22:23:35+00:00,1029005690,brazil/nbb,Associacao Bauru Basketball Team,Minas Tênis Clube,2026-11-05T22:30:00+00:00,spread,7.5,1.84,1.86,,36.7
+2026-11-05T22:23:35+00:00,1029005690,brazil/nbb,Associacao Bauru Basketball Team,Minas Tênis Clube,2026-11-05T22:30:00+00:00,total,157.5,1.83,1.87,,36.7
+2026-11-05T22:23:35+00:00,1029005621,brazil/nbb,AERC Osasco,São José Basketball,2026-11-05T23:00:00+00:00,total,162.5,1.71,2.0,,37.5
+2026-11-05T22:23:35+00:00,1028475225,france/elite_2,Stade Rochelais Basket,Denain,2026-11-06T19:00:00+00:00,moneyline,,3.2,1.27,1639615021,100.0
+2026-11-05T22:23:35+00:00,1028475225,france/elite_2,Stade Rochelais Basket,Denain,2026-11-06T19:00:00+00:00,spread,5.5,2.05,1.63,1639615021,100.0
+2026-11-05T22:23:35+00:00,1028475225,france/elite_2,Stade Rochelais Basket,Denain,2026-11-06T19:00:00+00:00,total,169.5,1.84,1.8,1639615021,100.0
+2026-11-05T22:23:35+00:00,1028304672,poland/plk,Enea Abramczyk Astoria Bydgoszcz,Polski Cukier Start Lublin,2026-11-06T19:15:00+00:00,moneyline,,1.37,2.85,1639647366,94.4
+2026-11-05T22:23:35+00:00,1028304672,poland/plk,Enea Abramczyk Astoria Bydgoszcz,Polski Cukier Start Lublin,2026-11-06T19:15:00+00:00,spread,-5.5,1.8,1.9,1639647366,94.4
+2026-11-05T22:23:35+00:00,1028304672,poland/plk,Enea Abramczyk Astoria Bydgoszcz,Polski Cukier Start Lublin,2026-11-06T19:15:00+00:00,total,174.5,1.83,1.87,1639647366,94.4
