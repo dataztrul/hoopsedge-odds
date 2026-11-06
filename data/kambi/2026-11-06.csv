@@ -382,3 +382,7 @@ ts,event_id,group,home,away,start,type,line,dec_1,dec_2,pin_matchup_id,match_sco
 2026-11-06T17:53:23+00:00,1027960474,sweden/basketligan,Högsbo Basket,Norrköping Dolphins,2026-11-06T18:04:00+00:00,moneyline,,6.5,1.08,1639614997,100.0
 2026-11-06T17:53:23+00:00,1027960474,sweden/basketligan,Högsbo Basket,Norrköping Dolphins,2026-11-06T18:04:00+00:00,spread,15.5,1.8,1.9,1639614997,100.0
 2026-11-06T17:53:23+00:00,1027960474,sweden/basketligan,Högsbo Basket,Norrköping Dolphins,2026-11-06T18:04:00+00:00,total,175.5,1.86,1.84,1639614997,100.0
+2026-11-06T17:58:39+00:00,1027960474,sweden/basketligan,Högsbo Basket,Norrköping Dolphins,2026-11-06T18:04:00+00:00,moneyline,,5.75,1.1,1639614997,100.0
+2026-11-06T17:58:39+00:00,1027960474,sweden/basketligan,Högsbo Basket,Norrköping Dolphins,2026-11-06T18:04:00+00:00,spread,14.5,1.77,1.94,1639614997,100.0
+2026-11-06T17:58:39+00:00,1028300993,denmark/basketligaen,BK Vejen,Holbaek-Stenhus,2026-11-06T18:04:00+00:00,moneyline,,1.38,2.75,1639596218,100.0
+2026-11-06T17:58:39+00:00,1028300993,denmark/basketligaen,BK Vejen,Holbaek-Stenhus,2026-11-06T18:04:00+00:00,total,169.5,1.85,1.85,1639596218,100.0
