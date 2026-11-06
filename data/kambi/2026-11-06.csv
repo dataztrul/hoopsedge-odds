@@ -35,3 +35,12 @@ ts,event_id,group,home,away,start,type,line,dec_1,dec_2,pin_matchup_id,match_sco
 2026-11-06T02:42:15+00:00,1028312641,finland/korisliiga,Kipina,Salon Vilpas,2026-11-07T14:00:00+00:00,moneyline,,2.6,1.47,1639719335,100.0
 2026-11-06T02:42:15+00:00,1028312641,finland/korisliiga,Kipina,Salon Vilpas,2026-11-07T14:00:00+00:00,spread,4.5,1.9,1.86,1639719335,100.0
 2026-11-06T02:42:15+00:00,1028312641,finland/korisliiga,Kipina,Salon Vilpas,2026-11-07T14:00:00+00:00,total,180.5,1.86,1.84,1639719335,100.0
+2026-11-06T03:13:05+00:00,1028312643,finland/korisliiga,Kataja Basket,Korihait,2026-11-07T15:00:00+00:00,moneyline,,1.33,3.2,1639719423,100.0
+2026-11-06T03:13:05+00:00,1028312643,finland/korisliiga,Kataja Basket,Korihait,2026-11-07T15:00:00+00:00,spread,-7.5,1.92,1.84,1639719423,100.0
+2026-11-06T03:13:05+00:00,1028312643,finland/korisliiga,Kataja Basket,Korihait,2026-11-07T15:00:00+00:00,total,172.5,1.83,1.87,1639719423,100.0
+2026-11-06T03:13:05+00:00,1028475150,france/elite_2,Le Havre,Orléans Loiret Basket,2026-11-06T19:00:00+00:00,moneyline,,2.63,1.38,1639894933,100.0
+2026-11-06T03:13:05+00:00,1028475150,france/elite_2,Le Havre,Orléans Loiret Basket,2026-11-06T19:00:00+00:00,spread,5.5,1.78,1.85,1639894933,100.0
+2026-11-06T03:13:05+00:00,1028475150,france/elite_2,Le Havre,Orléans Loiret Basket,2026-11-06T19:00:00+00:00,total,171.5,1.85,1.79,1639894933,100.0
+2026-11-06T03:13:05+00:00,1028726939,lithuania/lkl,BC Lietkabelis,BC Rytas Vilnius,2026-11-07T14:50:00+00:00,moneyline,,2.65,1.42,1639715503,100.0
+2026-11-06T03:13:05+00:00,1028726939,lithuania/lkl,BC Lietkabelis,BC Rytas Vilnius,2026-11-07T14:50:00+00:00,spread,5.5,1.81,1.89,1639715503,100.0
+2026-11-06T03:13:05+00:00,1028726939,lithuania/lkl,BC Lietkabelis,BC Rytas Vilnius,2026-11-07T14:50:00+00:00,total,169.5,1.87,1.83,1639715503,100.0
