@@ -207,3 +207,6 @@ ts,event_id,group,home,away,start,type,line,dec_1,dec_2,pin_matchup_id,match_sco
 2026-11-06T10:34:39+00:00,1028803931,united_kingdom/super_league_basketball,London Lions,Leicester Riders,2026-11-06T19:00:00+00:00,spread,-13.5,1.78,1.93,,42.2
 2026-11-06T10:39:53+00:00,1029729011,czech_republic/nbl,BLK Slavia Praha,Lokomotiva Plzeň,2026-11-06T17:00:00+00:00,spread,-29.5,1.84,1.86,1639821449,85.1
 2026-11-06T10:39:53+00:00,1029729011,czech_republic/nbl,BLK Slavia Praha,Lokomotiva Plzeň,2026-11-06T17:00:00+00:00,total,178.5,1.95,1.76,1639821449,85.1
+2026-11-06T11:16:30+00:00,1028300993,denmark/basketligaen,BK Vejen,Holbaek-Stenhus,2026-11-06T18:00:00+00:00,moneyline,,1.72,2.0,1639596218,100.0
+2026-11-06T11:16:30+00:00,1028300993,denmark/basketligaen,BK Vejen,Holbaek-Stenhus,2026-11-06T18:00:00+00:00,spread,-1.5,1.83,1.87,1639596218,100.0
+2026-11-06T11:16:30+00:00,1028300993,denmark/basketligaen,BK Vejen,Holbaek-Stenhus,2026-11-06T18:00:00+00:00,total,172.5,1.9,1.8,1639596218,100.0
