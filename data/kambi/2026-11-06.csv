@@ -499,3 +499,8 @@ ts,event_id,group,home,away,start,type,line,dec_1,dec_2,pin_matchup_id,match_sco
 2026-11-06T19:45:10+00:00,1029523193,belgium/top_division__w_,Spirou Basket (W),Basket Lummen (W),2026-11-06T19:50:00+00:00,spread,-11.5,1.85,1.85,1639261766,100.0
 2026-11-06T19:45:10+00:00,1029523193,belgium/top_division__w_,Spirou Basket (W),Basket Lummen (W),2026-11-06T19:50:00+00:00,total,131.5,1.85,1.85,1639261766,100.0
 2026-11-06T19:45:10+00:00,1028697368,spain/leb_oro,Chocolates Trapa Palencia,C.B. Granada,2026-11-06T20:00:00+00:00,spread,-7.5,1.8,1.84,1639620717,81.1
+2026-11-06T19:50:28+00:00,1028660139,turkey/super_league,Trabzonspor BK,Aliaga Petkim Spor,2026-11-07T15:00:00+00:00,moneyline,,1.58,2.25,1639719397,100.0
+2026-11-06T19:50:28+00:00,1028660139,turkey/super_league,Trabzonspor BK,Aliaga Petkim Spor,2026-11-07T15:00:00+00:00,spread,-3.5,1.88,1.82,1639719397,100.0
+2026-11-06T19:50:28+00:00,1028660139,turkey/super_league,Trabzonspor BK,Aliaga Petkim Spor,2026-11-07T15:00:00+00:00,total,165.5,1.82,1.89,1639719397,100.0
+2026-11-06T19:50:28+00:00,1028660148,turkey/super_league,Bursaspor,Fenerbahce SK,2026-11-07T17:30:00+00:00,moneyline,,3.6,1.24,1639737173,100.0
+2026-11-06T19:50:28+00:00,1028660148,turkey/super_league,Bursaspor,Fenerbahce SK,2026-11-07T17:30:00+00:00,spread,8.5,1.86,1.84,1639737173,100.0
