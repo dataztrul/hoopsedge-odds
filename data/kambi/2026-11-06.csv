@@ -186,3 +186,8 @@ ts,event_id,group,home,away,start,type,line,dec_1,dec_2,pin_matchup_id,match_sco
 2026-11-06T09:37:15+00:00,1028475154,france/elite_2,St Chamond,Rouen,2026-11-06T19:30:00+00:00,moneyline,,1.4,2.63,,63.3
 2026-11-06T09:37:15+00:00,1028475154,france/elite_2,St Chamond,Rouen,2026-11-06T19:30:00+00:00,spread,-5.5,1.86,1.77,,63.3
 2026-11-06T09:37:15+00:00,1028475154,france/elite_2,St Chamond,Rouen,2026-11-06T19:30:00+00:00,total,167.5,1.82,1.82,,63.3
+2026-11-06T09:58:07+00:00,1028130389,bnxt_league,Mons-Hainaut,ZZ Leiden,2026-11-07T19:30:00+00:00,moneyline,,2.65,1.41,1639746862,90.0
+2026-11-06T09:58:07+00:00,1028130389,bnxt_league,Mons-Hainaut,ZZ Leiden,2026-11-07T19:30:00+00:00,spread,3.5,2.05,1.67,1639746862,90.0
+2026-11-06T09:58:07+00:00,1029153084,greece/gbl,Kolossos Rhodes,Peristeri,2026-11-07T14:00:00+00:00,moneyline,,1.65,2.18,,44.6
+2026-11-06T09:58:07+00:00,1029153084,greece/gbl,Kolossos Rhodes,Peristeri,2026-11-07T14:00:00+00:00,spread,-2.5,1.83,1.85,,44.6
+2026-11-06T09:58:07+00:00,1029153084,greece/gbl,Kolossos Rhodes,Peristeri,2026-11-07T14:00:00+00:00,total,160.5,1.85,1.85,,44.6
