@@ -406,3 +406,6 @@ ts,event_id,group,home,away,start,type,line,dec_1,dec_2,pin_matchup_id,match_sco
 2026-11-06T18:19:46+00:00,1029617361,slovakia/extraliga,Nitra Blue Wings,Spisski Rytieri,2026-11-07T18:00:00+00:00,moneyline,,1.33,3.0,,44.2
 2026-11-06T18:19:46+00:00,1029617361,slovakia/extraliga,Nitra Blue Wings,Spisski Rytieri,2026-11-07T18:00:00+00:00,spread,-6.5,1.82,1.89,,44.2
 2026-11-06T18:19:46+00:00,1029617361,slovakia/extraliga,Nitra Blue Wings,Spisski Rytieri,2026-11-07T18:00:00+00:00,total,171.5,1.68,2.05,,44.2
+2026-11-06T18:25:03+00:00,1028435531,portugal/lpb,Clube Atletico Queluz,CAB Madeira,2026-11-07T15:30:00+00:00,moneyline,,1.75,1.96,,68.4
+2026-11-06T18:25:03+00:00,1028435531,portugal/lpb,Clube Atletico Queluz,CAB Madeira,2026-11-07T15:30:00+00:00,spread,-1.5,1.87,1.83,,68.4
+2026-11-06T18:25:03+00:00,1028435531,portugal/lpb,Clube Atletico Queluz,CAB Madeira,2026-11-07T15:30:00+00:00,total,174.5,1.91,1.8,,68.4
