@@ -504,3 +504,6 @@ ts,event_id,group,home,away,start,type,line,dec_1,dec_2,pin_matchup_id,match_sco
 2026-11-06T19:50:28+00:00,1028660139,turkey/super_league,Trabzonspor BK,Aliaga Petkim Spor,2026-11-07T15:00:00+00:00,total,165.5,1.82,1.89,1639719397,100.0
 2026-11-06T19:50:28+00:00,1028660148,turkey/super_league,Bursaspor,Fenerbahce SK,2026-11-07T17:30:00+00:00,moneyline,,3.6,1.24,1639737173,100.0
 2026-11-06T19:50:28+00:00,1028660148,turkey/super_league,Bursaspor,Fenerbahce SK,2026-11-07T17:30:00+00:00,spread,8.5,1.86,1.84,1639737173,100.0
+2026-11-06T20:01:04+00:00,1028646416,germany/bbl,Rostock Seawolves,Ulm Basketball,2026-11-07T17:30:00+00:00,moneyline,,1.67,2.07,1639737174,100.0
+2026-11-06T20:01:04+00:00,1028646416,germany/bbl,Rostock Seawolves,Ulm Basketball,2026-11-07T17:30:00+00:00,spread,-2.5,1.91,1.8,1639737174,100.0
+2026-11-06T20:01:04+00:00,1028646416,germany/bbl,Rostock Seawolves,Ulm Basketball,2026-11-07T17:30:00+00:00,total,165.5,1.86,1.84,1639737174,100.0
