@@ -534,3 +534,6 @@ ts,event_id,group,home,away,start,type,line,dec_1,dec_2,pin_matchup_id,match_sco
 2026-11-06T21:51:33+00:00,1028697357,spain/leb_oro,Lucentum Alicante,Palmer Basket Mallorca,2026-11-07T18:00:00+00:00,total,164.5,1.86,1.79,1639737301,90.0
 2026-11-06T21:51:33+00:00,1029396645,turkey/tbl,TED Ankara Kolejliler,Demir İnşaat Büyükçekmece,2026-11-07T12:00:00+00:00,moneyline,,1.68,2.05,1639707937,85.3
 2026-11-06T21:51:33+00:00,1029396645,turkey/tbl,TED Ankara Kolejliler,Demir İnşaat Büyükçekmece,2026-11-07T12:00:00+00:00,spread,-1.5,1.8,1.9,1639707937,85.3
+2026-11-06T22:06:49+00:00,1029335951,slovakia/extraliga,BK Inter Incheba Bratislava,BC Prievidza,2026-11-07T16:00:00+00:00,moneyline,,4.0,1.2,,41.1
+2026-11-06T22:06:49+00:00,1029335951,slovakia/extraliga,BK Inter Incheba Bratislava,BC Prievidza,2026-11-07T16:00:00+00:00,spread,9.5,1.88,1.82,,41.1
+2026-11-06T22:06:49+00:00,1029335951,slovakia/extraliga,BK Inter Incheba Bratislava,BC Prievidza,2026-11-07T16:00:00+00:00,total,164.5,1.91,1.8,,41.1
