@@ -151,3 +151,6 @@ ts,event_id,group,home,away,start,type,line,dec_1,dec_2,pin_matchup_id,match_sco
 2026-11-06T07:43:39+00:00,1028130387,bnxt_league,Kangoeroes Basket Mechelen,Kortrijk Spurs Hse A,2026-11-07T19:30:00+00:00,spread,-2.5,1.75,1.94,1639740197,100.0
 2026-11-06T07:43:39+00:00,1028130387,bnxt_league,Kangoeroes Basket Mechelen,Kortrijk Spurs Hse A,2026-11-07T19:30:00+00:00,total,169.5,1.83,1.85,1639740197,100.0
 2026-11-06T07:43:39+00:00,1028992927,france/elite,Boulazac,Gravelines-Dunkerque,2026-11-06T19:00:00+00:00,total,165.5,1.9,1.8,1639615020,100.0
+2026-11-06T07:53:53+00:00,1028130389,bnxt_league,Mons-Hainaut,ZZ Leiden,2026-11-07T19:30:00+00:00,moneyline,,2.17,1.6,1639746862,90.0
+2026-11-06T07:53:53+00:00,1028130389,bnxt_league,Mons-Hainaut,ZZ Leiden,2026-11-07T19:30:00+00:00,spread,2.5,1.88,1.81,1639746862,90.0
+2026-11-06T07:53:53+00:00,1028130389,bnxt_league,Mons-Hainaut,ZZ Leiden,2026-11-07T19:30:00+00:00,total,157.5,1.88,1.8,1639746862,90.0
