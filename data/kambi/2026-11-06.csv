@@ -1,2 +1,5 @@
 ts,event_id,group,home,away,start,type,line,dec_1,dec_2,pin_matchup_id,match_score
 2026-11-06T00:10:29+00:00,1028562752,euroleague,Partizan Belgrade,Maccabi Tel Aviv,2026-11-06T19:45:00+00:00,total,171.5,1.87,1.93,1639538375,100.0
+2026-11-06T00:25:40+00:00,1028562785,euroleague,Besiktas,Žalgiris Kaunas,2026-11-06T17:00:00+00:00,moneyline,,1.97,1.83,1639538376,100.0
+2026-11-06T00:25:40+00:00,1028562785,euroleague,Besiktas,Žalgiris Kaunas,2026-11-06T17:00:00+00:00,spread,1.5,1.84,1.96,1639538376,100.0
+2026-11-06T00:25:40+00:00,1028562785,euroleague,Besiktas,Žalgiris Kaunas,2026-11-06T17:00:00+00:00,total,174.5,1.91,1.89,1639538376,100.0
