@@ -483,3 +483,9 @@ ts,event_id,group,home,away,start,type,line,dec_1,dec_2,pin_matchup_id,match_sco
 2026-11-07T15:05:04+00:00,1029731309,portugal/proliga,AD Galomar,Sangalhos DC,2026-11-07T15:10:00+00:00,total,149.5,1.85,1.85,1639719431,92.9
 2026-11-07T15:10:24+00:00,1028726948,lithuania/lkl,BC Nevėžis,BC Šiauliai,2026-11-08T15:00:00+00:00,moneyline,,2.45,1.48,1639788037,100.0
 2026-11-07T15:10:24+00:00,1028726948,lithuania/lkl,BC Nevėžis,BC Šiauliai,2026-11-08T15:00:00+00:00,spread,4.5,1.83,1.87,1639788037,100.0
+2026-11-07T15:15:44+00:00,1028304601,poland/plk,GTK Gliwice,Trefl Sopot,2026-11-08T14:00:00+00:00,moneyline,,1.58,2.23,1639982159,100.0
+2026-11-07T15:15:44+00:00,1028304601,poland/plk,GTK Gliwice,Trefl Sopot,2026-11-08T14:00:00+00:00,spread,-0.5,1.58,2.23,1639982159,100.0
+2026-11-07T15:15:44+00:00,1028304601,poland/plk,GTK Gliwice,Trefl Sopot,2026-11-08T14:00:00+00:00,total,171.5,1.91,1.79,1639982159,100.0
+2026-11-07T15:15:44+00:00,1028435531,portugal/lpb,Clube Atletico Queluz,CAB Madeira,2026-11-07T15:30:00+00:00,spread,-1.5,1.86,1.84,1639726204,90.0
+2026-11-07T15:15:44+00:00,1029617359,slovakia/extraliga,BK Levickí Patrioti,BK Iskra Svit,2026-11-07T17:00:00+00:00,spread,-23.5,1.86,1.84,,44.0
+2026-11-07T15:15:44+00:00,1029617359,slovakia/extraliga,BK Levickí Patrioti,BK Iskra Svit,2026-11-07T17:00:00+00:00,total,171.5,2.1,1.65,,44.0
