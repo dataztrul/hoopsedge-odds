@@ -707,3 +707,10 @@ ts,event_id,group,home,away,start,type,line,dec_1,dec_2,pin_matchup_id,match_sco
 2026-11-07T18:57:33+00:00,1028635019,italy/lega_a,Openjobmetis Varese,APU Old Wild West Udine,2026-11-08T18:00:00+00:00,total,169.5,1.87,1.83,1639797961,100.0
 2026-11-07T19:02:48+00:00,1028992908,france/elite,ASVEL Lyon-Villeurbanne,EB Pau-Lacq-Orthez,2026-11-07T19:30:00+00:00,spread,-12.5,1.92,1.84,1639737334,100.0
 2026-11-07T19:02:48+00:00,1028992908,france/elite,ASVEL Lyon-Villeurbanne,EB Pau-Lacq-Orthez,2026-11-07T19:30:00+00:00,total,170.5,1.91,1.79,1639737334,100.0
+2026-11-07T19:13:17+00:00,1028130389,bnxt_league,Mons-Hainaut,ZZ Leiden,2026-11-07T19:30:00+00:00,moneyline,,4.0,1.18,1639746862,90.0
+2026-11-07T19:13:17+00:00,1028130389,bnxt_league,Mons-Hainaut,ZZ Leiden,2026-11-07T19:30:00+00:00,spread,8.5,1.98,1.71,1639746862,90.0
+2026-11-07T19:13:17+00:00,1028992908,france/elite,ASVEL Lyon-Villeurbanne,EB Pau-Lacq-Orthez,2026-11-07T19:30:00+00:00,moneyline,,1.17,4.7,1639737334,100.0
+2026-11-07T19:13:17+00:00,1028992908,france/elite,ASVEL Lyon-Villeurbanne,EB Pau-Lacq-Orthez,2026-11-07T19:30:00+00:00,spread,-12.5,2.1,1.71,1639737334,100.0
+2026-11-07T19:13:17+00:00,1028992908,france/elite,ASVEL Lyon-Villeurbanne,EB Pau-Lacq-Orthez,2026-11-07T19:30:00+00:00,total,171.5,1.89,1.82,1639737334,100.0
+2026-11-07T19:13:17+00:00,1028697379,spain/leb_oro,Oviedo CB,Coto Córdoba CB,2026-11-07T19:30:00+00:00,spread,-7.5,1.82,1.82,1639848570,100.0
+2026-11-07T19:13:17+00:00,1028697379,spain/leb_oro,Oviedo CB,Coto Córdoba CB,2026-11-07T19:30:00+00:00,total,160.5,1.84,1.8,1639848570,100.0
