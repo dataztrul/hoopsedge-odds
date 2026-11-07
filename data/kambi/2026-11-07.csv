@@ -169,3 +169,11 @@ ts,event_id,group,home,away,start,type,line,dec_1,dec_2,pin_matchup_id,match_sco
 2026-11-07T08:42:47+00:00,1029617359,slovakia/extraliga,BK Levickí Patrioti,BK Iskra Svit,2026-11-07T17:00:00+00:00,moneyline,,1.02,14.0,,44.0
 2026-11-07T08:42:47+00:00,1029617359,slovakia/extraliga,BK Levickí Patrioti,BK Iskra Svit,2026-11-07T17:00:00+00:00,spread,-22.5,1.88,1.82,,44.0
 2026-11-07T08:42:47+00:00,1029617359,slovakia/extraliga,BK Levickí Patrioti,BK Iskra Svit,2026-11-07T17:00:00+00:00,total,170.5,1.85,1.85,,44.0
+2026-11-07T08:48:02+00:00,1028130385,bnxt_league,Circus Brussels,Okapi Aalstar,2026-11-08T14:00:00+00:00,total,171.5,1.94,1.75,1639772916,95.8
+2026-11-07T08:48:02+00:00,1028280729,czech_republic/nbl,Basket Brno,Hradec Kralove,2026-11-07T17:00:00+00:00,moneyline,,1.43,2.63,1639731634,100.0
+2026-11-07T08:48:02+00:00,1028280729,czech_republic/nbl,Basket Brno,Hradec Kralove,2026-11-07T17:00:00+00:00,spread,-5.5,1.9,1.8,1639731634,100.0
+2026-11-07T08:48:02+00:00,1028280729,czech_republic/nbl,Basket Brno,Hradec Kralove,2026-11-07T17:00:00+00:00,total,169.5,1.92,1.79,1639731634,100.0
+2026-11-07T08:48:02+00:00,1028726948,lithuania/lkl,BC Nevėžis,BC Šiauliai,2026-11-08T15:00:00+00:00,total,174.5,1.95,1.77,1639788037,100.0
+2026-11-07T08:48:02+00:00,1029617362,slovakia/extraliga,Kosice Wolves,MBK Handlová,2026-11-07T17:00:00+00:00,moneyline,,1.5,2.38,,52.6
+2026-11-07T08:48:02+00:00,1029617362,slovakia/extraliga,Kosice Wolves,MBK Handlová,2026-11-07T17:00:00+00:00,spread,-3.5,1.81,1.9,,52.6
+2026-11-07T08:48:02+00:00,1029617362,slovakia/extraliga,Kosice Wolves,MBK Handlová,2026-11-07T17:00:00+00:00,total,163.5,1.92,1.78,,52.6
