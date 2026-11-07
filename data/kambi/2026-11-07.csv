@@ -371,3 +371,5 @@ ts,event_id,group,home,away,start,type,line,dec_1,dec_2,pin_matchup_id,match_sco
 2026-11-07T12:20:13+00:00,1028803939,united_kingdom/super_league_basketball,Sheffield Sharks,Cheshire Phoenix,2026-11-08T16:00:00+00:00,moneyline,,1.86,1.84,,39.8
 2026-11-07T12:20:13+00:00,1028803939,united_kingdom/super_league_basketball,Sheffield Sharks,Cheshire Phoenix,2026-11-08T16:00:00+00:00,spread,-0.5,1.86,1.84,,39.8
 2026-11-07T12:20:13+00:00,1028803939,united_kingdom/super_league_basketball,Sheffield Sharks,Cheshire Phoenix,2026-11-08T16:00:00+00:00,total,183.5,1.9,1.81,,39.8
+2026-11-07T12:25:32+00:00,1028646412,germany/bbl,Baskets Bonn,Basketball Löwen Braunschweig,2026-11-07T19:00:00+00:00,moneyline,,1.06,7.0,1639740174,100.0
+2026-11-07T12:25:32+00:00,1028646412,germany/bbl,Baskets Bonn,Basketball Löwen Braunschweig,2026-11-07T19:00:00+00:00,spread,-14.5,1.85,1.85,1639740174,100.0
