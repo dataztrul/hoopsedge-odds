@@ -180,12 +180,9 @@
    "name": "Greece Basket League",
    "gender": "m",
    "pinnacle": [
-    "Greece - Elite League"
+    "Greek Basket League"
    ],
    "betexplorer": "greece/basket-league",
-   "alt_betexplorer": [
-    "greece/elite-league"
-   ],
    "split": true
   },
   {
@@ -349,6 +346,202 @@
    "split": true
   },
   {
+   "key": "greece_a2",
+   "name": "Greece Elite League",
+   "gender": "m",
+   "pinnacle": [
+    "Greece - Elite League"
+   ],
+   "betexplorer": "greece/elite-league",
+   "split": true
+  },
+  {
+   "key": "es_segunda_feb",
+   "name": "Spain Segunda FEB",
+   "gender": "m",
+   "pinnacle": [
+    "Spain - Segunda FEB"
+   ],
+   "betexplorer": "spain/segunda-feb",
+   "alt_betexplorer": [
+    "spain/leb-plata"
+   ],
+   "split": true
+  },
+  {
+   "key": "pl_1liga",
+   "name": "Poland 1. Liga",
+   "gender": "m",
+   "pinnacle": [
+    "Poland - 1. Liga"
+   ],
+   "betexplorer": "poland/1-liga",
+   "split": true
+  },
+  {
+   "key": "pt_proliga",
+   "name": "Portugal Proliga",
+   "gender": "m",
+   "pinnacle": [
+    "Portugal - Proliga"
+   ],
+   "betexplorer": "portugal/proliga",
+   "split": true
+  },
+  {
+   "key": "cz_1liga",
+   "name": "Czech 1. Liga",
+   "gender": "m",
+   "pinnacle": [
+    "Czech Republic - 1. Liga"
+   ],
+   "betexplorer": "czech-republic/1-liga",
+   "split": true
+  },
+  {
+   "key": "at_superliga",
+   "name": "Austria Superliga",
+   "gender": "m",
+   "pinnacle": [
+    "Austria - SuperLiga"
+   ],
+   "betexplorer": "austria/superliga",
+   "split": true
+  },
+  {
+   "key": "at_zweite",
+   "name": "Austria Zweite Liga",
+   "gender": "m",
+   "pinnacle": [
+    "Austria - Zweite Liga"
+   ],
+   "betexplorer": "austria/zweite-liga",
+   "split": true
+  },
+  {
+   "key": "se_superettan",
+   "name": "Sweden Superettan",
+   "gender": "m",
+   "pinnacle": [
+    "Sweden - Superettan"
+   ],
+   "betexplorer": "sweden/superettan",
+   "split": true
+  },
+  {
+   "key": "fi_div1",
+   "name": "Finland I Divisioona A",
+   "gender": "m",
+   "pinnacle": [
+    "Finland - Division 1"
+   ],
+   "betexplorer": "finland/i-divisioona-a",
+   "split": true
+  },
+  {
+   "key": "bg_nbl",
+   "name": "Bulgaria NBL",
+   "gender": "m",
+   "pinnacle": [
+    "Bulgaria - NBL"
+   ],
+   "betexplorer": "bulgaria/nbl",
+   "split": true
+  },
+  {
+   "key": "ro_div_a",
+   "name": "Romania Divizia A",
+   "gender": "m",
+   "pinnacle": [
+    "Romania - Division A"
+   ],
+   "betexplorer": "romania/divizia-a",
+   "split": true
+  },
+  {
+   "key": "sk_extraliga",
+   "name": "Slovakia Extraliga",
+   "gender": "m",
+   "pinnacle": [
+    "Slovakia - Extraliga"
+   ],
+   "betexplorer": "slovakia/extraliga",
+   "split": true
+  },
+  {
+   "key": "is_premier",
+   "name": "Iceland Premier League",
+   "gender": "m",
+   "pinnacle": [
+    "Iceland - Premier League"
+   ],
+   "betexplorer": "iceland/premier-league",
+   "split": true
+  },
+  {
+   "key": "no_blno",
+   "name": "Norway BLNO",
+   "gender": "m",
+   "pinnacle": [
+    "Norway - BLNO"
+   ],
+   "betexplorer": "norway/blno",
+   "split": true
+  },
+  {
+   "key": "uk_slb",
+   "name": "Great Britain SLB",
+   "gender": "m",
+   "pinnacle": [
+    "British - SLB"
+   ],
+   "betexplorer": "united-kingdom/slb",
+   "alt_betexplorer": [
+    "united-kingdom/bbl"
+   ],
+   "split": true
+  },
+  {
+   "key": "xk_superliga",
+   "name": "Kosovo Superliga",
+   "gender": "m",
+   "pinnacle": [
+    "Kosovo - Superliga"
+   ],
+   "betexplorer": "kosovo/superliga",
+   "split": true
+  },
+  {
+   "key": "al_superleague",
+   "name": "Albania Superliga",
+   "gender": "m",
+   "pinnacle": [
+    "Albania - Superleague"
+   ],
+   "betexplorer": "albania/superliga",
+   "split": true
+  },
+  {
+   "key": "ba_prvenstvo",
+   "name": "Bosnia Prvenstvo BiH",
+   "gender": "m",
+   "pinnacle": [
+    "Bosnia and Herzegovina - Prvenstvo BIH"
+   ],
+   "betexplorer": "bosnia-and-herzegovina/prvenstvo-bih",
+   "split": true
+  },
+  {
+   "key": "ge_superleague",
+   "name": "Georgia Superleague",
+   "gender": "m",
+   "pinnacle": [
+    "Georgia - Super League"
+   ],
+   "betexplorer": "georgia/superleague",
+   "split": true
+  },
+  {
    "key": "euroleague_w",
    "name": "EuroLeague Women",
    "gender": "w",
@@ -485,8 +678,11 @@
    "pinnacle": [
     "Italy - Serie A2 Women"
    ],
-   "betexplorer": null,
-   "split": true
+   "betexplorer": "italy/serie-a2-women-gr-a",
+   "split": true,
+   "betexplorer_extra": [
+    "italy/serie-a2-women-gr-b"
+   ]
   },
   {
    "key": "greece_w",
@@ -496,6 +692,115 @@
     "Greece - A1 Women"
    ],
    "betexplorer": "greece/wbl1-women",
+   "split": true
+  },
+  {
+   "key": "at_superliga_w",
+   "name": "Austria Superliga Women",
+   "gender": "w",
+   "pinnacle": [
+    "Austria - SuperLiga Women"
+   ],
+   "betexplorer": "austria/superliga-women",
+   "split": true
+  },
+  {
+   "key": "pt_liga_w",
+   "name": "Portugal Liga Feminina",
+   "gender": "w",
+   "pinnacle": [
+    "Portugal - Liga Feminina de Basquetebol"
+   ],
+   "betexplorer": "portugal/lfb-women",
+   "split": true
+  },
+  {
+   "key": "tr_tkbl_w",
+   "name": "Turkey TKBL",
+   "gender": "w",
+   "pinnacle": [
+    "Turkey - TKBL Women"
+   ],
+   "betexplorer": "turkey/tkbl-women",
+   "split": true
+  },
+  {
+   "key": "si_skl_w",
+   "name": "Slovenia 1. SKL Women",
+   "gender": "w",
+   "pinnacle": [
+    "Slovenia - 1.SKL Women"
+   ],
+   "betexplorer": "slovenia/1-skl-women",
+   "split": true
+  },
+  {
+   "key": "no_kvinneligaen_w",
+   "name": "Norway Kvinneligaen",
+   "gender": "w",
+   "pinnacle": [
+    "Norway - Kvinneligaen"
+   ],
+   "betexplorer": "norway/blno-women",
+   "alt_betexplorer": [
+    "norway/kvinneligaen-women"
+   ],
+   "split": true
+  },
+  {
+   "key": "uk_slb_w",
+   "name": "Great Britain SLB Women",
+   "gender": "w",
+   "pinnacle": [
+    "British - SLB Women"
+   ],
+   "betexplorer": "united-kingdom/slb-women",
+   "alt_betexplorer": [
+    "united-kingdom/wbbl-women"
+   ],
+   "split": true
+  },
+  {
+   "key": "dk_kvinde_w",
+   "name": "Denmark Kvindebasketligaen",
+   "gender": "w",
+   "pinnacle": [
+    "Denmark - Kvindebasketligaen"
+   ],
+   "betexplorer": "denmark/kvindebasketligaen-women",
+   "alt_betexplorer": [
+    "denmark/dameligaen-women"
+   ],
+   "split": true
+  },
+  {
+   "key": "ch_sb_league_w",
+   "name": "Switzerland SB League Women",
+   "gender": "w",
+   "pinnacle": [
+    "Switzerland - SB League Women"
+   ],
+   "betexplorer": "switzerland/sb-league-women",
+   "split": true
+  },
+  {
+   "key": "nl_eredivisie_w",
+   "name": "Netherlands Eredivisie Women",
+   "gender": "w",
+   "pinnacle": [
+    "Netherlands - Eredivisie Women"
+   ],
+   "betexplorer": "netherlands/wbl-women",
+   "split": true
+  },
+  {
+   "key": "cz_1liga_w",
+   "name": "Czech 1. Liga Women",
+   "gender": "w",
+   "pinnacle": [
+    "Czech Republic - Liga 1 Women"
+   ],
+   "betexplorer": "czech-republic/1-liga-women",
    "split": true
   }
  ],
@@ -526,6 +831,17 @@
   "FIBA - Europe",
   "Netherlands",
   "Austria",
-  "Latvia"
+  "Latvia",
+  "Greek",
+  "British",
+  "Bulgaria",
+  "Romania",
+  "Slovakia",
+  "Iceland",
+  "Norway",
+  "Kosovo",
+  "Albania",
+  "Bosnia",
+  "Georgia"
  ]
 }
