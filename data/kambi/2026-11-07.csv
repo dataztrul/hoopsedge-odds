@@ -93,3 +93,8 @@ ts,event_id,group,home,away,start,type,line,dec_1,dec_2,pin_matchup_id,match_sco
 2026-11-07T05:15:44+00:00,1028726938,lithuania/lkl,Jonavos SK,Gargždai SC,2026-11-08T17:10:00+00:00,moneyline,,1.95,1.75,1639796596,88.5
 2026-11-07T05:15:44+00:00,1028726938,lithuania/lkl,Jonavos SK,Gargždai SC,2026-11-08T17:10:00+00:00,spread,1.5,1.82,1.88,1639796596,88.5
 2026-11-07T05:15:44+00:00,1028726938,lithuania/lkl,Jonavos SK,Gargždai SC,2026-11-08T17:10:00+00:00,total,168.5,1.9,1.81,1639796596,88.5
+2026-11-07T05:25:59+00:00,1028902661,bulgaria/nbl,Spartak-Pleven,Balkan Botevgrad,2026-11-07T16:00:00+00:00,moneyline,,2.02,1.71,,48.0
+2026-11-07T05:25:59+00:00,1028902661,bulgaria/nbl,Spartak-Pleven,Balkan Botevgrad,2026-11-07T16:00:00+00:00,spread,1.5,1.88,1.83,,48.0
+2026-11-07T05:25:59+00:00,1028902661,bulgaria/nbl,Spartak-Pleven,Balkan Botevgrad,2026-11-07T16:00:00+00:00,total,160.5,1.84,1.86,,48.0
+2026-11-07T05:25:59+00:00,1029617361,slovakia/extraliga,Nitra Blue Wings,Spisski Rytieri,2026-11-07T18:00:00+00:00,moneyline,,1.71,2.02,,44.2
+2026-11-07T05:25:59+00:00,1029617361,slovakia/extraliga,Nitra Blue Wings,Spisski Rytieri,2026-11-07T18:00:00+00:00,spread,-1.5,1.82,1.88,,44.2
