@@ -252,3 +252,8 @@ ts,event_id,group,home,away,start,type,line,dec_1,dec_2,pin_matchup_id,match_sco
 2026-11-07T09:19:36+00:00,1028992908,france/elite,ASVEL Lyon-Villeurbanne,EB Pau-Lacq-Orthez,2026-11-07T19:30:00+00:00,moneyline,,1.14,5.4,1639737334,100.0
 2026-11-07T09:19:36+00:00,1028992908,france/elite,ASVEL Lyon-Villeurbanne,EB Pau-Lacq-Orthez,2026-11-07T19:30:00+00:00,spread,-12.5,1.91,1.85,1639737334,100.0
 2026-11-07T09:19:36+00:00,1028992908,france/elite,ASVEL Lyon-Villeurbanne,EB Pau-Lacq-Orthez,2026-11-07T19:30:00+00:00,total,171.5,1.89,1.82,1639737334,100.0
+2026-11-07T09:24:51+00:00,1028435534,portugal/lpb,UD Oliveirense,Ovarense,2026-11-07T21:00:00+00:00,moneyline,,1.78,1.92,1639750963,100.0
+2026-11-07T09:24:51+00:00,1028435534,portugal/lpb,UD Oliveirense,Ovarense,2026-11-07T21:00:00+00:00,spread,-1.5,1.91,1.79,1639750963,100.0
+2026-11-07T09:24:51+00:00,1028435534,portugal/lpb,UD Oliveirense,Ovarense,2026-11-07T21:00:00+00:00,total,165.5,1.93,1.78,1639750963,100.0
+2026-11-07T09:24:51+00:00,1029617361,slovakia/extraliga,Nitra Blue Wings,Spisski Rytieri,2026-11-07T18:00:00+00:00,moneyline,,1.38,2.75,,44.2
+2026-11-07T09:24:51+00:00,1029617361,slovakia/extraliga,Nitra Blue Wings,Spisski Rytieri,2026-11-07T18:00:00+00:00,spread,-3.5,1.63,2.15,,44.2
