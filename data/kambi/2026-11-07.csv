@@ -498,3 +498,41 @@ ts,event_id,group,home,away,start,type,line,dec_1,dec_2,pin_matchup_id,match_sco
 2026-11-07T15:26:22+00:00,1029153097,greece/gbl,PAOK Thessaloniki BC,Vikos BC,2026-11-07T15:32:00+00:00,total,162.5,1.83,1.87,,49.2
 2026-11-07T15:42:18+00:00,1029190941,denmark/basketligaen,Gladsaxe,EBAA,2026-11-07T16:00:00+00:00,spread,-5.5,1.9,1.8,,67.6
 2026-11-07T15:42:18+00:00,1029190941,denmark/basketligaen,Gladsaxe,EBAA,2026-11-07T16:00:00+00:00,total,167.5,1.9,1.8,,67.6
+2026-11-07T15:47:37+00:00,1028927696,aba_league,Krka Novo Mesto,Igokea,2026-11-07T16:00:00+00:00,moneyline,,1.94,1.76,1639731579,100.0
+2026-11-07T15:47:37+00:00,1028927696,aba_league,Krka Novo Mesto,Igokea,2026-11-07T16:00:00+00:00,spread,1.5,1.82,1.88,1639731579,100.0
+2026-11-07T15:47:37+00:00,1028927696,aba_league,Krka Novo Mesto,Igokea,2026-11-07T16:00:00+00:00,total,164.5,1.85,1.85,1639731579,100.0
+2026-11-07T15:47:37+00:00,1028927706,aba_league,Borac Čačak,KK Cedevita Olimpija,2026-11-07T16:00:00+00:00,moneyline,,2.45,1.49,1639726052,100.0
+2026-11-07T15:47:37+00:00,1028927706,aba_league,Borac Čačak,KK Cedevita Olimpija,2026-11-07T16:00:00+00:00,spread,4.5,1.82,1.89,1639726052,100.0
+2026-11-07T15:47:37+00:00,1028927706,aba_league,Borac Čačak,KK Cedevita Olimpija,2026-11-07T16:00:00+00:00,total,166.5,1.83,1.87,1639726052,100.0
+2026-11-07T15:47:37+00:00,1028902595,bulgaria/nbl,Lokomotiv Plovdiv 1926,Cherno More Ticha,2026-11-07T16:00:00+00:00,moneyline,,1.57,2.25,1639935775,94.0
+2026-11-07T15:47:37+00:00,1028902595,bulgaria/nbl,Lokomotiv Plovdiv 1926,Cherno More Ticha,2026-11-07T16:00:00+00:00,spread,-3.5,1.88,1.82,1639935775,94.0
+2026-11-07T15:47:37+00:00,1028902595,bulgaria/nbl,Lokomotiv Plovdiv 1926,Cherno More Ticha,2026-11-07T16:00:00+00:00,total,169.5,1.97,1.74,1639935775,94.0
+2026-11-07T15:47:37+00:00,1028902658,bulgaria/nbl,Botev 2012,BC Beroe Stara Zagora,2026-11-07T16:00:00+00:00,moneyline,,3.3,1.28,1639935777,88.5
+2026-11-07T15:47:37+00:00,1028902658,bulgaria/nbl,Botev 2012,BC Beroe Stara Zagora,2026-11-07T16:00:00+00:00,spread,7.5,1.88,1.82,1639935777,88.5
+2026-11-07T15:47:37+00:00,1028902658,bulgaria/nbl,Botev 2012,BC Beroe Stara Zagora,2026-11-07T16:00:00+00:00,total,176.5,1.88,1.82,1639935777,88.5
+2026-11-07T15:47:37+00:00,1028902661,bulgaria/nbl,Spartak-Pleven,Balkan Botevgrad,2026-11-07T16:00:00+00:00,moneyline,,2.7,1.41,1639935988,100.0
+2026-11-07T15:47:37+00:00,1028902661,bulgaria/nbl,Spartak-Pleven,Balkan Botevgrad,2026-11-07T16:00:00+00:00,spread,5.5,1.82,1.88,1639935988,100.0
+2026-11-07T15:47:37+00:00,1028902661,bulgaria/nbl,Spartak-Pleven,Balkan Botevgrad,2026-11-07T16:00:00+00:00,total,161.5,1.85,1.85,1639935988,100.0
+2026-11-07T15:47:37+00:00,1028312636,finland/korisliiga,Kauhajoki,Tapiolan Honka,2026-11-07T16:00:00+00:00,total,179.5,1.86,1.84,1639726070,82.0
+2026-11-07T15:47:37+00:00,1028992928,france/elite,Nanterre,Elan Chalon,2026-11-07T17:30:00+00:00,total,171.5,1.73,1.98,1639740117,100.0
+2026-11-07T15:47:37+00:00,1028302787,norway/blno,Gimle BBK,Kongsberg Miners,2026-11-07T17:00:00+00:00,moneyline,,1.38,2.8,1639737254,100.0
+2026-11-07T15:47:37+00:00,1028302787,norway/blno,Gimle BBK,Kongsberg Miners,2026-11-07T17:00:00+00:00,spread,-5.5,1.82,1.88,1639737254,100.0
+2026-11-07T15:47:37+00:00,1028302787,norway/blno,Gimle BBK,Kongsberg Miners,2026-11-07T17:00:00+00:00,total,171.5,1.86,1.84,1639737254,100.0
+2026-11-07T15:47:37+00:00,1029335951,slovakia/extraliga,BK Inter Incheba Bratislava,BC Prievidza,2026-11-07T16:00:00+00:00,moneyline,,5.2,1.12,1639726053,100.0
+2026-11-07T15:47:37+00:00,1029335951,slovakia/extraliga,BK Inter Incheba Bratislava,BC Prievidza,2026-11-07T16:00:00+00:00,spread,10.5,2.1,1.65,1639726053,100.0
+2026-11-07T15:47:37+00:00,1029335951,slovakia/extraliga,BK Inter Incheba Bratislava,BC Prievidza,2026-11-07T16:00:00+00:00,total,164.5,1.92,1.78,1639726053,100.0
+2026-11-07T15:47:37+00:00,1029617359,slovakia/extraliga,BK Levickí Patrioti,BK Iskra Svit,2026-11-07T17:00:00+00:00,moneyline,,1.02,18.0,1639737147,94.1
+2026-11-07T15:47:37+00:00,1029617359,slovakia/extraliga,BK Levickí Patrioti,BK Iskra Svit,2026-11-07T17:00:00+00:00,spread,-23.5,1.86,1.84,1639737147,94.1
+2026-11-07T15:47:37+00:00,1029617359,slovakia/extraliga,BK Levickí Patrioti,BK Iskra Svit,2026-11-07T17:00:00+00:00,total,171.5,2.1,1.65,1639737147,94.1
+2026-11-07T15:47:37+00:00,1029617362,slovakia/extraliga,Kosice Wolves,MBK Handlová,2026-11-07T17:00:00+00:00,moneyline,,1.5,2.38,1639737148,100.0
+2026-11-07T15:47:37+00:00,1029617362,slovakia/extraliga,Kosice Wolves,MBK Handlová,2026-11-07T17:00:00+00:00,spread,-3.5,1.81,1.9,1639737148,100.0
+2026-11-07T15:47:37+00:00,1029617362,slovakia/extraliga,Kosice Wolves,MBK Handlová,2026-11-07T17:00:00+00:00,total,163.5,1.92,1.78,1639737148,100.0
+2026-11-07T15:47:37+00:00,1029617361,slovakia/extraliga,Nitra Blue Wings,Spisski Rytieri,2026-11-07T18:00:00+00:00,moneyline,,1.38,2.75,1639737146,70.6
+2026-11-07T15:47:37+00:00,1029617361,slovakia/extraliga,Nitra Blue Wings,Spisski Rytieri,2026-11-07T18:00:00+00:00,spread,-3.5,1.63,2.15,1639737146,70.6
+2026-11-07T15:47:37+00:00,1029617361,slovakia/extraliga,Nitra Blue Wings,Spisski Rytieri,2026-11-07T18:00:00+00:00,total,174.5,1.88,1.82,1639737146,70.6
+2026-11-07T15:47:37+00:00,1028803938,united_kingdom/super_league_basketball,Bristol Flyers,Surrey 89ers,2026-11-08T15:00:00+00:00,moneyline,,1.32,3.1,1639788043,100.0
+2026-11-07T15:47:37+00:00,1028803938,united_kingdom/super_league_basketball,Bristol Flyers,Surrey 89ers,2026-11-08T15:00:00+00:00,spread,-6.5,1.81,1.89,1639788043,100.0
+2026-11-07T15:47:37+00:00,1028803938,united_kingdom/super_league_basketball,Bristol Flyers,Surrey 89ers,2026-11-08T15:00:00+00:00,total,166.5,1.9,1.8,1639788043,100.0
+2026-11-07T15:47:37+00:00,1028803939,united_kingdom/super_league_basketball,Sheffield Sharks,Cheshire Phoenix,2026-11-08T16:00:00+00:00,moneyline,,1.86,1.84,1639795952,100.0
+2026-11-07T15:47:37+00:00,1028803939,united_kingdom/super_league_basketball,Sheffield Sharks,Cheshire Phoenix,2026-11-08T16:00:00+00:00,spread,-0.5,1.86,1.84,1639795952,100.0
+2026-11-07T15:47:37+00:00,1028803939,united_kingdom/super_league_basketball,Sheffield Sharks,Cheshire Phoenix,2026-11-08T16:00:00+00:00,total,183.5,1.9,1.81,1639795952,100.0
