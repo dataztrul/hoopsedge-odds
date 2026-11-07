@@ -345,3 +345,5 @@ ts,event_id,group,home,away,start,type,line,dec_1,dec_2,pin_matchup_id,match_sco
 2026-11-07T11:37:04+00:00,1028660139,turkey/super_league,Trabzonspor BK,Aliaga Petkim Spor,2026-11-07T15:00:00+00:00,spread,-4.5,1.7,2.02,1639719397,100.0
 2026-11-07T11:37:04+00:00,1029396645,turkey/tbl,TED Ankara Kolejliler,Demir İnşaat Büyükçekmece,2026-11-07T12:00:00+00:00,moneyline,,1.83,1.88,1639707937,85.3
 2026-11-07T11:37:04+00:00,1029396645,turkey/tbl,TED Ankara Kolejliler,Demir İnşaat Büyükçekmece,2026-11-07T12:00:00+00:00,spread,-0.5,1.83,1.88,1639707937,85.3
+2026-11-07T11:43:01+00:00,1029396645,turkey/tbl,TED Ankara Kolejliler,Demir İnşaat Büyükçekmece,2026-11-07T12:00:00+00:00,moneyline,,2.0,1.73,1639707937,85.3
+2026-11-07T11:43:01+00:00,1029396645,turkey/tbl,TED Ankara Kolejliler,Demir İnşaat Büyükçekmece,2026-11-07T12:00:00+00:00,spread,-0.5,2.0,1.73,1639707937,85.3
