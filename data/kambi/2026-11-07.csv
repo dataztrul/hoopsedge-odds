@@ -61,3 +61,11 @@ ts,event_id,group,home,away,start,type,line,dec_1,dec_2,pin_matchup_id,match_sco
 2026-11-07T03:53:43+00:00,1028992931,france/elite,Paris Basket,Bourg-en-Bresse,2026-11-08T15:30:00+00:00,moneyline,,1.35,3.05,,41.7
 2026-11-07T03:53:43+00:00,1028992931,france/elite,Paris Basket,Bourg-en-Bresse,2026-11-08T15:30:00+00:00,spread,-6.5,1.86,1.9,,41.7
 2026-11-07T03:53:43+00:00,1028992931,france/elite,Paris Basket,Bourg-en-Bresse,2026-11-08T15:30:00+00:00,total,179.5,1.87,1.83,,41.7
+2026-11-07T04:03:58+00:00,1028130379,bnxt_league,New Heroes Den Bosch,Leuven Bears,2026-11-08T16:00:00+00:00,moneyline,,1.58,2.18,1639791230,100.0
+2026-11-07T04:03:58+00:00,1028130379,bnxt_league,New Heroes Den Bosch,Leuven Bears,2026-11-08T16:00:00+00:00,spread,-2.5,1.8,1.88,1639791230,100.0
+2026-11-07T04:03:58+00:00,1028130379,bnxt_league,New Heroes Den Bosch,Leuven Bears,2026-11-08T16:00:00+00:00,total,155.5,1.82,1.86,1639791230,100.0
+2026-11-07T04:03:58+00:00,1028635017,italy/lega_a,Unahotels Reggio Emilia,Umana Reyer Venezia,2026-11-07T19:00:00+00:00,moneyline,,2.02,1.75,1639740184,72.6
+2026-11-07T04:03:58+00:00,1028635017,italy/lega_a,Unahotels Reggio Emilia,Umana Reyer Venezia,2026-11-07T19:00:00+00:00,spread,1.5,1.9,1.86,1639740184,72.6
+2026-11-07T04:03:58+00:00,1028635017,italy/lega_a,Unahotels Reggio Emilia,Umana Reyer Venezia,2026-11-07T19:00:00+00:00,total,170.5,1.88,1.82,1639740184,72.6
+2026-11-07T04:03:58+00:00,1029617361,slovakia/extraliga,Nitra Blue Wings,Spisski Rytieri,2026-11-07T18:00:00+00:00,moneyline,,1.58,2.23,,44.2
+2026-11-07T04:03:58+00:00,1029617361,slovakia/extraliga,Nitra Blue Wings,Spisski Rytieri,2026-11-07T18:00:00+00:00,spread,-2.5,1.8,1.91,,44.2
