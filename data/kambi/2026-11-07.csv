@@ -478,3 +478,6 @@ ts,event_id,group,home,away,start,type,line,dec_1,dec_2,pin_matchup_id,match_sco
 2026-11-07T14:59:43+00:00,1029729983,mali/division_i,Stade Malien,Attar,2026-11-07T15:00:00+00:00,moneyline,,1.18,4.3,,45.7
 2026-11-07T14:59:43+00:00,1029729983,mali/division_i,Stade Malien,Attar,2026-11-07T15:00:00+00:00,spread,-9.5,1.85,1.85,,45.7
 2026-11-07T14:59:43+00:00,1029729983,mali/division_i,Stade Malien,Attar,2026-11-07T15:00:00+00:00,total,134.5,1.85,1.85,,45.7
+2026-11-07T15:05:04+00:00,1029731309,portugal/proliga,AD Galomar,Sangalhos DC,2026-11-07T15:10:00+00:00,moneyline,,1.33,3.05,1639719431,92.9
+2026-11-07T15:05:04+00:00,1029731309,portugal/proliga,AD Galomar,Sangalhos DC,2026-11-07T15:10:00+00:00,spread,-6.5,1.85,1.85,1639719431,92.9
+2026-11-07T15:05:04+00:00,1029731309,portugal/proliga,AD Galomar,Sangalhos DC,2026-11-07T15:10:00+00:00,total,149.5,1.85,1.85,1639719431,92.9
