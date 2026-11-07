@@ -349,3 +349,6 @@ ts,event_id,group,home,away,start,type,line,dec_1,dec_2,pin_matchup_id,match_sco
 2026-11-07T11:43:01+00:00,1029396645,turkey/tbl,TED Ankara Kolejliler,Demir İnşaat Büyükçekmece,2026-11-07T12:00:00+00:00,spread,-0.5,2.0,1.73,1639707937,85.3
 2026-11-07T11:48:20+00:00,1029396645,turkey/tbl,TED Ankara Kolejliler,Demir İnşaat Büyükçekmece,2026-11-07T12:00:00+00:00,moneyline,,2.18,1.61,1639707937,85.3
 2026-11-07T11:48:20+00:00,1029396645,turkey/tbl,TED Ankara Kolejliler,Demir İnşaat Büyükçekmece,2026-11-07T12:00:00+00:00,spread,2.5,1.87,1.83,1639707937,85.3
+2026-11-07T11:53:38+00:00,1028304655,poland/plk,Arka Gdynia,Legia Warszawa,2026-11-08T11:30:00+00:00,moneyline,,1.63,2.14,1639773900,85.3
+2026-11-07T11:53:38+00:00,1028304655,poland/plk,Arka Gdynia,Legia Warszawa,2026-11-08T11:30:00+00:00,spread,-2.5,1.87,1.84,1639773900,85.3
+2026-11-07T11:53:38+00:00,1028304655,poland/plk,Arka Gdynia,Legia Warszawa,2026-11-08T11:30:00+00:00,total,165.5,1.84,1.86,1639773900,85.3
