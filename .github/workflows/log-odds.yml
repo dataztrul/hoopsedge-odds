@@ -31,6 +31,8 @@ jobs:
           cache: pip
       - run: pip install -r requirements.txt
       - name: Snapshot loop
+        env:
+          HOOPSEDGE_TOKEN: ${{ secrets.HOOPSEDGE_TOKEN }}
         run: |
           git config user.name "odds-bot"
           git config user.email "odds-bot@users.noreply.github.com"
@@ -42,6 +44,12 @@ jobs:
             if ! git diff --cached --quiet; then
               git commit -q -m "odds $(date -u +%Y-%m-%dT%H:%MZ)"
               for i in 1 2 3 4; do git pull -q --rebase -X theirs && git push -q && break; sleep 7; done
+            fi
+            # GitHub runs the private model repo's hourly schedule only every ~6 h. If a token with
+            # Actions access to that repo is stored as the secret HOOPSEDGE_TOKEN, start its model job
+            # from here instead, at most once an hour.
+            if [ -n "$HOOPSEDGE_TOKEN" ] && [ $(( $(date +%s) - ${last_model:-0} )) -ge 3600 ]; then
+              GH_TOKEN="$HOOPSEDGE_TOKEN" gh workflow run snapshot.yml -R dataztrul/hoopsedge --ref main && last_model=$(date +%s) || echo "model dispatch failed"
             fi
             wait=$(python scripts/next_wait.py)
             [ $(( $(date +%s) + wait )) -lt $end ] || break
