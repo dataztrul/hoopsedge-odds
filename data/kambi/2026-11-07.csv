@@ -672,3 +672,5 @@ ts,event_id,group,home,away,start,type,line,dec_1,dec_2,pin_matchup_id,match_sco
 2026-11-07T18:20:40+00:00,1028635019,italy/lega_a,Openjobmetis Varese,APU Old Wild West Udine,2026-11-08T18:00:00+00:00,moneyline,,1.57,2.35,1639797961,100.0
 2026-11-07T18:20:40+00:00,1028635019,italy/lega_a,Openjobmetis Varese,APU Old Wild West Udine,2026-11-08T18:00:00+00:00,spread,-3.5,1.89,1.87,1639797961,100.0
 2026-11-07T18:20:40+00:00,1028635019,italy/lega_a,Openjobmetis Varese,APU Old Wild West Udine,2026-11-08T18:00:00+00:00,total,167.5,1.82,1.88,1639797961,100.0
+2026-11-07T18:25:57+00:00,1029005645,brazil/nbb,Caxias do Sul,Brasília Basquete,2026-11-07T20:00:00+00:00,moneyline,,3.55,1.25,,50.0
+2026-11-07T18:25:57+00:00,1029005645,brazil/nbb,Caxias do Sul,Brasília Basquete,2026-11-07T20:00:00+00:00,spread,8.5,1.82,1.88,,50.0
