@@ -290,3 +290,10 @@ ts,event_id,group,home,away,start,type,line,dec_1,dec_2,pin_matchup_id,match_sco
 2026-11-07T09:51:14+00:00,1028660149,turkey/super_league,Cayirova Belediyesi,Bordo BK,2026-11-07T10:00:00+00:00,moneyline,,1.95,1.75,1639678499,100.0
 2026-11-07T09:51:14+00:00,1028660149,turkey/super_league,Cayirova Belediyesi,Bordo BK,2026-11-07T10:00:00+00:00,spread,1.5,1.82,1.88,1639678499,100.0
 2026-11-07T09:51:14+00:00,1028660149,turkey/super_league,Cayirova Belediyesi,Bordo BK,2026-11-07T10:00:00+00:00,total,170.5,1.9,1.81,1639678499,100.0
+2026-11-07T09:56:30+00:00,1028312636,finland/korisliiga,Kauhajoki,Tapiolan Honka,2026-11-07T16:00:00+00:00,total,177.5,1.71,2.0,1639726070,82.0
+2026-11-07T09:56:30+00:00,1028646412,germany/bbl,Baskets Bonn,Basketball Löwen Braunschweig,2026-11-07T19:00:00+00:00,moneyline,,1.08,6.5,1639740174,100.0
+2026-11-07T09:56:30+00:00,1028646412,germany/bbl,Baskets Bonn,Basketball Löwen Braunschweig,2026-11-07T19:00:00+00:00,spread,-14.5,1.95,1.77,1639740174,100.0
+2026-11-07T09:56:30+00:00,1028304650,poland/plk,WKS Śląsk Wrocław,Arriva Polski Cukier Toruń,2026-11-07T18:30:00+00:00,spread,-8.5,1.84,1.86,,64.8
+2026-11-07T09:56:30+00:00,1028304650,poland/plk,WKS Śląsk Wrocław,Arriva Polski Cukier Toruń,2026-11-07T18:30:00+00:00,total,177.5,1.89,1.81,,64.8
+2026-11-07T09:56:30+00:00,1028660149,turkey/super_league,Cayirova Belediyesi,Bordo BK,2026-11-07T10:02:00+00:00,moneyline,,1.95,1.76,1639678499,100.0
+2026-11-07T09:56:30+00:00,1028660149,turkey/super_league,Cayirova Belediyesi,Bordo BK,2026-11-07T10:02:00+00:00,spread,1.5,1.83,1.88,1639678499,100.0
