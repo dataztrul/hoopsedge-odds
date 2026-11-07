@@ -493,3 +493,6 @@ ts,event_id,group,home,away,start,type,line,dec_1,dec_2,pin_matchup_id,match_sco
 2026-11-07T15:21:03+00:00,1028992910,france/elite,Strasbourg,Le Mans BC,2026-11-08T18:00:00+00:00,spread,2.5,1.92,1.85,1639795998,100.0
 2026-11-07T15:21:03+00:00,1028435516,portugal/lpb,CD Povoa,Portimonense SC,2026-11-07T18:00:00+00:00,moneyline,,1.14,4.9,1639740137,100.0
 2026-11-07T15:21:03+00:00,1028435516,portugal/lpb,CD Povoa,Portimonense SC,2026-11-07T18:00:00+00:00,spread,-11.5,1.85,1.85,1639740137,100.0
+2026-11-07T15:26:22+00:00,1028902595,bulgaria/nbl,Lokomotiv Plovdiv 1926,Cherno More Ticha,2026-11-07T16:00:00+00:00,total,169.5,1.97,1.75,,48.6
+2026-11-07T15:26:22+00:00,1029153097,greece/gbl,PAOK Thessaloniki BC,Vikos BC,2026-11-07T15:32:00+00:00,spread,-14.5,1.84,1.84,,49.2
+2026-11-07T15:26:22+00:00,1029153097,greece/gbl,PAOK Thessaloniki BC,Vikos BC,2026-11-07T15:32:00+00:00,total,162.5,1.83,1.87,,49.2
