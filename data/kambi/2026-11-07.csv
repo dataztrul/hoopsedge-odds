@@ -550,3 +550,10 @@ ts,event_id,group,home,away,start,type,line,dec_1,dec_2,pin_matchup_id,match_sco
 2026-11-07T16:08:47+00:00,1028807414,denmark/basketligaen,Copenhagen Basketball,Randers Cimbria,2026-11-07T16:30:00+00:00,spread,4.5,2.2,1.6,1639731602,100.0
 2026-11-07T16:14:05+00:00,1028293089,austria/obl,Oberwart Gunners,Arkadia Traiskirchen Lions,2026-11-07T16:30:00+00:00,moneyline,,1.71,2.0,1639726234,100.0
 2026-11-07T16:14:05+00:00,1028293089,austria/obl,Oberwart Gunners,Arkadia Traiskirchen Lions,2026-11-07T16:30:00+00:00,spread,-1.5,1.83,1.87,1639726234,100.0
+2026-11-07T16:19:22+00:00,1028293088,austria/obl,WBC Raiffeisen Wels,Basketclubs Vienna,2026-11-07T16:30:00+00:00,moneyline,,1.01,30.0,1639989884,76.7
+2026-11-07T16:19:22+00:00,1028293088,austria/obl,WBC Raiffeisen Wels,Basketclubs Vienna,2026-11-07T16:30:00+00:00,spread,-25.5,1.87,1.83,1639989884,76.7
+2026-11-07T16:19:22+00:00,1028293088,austria/obl,WBC Raiffeisen Wels,Basketclubs Vienna,2026-11-07T16:30:00+00:00,total,171.5,1.86,1.84,1639989884,76.7
+2026-11-07T16:19:22+00:00,1028280658,czech_republic/nbl,NH Ostrava,USK Praha,2026-11-07T16:30:00+00:00,moneyline,,1.27,3.4,1639731601,86.8
+2026-11-07T16:19:22+00:00,1028280658,czech_republic/nbl,NH Ostrava,USK Praha,2026-11-07T16:30:00+00:00,spread,-7.5,1.8,1.9,1639731601,86.8
+2026-11-07T16:19:22+00:00,1028280658,czech_republic/nbl,NH Ostrava,USK Praha,2026-11-07T16:30:00+00:00,total,168.5,1.89,1.81,1639731601,86.8
+2026-11-07T16:19:22+00:00,1028807414,denmark/basketligaen,Copenhagen Basketball,Randers Cimbria,2026-11-07T16:30:00+00:00,spread,6.5,1.9,1.8,1639731602,100.0
