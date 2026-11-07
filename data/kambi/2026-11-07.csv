@@ -72,3 +72,6 @@ ts,event_id,group,home,away,start,type,line,dec_1,dec_2,pin_matchup_id,match_sco
 2026-11-07T04:14:13+00:00,1028312630,finland/korisliiga,KTP-Basket,Lahti Basketball,2026-11-08T16:00:00+00:00,moneyline,,1.21,4.2,1639796559,100.0
 2026-11-07T04:14:13+00:00,1028312630,finland/korisliiga,KTP-Basket,Lahti Basketball,2026-11-08T16:00:00+00:00,spread,-9.5,1.85,1.91,1639796559,100.0
 2026-11-07T04:14:13+00:00,1028312630,finland/korisliiga,KTP-Basket,Lahti Basketball,2026-11-08T16:00:00+00:00,total,173.5,1.82,1.88,1639796559,100.0
+2026-11-07T04:24:29+00:00,1028280661,czech_republic/nbl,BK Olomoucko,Sokol Pisek,2026-11-08T16:00:00+00:00,moneyline,,4.1,1.19,,58.7
+2026-11-07T04:24:29+00:00,1028280661,czech_republic/nbl,BK Olomoucko,Sokol Pisek,2026-11-08T16:00:00+00:00,spread,10.5,1.8,1.91,,58.7
+2026-11-07T04:24:29+00:00,1028280661,czech_republic/nbl,BK Olomoucko,Sokol Pisek,2026-11-08T16:00:00+00:00,total,165.5,1.87,1.83,,58.7
