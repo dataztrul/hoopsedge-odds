@@ -746,3 +746,12 @@ ts,event_id,group,home,away,start,type,line,dec_1,dec_2,pin_matchup_id,match_sco
 2026-11-07T20:05:41+00:00,1028635039,italy/lega_a,Bertram Tortona,Treviso Basket,2026-11-08T16:30:00+00:00,spread,-3.5,1.92,1.84,1639796571,76.1
 2026-11-07T20:05:41+00:00,1028803938,united_kingdom/super_league_basketball,Bristol Flyers,Surrey 89ers,2026-11-08T15:00:00+00:00,spread,-6.5,1.82,1.88,1639788043,100.0
 2026-11-07T20:05:41+00:00,1028803938,united_kingdom/super_league_basketball,Bristol Flyers,Surrey 89ers,2026-11-08T15:00:00+00:00,total,165.5,2.12,1.64,1639788043,100.0
+2026-11-07T20:16:07+00:00,1028130379,bnxt_league,New Heroes Den Bosch,Leuven Bears,2026-11-08T16:00:00+00:00,moneyline,,1.71,1.98,1639791230,100.0
+2026-11-07T20:16:07+00:00,1028130379,bnxt_league,New Heroes Den Bosch,Leuven Bears,2026-11-08T16:00:00+00:00,spread,-1.5,1.83,1.85,1639791230,100.0
+2026-11-07T20:16:07+00:00,1028130379,bnxt_league,New Heroes Den Bosch,Leuven Bears,2026-11-08T16:00:00+00:00,total,155.5,1.92,1.77,1639791230,100.0
+2026-11-07T20:16:07+00:00,1028300998,denmark/basketligaen,Team Fog Næstved,Bakken Bears,2026-11-08T15:00:00+00:00,moneyline,,2.08,1.66,1639787947,95.5
+2026-11-07T20:16:07+00:00,1028300998,denmark/basketligaen,Team Fog Næstved,Bakken Bears,2026-11-08T15:00:00+00:00,spread,-0.5,2.08,1.66,1639787947,95.5
+2026-11-07T20:16:07+00:00,1028635019,italy/lega_a,Openjobmetis Varese,APU Old Wild West Udine,2026-11-08T18:00:00+00:00,total,169.5,1.77,1.94,1639797961,100.0
+2026-11-07T20:16:07+00:00,1028304652,poland/plk,King Szczecin,Energa Icon Sea Czarni Słupsk,2026-11-08T18:15:00+00:00,total,166.5,1.89,1.82,1639986839,81.6
+2026-11-07T20:16:07+00:00,1028803939,united_kingdom/super_league_basketball,Sheffield Sharks,Cheshire Phoenix,2026-11-08T16:00:00+00:00,moneyline,,1.7,2.02,1639795952,100.0
+2026-11-07T20:16:07+00:00,1028803939,united_kingdom/super_league_basketball,Sheffield Sharks,Cheshire Phoenix,2026-11-08T16:00:00+00:00,spread,-0.5,1.7,2.02,1639795952,100.0
