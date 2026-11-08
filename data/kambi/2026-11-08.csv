@@ -261,3 +261,9 @@ ts,event_id,group,home,away,start,type,line,dec_1,dec_2,pin_matchup_id,match_sco
 2026-11-08T13:48:27+00:00,1028646405,germany/bbl,Science City Jena,Hamburg Towers,2026-11-09T19:00:00+00:00,moneyline,,1.95,1.76,1639848559,76.5
 2026-11-08T13:48:27+00:00,1028646405,germany/bbl,Science City Jena,Hamburg Towers,2026-11-09T19:00:00+00:00,spread,1.5,1.82,1.89,1639848559,76.5
 2026-11-08T13:48:27+00:00,1028646405,germany/bbl,Science City Jena,Hamburg Towers,2026-11-09T19:00:00+00:00,total,167.5,1.86,1.84,1639848559,76.5
+2026-11-08T13:53:41+00:00,1028301000,denmark/basketligaen,Horsens IC,BMS Herlev Wolfpack,2026-11-08T14:00:00+00:00,spread,-27.5,1.9,1.81,1639787882,100.0
+2026-11-08T13:53:41+00:00,1028301000,denmark/basketligaen,Horsens IC,BMS Herlev Wolfpack,2026-11-08T14:00:00+00:00,total,167.5,1.85,1.85,1639787882,100.0
+2026-11-08T13:53:41+00:00,1028646405,germany/bbl,Science City Jena,Hamburg Towers,2026-11-09T19:00:00+00:00,moneyline,,1.78,1.92,1639848559,76.5
+2026-11-08T13:53:41+00:00,1028646405,germany/bbl,Science City Jena,Hamburg Towers,2026-11-09T19:00:00+00:00,spread,-0.5,1.78,1.92,1639848559,76.5
+2026-11-08T13:53:41+00:00,1028646405,germany/bbl,Science City Jena,Hamburg Towers,2026-11-09T19:00:00+00:00,total,167.5,1.76,1.95,1639848559,76.5
+2026-11-08T13:53:41+00:00,1028304601,poland/plk,GTK Gliwice,Trefl Sopot,2026-11-08T14:00:00+00:00,spread,-4.5,1.86,1.85,1639982159,100.0
