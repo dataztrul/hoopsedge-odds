@@ -250,3 +250,14 @@ ts,event_id,group,home,away,start,type,line,dec_1,dec_2,pin_matchup_id,match_sco
 2026-11-08T13:43:13+00:00,1028312638,finland/korisliiga,Tampereen Pyrintö,Bisons Loimaa,2026-11-08T14:00:00+00:00,moneyline,,1.45,2.65,1639787878,100.0
 2026-11-08T13:43:13+00:00,1028312638,finland/korisliiga,Tampereen Pyrintö,Bisons Loimaa,2026-11-08T14:00:00+00:00,spread,-4.5,1.84,1.93,1639787878,100.0
 2026-11-08T13:43:13+00:00,1028635019,italy/lega_a,Openjobmetis Varese,APU Old Wild West Udine,2026-11-08T18:00:00+00:00,total,169.5,1.87,1.83,1639797961,100.0
+2026-11-08T13:48:27+00:00,1028130384,bnxt_league,BC Oostende,Antwerp Giants,2026-11-08T14:00:00+00:00,moneyline,,2.6,1.42,1639773991,100.0
+2026-11-08T13:48:27+00:00,1028130385,bnxt_league,Circus Brussels,Okapi Aalstar,2026-11-08T14:00:00+00:00,moneyline,,1.62,2.14,1639772916,95.8
+2026-11-08T13:48:27+00:00,1028130385,bnxt_league,Circus Brussels,Okapi Aalstar,2026-11-08T14:00:00+00:00,spread,-2.5,1.84,1.84,1639772916,95.8
+2026-11-08T13:48:27+00:00,1028130385,bnxt_league,Circus Brussels,Okapi Aalstar,2026-11-08T14:00:00+00:00,total,166.5,1.75,1.94,1639772916,95.8
+2026-11-08T13:48:27+00:00,1028312638,finland/korisliiga,Tampereen Pyrintö,Bisons Loimaa,2026-11-08T14:00:00+00:00,moneyline,,1.46,2.63,1639787878,100.0
+2026-11-08T13:48:27+00:00,1028312638,finland/korisliiga,Tampereen Pyrintö,Bisons Loimaa,2026-11-08T14:00:00+00:00,spread,-4.5,1.85,1.91,1639787878,100.0
+2026-11-08T13:48:27+00:00,1028312638,finland/korisliiga,Tampereen Pyrintö,Bisons Loimaa,2026-11-08T14:00:00+00:00,total,163.5,1.82,1.88,1639787878,100.0
+2026-11-08T13:48:27+00:00,1028646407,germany/bbl,Syntainics MBC,Skyliners Frankfurt,2026-11-08T14:00:00+00:00,spread,-5.5,1.9,1.8,,64.3
+2026-11-08T13:48:27+00:00,1028646405,germany/bbl,Science City Jena,Hamburg Towers,2026-11-09T19:00:00+00:00,moneyline,,1.95,1.76,1639848559,76.5
+2026-11-08T13:48:27+00:00,1028646405,germany/bbl,Science City Jena,Hamburg Towers,2026-11-09T19:00:00+00:00,spread,1.5,1.82,1.89,1639848559,76.5
+2026-11-08T13:48:27+00:00,1028646405,germany/bbl,Science City Jena,Hamburg Towers,2026-11-09T19:00:00+00:00,total,167.5,1.86,1.84,1639848559,76.5
