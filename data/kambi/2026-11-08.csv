@@ -52,3 +52,9 @@ ts,event_id,group,home,away,start,type,line,dec_1,dec_2,pin_matchup_id,match_sco
 2026-11-08T04:36:39+00:00,1028635592,italy/serie_a2,Juvi Cremona,Reale Mutua Torino,2026-11-08T17:00:00+00:00,moneyline,,2.25,1.53,1640001143,100.0
 2026-11-08T04:36:39+00:00,1028635592,italy/serie_a2,Juvi Cremona,Reale Mutua Torino,2026-11-08T17:00:00+00:00,spread,3.5,1.78,1.85,1640001143,100.0
 2026-11-08T04:36:39+00:00,1028635592,italy/serie_a2,Juvi Cremona,Reale Mutua Torino,2026-11-08T17:00:00+00:00,total,148.5,1.78,1.86,1640001143,100.0
+2026-11-08T04:46:51+00:00,1028750628,spain/liga_acb,Leyma Coruña,MoraBanc Andorra,2026-11-08T17:00:00+00:00,moneyline,,1.55,2.4,1639795987,100.0
+2026-11-08T04:46:51+00:00,1028750628,spain/liga_acb,Leyma Coruña,MoraBanc Andorra,2026-11-08T17:00:00+00:00,spread,-3.5,1.84,1.92,1639795987,100.0
+2026-11-08T04:46:51+00:00,1028750628,spain/liga_acb,Leyma Coruña,MoraBanc Andorra,2026-11-08T17:00:00+00:00,total,185.5,1.83,1.87,1639795987,100.0
+2026-11-08T04:46:51+00:00,1028750626,spain/liga_acb,Real Madrid Baloncesto,UCAM Murcia,2026-11-08T18:00:00+00:00,moneyline,,1.19,4.5,1639797962,100.0
+2026-11-08T04:46:51+00:00,1028750626,spain/liga_acb,Real Madrid Baloncesto,UCAM Murcia,2026-11-08T18:00:00+00:00,spread,-10.5,1.83,1.94,1639797962,100.0
+2026-11-08T04:46:51+00:00,1028750626,spain/liga_acb,Real Madrid Baloncesto,UCAM Murcia,2026-11-08T18:00:00+00:00,total,187.5,1.87,1.83,1639797962,100.0
