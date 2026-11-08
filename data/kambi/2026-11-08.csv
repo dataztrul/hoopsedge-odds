@@ -122,3 +122,6 @@ ts,event_id,group,home,away,start,type,line,dec_1,dec_2,pin_matchup_id,match_sco
 2026-11-08T10:03:01+00:00,1028927708,aba_league,KK Crvena Zvezda Belgrade,BC Slovan Bratislava,2026-11-09T17:00:00+00:00,moneyline,,1.02,9.0,,51.7
 2026-11-08T10:03:01+00:00,1028927708,aba_league,KK Crvena Zvezda Belgrade,BC Slovan Bratislava,2026-11-09T17:00:00+00:00,spread,-18.5,1.88,1.83,,51.7
 2026-11-08T10:03:01+00:00,1028927708,aba_league,KK Crvena Zvezda Belgrade,BC Slovan Bratislava,2026-11-09T17:00:00+00:00,total,170.5,1.88,1.82,,51.7
+2026-11-08T10:08:16+00:00,1028562754,euroleague,Paris Basket,Fenerbahce SK,2026-11-11T19:45:00+00:00,moneyline,,3.3,1.33,,0.0
+2026-11-08T10:08:16+00:00,1028562754,euroleague,Paris Basket,Fenerbahce SK,2026-11-11T19:45:00+00:00,spread,7.5,1.87,1.93,,0.0
+2026-11-08T10:08:16+00:00,1028562754,euroleague,Paris Basket,Fenerbahce SK,2026-11-11T19:45:00+00:00,total,171.5,1.9,1.9,,0.0
