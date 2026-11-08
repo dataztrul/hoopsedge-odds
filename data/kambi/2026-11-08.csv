@@ -187,3 +187,6 @@ ts,event_id,group,home,away,start,type,line,dec_1,dec_2,pin_matchup_id,match_sco
 2026-11-08T11:21:44+00:00,1028300998,denmark/basketligaen,Team Fog Næstved,Bakken Bears,2026-11-08T15:00:00+00:00,moneyline,,2.08,1.67,1639787947,95.5
 2026-11-08T11:21:44+00:00,1028300998,denmark/basketligaen,Team Fog Næstved,Bakken Bears,2026-11-08T15:00:00+00:00,spread,2.5,1.82,1.88,1639787947,95.5
 2026-11-08T11:21:44+00:00,1028300998,denmark/basketligaen,Team Fog Næstved,Bakken Bears,2026-11-08T15:00:00+00:00,total,183.5,1.98,1.74,1639787947,95.5
+2026-11-08T11:26:58+00:00,1028927802,aba_league,Mega Bemax,BC Dubai,2026-11-09T19:00:00+00:00,spread,13.5,1.9,1.8,1639848469,84.8
+2026-11-08T11:26:58+00:00,1028927802,aba_league,Mega Bemax,BC Dubai,2026-11-09T19:00:00+00:00,total,173.5,1.85,1.85,1639848469,84.8
+2026-11-08T11:26:58+00:00,1028750572,spain/liga_acb,La Laguna Tenerife,Joventut Badalona,2026-11-08T12:00:00+00:00,total,172.5,2.02,1.71,1639776898,100.0
