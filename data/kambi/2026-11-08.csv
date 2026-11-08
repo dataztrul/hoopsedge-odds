@@ -331,3 +331,5 @@ ts,event_id,group,home,away,start,type,line,dec_1,dec_2,pin_matchup_id,match_sco
 2026-11-08T15:33:37+00:00,1029153105,greece/gbl,Maroussi,Olympiacos BC,2026-11-08T15:38:00+00:00,total,163.5,1.88,1.82,1639795916,95.0
 2026-11-08T15:33:37+00:00,1028635039,italy/lega_a,Bertram Tortona,Treviso Basket,2026-11-08T16:30:00+00:00,moneyline,,1.4,2.85,1639796571,76.1
 2026-11-08T15:33:37+00:00,1028635039,italy/lega_a,Bertram Tortona,Treviso Basket,2026-11-08T16:30:00+00:00,spread,-5.5,1.84,1.92,1639796571,76.1
+2026-11-08T15:38:49+00:00,1028280661,czech_republic/nbl,BK Olomoucko,Sokol Pisek,2026-11-08T16:00:00+00:00,moneyline,,5.75,1.1,,58.7
+2026-11-08T15:38:49+00:00,1028280661,czech_republic/nbl,BK Olomoucko,Sokol Pisek,2026-11-08T16:00:00+00:00,spread,13.5,1.84,1.86,,58.7
