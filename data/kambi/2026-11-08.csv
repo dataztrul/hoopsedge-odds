@@ -97,3 +97,6 @@ ts,event_id,group,home,away,start,type,line,dec_1,dec_2,pin_matchup_id,match_sco
 2026-11-08T07:41:34+00:00,1028750568,spain/liga_acb,FC Barcelona,Rio Breogán,2026-11-08T11:00:00+00:00,moneyline,,1.23,3.95,1639768454,100.0
 2026-11-08T07:41:34+00:00,1028750568,spain/liga_acb,FC Barcelona,Rio Breogán,2026-11-08T11:00:00+00:00,spread,-9.5,1.93,1.83,1639768454,100.0
 2026-11-08T07:41:34+00:00,1028750568,spain/liga_acb,FC Barcelona,Rio Breogán,2026-11-08T11:00:00+00:00,total,192.5,1.9,1.8,1639768454,100.0
+2026-11-08T08:17:51+00:00,1028646409,germany/bbl,MHP RIESEN Ludwigsburg,EWE Baskets Oldenburg,2026-11-08T15:30:00+00:00,total,167.5,2.15,1.63,1639795915,100.0
+2026-11-08T08:17:51+00:00,1029642392,turkey/super_league,Anadolu Efes,Tofaş,2026-11-08T12:30:00+00:00,moneyline,,1.21,3.9,1639776910,100.0
+2026-11-08T08:17:51+00:00,1029642392,turkey/super_league,Anadolu Efes,Tofaş,2026-11-08T12:30:00+00:00,spread,-9.5,1.85,1.85,1639776910,100.0
