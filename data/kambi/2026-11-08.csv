@@ -8,3 +8,6 @@ ts,event_id,group,home,away,start,type,line,dec_1,dec_2,pin_matchup_id,match_sco
 2026-11-08T00:42:07+00:00,1028130385,bnxt_league,Circus Brussels,Okapi Aalstar,2026-11-08T14:00:00+00:00,total,169.5,1.88,1.8,1639772916,95.8
 2026-11-08T00:42:07+00:00,1029396644,turkey/tbl,Balikesir Buyuksehir Belediyespor,Mersin Spor,2026-11-08T13:00:00+00:00,moneyline,,3.3,1.28,1639776931,77.4
 2026-11-08T00:42:07+00:00,1029396644,turkey/tbl,Balikesir Buyuksehir Belediyespor,Mersin Spor,2026-11-08T13:00:00+00:00,spread,6.5,2.02,1.7,1639776931,77.4
+2026-11-08T01:27:42+00:00,1028300998,denmark/basketligaen,Team Fog Næstved,Bakken Bears,2026-11-08T15:00:00+00:00,moneyline,,2.3,1.54,1639787947,95.5
+2026-11-08T01:27:42+00:00,1028300998,denmark/basketligaen,Team Fog Næstved,Bakken Bears,2026-11-08T15:00:00+00:00,spread,3.5,1.86,1.84,1639787947,95.5
+2026-11-08T01:27:42+00:00,1028300998,denmark/basketligaen,Team Fog Næstved,Bakken Bears,2026-11-08T15:00:00+00:00,total,183.5,1.85,1.85,1639787947,95.5
