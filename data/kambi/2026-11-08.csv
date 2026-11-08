@@ -281,3 +281,6 @@ ts,event_id,group,home,away,start,type,line,dec_1,dec_2,pin_matchup_id,match_sco
 2026-11-08T14:19:56+00:00,1028992931,france/elite,Paris Basket,Bourg-en-Bresse,2026-11-08T15:30:00+00:00,moneyline,,1.23,4.0,1639791189,88.5
 2026-11-08T14:19:56+00:00,1028992931,france/elite,Paris Basket,Bourg-en-Bresse,2026-11-08T15:30:00+00:00,spread,-9.5,1.87,1.89,1639791189,88.5
 2026-11-08T14:19:56+00:00,1028992931,france/elite,Paris Basket,Bourg-en-Bresse,2026-11-08T15:30:00+00:00,total,183.5,1.88,1.82,1639791189,88.5
+2026-11-08T14:30:57+00:00,1029684775,germany/pro_a,Nürnberger BC,SBB Baskets Wolmirstedt,2026-11-08T14:35:00+00:00,moneyline,,1.96,1.75,1639788007,75.9
+2026-11-08T14:30:57+00:00,1029684775,germany/pro_a,Nürnberger BC,SBB Baskets Wolmirstedt,2026-11-08T14:35:00+00:00,spread,1.5,1.85,1.85,1639788007,75.9
+2026-11-08T14:30:57+00:00,1029684775,germany/pro_a,Nürnberger BC,SBB Baskets Wolmirstedt,2026-11-08T14:35:00+00:00,total,158.5,1.85,1.85,1639788007,75.9
