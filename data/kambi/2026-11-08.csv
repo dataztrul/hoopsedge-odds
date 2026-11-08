@@ -304,3 +304,6 @@ ts,event_id,group,home,away,start,type,line,dec_1,dec_2,pin_matchup_id,match_sco
 2026-11-08T14:46:38+00:00,1028726948,lithuania/lkl,BC Nevėžis,BC Šiauliai,2026-11-08T15:00:00+00:00,total,172.5,2.0,1.72,1639788037,100.0
 2026-11-08T14:46:38+00:00,1028435522,portugal/lpb,Porto,SC Braga,2026-11-08T15:00:00+00:00,total,170.5,1.98,1.73,1639787948,100.0
 2026-11-08T14:46:38+00:00,1028803938,united_kingdom/super_league_basketball,Bristol Flyers,Surrey 89ers,2026-11-08T15:00:00+00:00,total,163.5,1.88,1.82,1639788043,100.0
+2026-11-08T14:51:53+00:00,1028726948,lithuania/lkl,BC Nevėžis,BC Šiauliai,2026-11-08T15:00:00+00:00,moneyline,,2.45,1.49,1639788037,100.0
+2026-11-08T14:51:53+00:00,1028726948,lithuania/lkl,BC Nevėžis,BC Šiauliai,2026-11-08T15:00:00+00:00,spread,4.5,1.82,1.89,1639788037,100.0
+2026-11-08T14:51:53+00:00,1028726948,lithuania/lkl,BC Nevėžis,BC Šiauliai,2026-11-08T15:00:00+00:00,total,169.5,1.84,1.86,1639788037,100.0
