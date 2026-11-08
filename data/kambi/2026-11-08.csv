@@ -49,3 +49,6 @@ ts,event_id,group,home,away,start,type,line,dec_1,dec_2,pin_matchup_id,match_sco
 2026-11-08T03:25:09+00:00,1028660155,turkey/super_league,Bahcesehir Koleji,Yukatel Merkezefendi Belediyesi Denizli Basket,2026-11-08T10:00:00+00:00,spread,-16.5,2.2,1.6,1639766783,100.0
 2026-11-08T03:25:09+00:00,1028660155,turkey/super_league,Bahcesehir Koleji,Yukatel Merkezefendi Belediyesi Denizli Basket,2026-11-08T10:00:00+00:00,total,172.5,1.9,1.8,1639766783,100.0
 2026-11-08T03:35:23+00:00,1028660155,turkey/super_league,Bahcesehir Koleji,Yukatel Merkezefendi Belediyesi Denizli Basket,2026-11-08T10:00:00+00:00,spread,-13.5,1.8,1.9,1639766783,100.0
+2026-11-08T04:36:39+00:00,1028635592,italy/serie_a2,Juvi Cremona,Reale Mutua Torino,2026-11-08T17:00:00+00:00,moneyline,,2.25,1.53,1640001143,100.0
+2026-11-08T04:36:39+00:00,1028635592,italy/serie_a2,Juvi Cremona,Reale Mutua Torino,2026-11-08T17:00:00+00:00,spread,3.5,1.78,1.85,1640001143,100.0
+2026-11-08T04:36:39+00:00,1028635592,italy/serie_a2,Juvi Cremona,Reale Mutua Torino,2026-11-08T17:00:00+00:00,total,148.5,1.78,1.86,1640001143,100.0
