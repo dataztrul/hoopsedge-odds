@@ -81,3 +81,4 @@ ts,event_id,group,home,away,start,type,line,dec_1,dec_2,pin_matchup_id,match_sco
 2026-11-08T06:39:10+00:00,1029288195,united_kingdom/super_league_basketball,Liverpool,Caledonia Gladiators,2026-11-08T16:00:00+00:00,moneyline,,1.48,2.45,1639795951,100.0
 2026-11-08T06:39:10+00:00,1029288195,united_kingdom/super_league_basketball,Liverpool,Caledonia Gladiators,2026-11-08T16:00:00+00:00,spread,-4.5,1.88,1.82,1639795951,100.0
 2026-11-08T06:39:10+00:00,1029288195,united_kingdom/super_league_basketball,Liverpool,Caledonia Gladiators,2026-11-08T16:00:00+00:00,total,167.5,1.83,1.87,1639795951,100.0
+2026-11-08T06:49:22+00:00,1028646403,germany/bbl,Würzburg Baskets,FC Bayern München,2026-11-08T17:00:00+00:00,total,164.5,1.75,1.97,1639796586,94.4
