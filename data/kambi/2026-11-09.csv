@@ -228,3 +228,5 @@ ts,event_id,group,home,away,start,type,line,dec_1,dec_2,pin_matchup_id,match_sco
 2026-11-09T18:23:54+00:00,1028646405,germany/bbl,Science City Jena,Hamburg Towers,2026-11-09T19:00:00+00:00,moneyline,,1.49,2.45,1639848559,76.5
 2026-11-09T18:23:54+00:00,1028646405,germany/bbl,Science City Jena,Hamburg Towers,2026-11-09T19:00:00+00:00,spread,-4.5,1.88,1.82,1639848559,76.5
 2026-11-09T18:23:54+00:00,1028646405,germany/bbl,Science City Jena,Hamburg Towers,2026-11-09T19:00:00+00:00,total,168.5,1.82,1.88,1639848559,76.5
+2026-11-09T18:29:03+00:00,1028646405,germany/bbl,Science City Jena,Hamburg Towers,2026-11-09T19:00:00+00:00,moneyline,,1.58,2.2,1639848559,76.5
+2026-11-09T18:29:03+00:00,1028646405,germany/bbl,Science City Jena,Hamburg Towers,2026-11-09T19:00:00+00:00,spread,-3.5,1.92,1.78,1639848559,76.5
