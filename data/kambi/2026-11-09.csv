@@ -235,3 +235,8 @@ ts,event_id,group,home,away,start,type,line,dec_1,dec_2,pin_matchup_id,match_sco
 2026-11-09T18:44:33+00:00,1028646405,germany/bbl,Science City Jena,Hamburg Towers,2026-11-09T19:00:00+00:00,moneyline,,1.58,2.23,1639848559,76.5
 2026-11-09T18:44:33+00:00,1028646405,germany/bbl,Science City Jena,Hamburg Towers,2026-11-09T19:00:00+00:00,spread,-3.5,1.92,1.79,1639848559,76.5
 2026-11-09T18:44:33+00:00,1028646405,germany/bbl,Science City Jena,Hamburg Towers,2026-11-09T19:00:00+00:00,total,169.5,1.89,1.81,1639848559,76.5
+2026-11-09T18:49:42+00:00,1028927802,aba_league,Mega Bemax,BC Dubai,2026-11-09T19:00:00+00:00,spread,15.5,1.87,1.83,1639848469,84.8
+2026-11-09T18:49:42+00:00,1028927802,aba_league,Mega Bemax,BC Dubai,2026-11-09T19:00:00+00:00,total,175.5,1.89,1.81,1639848469,84.8
+2026-11-09T18:49:42+00:00,1028635032,italy/lega_a,Virtus Bologna,Tezenis Verona,2026-11-09T19:00:00+00:00,moneyline,,1.11,6.0,1639848657,80.0
+2026-11-09T18:49:42+00:00,1028635032,italy/lega_a,Virtus Bologna,Tezenis Verona,2026-11-09T19:00:00+00:00,spread,-13.5,1.83,1.94,1639848657,80.0
+2026-11-09T18:49:42+00:00,1028635032,italy/lega_a,Virtus Bologna,Tezenis Verona,2026-11-09T19:00:00+00:00,total,179.5,1.83,1.87,1639848657,80.0
