@@ -51,6 +51,14 @@ jobs:
             if [ -n "$HOOPSEDGE_TOKEN" ] && [ $(( $(date +%s) - ${last_model:-0} )) -ge 3600 ]; then
               GH_TOKEN="$HOOPSEDGE_TOKEN" gh workflow run snapshot.yml -R dataztrul/hoopsedge --ref main && last_model=$(date +%s) || echo "model dispatch failed"
             fi
+            # ... and the nightly job too: GitHub skips its 04:40 schedule on some nights
+            if [ -n "$HOOPSEDGE_TOKEN" ] && [ "$(date -u +%H)" -ge 5 ] && [ "${daily_checked:-}" != "$(date -u +%F)" ]; then
+              last=$(GH_TOKEN="$HOOPSEDGE_TOKEN" gh api "repos/dataztrul/hoopsedge/actions/workflows/daily.yml/runs?per_page=1" --jq '.workflow_runs[0].created_at' 2>/dev/null || echo "")
+              if [ "${last:0:10}" != "$(date -u +%F)" ]; then
+                GH_TOKEN="$HOOPSEDGE_TOKEN" gh workflow run daily.yml -R dataztrul/hoopsedge --ref main && echo "nightly job dispatched"
+              fi
+              daily_checked=$(date -u +%F)
+            fi
             wait=$(python scripts/next_wait.py)
             [ $(( $(date +%s) + wait )) -lt $end ] || break
             sleep "$wait"
