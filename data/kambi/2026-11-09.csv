@@ -42,3 +42,6 @@ ts,event_id,group,home,away,start,type,line,dec_1,dec_2,pin_matchup_id,match_sco
 2026-11-09T03:46:19+00:00,1029505359,france/coupe_de_france,Boulogne-sur-Mer,Union Rennes Basket 35,2026-11-09T18:00:00+00:00,total,161.5,1.86,1.78,1639400893,100.0
 2026-11-09T04:01:26+00:00,1029005650,brazil/nbb,Basquete Cearense,Corinthians-SP,2026-11-09T22:30:00+00:00,total,166.5,2.1,1.65,,0.0
 2026-11-09T04:46:49+00:00,1029642393,turkey/super_league,Karşiyaka,Besiktas,2026-11-09T16:00:00+00:00,total,170.5,1.97,1.75,1639614937,100.0
+2026-11-09T05:01:57+00:00,1029005653,brazil/nbb,EC Pinheiros B,Mogi das Cruzes,2026-11-09T23:00:00+00:00,moneyline,,1.79,1.92,,0.0
+2026-11-09T05:01:57+00:00,1029005653,brazil/nbb,EC Pinheiros B,Mogi das Cruzes,2026-11-09T23:00:00+00:00,spread,-1.5,1.91,1.79,,0.0
+2026-11-09T05:01:57+00:00,1029005653,brazil/nbb,EC Pinheiros B,Mogi das Cruzes,2026-11-09T23:00:00+00:00,total,155.5,1.83,1.87,,0.0
