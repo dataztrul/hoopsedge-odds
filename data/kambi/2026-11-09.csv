@@ -174,3 +174,5 @@ ts,event_id,group,home,away,start,type,line,dec_1,dec_2,pin_matchup_id,match_sco
 2026-11-09T14:46:31+00:00,1029339827,fiba_champions_league,Hapoel Holon,SC Rasta Vechta,2026-11-10T17:30:00+00:00,spread,-3.5,1.87,1.89,1639891336,100.0
 2026-11-09T14:46:31+00:00,1029339827,fiba_champions_league,Hapoel Holon,SC Rasta Vechta,2026-11-10T17:30:00+00:00,total,168.5,1.85,1.85,1639891336,100.0
 2026-11-09T14:46:31+00:00,1028646405,germany/bbl,Science City Jena,Hamburg Towers,2026-11-09T19:00:00+00:00,total,168.5,1.83,1.87,1639848559,76.5
+2026-11-09T15:02:00+00:00,1029642393,turkey/super_league,Karşiyaka,Besiktas,2026-11-09T16:00:00+00:00,spread,7.5,1.83,1.88,1639614937,100.0
+2026-11-09T15:02:00+00:00,1029642393,turkey/super_league,Karşiyaka,Besiktas,2026-11-09T16:00:00+00:00,total,171.5,1.89,1.81,1639614937,100.0
