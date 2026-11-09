@@ -102,3 +102,6 @@ ts,event_id,group,home,away,start,type,line,dec_1,dec_2,pin_matchup_id,match_sco
 2026-11-09T11:37:02+00:00,1028646405,germany/bbl,Science City Jena,Hamburg Towers,2026-11-09T19:00:00+00:00,moneyline,,1.65,2.1,1639848559,76.5
 2026-11-09T11:37:02+00:00,1028646405,germany/bbl,Science City Jena,Hamburg Towers,2026-11-09T19:00:00+00:00,spread,-2.5,1.87,1.83,1639848559,76.5
 2026-11-09T11:37:02+00:00,1028646405,germany/bbl,Science City Jena,Hamburg Towers,2026-11-09T19:00:00+00:00,total,168.5,1.84,1.86,1639848559,76.5
+2026-11-09T11:57:21+00:00,1028492483,fiba_champions_league,Sabah,Trabzonspor BK,2026-11-10T16:00:00+00:00,moneyline,,2.75,1.43,,28.7
+2026-11-09T11:57:21+00:00,1028492483,fiba_champions_league,Sabah,Trabzonspor BK,2026-11-10T16:00:00+00:00,spread,5.5,1.82,1.95,,28.7
+2026-11-09T11:57:21+00:00,1028492483,fiba_champions_league,Sabah,Trabzonspor BK,2026-11-10T16:00:00+00:00,total,168.5,1.88,1.82,,28.7
