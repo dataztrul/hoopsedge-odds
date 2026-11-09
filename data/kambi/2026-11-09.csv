@@ -34,3 +34,6 @@ ts,event_id,group,home,away,start,type,line,dec_1,dec_2,pin_matchup_id,match_sco
 2026-11-09T02:00:28+00:00,1028635032,italy/lega_a,Virtus Bologna,Tezenis Verona,2026-11-09T19:00:00+00:00,moneyline,,1.14,5.3,1639848657,80.0
 2026-11-09T02:00:28+00:00,1028635032,italy/lega_a,Virtus Bologna,Tezenis Verona,2026-11-09T19:00:00+00:00,spread,-12.5,1.88,1.88,1639848657,80.0
 2026-11-09T02:00:28+00:00,1028635032,italy/lega_a,Virtus Bologna,Tezenis Verona,2026-11-09T19:00:00+00:00,total,180.5,1.92,1.79,1639848657,80.0
+2026-11-09T02:45:50+00:00,1029005653,brazil/nbb,EC Pinheiros B,Mogi das Cruzes,2026-11-09T23:00:00+00:00,moneyline,,1.94,1.77,,0.0
+2026-11-09T02:45:50+00:00,1029005653,brazil/nbb,EC Pinheiros B,Mogi das Cruzes,2026-11-09T23:00:00+00:00,spread,1.5,1.8,1.9,,0.0
+2026-11-09T02:45:50+00:00,1029005653,brazil/nbb,EC Pinheiros B,Mogi das Cruzes,2026-11-09T23:00:00+00:00,total,155.5,1.83,1.88,,0.0
