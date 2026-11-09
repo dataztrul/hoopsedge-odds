@@ -225,3 +225,6 @@ ts,event_id,group,home,away,start,type,line,dec_1,dec_2,pin_matchup_id,match_sco
 2026-11-09T18:18:45+00:00,1028302792,norway/blno,Centrum Tigers,Ammerud Basket,2026-11-11T18:00:00+00:00,moneyline,,8.5,1.05,1639982093,100.0
 2026-11-09T18:18:45+00:00,1028302792,norway/blno,Centrum Tigers,Ammerud Basket,2026-11-11T18:00:00+00:00,spread,18.5,1.81,1.89,1639982093,100.0
 2026-11-09T18:18:45+00:00,1028302792,norway/blno,Centrum Tigers,Ammerud Basket,2026-11-11T18:00:00+00:00,total,174.5,1.79,1.92,1639982093,100.0
+2026-11-09T18:23:54+00:00,1028646405,germany/bbl,Science City Jena,Hamburg Towers,2026-11-09T19:00:00+00:00,moneyline,,1.49,2.45,1639848559,76.5
+2026-11-09T18:23:54+00:00,1028646405,germany/bbl,Science City Jena,Hamburg Towers,2026-11-09T19:00:00+00:00,spread,-4.5,1.88,1.82,1639848559,76.5
+2026-11-09T18:23:54+00:00,1028646405,germany/bbl,Science City Jena,Hamburg Towers,2026-11-09T19:00:00+00:00,total,168.5,1.82,1.88,1639848559,76.5
