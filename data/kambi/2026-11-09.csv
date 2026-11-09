@@ -191,3 +191,6 @@ ts,event_id,group,home,away,start,type,line,dec_1,dec_2,pin_matchup_id,match_sco
 2026-11-09T15:48:31+00:00,1029642393,turkey/super_league,Karşiyaka,Besiktas,2026-11-09T16:00:00+00:00,total,169.5,1.91,1.79,1639614937,100.0
 2026-11-09T15:53:41+00:00,1028927673,aba_league,Široki WWin,Cibona Zagreb,2026-11-09T18:00:00+00:00,total,169.5,2.0,1.71,1639848449,100.0
 2026-11-09T15:53:41+00:00,1029642393,turkey/super_league,Karşiyaka,Besiktas,2026-11-09T16:00:00+00:00,total,168.5,1.82,1.88,1639614937,100.0
+2026-11-09T15:58:50+00:00,1028405551,eurocup,Bourg-en-Bresse,Budućnost Podgorica,2026-11-10T18:30:00+00:00,moneyline,,1.78,1.96,1639894917,77.6
+2026-11-09T15:58:50+00:00,1028405551,eurocup,Bourg-en-Bresse,Budućnost Podgorica,2026-11-10T18:30:00+00:00,spread,-1.5,1.92,1.84,1639894917,77.6
+2026-11-09T15:58:50+00:00,1028405551,eurocup,Bourg-en-Bresse,Budućnost Podgorica,2026-11-10T18:30:00+00:00,total,173.5,1.87,1.84,1639894917,77.6
