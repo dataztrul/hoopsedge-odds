@@ -22,3 +22,6 @@ ts,event_id,group,home,away,start,type,line,dec_1,dec_2,pin_matchup_id,match_sco
 2026-11-09T01:15:07+00:00,1028927708,aba_league,KK Crvena Zvezda Belgrade,BC Slovan Bratislava,2026-11-09T17:00:00+00:00,total,170.5,1.88,1.82,1639848531,100.0
 2026-11-09T01:15:07+00:00,1029642393,turkey/super_league,Karşiyaka,Besiktas,2026-11-09T16:00:00+00:00,moneyline,,2.6,1.44,1639614937,100.0
 2026-11-09T01:15:07+00:00,1029642393,turkey/super_league,Karşiyaka,Besiktas,2026-11-09T16:00:00+00:00,spread,4.5,1.9,1.8,1639614937,100.0
+2026-11-09T01:45:22+00:00,1028927673,aba_league,Široki WWin,Cibona Zagreb,2026-11-09T18:00:00+00:00,moneyline,,1.45,2.55,1639848449,100.0
+2026-11-09T01:45:22+00:00,1028927673,aba_league,Široki WWin,Cibona Zagreb,2026-11-09T18:00:00+00:00,spread,-4.5,1.83,1.87,1639848449,100.0
+2026-11-09T01:45:22+00:00,1028927673,aba_league,Široki WWin,Cibona Zagreb,2026-11-09T18:00:00+00:00,total,170.5,1.87,1.83,1639848449,100.0
