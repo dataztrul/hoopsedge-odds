@@ -206,3 +206,5 @@ ts,event_id,group,home,away,start,type,line,dec_1,dec_2,pin_matchup_id,match_sco
 2026-11-09T16:55:36+00:00,1028405504,eurocup,Universitatea Cluj-Napoca,TÜRK Telekom,2026-11-10T17:00:00+00:00,moneyline,,2.04,1.71,1639891325,100.0
 2026-11-09T16:55:36+00:00,1028405504,eurocup,Universitatea Cluj-Napoca,TÜRK Telekom,2026-11-10T17:00:00+00:00,spread,1.5,1.92,1.84,1639891325,100.0
 2026-11-09T16:55:36+00:00,1028405504,eurocup,Universitatea Cluj-Napoca,TÜRK Telekom,2026-11-10T17:00:00+00:00,total,173.5,1.86,1.84,1639891325,100.0
+2026-11-09T17:00:46+00:00,1028646405,germany/bbl,Science City Jena,Hamburg Towers,2026-11-09T19:00:00+00:00,moneyline,,1.54,2.3,1639848559,76.5
+2026-11-09T17:00:46+00:00,1028646405,germany/bbl,Science City Jena,Hamburg Towers,2026-11-09T19:00:00+00:00,spread,-2.5,1.73,1.98,1639848559,76.5
