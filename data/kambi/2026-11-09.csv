@@ -167,3 +167,6 @@ ts,event_id,group,home,away,start,type,line,dec_1,dec_2,pin_matchup_id,match_sco
 2026-11-09T14:25:53+00:00,1028405504,eurocup,Universitatea Cluj-Napoca,TÜRK Telekom,2026-11-10T17:00:00+00:00,spread,1.5,1.93,1.83,1639891325,100.0
 2026-11-09T14:25:53+00:00,1028405504,eurocup,Universitatea Cluj-Napoca,TÜRK Telekom,2026-11-10T17:00:00+00:00,total,170.5,1.84,1.86,1639891325,100.0
 2026-11-09T14:31:02+00:00,1029642393,turkey/super_league,Karşiyaka,Besiktas,2026-11-09T16:00:00+00:00,total,167.5,1.77,1.93,1639614937,100.0
+2026-11-09T14:41:22+00:00,1029339827,fiba_champions_league,Hapoel Holon,SC Rasta Vechta,2026-11-10T17:30:00+00:00,moneyline,,1.68,2.12,1639891336,100.0
+2026-11-09T14:41:22+00:00,1029339827,fiba_champions_league,Hapoel Holon,SC Rasta Vechta,2026-11-10T17:30:00+00:00,spread,-3.5,2.05,1.73,1639891336,100.0
+2026-11-09T14:41:22+00:00,1029339827,fiba_champions_league,Hapoel Holon,SC Rasta Vechta,2026-11-10T17:30:00+00:00,total,168.5,1.84,1.86,1639891336,100.0
