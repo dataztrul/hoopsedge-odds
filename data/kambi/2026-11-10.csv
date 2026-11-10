@@ -115,3 +115,9 @@ ts,event_id,group,home,away,start,type,line,dec_1,dec_2,pin_matchup_id,match_sco
 2026-11-10T16:33:32+00:00,1029298359,euroleague,Partizan Belgrade,Saski Baskonia,2026-11-11T19:45:00+00:00,total,169.5,1.92,1.88,1639904707,86.4
 2026-11-10T16:33:32+00:00,1028405560,eurocup,BC Neptūnas,WKS Śląsk Wrocław,2026-11-10T17:00:00+00:00,total,175.5,1.87,1.83,1639892881,91.4
 2026-11-10T16:38:40+00:00,1028635639,italy/serie_a2,Giorgio Tesi Group Pistoia,Juvecaserta,2026-11-11T19:30:00+00:00,moneyline,,1.24,3.45,1640270725,100.0
+2026-11-10T16:43:49+00:00,1028405629,eurocup,Balkan Botevgrad,PAOK Thessaloniki BC,2026-11-10T17:00:00+00:00,moneyline,,5.5,1.12,1639894874,100.0
+2026-11-10T16:43:49+00:00,1028405629,eurocup,Balkan Botevgrad,PAOK Thessaloniki BC,2026-11-10T17:00:00+00:00,spread,12.5,1.86,1.9,1639894874,100.0
+2026-11-10T16:43:49+00:00,1028405629,eurocup,Balkan Botevgrad,PAOK Thessaloniki BC,2026-11-10T17:00:00+00:00,total,158.5,1.83,1.87,1639894874,100.0
+2026-11-10T16:43:49+00:00,1028405563,eurocup,Dolomiti Energia Trento,Tofaş,2026-11-10T19:00:00+00:00,total,171.5,1.74,1.97,1639892932,81.6
+2026-11-10T16:43:49+00:00,1028280616,czech_republic/nbl,BK Děčín,BK Pardubice,2026-11-11T17:00:00+00:00,moneyline,,3.3,1.29,1639979724,100.0
+2026-11-10T16:43:49+00:00,1028280616,czech_republic/nbl,BK Děčín,BK Pardubice,2026-11-11T17:00:00+00:00,spread,7.5,1.85,1.85,1639979724,100.0
