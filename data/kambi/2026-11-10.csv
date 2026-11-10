@@ -23,3 +23,8 @@ ts,event_id,group,home,away,start,type,line,dec_1,dec_2,pin_matchup_id,match_sco
 2026-11-10T09:54:38+00:00,1029298359,euroleague,Partizan Belgrade,Saski Baskonia,2026-11-11T19:45:00+00:00,total,170.5,1.94,1.87,1639904707,86.4
 2026-11-10T10:04:47+00:00,1028562754,euroleague,Paris Basket,Fenerbahce SK,2026-11-11T19:45:00+00:00,spread,7.5,1.87,1.93,1639904706,100.0
 2026-11-10T10:04:47+00:00,1028562754,euroleague,Paris Basket,Fenerbahce SK,2026-11-11T19:45:00+00:00,total,171.5,1.91,1.89,1639904706,100.0
+2026-11-10T10:14:55+00:00,1029005666,brazil/nbb,Flamengo,Franca Basquetebol Clube,2026-11-10T23:30:00+00:00,moneyline,,1.42,2.65,,0.0
+2026-11-10T10:14:55+00:00,1029005666,brazil/nbb,Flamengo,Franca Basquetebol Clube,2026-11-10T23:30:00+00:00,total,156.5,1.85,1.85,,0.0
+2026-11-10T10:14:55+00:00,1028280616,czech_republic/nbl,BK Děčín,BK Pardubice,2026-11-11T17:00:00+00:00,moneyline,,3.3,1.29,1639979724,100.0
+2026-11-10T10:14:55+00:00,1028280616,czech_republic/nbl,BK Děčín,BK Pardubice,2026-11-11T17:00:00+00:00,spread,7.5,1.85,1.85,1639979724,100.0
+2026-11-10T10:14:55+00:00,1028280616,czech_republic/nbl,BK Děčín,BK Pardubice,2026-11-11T17:00:00+00:00,total,166.5,1.88,1.82,1639979724,100.0
