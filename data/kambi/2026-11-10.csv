@@ -154,3 +154,6 @@ ts,event_id,group,home,away,start,type,line,dec_1,dec_2,pin_matchup_id,match_sco
 2026-11-10T17:50:46+00:00,1028405469,eurocup,Bertram Tortona,Hapoel Jerusalem,2026-11-11T18:30:00+00:00,moneyline,,3.0,1.35,1639975166,76.1
 2026-11-10T17:50:46+00:00,1028405469,eurocup,Bertram Tortona,Hapoel Jerusalem,2026-11-11T18:30:00+00:00,spread,6.5,1.86,1.9,1639975166,76.1
 2026-11-10T17:50:46+00:00,1028405469,eurocup,Bertram Tortona,Hapoel Jerusalem,2026-11-11T18:30:00+00:00,total,170.5,1.88,1.82,1639975166,76.1
+2026-11-10T17:55:55+00:00,1027960484,sweden/basketligan,Södertälje Kings,KFUM Nässjö,2026-11-10T18:04:00+00:00,moneyline,,1.26,3.5,1639894913,91.7
+2026-11-10T17:55:55+00:00,1027960484,sweden/basketligan,Södertälje Kings,KFUM Nässjö,2026-11-10T18:04:00+00:00,spread,-8.5,1.91,1.8,1639894913,91.7
+2026-11-10T17:55:55+00:00,1027960484,sweden/basketligan,Södertälje Kings,KFUM Nässjö,2026-11-10T18:04:00+00:00,total,158.5,1.9,1.8,1639894913,91.7
