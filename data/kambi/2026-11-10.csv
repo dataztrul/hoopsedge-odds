@@ -141,3 +141,8 @@ ts,event_id,group,home,away,start,type,line,dec_1,dec_2,pin_matchup_id,match_sco
 2026-11-10T17:25:05+00:00,1028405551,eurocup,Bourg-en-Bresse,Budućnost Podgorica,2026-11-10T18:30:00+00:00,spread,1.5,2.0,1.77,1639894917,77.6
 2026-11-10T17:30:13+00:00,1028405470,eurocup,Rostock Seawolves,KK Cedevita Olimpija,2026-11-10T19:00:00+00:00,moneyline,,1.58,2.25,1639891382,100.0
 2026-11-10T17:30:13+00:00,1028405470,eurocup,Rostock Seawolves,KK Cedevita Olimpija,2026-11-10T19:00:00+00:00,spread,-3.5,1.94,1.83,1639891382,100.0
+2026-11-10T17:45:38+00:00,1027960484,sweden/basketligan,Södertälje Kings,KFUM Nässjö,2026-11-10T18:04:00+00:00,moneyline,,1.17,4.35,1639894913,91.7
+2026-11-10T17:45:38+00:00,1027960484,sweden/basketligan,Södertälje Kings,KFUM Nässjö,2026-11-10T18:04:00+00:00,spread,-9.5,1.73,1.98,1639894913,91.7
+2026-11-10T17:45:38+00:00,1027960484,sweden/basketligan,Södertälje Kings,KFUM Nässjö,2026-11-10T18:04:00+00:00,total,160.5,1.98,1.73,1639894913,91.7
+2026-11-10T17:45:38+00:00,1027960440,sweden/basketligan,Köping Stars,Jämtland Basket,2026-11-10T18:04:00+00:00,spread,7.5,1.81,1.89,1639892916,100.0
+2026-11-10T17:45:38+00:00,1027960440,sweden/basketligan,Köping Stars,Jämtland Basket,2026-11-10T18:04:00+00:00,total,177.5,1.87,1.83,1639892916,100.0
