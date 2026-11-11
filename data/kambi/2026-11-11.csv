@@ -61,3 +61,5 @@ ts,event_id,group,home,away,start,type,line,dec_1,dec_2,pin_matchup_id,match_sco
 2026-11-11T06:15:01+00:00,1029299270,fiba_europe_cup,Rilski Sportist,Sporting,2026-11-11T18:00:00+00:00,moneyline,,2.48,1.47,,41.1
 2026-11-11T06:15:01+00:00,1029299270,fiba_europe_cup,Rilski Sportist,Sporting,2026-11-11T18:00:00+00:00,spread,4.5,1.83,1.87,,41.1
 2026-11-11T06:15:01+00:00,1029299270,fiba_europe_cup,Rilski Sportist,Sporting,2026-11-11T18:00:00+00:00,total,158.5,1.89,1.81,,41.1
+2026-11-11T06:30:08+00:00,1028300958,denmark/basketligaen,BMS Herlev Wolfpack,Svendborg Rabbits,2026-11-12T18:00:00+00:00,spread,28.5,1.82,1.88,1640044262,100.0
+2026-11-11T06:30:08+00:00,1028300958,denmark/basketligaen,BMS Herlev Wolfpack,Svendborg Rabbits,2026-11-12T18:00:00+00:00,total,168.5,1.84,1.86,1640044262,100.0
