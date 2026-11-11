@@ -74,3 +74,10 @@ ts,event_id,group,home,away,start,type,line,dec_1,dec_2,pin_matchup_id,match_sco
 2026-11-11T07:46:17+00:00,1029299383,fiba_europe_cup,Les Lions de Genève,Absheron Lions,2026-11-11T19:30:00+00:00,moneyline,,1.18,4.3,,52.4
 2026-11-11T07:46:17+00:00,1029299383,fiba_europe_cup,Les Lions de Genève,Absheron Lions,2026-11-11T19:30:00+00:00,spread,-10.5,1.84,1.86,,52.4
 2026-11-11T07:46:17+00:00,1029299383,fiba_europe_cup,Les Lions de Genève,Absheron Lions,2026-11-11T19:30:00+00:00,total,169.5,1.86,1.84,,52.4
+2026-11-11T08:01:24+00:00,1029299243,fiba_europe_cup,Batumi,Gladiators Trier,2026-11-11T16:00:00+00:00,spread,24.5,1.82,1.88,,47.2
+2026-11-11T08:01:24+00:00,1029299243,fiba_europe_cup,Batumi,Gladiators Trier,2026-11-11T16:00:00+00:00,total,174.5,1.97,1.75,,47.2
+2026-11-11T08:01:24+00:00,1029299372,fiba_europe_cup,Manisa Buyuksehir Belediye,Bigbank/Kalev,2026-11-11T16:30:00+00:00,moneyline,,1.04,9.0,,40.2
+2026-11-11T08:01:24+00:00,1029299372,fiba_europe_cup,Manisa Buyuksehir Belediye,Bigbank/Kalev,2026-11-11T16:30:00+00:00,spread,-18.5,1.91,1.8,,40.2
+2026-11-11T08:01:24+00:00,1029299392,fiba_europe_cup,SL Benfica,Bakken Bears,2026-11-11T20:00:00+00:00,moneyline,,1.45,2.55,,42.3
+2026-11-11T08:01:24+00:00,1029299392,fiba_europe_cup,SL Benfica,Bakken Bears,2026-11-11T20:00:00+00:00,spread,-4.5,1.8,1.9,,42.3
+2026-11-11T08:01:24+00:00,1029299392,fiba_europe_cup,SL Benfica,Bakken Bears,2026-11-11T20:00:00+00:00,total,174.5,1.85,1.85,,42.3
