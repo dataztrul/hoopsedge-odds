@@ -474,3 +474,9 @@ ts,event_id,group,home,away,start,type,line,dec_1,dec_2,pin_matchup_id,match_sco
 2026-11-11T19:15:55+00:00,1028635639,italy/serie_a2,Giorgio Tesi Group Pistoia,Juvecaserta,2026-11-11T19:30:00+00:00,total,156.5,1.83,1.81,1640270725,100.0
 2026-11-11T19:15:55+00:00,1028635636,italy/serie_a2,Basket Mestre,Cividale,2026-11-11T19:30:00+00:00,moneyline,,1.7,1.97,1640271053,100.0
 2026-11-11T19:15:55+00:00,1028635636,italy/serie_a2,Basket Mestre,Cividale,2026-11-11T19:30:00+00:00,spread,-1.5,1.8,1.83,1640271053,100.0
+2026-11-11T19:21:02+00:00,1028635626,italy/serie_a2,Tramec Cento,Juvi Cremona,2026-11-11T19:30:00+00:00,moneyline,,1.87,1.77,1640271052,79.4
+2026-11-11T19:21:02+00:00,1028635626,italy/serie_a2,Tramec Cento,Juvi Cremona,2026-11-11T19:30:00+00:00,spread,0.5,1.87,1.77,1640271052,79.4
+2026-11-11T19:21:02+00:00,1028635626,italy/serie_a2,Tramec Cento,Juvi Cremona,2026-11-11T19:30:00+00:00,total,153.5,1.84,1.8,1640271052,79.4
+2026-11-11T19:21:02+00:00,1028635609,italy/serie_a2,Reale Mutua Torino,Fortitudo Lavoropiù Bologna,2026-11-11T19:30:00+00:00,moneyline,,1.72,1.93,1640278616,100.0
+2026-11-11T19:21:02+00:00,1028635609,italy/serie_a2,Reale Mutua Torino,Fortitudo Lavoropiù Bologna,2026-11-11T19:30:00+00:00,spread,-1.5,1.84,1.79,1640278616,100.0
+2026-11-11T19:21:02+00:00,1028635609,italy/serie_a2,Reale Mutua Torino,Fortitudo Lavoropiù Bologna,2026-11-11T19:30:00+00:00,total,143.5,1.83,1.81,1640278616,100.0
