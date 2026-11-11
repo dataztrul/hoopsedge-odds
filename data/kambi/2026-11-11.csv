@@ -336,3 +336,8 @@ ts,event_id,group,home,away,start,type,line,dec_1,dec_2,pin_matchup_id,match_sco
 2026-11-11T15:49:50+00:00,1029299243,fiba_europe_cup,Batumi,Gladiators Trier,2026-11-11T16:00:00+00:00,total,172.5,1.86,1.84,1639964889,85.7
 2026-11-11T15:49:50+00:00,1029299355,fiba_europe_cup,Basketclubs Vienna,Nancy SLUC,2026-11-11T18:00:00+00:00,moneyline,,2.65,1.42,1639989885,100.0
 2026-11-11T15:49:50+00:00,1029299355,fiba_europe_cup,Basketclubs Vienna,Nancy SLUC,2026-11-11T18:00:00+00:00,spread,5.5,1.83,1.87,1639989885,100.0
+2026-11-11T16:00:04+00:00,1028405618,eurocup,Bahcesehir Koleji,BC Lietkabelis,2026-11-11T16:06:00+00:00,moneyline,,1.04,8.0,1639975093,100.0
+2026-11-11T16:00:04+00:00,1028405618,eurocup,Bahcesehir Koleji,BC Lietkabelis,2026-11-11T16:06:00+00:00,spread,-16.5,1.85,1.9,1639975093,100.0
+2026-11-11T16:00:04+00:00,1029299371,fiba_europe_cup,Valmiera Glass VIA,KB Bashkimi,2026-11-11T17:00:00+00:00,moneyline,,1.33,3.0,1639979726,100.0
+2026-11-11T16:00:04+00:00,1029299371,fiba_europe_cup,Valmiera Glass VIA,KB Bashkimi,2026-11-11T17:00:00+00:00,spread,-6.5,1.84,1.86,1639979726,100.0
+2026-11-11T16:00:04+00:00,1029299371,fiba_europe_cup,Valmiera Glass VIA,KB Bashkimi,2026-11-11T17:00:00+00:00,total,164.5,1.85,1.85,1639979726,100.0
