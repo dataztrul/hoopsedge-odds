@@ -229,3 +229,8 @@ ts,event_id,group,home,away,start,type,line,dec_1,dec_2,pin_matchup_id,match_sco
 2026-11-11T11:44:12+00:00,1028302801,norway/blno,Fyllingen BBK,Frøya Basket,2026-11-11T17:00:00+00:00,moneyline,,1.15,4.7,1639975118,94.4
 2026-11-11T11:44:12+00:00,1028302801,norway/blno,Fyllingen BBK,Frøya Basket,2026-11-11T17:00:00+00:00,spread,-11.5,1.83,1.87,1639975118,94.4
 2026-11-11T11:44:12+00:00,1028302801,norway/blno,Fyllingen BBK,Frøya Basket,2026-11-11T17:00:00+00:00,total,177.5,1.88,1.82,1639975118,94.4
+2026-11-11T11:54:20+00:00,1029299255,fiba_europe_cup,ASP Promitheas,KB Trepça,2026-11-11T17:00:00+00:00,moneyline,,1.09,6.0,1639979715,91.9
+2026-11-11T11:54:20+00:00,1029299255,fiba_europe_cup,ASP Promitheas,KB Trepça,2026-11-11T17:00:00+00:00,spread,-14.5,1.9,1.8,1639979715,91.9
+2026-11-11T11:54:20+00:00,1029299317,fiba_europe_cup,Iraklis,MZT Skopje Aerodrom,2026-11-11T17:30:00+00:00,moneyline,,1.01,11.0,1639971981,100.0
+2026-11-11T11:54:20+00:00,1029299317,fiba_europe_cup,Iraklis,MZT Skopje Aerodrom,2026-11-11T17:30:00+00:00,spread,-19.5,1.86,1.84,1639971981,100.0
+2026-11-11T11:54:20+00:00,1029299317,fiba_europe_cup,Iraklis,MZT Skopje Aerodrom,2026-11-11T17:30:00+00:00,total,159.5,1.83,1.87,1639971981,100.0
