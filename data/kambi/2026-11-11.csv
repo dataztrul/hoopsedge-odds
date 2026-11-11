@@ -83,3 +83,10 @@ ts,event_id,group,home,away,start,type,line,dec_1,dec_2,pin_matchup_id,match_sco
 2026-11-11T08:01:24+00:00,1029299392,fiba_europe_cup,SL Benfica,Bakken Bears,2026-11-11T20:00:00+00:00,total,174.5,1.85,1.85,,42.3
 2026-11-11T08:16:34+00:00,1029299243,fiba_europe_cup,Batumi,Gladiators Trier,2026-11-11T16:00:00+00:00,spread,24.5,1.82,1.88,1639964889,85.7
 2026-11-11T08:16:34+00:00,1029299243,fiba_europe_cup,Batumi,Gladiators Trier,2026-11-11T16:00:00+00:00,total,174.5,1.97,1.75,1639964889,85.7
+2026-11-11T08:31:41+00:00,1029298359,euroleague,Partizan Belgrade,Saski Baskonia,2026-11-11T19:45:00+00:00,spread,-8.5,1.95,1.85,1639904707,86.4
+2026-11-11T08:31:41+00:00,1029298359,euroleague,Partizan Belgrade,Saski Baskonia,2026-11-11T19:45:00+00:00,total,168.5,1.87,1.94,1639904707,86.4
+2026-11-11T08:31:41+00:00,1029336756,fiba_europe_cup,Neftchi IK,AO Mykonos BC,2026-11-11T16:00:00+00:00,moneyline,,5.1,1.13,1639971917,100.0
+2026-11-11T08:31:41+00:00,1029336756,fiba_europe_cup,Neftchi IK,AO Mykonos BC,2026-11-11T16:00:00+00:00,spread,12.5,1.83,1.87,1639971917,100.0
+2026-11-11T08:31:41+00:00,1029336756,fiba_europe_cup,Neftchi IK,AO Mykonos BC,2026-11-11T16:00:00+00:00,total,160.5,1.85,1.85,1639971917,100.0
+2026-11-11T08:31:41+00:00,1029299317,fiba_europe_cup,Iraklis,MZT Skopje Aerodrom,2026-11-11T17:30:00+00:00,moneyline,,1.07,7.0,,43.5
+2026-11-11T08:31:41+00:00,1029299317,fiba_europe_cup,Iraklis,MZT Skopje Aerodrom,2026-11-11T17:30:00+00:00,spread,-15.5,1.85,1.85,,43.5
