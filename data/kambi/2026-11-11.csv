@@ -344,3 +344,5 @@ ts,event_id,group,home,away,start,type,line,dec_1,dec_2,pin_matchup_id,match_sco
 2026-11-11T16:10:20+00:00,1028635576,italy/serie_a2,IVPC Del Fes Avellino,Urania Milano,2026-11-11T19:30:00+00:00,spread,-11.5,1.81,1.83,1640270699,100.0
 2026-11-11T16:10:20+00:00,1028635576,italy/serie_a2,IVPC Del Fes Avellino,Urania Milano,2026-11-11T19:30:00+00:00,total,156.5,1.86,1.79,1640270699,100.0
 2026-11-11T16:15:28+00:00,1028405513,eurocup,BC Šiauliai,La Laguna Tenerife,2026-11-11T16:30:00+00:00,total,167.5,1.79,1.91,1639971948,100.0
+2026-11-11T16:20:37+00:00,1028405513,eurocup,BC Šiauliai,La Laguna Tenerife,2026-11-11T16:30:00+00:00,moneyline,,5.2,1.13,1639971948,100.0
+2026-11-11T16:20:37+00:00,1028405513,eurocup,BC Šiauliai,La Laguna Tenerife,2026-11-11T16:30:00+00:00,spread,12.5,1.81,1.96,1639971948,100.0
