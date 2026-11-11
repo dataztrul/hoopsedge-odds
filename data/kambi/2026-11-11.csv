@@ -348,3 +348,8 @@ ts,event_id,group,home,away,start,type,line,dec_1,dec_2,pin_matchup_id,match_sco
 2026-11-11T16:20:37+00:00,1028405513,eurocup,BC Šiauliai,La Laguna Tenerife,2026-11-11T16:30:00+00:00,spread,12.5,1.81,1.96,1639971948,100.0
 2026-11-11T16:25:44+00:00,1028405549,eurocup,BV Chemnitz 99,GeVi Napoli,2026-11-11T18:00:00+00:00,moneyline,,2.08,1.68,1639982103,100.0
 2026-11-11T16:25:44+00:00,1028405549,eurocup,BV Chemnitz 99,GeVi Napoli,2026-11-11T18:00:00+00:00,spread,1.5,1.95,1.82,1639982103,100.0
+2026-11-11T16:36:02+00:00,1028280616,czech_republic/nbl,BK Děčín,BK Pardubice,2026-11-11T17:00:00+00:00,moneyline,,3.7,1.23,1639979724,100.0
+2026-11-11T16:36:02+00:00,1028280616,czech_republic/nbl,BK Děčín,BK Pardubice,2026-11-11T17:00:00+00:00,spread,8.5,1.89,1.82,1639979724,100.0
+2026-11-11T16:36:02+00:00,1029299419,fiba_europe_cup,Lokomotiv Plovdiv 1926,VEF Riga,2026-11-11T17:00:00+00:00,moneyline,,2.3,1.54,1639979725,100.0
+2026-11-11T16:36:02+00:00,1029299419,fiba_europe_cup,Lokomotiv Plovdiv 1926,VEF Riga,2026-11-11T17:00:00+00:00,spread,2.5,1.97,1.74,1639979725,100.0
+2026-11-11T16:36:02+00:00,1029299317,fiba_europe_cup,Iraklis,MZT Skopje Aerodrom,2026-11-11T17:30:00+00:00,spread,-20.5,1.83,1.87,1639971981,100.0
