@@ -320,3 +320,7 @@ ts,event_id,group,home,away,start,type,line,dec_1,dec_2,pin_matchup_id,match_sco
 2026-11-11T15:13:51+00:00,1028302801,norway/blno,Fyllingen BBK,Frøya Basket,2026-11-11T17:00:00+00:00,spread,-10.5,1.87,1.83,1639975118,94.4
 2026-11-11T15:24:07+00:00,1029299243,fiba_europe_cup,Batumi,Gladiators Trier,2026-11-11T16:00:00+00:00,spread,29.5,1.87,1.83,1639964889,85.7
 2026-11-11T15:24:07+00:00,1029299243,fiba_europe_cup,Batumi,Gladiators Trier,2026-11-11T16:00:00+00:00,total,172.5,1.87,1.83,1639964889,85.7
+2026-11-11T15:29:15+00:00,1028405469,eurocup,Bertram Tortona,Hapoel Jerusalem,2026-11-11T18:30:00+00:00,moneyline,,2.95,1.36,1639975166,76.1
+2026-11-11T15:29:15+00:00,1028405469,eurocup,Bertram Tortona,Hapoel Jerusalem,2026-11-11T18:30:00+00:00,spread,6.5,1.83,1.93,1639975166,76.1
+2026-11-11T15:29:15+00:00,1028405469,eurocup,Bertram Tortona,Hapoel Jerusalem,2026-11-11T18:30:00+00:00,total,166.5,1.87,1.83,1639975166,76.1
+2026-11-11T15:29:15+00:00,1028302792,norway/blno,Centrum Tigers,Ammerud Basket,2026-11-11T18:00:00+00:00,total,178.5,1.79,1.91,1639982093,100.0
