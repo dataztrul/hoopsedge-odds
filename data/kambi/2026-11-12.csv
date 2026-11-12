@@ -54,3 +54,5 @@ ts,event_id,group,home,away,start,type,line,dec_1,dec_2,pin_matchup_id,match_sco
 2026-11-12T06:43:23+00:00,1027960458,sweden/basketligan,Borås Basket,Köping Stars,2026-11-13T18:04:00+00:00,moneyline,,1.14,4.8,1640125321,100.0
 2026-11-12T06:43:23+00:00,1027960458,sweden/basketligan,Borås Basket,Köping Stars,2026-11-13T18:04:00+00:00,spread,-12.5,1.95,1.76,1640125321,100.0
 2026-11-12T06:43:23+00:00,1027960458,sweden/basketligan,Borås Basket,Köping Stars,2026-11-13T18:04:00+00:00,total,176.5,1.96,1.75,1640125321,100.0
+2026-11-12T06:58:31+00:00,1028562767,euroleague,Olympiacos BC,BC Dubai,2026-11-12T19:15:00+00:00,spread,-5.5,1.91,1.89,1639984859,95.0
+2026-11-12T06:58:31+00:00,1028562767,euroleague,Olympiacos BC,BC Dubai,2026-11-12T19:15:00+00:00,total,168.5,1.91,1.89,1639984859,95.0
