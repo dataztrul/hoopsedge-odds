@@ -297,3 +297,6 @@ ts,event_id,group,home,away,start,type,line,dec_1,dec_2,pin_matchup_id,match_sco
 2026-11-12T22:39:58+00:00,1028435527,portugal/lpb,Vitória S.C.,Porto,2026-11-13T20:30:00+00:00,spread,12.5,1.88,1.82,1640137696,88.9
 2026-11-12T22:55:08+00:00,1029005679,brazil/nbb,Corinthians-SP,EC Pinheiros B,2026-11-12T23:00:00+00:00,moneyline,,2.0,1.72,,26.9
 2026-11-12T22:55:08+00:00,1029005679,brazil/nbb,Corinthians-SP,EC Pinheiros B,2026-11-12T23:00:00+00:00,spread,1.5,1.87,1.83,,26.9
+2026-11-12T23:10:20+00:00,1028130376,bnxt_league,Spirou Basket,CB Liege,2026-11-13T19:30:00+00:00,moneyline,,1.08,5.8,1640148866,100.0
+2026-11-12T23:10:20+00:00,1028130376,bnxt_league,Spirou Basket,CB Liege,2026-11-13T19:30:00+00:00,spread,-13.5,1.84,1.84,1640148866,100.0
+2026-11-12T23:10:20+00:00,1028130376,bnxt_league,Spirou Basket,CB Liege,2026-11-13T19:30:00+00:00,total,163.5,1.98,1.72,1640148866,100.0
