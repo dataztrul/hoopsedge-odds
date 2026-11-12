@@ -228,3 +228,8 @@ ts,event_id,group,home,away,start,type,line,dec_1,dec_2,pin_matchup_id,match_sco
 2026-11-12T15:59:33+00:00,1029396581,turkey/tbl,iLab Basketbol,Gaziantep Basketbol,2026-11-13T15:00:00+00:00,spread,4.5,1.97,1.74,1640085503,100.0
 2026-11-12T16:09:52+00:00,1029766198,mexico/lnbp,Soles de Mexicali,Astros de Jalisco,2026-11-13T03:45:00+00:00,moneyline,,1.52,2.35,,0.0
 2026-11-12T16:09:52+00:00,1029766198,mexico/lnbp,Soles de Mexicali,Astros de Jalisco,2026-11-13T03:45:00+00:00,spread,-3.5,1.82,1.88,,0.0
+2026-11-12T16:20:12+00:00,1028562726,euroleague,Milano,Žalgiris Kaunas,2026-11-12T19:30:00+00:00,moneyline,,2.02,1.79,1639986811,100.0
+2026-11-12T16:20:12+00:00,1028562726,euroleague,Milano,Žalgiris Kaunas,2026-11-12T19:30:00+00:00,spread,1.5,1.88,1.92,1639986811,100.0
+2026-11-12T16:20:12+00:00,1028475173,france/elite_2,Alliance Sport Alsace,Hyères-Toulon,2026-11-13T19:30:00+00:00,moneyline,,1.72,1.93,1640137681,79.3
+2026-11-12T16:20:12+00:00,1028475173,france/elite_2,Alliance Sport Alsace,Hyères-Toulon,2026-11-13T19:30:00+00:00,spread,-1.5,1.85,1.79,1640137681,79.3
+2026-11-12T16:20:12+00:00,1028475173,france/elite_2,Alliance Sport Alsace,Hyères-Toulon,2026-11-13T19:30:00+00:00,total,166.5,1.81,1.83,1640137681,79.3
