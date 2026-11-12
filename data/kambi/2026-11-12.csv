@@ -163,3 +163,5 @@ ts,event_id,group,home,away,start,type,line,dec_1,dec_2,pin_matchup_id,match_sco
 2026-11-12T13:08:59+00:00,1028475158,france/elite_2,Vichy,Quimper,2026-11-13T19:30:00+00:00,total,161.5,1.86,1.79,1640324302,100.0
 2026-11-12T13:19:09+00:00,1028562729,euroleague,Valencia Basket Club,FC Bayern München,2026-11-12T19:30:00+00:00,spread,-8.5,1.91,1.89,1639986813,94.4
 2026-11-12T13:19:09+00:00,1028562729,euroleague,Valencia Basket Club,FC Bayern München,2026-11-12T19:30:00+00:00,total,183.5,1.92,1.88,1639986813,94.4
+2026-11-12T13:29:19+00:00,1028562726,euroleague,Milano,Žalgiris Kaunas,2026-11-12T19:30:00+00:00,moneyline,,2.2,1.66,1639986811,100.0
+2026-11-12T13:29:19+00:00,1028562726,euroleague,Milano,Žalgiris Kaunas,2026-11-12T19:30:00+00:00,spread,2.5,1.91,1.89,1639986811,100.0
