@@ -1,3 +1,5 @@
 ts,event_id,group,home,away,start,type,line,dec_1,dec_2,pin_matchup_id,match_score
 2026-11-12T03:11:24+00:00,1029642396,fiba_europe_cup,Gence BK,Esenler Erokspor,2026-11-12T15:00:00+00:00,spread,20.5,1.83,1.87,1640013957,100.0
 2026-11-12T03:11:24+00:00,1029642396,fiba_europe_cup,Gence BK,Esenler Erokspor,2026-11-12T15:00:00+00:00,total,163.5,1.76,1.95,1640013957,100.0
+2026-11-12T03:26:31+00:00,1029642396,fiba_europe_cup,Gence BK,Esenler Erokspor,2026-11-12T15:00:00+00:00,moneyline,,10.0,1.01,1640013957,100.0
+2026-11-12T03:26:31+00:00,1029642396,fiba_europe_cup,Gence BK,Esenler Erokspor,2026-11-12T15:00:00+00:00,spread,19.5,1.8,1.9,1640013957,100.0
