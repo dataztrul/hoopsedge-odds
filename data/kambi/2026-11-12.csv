@@ -144,3 +144,6 @@ ts,event_id,group,home,away,start,type,line,dec_1,dec_2,pin_matchup_id,match_sco
 2026-11-12T12:28:17+00:00,1028293063,austria/obl,SKN St. Pölten,WBC Raiffeisen Wels,2026-11-13T18:00:00+00:00,moneyline,,2.6,1.43,1640324269,76.7
 2026-11-12T12:28:17+00:00,1028293063,austria/obl,SKN St. Pölten,WBC Raiffeisen Wels,2026-11-13T18:00:00+00:00,spread,4.5,1.89,1.82,1640324269,76.7
 2026-11-12T12:28:17+00:00,1028293063,austria/obl,SKN St. Pölten,WBC Raiffeisen Wels,2026-11-13T18:00:00+00:00,total,163.5,1.87,1.83,1640324269,76.7
+2026-11-12T12:38:27+00:00,1028562738,euroleague,Real Madrid Baloncesto,KK Crvena Zvezda Belgrade,2026-11-12T20:00:00+00:00,moneyline,,1.35,3.15,1639986812,100.0
+2026-11-12T12:38:27+00:00,1028562738,euroleague,Real Madrid Baloncesto,KK Crvena Zvezda Belgrade,2026-11-12T20:00:00+00:00,spread,-6.5,1.87,1.93,1639986812,100.0
+2026-11-12T12:38:27+00:00,1028562738,euroleague,Real Madrid Baloncesto,KK Crvena Zvezda Belgrade,2026-11-12T20:00:00+00:00,total,177.5,1.89,1.91,1639986812,100.0
