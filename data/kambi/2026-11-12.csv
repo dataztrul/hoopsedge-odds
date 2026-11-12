@@ -195,3 +195,7 @@ ts,event_id,group,home,away,start,type,line,dec_1,dec_2,pin_matchup_id,match_sco
 2026-11-12T14:46:33+00:00,1028562729,euroleague,Valencia Basket Club,FC Bayern München,2026-11-12T19:30:00+00:00,total,183.5,1.9,1.9,1639986813,94.4
 2026-11-12T14:46:33+00:00,1029642396,fiba_europe_cup,Gence BK,Esenler Erokspor,2026-11-12T15:00:00+00:00,moneyline,,6.5,1.07,1640013957,100.0
 2026-11-12T14:46:33+00:00,1029642396,fiba_europe_cup,Gence BK,Esenler Erokspor,2026-11-12T15:00:00+00:00,spread,15.5,1.82,1.88,1640013957,100.0
+2026-11-12T14:51:43+00:00,1028562729,euroleague,Valencia Basket Club,FC Bayern München,2026-11-12T19:30:00+00:00,spread,-8.5,1.91,1.89,1639986813,94.4
+2026-11-12T14:51:43+00:00,1028562741,euroleague,Anadolu Efes,Virtus Bologna,2026-11-13T17:30:00+00:00,moneyline,,1.45,2.75,,45.8
+2026-11-12T14:51:43+00:00,1028562741,euroleague,Anadolu Efes,Virtus Bologna,2026-11-13T17:30:00+00:00,spread,-5.5,1.95,1.85,,45.8
+2026-11-12T14:51:43+00:00,1028562741,euroleague,Anadolu Efes,Virtus Bologna,2026-11-13T17:30:00+00:00,total,173.5,1.9,1.9,,45.8
