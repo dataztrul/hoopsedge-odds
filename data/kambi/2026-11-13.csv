@@ -388,3 +388,8 @@ ts,event_id,group,home,away,start,type,line,dec_1,dec_2,pin_matchup_id,match_sco
 2026-11-13T17:04:46+00:00,1028697322,spain/leb_oro,Gipuzkoa Basket,CD Estela,2026-11-14T18:00:00+00:00,total,164.5,1.82,1.82,1640231451,100.0
 2026-11-13T17:10:01+00:00,1028300966,denmark/basketligaen,Holbaek-Stenhus,Copenhagen Basketball,2026-11-13T17:30:00+00:00,moneyline,,3.65,1.24,1640095128,100.0
 2026-11-13T17:10:01+00:00,1028300966,denmark/basketligaen,Holbaek-Stenhus,Copenhagen Basketball,2026-11-13T17:30:00+00:00,spread,9.5,1.76,1.95,1640095128,100.0
+2026-11-13T17:15:16+00:00,1028927671,aba_league,Cibona Zagreb,FMP Beograd,2026-11-13T17:30:00+00:00,spread,-6.5,1.85,1.85,1640085542,100.0
+2026-11-13T17:15:16+00:00,1028927671,aba_league,Cibona Zagreb,FMP Beograd,2026-11-13T17:30:00+00:00,total,169.5,1.88,1.82,1640085542,100.0
+2026-11-13T17:15:16+00:00,1029829330,slovakia/extraliga,Spisski Rytieri,Kosice Wolves,2026-11-14T17:00:00+00:00,moneyline,,1.3,3.15,1640230981,70.6
+2026-11-13T17:15:16+00:00,1029829330,slovakia/extraliga,Spisski Rytieri,Kosice Wolves,2026-11-14T17:00:00+00:00,spread,-7.5,1.9,1.8,1640230981,70.6
+2026-11-13T17:15:16+00:00,1029829330,slovakia/extraliga,Spisski Rytieri,Kosice Wolves,2026-11-14T17:00:00+00:00,total,166.5,1.9,1.8,1640230981,70.6
