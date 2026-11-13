@@ -206,3 +206,11 @@ ts,event_id,group,home,away,start,type,line,dec_1,dec_2,pin_matchup_id,match_sco
 2026-11-13T10:49:31+00:00,1028660322,turkey/super_league,Aliaga Petkim Spor,TÜRK Telekom,2026-11-14T10:00:00+00:00,total,163.5,1.9,1.8,1640180440,100.0
 2026-11-13T10:59:58+00:00,1028130375,bnxt_league,Kortrijk Spurs Hse A,Mons-Hainaut,2026-11-13T19:00:00+00:00,spread,-19.5,1.87,1.81,1640125346,100.0
 2026-11-13T10:59:58+00:00,1028130375,bnxt_league,Kortrijk Spurs Hse A,Mons-Hainaut,2026-11-13T19:00:00+00:00,total,162.5,1.83,1.85,1640125346,100.0
+2026-11-13T11:15:26+00:00,1028293027,austria/obl,Arkadia Traiskirchen Lions,Kapfenberg Bulls,2026-11-13T18:00:00+00:00,moneyline,,1.38,2.8,1640324369,100.0
+2026-11-13T11:15:26+00:00,1028293027,austria/obl,Arkadia Traiskirchen Lions,Kapfenberg Bulls,2026-11-13T18:00:00+00:00,spread,-3.5,1.61,2.17,1640324369,100.0
+2026-11-13T11:15:26+00:00,1028280640,czech_republic/nbl,Basket Brno,BK Pardubice,2026-11-14T17:00:00+00:00,moneyline,,3.55,1.25,1640231421,100.0
+2026-11-13T11:15:26+00:00,1028280640,czech_republic/nbl,Basket Brno,BK Pardubice,2026-11-14T17:00:00+00:00,spread,8.5,1.84,1.86,1640231421,100.0
+2026-11-13T11:15:26+00:00,1028280640,czech_republic/nbl,Basket Brno,BK Pardubice,2026-11-14T17:00:00+00:00,total,168.5,1.88,1.82,1640231421,100.0
+2026-11-13T11:15:26+00:00,1028304596,poland/plk,Polski Cukier Start Lublin,GTK Gliwice,2026-11-13T17:00:00+00:00,moneyline,,1.6,2.2,1640278130,94.4
+2026-11-13T11:15:26+00:00,1028304596,poland/plk,Polski Cukier Start Lublin,GTK Gliwice,2026-11-13T17:00:00+00:00,spread,-2.5,1.82,1.88,1640278130,94.4
+2026-11-13T11:15:26+00:00,1028304596,poland/plk,Polski Cukier Start Lublin,GTK Gliwice,2026-11-13T17:00:00+00:00,total,161.5,1.85,1.85,1640278130,94.4
