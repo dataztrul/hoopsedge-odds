@@ -430,3 +430,21 @@ ts,event_id,group,home,away,start,type,line,dec_1,dec_2,pin_matchup_id,match_sco
 2026-11-13T17:46:51+00:00,1028635613,italy/serie_a2,Fortitudo Lavoropiù Bologna,Real Sebastiani Rieti,2026-11-15T17:00:00+00:00,moneyline,,1.34,2.8,1640385224,100.0
 2026-11-13T17:46:51+00:00,1028635613,italy/serie_a2,Fortitudo Lavoropiù Bologna,Real Sebastiani Rieti,2026-11-15T17:00:00+00:00,spread,-5.5,1.79,1.84,1640385224,100.0
 2026-11-13T17:46:51+00:00,1028635613,italy/serie_a2,Fortitudo Lavoropiù Bologna,Real Sebastiani Rieti,2026-11-15T17:00:00+00:00,total,150.5,1.86,1.78,1640385224,100.0
+2026-11-13T17:52:07+00:00,1027960438,sweden/basketligan,Uppsala Basket,Umeå BSKT,2026-11-13T18:04:00+00:00,spread,-5.5,1.81,1.89,1640095143,100.0
+2026-11-13T17:52:07+00:00,1027960438,sweden/basketligan,Uppsala Basket,Umeå BSKT,2026-11-13T18:04:00+00:00,total,163.5,1.87,1.83,1640095143,100.0
+2026-11-13T17:52:07+00:00,1027960441,sweden/basketligan,Jämtland Basket,Högsbo Basket,2026-11-13T18:04:00+00:00,spread,-22.5,1.82,1.88,1640125320,100.0
+2026-11-13T17:52:07+00:00,1027960441,sweden/basketligan,Jämtland Basket,Högsbo Basket,2026-11-13T18:04:00+00:00,total,177.5,1.87,1.83,1640125320,100.0
+2026-11-13T17:52:07+00:00,1028293056,austria/obl,UBSC Graz,BC Nord,2026-11-13T18:00:00+00:00,moneyline,,1.5,2.43,1640125304,100.0
+2026-11-13T17:52:07+00:00,1028293056,austria/obl,UBSC Graz,BC Nord,2026-11-13T18:00:00+00:00,spread,-4.5,1.9,1.8,1640125304,100.0
+2026-11-13T17:52:07+00:00,1028293056,austria/obl,UBSC Graz,BC Nord,2026-11-13T18:00:00+00:00,total,173.5,1.84,1.86,1640125304,100.0
+2026-11-13T17:52:07+00:00,1028293063,austria/obl,SKN St. Pölten,WBC Raiffeisen Wels,2026-11-13T18:00:00+00:00,moneyline,,2.6,1.43,1640324269,76.7
+2026-11-13T17:52:07+00:00,1028293063,austria/obl,SKN St. Pölten,WBC Raiffeisen Wels,2026-11-13T18:00:00+00:00,spread,4.5,1.9,1.8,1640324269,76.7
+2026-11-13T17:52:07+00:00,1028635623,italy/serie_a2,Happy Casa Brindisi,Tramec Cento,2026-11-15T17:00:00+00:00,moneyline,,1.11,5.1,,69.4
+2026-11-13T17:52:07+00:00,1028635623,italy/serie_a2,Happy Casa Brindisi,Tramec Cento,2026-11-15T17:00:00+00:00,spread,-11.5,1.77,1.87,,69.4
+2026-11-13T17:52:07+00:00,1028635623,italy/serie_a2,Happy Casa Brindisi,Tramec Cento,2026-11-15T17:00:00+00:00,total,156.5,1.85,1.79,,69.4
+2026-11-13T17:52:07+00:00,1028635587,italy/serie_a2,Juvi Cremona,Basket Mestre,2026-11-15T17:00:00+00:00,moneyline,,1.56,2.18,1640385222,100.0
+2026-11-13T17:52:07+00:00,1028635587,italy/serie_a2,Juvi Cremona,Basket Mestre,2026-11-15T17:00:00+00:00,spread,-2.5,1.78,1.86,1640385222,100.0
+2026-11-13T17:52:07+00:00,1028635587,italy/serie_a2,Juvi Cremona,Basket Mestre,2026-11-15T17:00:00+00:00,total,154.5,1.82,1.82,1640385222,100.0
+2026-11-13T17:52:07+00:00,1028635569,italy/serie_a2,Banco di Sardegna Sassari,IVPC Del Fes Avellino,2026-11-15T17:00:00+00:00,moneyline,,1.68,1.98,1640388635,83.3
+2026-11-13T17:52:07+00:00,1028635569,italy/serie_a2,Banco di Sardegna Sassari,IVPC Del Fes Avellino,2026-11-15T17:00:00+00:00,spread,-1.5,1.79,1.84,1640388635,83.3
+2026-11-13T17:52:07+00:00,1028635569,italy/serie_a2,Banco di Sardegna Sassari,IVPC Del Fes Avellino,2026-11-15T17:00:00+00:00,total,152.5,1.82,1.82,1640388635,83.3
