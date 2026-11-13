@@ -396,3 +396,6 @@ ts,event_id,group,home,away,start,type,line,dec_1,dec_2,pin_matchup_id,match_sco
 2026-11-13T17:20:32+00:00,1028562741,euroleague,Anadolu Efes,Virtus Bologna,2026-11-13T17:30:00+00:00,spread,-6.5,1.88,1.91,1640044288,100.0
 2026-11-13T17:25:48+00:00,1028300966,denmark/basketligaen,Holbaek-Stenhus,Copenhagen Basketball,2026-11-13T17:30:00+00:00,moneyline,,4.1,1.19,1640095128,100.0
 2026-11-13T17:25:48+00:00,1028300966,denmark/basketligaen,Holbaek-Stenhus,Copenhagen Basketball,2026-11-13T17:30:00+00:00,spread,10.5,1.8,1.9,1640095128,100.0
+2026-11-13T17:31:04+00:00,1029005682,brazil/nbb,Cruzeiro Basquete,Unifacisa,2026-11-13T22:30:00+00:00,total,159.5,2.0,1.72,,35.7
+2026-11-13T17:31:04+00:00,1028300963,denmark/basketligaen,BK Vejen,Bakken Bears,2026-11-13T18:00:00+00:00,spread,31.5,1.81,1.9,1640125323,100.0
+2026-11-13T17:31:04+00:00,1028300963,denmark/basketligaen,BK Vejen,Bakken Bears,2026-11-13T18:00:00+00:00,total,178.5,1.83,1.87,1640125323,100.0
