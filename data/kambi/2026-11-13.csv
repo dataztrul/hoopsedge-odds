@@ -463,3 +463,6 @@ ts,event_id,group,home,away,start,type,line,dec_1,dec_2,pin_matchup_id,match_sco
 2026-11-13T18:02:39+00:00,1027960431,sweden/basketligan,BC Luleå,Södertälje Kings,2026-11-13T18:04:00+00:00,spread,-8.5,1.77,1.94,1640095142,91.7
 2026-11-13T18:02:39+00:00,1029779962,belgium/top_division_1,United Basket Woluwe,Horticult Kontich Wolves Hse A,2026-11-13T20:00:00+00:00,moneyline,,2.0,1.72,1640137693,100.0
 2026-11-13T18:02:39+00:00,1029779962,belgium/top_division_1,United Basket Woluwe,Horticult Kontich Wolves Hse A,2026-11-13T20:00:00+00:00,spread,4.5,1.55,2.3,1640137693,100.0
+2026-11-13T18:07:56+00:00,1028697306,spain/leb_oro,Rio Ourense Termal,Caja'87 Baloncesto,2026-11-14T18:00:00+00:00,moneyline,,1.56,2.18,1640284021,78.0
+2026-11-13T18:07:56+00:00,1028697306,spain/leb_oro,Rio Ourense Termal,Caja'87 Baloncesto,2026-11-14T18:00:00+00:00,spread,-2.5,1.76,1.88,1640284021,78.0
+2026-11-13T18:07:56+00:00,1028697306,spain/leb_oro,Rio Ourense Termal,Caja'87 Baloncesto,2026-11-14T18:00:00+00:00,total,160.5,1.88,1.77,1640284021,78.0
