@@ -539,3 +539,6 @@ ts,event_id,group,home,away,start,type,line,dec_1,dec_2,pin_matchup_id,match_sco
 2026-11-13T19:38:07+00:00,1029779962,belgium/top_division_1,United Basket Woluwe,Horticult Kontich Wolves Hse A,2026-11-13T20:00:00+00:00,total,174.5,1.81,1.89,1640137693,100.0
 2026-11-13T20:09:32+00:00,1028646545,germany/bbl,EWE Baskets Oldenburg,Alba Berlin,2026-11-14T19:00:00+00:00,moneyline,,2.8,1.38,1640243507,100.0
 2026-11-13T20:09:32+00:00,1028646545,germany/bbl,EWE Baskets Oldenburg,Alba Berlin,2026-11-14T19:00:00+00:00,spread,5.5,1.87,1.83,1640243507,100.0
+2026-11-13T20:14:45+00:00,1029766200,mexico/lnbp,Soles de Mexicali,Astros de Jalisco,2026-11-14T04:00:00+00:00,total,161.5,1.98,1.73,,0.0
+2026-11-13T20:14:45+00:00,1028435527,portugal/lpb,Vitória S.C.,Porto,2026-11-13T20:30:00+00:00,moneyline,,6.0,1.09,1640137696,88.9
+2026-11-13T20:14:45+00:00,1028435527,portugal/lpb,Vitória S.C.,Porto,2026-11-13T20:30:00+00:00,spread,14.5,1.79,1.92,1640137696,88.9
