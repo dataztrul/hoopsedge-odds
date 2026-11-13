@@ -378,3 +378,6 @@ ts,event_id,group,home,away,start,type,line,dec_1,dec_2,pin_matchup_id,match_sco
 2026-11-13T16:49:00+00:00,1028697324,spain/leb_oro,CB Zamora,Chocolates Trapa Palencia,2026-11-14T18:30:00+00:00,moneyline,,4.25,1.16,1640243352,81.1
 2026-11-13T16:49:00+00:00,1028697324,spain/leb_oro,CB Zamora,Chocolates Trapa Palencia,2026-11-14T18:30:00+00:00,spread,10.5,1.8,1.85,1640243352,81.1
 2026-11-13T16:49:00+00:00,1028697324,spain/leb_oro,CB Zamora,Chocolates Trapa Palencia,2026-11-14T18:30:00+00:00,total,159.5,1.81,1.83,1640243352,81.1
+2026-11-13T16:54:15+00:00,1028697336,spain/leb_oro,C.B. Granada,Movistar Estudiantes,2026-11-14T17:00:00+00:00,moneyline,,2.35,1.49,1640229575,100.0
+2026-11-13T16:54:15+00:00,1028697336,spain/leb_oro,C.B. Granada,Movistar Estudiantes,2026-11-14T17:00:00+00:00,spread,3.5,1.86,1.79,1640229575,100.0
+2026-11-13T16:54:15+00:00,1028697336,spain/leb_oro,C.B. Granada,Movistar Estudiantes,2026-11-14T17:00:00+00:00,total,162.5,1.87,1.77,1640229575,100.0
