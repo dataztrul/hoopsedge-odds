@@ -10,3 +10,5 @@ ts,event_id,group,home,away,start,type,line,dec_1,dec_2,pin_matchup_id,match_sco
 2026-11-13T02:43:09+00:00,1028562744,euroleague,Panathinaikos,FC Barcelona,2026-11-13T19:15:00+00:00,total,171.5,1.91,1.88,1640044287,100.0
 2026-11-13T02:43:09+00:00,1028562748,euroleague,ASVEL Lyon-Villeurbanne,Besiktas,2026-11-13T19:30:00+00:00,moneyline,,1.76,2.06,1640044289,100.0
 2026-11-13T02:43:09+00:00,1028562748,euroleague,ASVEL Lyon-Villeurbanne,Besiktas,2026-11-13T19:30:00+00:00,spread,-1.5,1.88,1.92,1640044289,100.0
+2026-11-13T02:58:18+00:00,1028562744,euroleague,Panathinaikos,FC Barcelona,2026-11-13T19:15:00+00:00,moneyline,,1.19,4.7,1640044287,100.0
+2026-11-13T02:58:18+00:00,1028562744,euroleague,Panathinaikos,FC Barcelona,2026-11-13T19:15:00+00:00,total,171.5,1.93,1.87,1640044287,100.0
