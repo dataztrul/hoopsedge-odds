@@ -137,3 +137,9 @@ ts,event_id,group,home,away,start,type,line,dec_1,dec_2,pin_matchup_id,match_sco
 2026-11-13T09:00:03+00:00,1028293056,austria/obl,UBSC Graz,BC Nord,2026-11-13T18:00:00+00:00,moneyline,,1.33,3.05,1640125304,100.0
 2026-11-13T09:00:03+00:00,1028293056,austria/obl,UBSC Graz,BC Nord,2026-11-13T18:00:00+00:00,spread,-6.5,1.8,1.9,1640125304,100.0
 2026-11-13T09:00:03+00:00,1028293056,austria/obl,UBSC Graz,BC Nord,2026-11-13T18:00:00+00:00,total,173.5,1.85,1.85,1640125304,100.0
+2026-11-13T09:15:36+00:00,1028293031,austria/obl,Basketclubs Vienna,Xion Dukes Klosterneuburg,2026-11-13T19:00:00+00:00,moneyline,,4.9,1.14,,44.4
+2026-11-13T09:15:36+00:00,1028293031,austria/obl,Basketclubs Vienna,Xion Dukes Klosterneuburg,2026-11-13T19:00:00+00:00,spread,11.5,1.87,1.83,,44.4
+2026-11-13T09:15:36+00:00,1028293031,austria/obl,Basketclubs Vienna,Xion Dukes Klosterneuburg,2026-11-13T19:00:00+00:00,total,160.5,1.77,1.94,,44.4
+2026-11-13T09:15:36+00:00,1029507066,france/elite_2,Le Havre,Levallois Basketball,2026-11-13T19:00:00+00:00,moneyline,,1.42,2.55,1640324192,100.0
+2026-11-13T09:15:36+00:00,1029507066,france/elite_2,Le Havre,Levallois Basketball,2026-11-13T19:00:00+00:00,spread,-4.5,1.78,1.86,1640324192,100.0
+2026-11-13T09:15:36+00:00,1029507066,france/elite_2,Le Havre,Levallois Basketball,2026-11-13T19:00:00+00:00,total,174.5,1.8,1.84,1640324192,100.0
