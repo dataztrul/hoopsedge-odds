@@ -339,3 +339,10 @@ ts,event_id,group,home,away,start,type,line,dec_1,dec_2,pin_matchup_id,match_sco
 2026-11-13T16:12:08+00:00,1028992898,france/elite,Limoges CSP,Paris Basket,2026-11-14T19:30:00+00:00,moneyline,,4.0,1.23,1640243516,100.0
 2026-11-13T16:12:08+00:00,1028992898,france/elite,Limoges CSP,Paris Basket,2026-11-14T19:30:00+00:00,spread,9.5,1.87,1.89,1640243516,100.0
 2026-11-13T16:12:08+00:00,1028992898,france/elite,Limoges CSP,Paris Basket,2026-11-14T19:30:00+00:00,total,178.5,1.84,1.86,1640243516,100.0
+2026-11-13T16:17:24+00:00,1028312622,finland/korisliiga,Helsinki Seagulls,Kipina,2026-11-13T16:30:00+00:00,spread,-9.5,1.86,1.9,1640095097,100.0
+2026-11-13T16:17:24+00:00,1028312622,finland/korisliiga,Helsinki Seagulls,Kipina,2026-11-13T16:30:00+00:00,total,176.5,1.82,1.88,1640095097,100.0
+2026-11-13T16:17:24+00:00,1028992898,france/elite,Limoges CSP,Paris Basket,2026-11-14T19:30:00+00:00,spread,9.5,1.88,1.88,1640243516,100.0
+2026-11-13T16:17:24+00:00,1028992898,france/elite,Limoges CSP,Paris Basket,2026-11-14T19:30:00+00:00,total,178.5,1.74,1.98,1640243516,100.0
+2026-11-13T16:17:24+00:00,1029766200,mexico/lnbp,Soles de Mexicali,Astros de Jalisco,2026-11-14T04:00:00+00:00,moneyline,,1.42,2.65,,0.0
+2026-11-13T16:17:24+00:00,1029766200,mexico/lnbp,Soles de Mexicali,Astros de Jalisco,2026-11-14T04:00:00+00:00,spread,-5.5,1.9,1.8,,0.0
+2026-11-13T16:17:24+00:00,1029766200,mexico/lnbp,Soles de Mexicali,Astros de Jalisco,2026-11-14T04:00:00+00:00,total,161.5,1.88,1.82,,0.0
