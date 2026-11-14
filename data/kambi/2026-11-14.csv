@@ -379,3 +379,14 @@ ts,event_id,group,home,away,start,type,line,dec_1,dec_2,pin_matchup_id,match_sco
 2026-11-14T14:45:28+00:00,1029396636,turkey/tbl,Demir İnşaat Büyükçekmece,Balikesir Buyuksehir Belediyespor,2026-11-14T15:00:00+00:00,total,155.5,1.86,1.84,1640217283,74.6
 2026-11-14T14:45:28+00:00,1029396580,turkey/tbl,Ankaragucu Mamak,Darüşşafaka,2026-11-14T15:00:00+00:00,moneyline,,1.24,3.6,1640217284,93.3
 2026-11-14T14:45:28+00:00,1029396580,turkey/tbl,Ankaragucu Mamak,Darüşşafaka,2026-11-14T15:00:00+00:00,spread,-6.5,1.62,2.15,1640217284,93.3
+2026-11-14T14:50:43+00:00,1028312619,finland/korisliiga,Lahti Basketball,Korihait,2026-11-14T15:00:00+00:00,moneyline,,1.58,2.32,1640218830,100.0
+2026-11-14T14:50:43+00:00,1028312619,finland/korisliiga,Lahti Basketball,Korihait,2026-11-14T15:00:00+00:00,total,174.5,1.82,1.89,1640218830,100.0
+2026-11-14T14:50:43+00:00,1029153116,greece/gbl,AEK B.C.,Doxa Lefkadas,2026-11-14T15:00:00+00:00,moneyline,,1.37,3.0,1640218822,80.0
+2026-11-14T14:50:43+00:00,1029153116,greece/gbl,AEK B.C.,Doxa Lefkadas,2026-11-14T15:00:00+00:00,spread,-6.5,1.9,1.78,1640218822,80.0
+2026-11-14T14:50:43+00:00,1028302799,norway/blno,TNT Towers,Nidaros Jets,2026-11-14T15:00:00+00:00,total,177.5,1.73,1.98,1640217274,100.0
+2026-11-14T14:50:43+00:00,1029829359,slovakia/extraliga,BC Prievidza,BK Levickí Patrioti,2026-11-14T17:00:00+00:00,total,171.5,2.14,1.63,1640229574,94.1
+2026-11-14T14:50:43+00:00,1028660325,turkey/super_league,Manisa Buyuksehir Belediye,Galatasaray S.K.,2026-11-14T15:00:00+00:00,moneyline,,1.88,1.82,,56.2
+2026-11-14T14:50:43+00:00,1028660325,turkey/super_league,Manisa Buyuksehir Belediye,Galatasaray S.K.,2026-11-14T15:00:00+00:00,spread,0.5,1.88,1.82,,56.2
+2026-11-14T14:50:43+00:00,1028660325,turkey/super_league,Manisa Buyuksehir Belediye,Galatasaray S.K.,2026-11-14T15:00:00+00:00,total,167.5,1.88,1.82,,56.2
+2026-11-14T14:50:43+00:00,1029396580,turkey/tbl,Ankaragucu Mamak,Darüşşafaka,2026-11-14T15:00:00+00:00,spread,-8.5,1.84,1.86,1640217284,93.3
+2026-11-14T14:50:43+00:00,1029396580,turkey/tbl,Ankaragucu Mamak,Darüşşafaka,2026-11-14T15:00:00+00:00,total,163.5,1.88,1.82,1640217284,93.3
