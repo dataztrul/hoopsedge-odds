@@ -304,3 +304,8 @@ ts,event_id,group,home,away,start,type,line,dec_1,dec_2,pin_matchup_id,match_sco
 2026-11-14T12:50:01+00:00,1029396634,turkey/tbl,Goztepe SK,Cedi Osman Basketbol,2026-11-14T13:00:00+00:00,total,161.5,1.85,1.85,1640206872,92.9
 2026-11-14T12:55:17+00:00,1029396579,turkey/tbl,OGM Ormanspor,TED Ankara Kolejliler,2026-11-14T13:00:00+00:00,moneyline,,1.2,4.0,1640192002,100.0
 2026-11-14T12:55:17+00:00,1029396579,turkey/tbl,OGM Ormanspor,TED Ankara Kolejliler,2026-11-14T13:00:00+00:00,spread,-9.5,1.83,1.87,1640192002,100.0
+2026-11-14T13:00:31+00:00,1028130362,bnxt_league,Landstede Hammers,Hubo Limburg United,2026-11-15T13:00:00+00:00,moneyline,,2.65,1.41,1640265046,100.0
+2026-11-14T13:00:31+00:00,1028130362,bnxt_league,Landstede Hammers,Hubo Limburg United,2026-11-15T13:00:00+00:00,spread,4.5,1.93,1.76,1640265046,100.0
+2026-11-14T13:00:31+00:00,1029153116,greece/gbl,AEK B.C.,Doxa Lefkadas,2026-11-14T15:00:00+00:00,moneyline,,1.26,3.7,1640218822,80.0
+2026-11-14T13:00:31+00:00,1029153116,greece/gbl,AEK B.C.,Doxa Lefkadas,2026-11-14T15:00:00+00:00,spread,-9.5,1.97,1.73,1640218822,80.0
+2026-11-14T13:00:31+00:00,1029396634,turkey/tbl,Goztepe SK,Cedi Osman Basketbol,2026-11-14T13:06:00+00:00,total,163.5,2.02,1.7,1640206872,92.9
