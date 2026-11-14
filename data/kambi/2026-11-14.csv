@@ -662,3 +662,8 @@ ts,event_id,group,home,away,start,type,line,dec_1,dec_2,pin_matchup_id,match_sco
 2026-11-14T20:22:28+00:00,1028635011,italy/lega_a,APU Old Wild West Udine,Milano,2026-11-15T17:15:00+00:00,total,167.5,1.88,1.82,1640271027,100.0
 2026-11-14T20:27:43+00:00,1028927676,aba_league,KK Crvena Zvezda Belgrade,KK Cedevita Olimpija,2026-11-15T17:30:00+00:00,moneyline,,1.17,4.35,1640270682,100.0
 2026-11-14T20:27:43+00:00,1028927676,aba_league,KK Crvena Zvezda Belgrade,KK Cedevita Olimpija,2026-11-15T17:30:00+00:00,spread,-11.5,2.02,1.71,1640270682,100.0
+2026-11-14T20:43:21+00:00,1029005692,brazil/nbb,Minas Tênis Clube,Basquete Cearense,2026-11-14T21:00:00+00:00,spread,-25.5,1.8,1.91,,53.1
+2026-11-14T20:43:21+00:00,1028635010,italy/lega_a,Dolomiti Energia Trento,Virtus Bologna,2026-11-15T18:00:00+00:00,total,174.5,1.86,1.84,1640270569,81.6
+2026-11-14T20:43:21+00:00,1028304757,poland/plk,Stal Ostrów Wlkp.,Dziki Warszawa,2026-11-15T16:30:00+00:00,moneyline,,3.2,1.3,1640358427,87.2
+2026-11-14T20:43:21+00:00,1028304757,poland/plk,Stal Ostrów Wlkp.,Dziki Warszawa,2026-11-15T16:30:00+00:00,spread,5.5,2.07,1.67,1640358427,87.2
+2026-11-14T20:43:21+00:00,1028304757,poland/plk,Stal Ostrów Wlkp.,Dziki Warszawa,2026-11-15T16:30:00+00:00,total,170.5,1.87,1.84,1640358427,87.2
