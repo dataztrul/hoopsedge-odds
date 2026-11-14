@@ -324,3 +324,6 @@ ts,event_id,group,home,away,start,type,line,dec_1,dec_2,pin_matchup_id,match_sco
 2026-11-14T13:26:42+00:00,1029288197,united_kingdom/super_league_basketball,Liverpool,Sheffield Sharks,2026-11-15T16:00:00+00:00,moneyline,,1.73,1.98,1640267665,100.0
 2026-11-14T13:26:42+00:00,1029288197,united_kingdom/super_league_basketball,Liverpool,Sheffield Sharks,2026-11-15T16:00:00+00:00,spread,-1.5,1.85,1.85,1640267665,100.0
 2026-11-14T13:26:42+00:00,1029288197,united_kingdom/super_league_basketball,Liverpool,Sheffield Sharks,2026-11-15T16:00:00+00:00,total,162.5,1.71,2.02,1640267665,100.0
+2026-11-14T13:31:57+00:00,1028312609,finland/korisliiga,Kataja Basket,KTP-Basket,2026-11-14T15:00:00+00:00,moneyline,,2.43,1.53,1640218834,100.0
+2026-11-14T13:31:57+00:00,1028312609,finland/korisliiga,Kataja Basket,KTP-Basket,2026-11-14T15:00:00+00:00,spread,3.5,1.94,1.83,1640218834,100.0
+2026-11-14T13:31:57+00:00,1028304618,poland/plk,Arriva Polski Cukier Toruń,Trefl Sopot,2026-11-14T14:00:00+00:00,total,172.5,1.9,1.81,1640294230,73.4
