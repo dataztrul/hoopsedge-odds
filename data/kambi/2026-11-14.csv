@@ -165,3 +165,8 @@ ts,event_id,group,home,away,start,type,line,dec_1,dec_2,pin_matchup_id,match_sco
 2026-11-14T09:30:06+00:00,1028660322,turkey/super_league,Aliaga Petkim Spor,TÜRK Telekom,2026-11-14T10:00:00+00:00,total,163.5,2.02,1.71,1640180440,100.0
 2026-11-14T09:30:06+00:00,1028660325,turkey/super_league,Manisa Buyuksehir Belediye,Galatasaray S.K.,2026-11-14T15:00:00+00:00,moneyline,,2.05,1.68,,56.2
 2026-11-14T09:30:06+00:00,1028660325,turkey/super_league,Manisa Buyuksehir Belediye,Galatasaray S.K.,2026-11-14T15:00:00+00:00,spread,1.5,1.9,1.8,,56.2
+2026-11-14T09:35:20+00:00,1029005686,brazil/nbb,Corinthians-SP,AERC Osasco,2026-11-14T19:00:00+00:00,moneyline,,1.13,5.1,,49.2
+2026-11-14T09:35:20+00:00,1029005686,brazil/nbb,Corinthians-SP,AERC Osasco,2026-11-14T19:00:00+00:00,spread,-12.5,1.89,1.82,,49.2
+2026-11-14T09:35:20+00:00,1029005686,brazil/nbb,Corinthians-SP,AERC Osasco,2026-11-14T19:00:00+00:00,total,164.5,1.82,1.88,,49.2
+2026-11-14T09:35:20+00:00,1028660325,turkey/super_league,Manisa Buyuksehir Belediye,Galatasaray S.K.,2026-11-14T15:00:00+00:00,moneyline,,2.25,1.57,,56.2
+2026-11-14T09:35:20+00:00,1028660325,turkey/super_league,Manisa Buyuksehir Belediye,Galatasaray S.K.,2026-11-14T15:00:00+00:00,spread,1.5,2.08,1.66,,56.2
