@@ -610,3 +610,9 @@ ts,event_id,group,home,away,start,type,line,dec_1,dec_2,pin_matchup_id,match_sco
 2026-11-14T18:43:03+00:00,1028646547,germany/bbl,Hamburg Towers,Würzburg Baskets,2026-11-14T19:00:00+00:00,moneyline,,2.35,1.52,1640243371,100.0
 2026-11-14T18:43:03+00:00,1028646547,germany/bbl,Hamburg Towers,Würzburg Baskets,2026-11-14T19:00:00+00:00,spread,3.5,1.89,1.81,1640243371,100.0
 2026-11-14T18:43:03+00:00,1028646547,germany/bbl,Hamburg Towers,Würzburg Baskets,2026-11-14T19:00:00+00:00,total,169.5,1.89,1.81,1640243371,100.0
+2026-11-14T18:48:17+00:00,1028646545,germany/bbl,EWE Baskets Oldenburg,Alba Berlin,2026-11-14T19:00:00+00:00,spread,5.5,1.85,1.85,1640243507,100.0
+2026-11-14T18:48:17+00:00,1028646545,germany/bbl,EWE Baskets Oldenburg,Alba Berlin,2026-11-14T19:00:00+00:00,total,164.5,1.98,1.73,1640243507,100.0
+2026-11-14T18:48:17+00:00,1028646535,germany/bbl,Skyliners Frankfurt,Gladiators Trier,2026-11-15T14:00:00+00:00,moneyline,,2.5,1.46,1640264924,85.7
+2026-11-14T18:48:17+00:00,1028646535,germany/bbl,Skyliners Frankfurt,Gladiators Trier,2026-11-15T14:00:00+00:00,spread,4.5,1.87,1.83,1640264924,85.7
+2026-11-14T18:48:17+00:00,1028646535,germany/bbl,Skyliners Frankfurt,Gladiators Trier,2026-11-15T14:00:00+00:00,total,181.5,1.86,1.84,1640264924,85.7
+2026-11-14T18:48:17+00:00,1028635005,italy/lega_a,Unahotels Reggio Emilia,Openjobmetis Varese,2026-11-14T19:00:00+00:00,spread,-3.5,1.88,1.88,1640237418,72.6
