@@ -1,0 +1,4 @@
+ts,event_id,group,home,away,start,type,line,dec_1,dec_2,pin_matchup_id,match_score
+2026-11-14T00:26:16+00:00,1028435512,portugal/lpb,SC Braga,UD Oliveirense,2026-11-14T15:00:00+00:00,moneyline,,1.36,2.88,1640218850,100.0
+2026-11-14T00:26:16+00:00,1028435512,portugal/lpb,SC Braga,UD Oliveirense,2026-11-14T15:00:00+00:00,spread,-6.5,1.9,1.8,1640218850,100.0
+2026-11-14T00:26:16+00:00,1028435512,portugal/lpb,SC Braga,UD Oliveirense,2026-11-14T15:00:00+00:00,total,173.5,1.86,1.84,1640218850,100.0
