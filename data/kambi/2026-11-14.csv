@@ -239,3 +239,5 @@ ts,event_id,group,home,away,start,type,line,dec_1,dec_2,pin_matchup_id,match_sco
 2026-11-14T10:43:45+00:00,1028750632,spain/liga_acb,Rio Breogán,San Pablo Burgos,2026-11-14T17:00:00+00:00,moneyline,,1.28,3.55,1640231400,100.0
 2026-11-14T10:43:45+00:00,1028750632,spain/liga_acb,Rio Breogán,San Pablo Burgos,2026-11-14T17:00:00+00:00,spread,-9.5,2.0,1.77,1640231400,100.0
 2026-11-14T10:43:45+00:00,1028750632,spain/liga_acb,Rio Breogán,San Pablo Burgos,2026-11-14T17:00:00+00:00,total,191.5,1.91,1.8,1640231400,100.0
+2026-11-14T10:49:37+00:00,1028927799,aba_league,Universitatea Cluj-Napoca,KD Ilirija,2026-11-14T11:00:00+00:00,moneyline,,1.11,5.6,1640180460,100.0
+2026-11-14T10:49:37+00:00,1028927799,aba_league,Universitatea Cluj-Napoca,KD Ilirija,2026-11-14T11:00:00+00:00,spread,-13.5,1.91,1.79,1640180460,100.0
