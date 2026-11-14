@@ -124,3 +124,9 @@ ts,event_id,group,home,away,start,type,line,dec_1,dec_2,pin_matchup_id,match_sco
 2026-11-14T08:16:45+00:00,1028660319,turkey/super_league,Tofaş,Trabzonspor BK,2026-11-14T12:30:00+00:00,moneyline,,1.32,3.1,1640191971,100.0
 2026-11-14T08:16:45+00:00,1028660319,turkey/super_league,Tofaş,Trabzonspor BK,2026-11-14T12:30:00+00:00,spread,-8.5,2.02,1.7,1640191971,100.0
 2026-11-14T08:16:45+00:00,1028660319,turkey/super_league,Tofaş,Trabzonspor BK,2026-11-14T12:30:00+00:00,total,171.5,1.85,1.85,1640191971,100.0
+2026-11-14T08:21:59+00:00,1028660319,turkey/super_league,Tofaş,Trabzonspor BK,2026-11-14T12:30:00+00:00,moneyline,,1.3,3.1,1640191971,100.0
+2026-11-14T08:21:59+00:00,1029642408,turkey/super_league,Fenerbahce SK,Anadolu Efes,2026-11-15T17:30:00+00:00,moneyline,,1.48,2.48,1640271030,100.0
+2026-11-14T08:21:59+00:00,1029642408,turkey/super_league,Fenerbahce SK,Anadolu Efes,2026-11-15T17:30:00+00:00,spread,-4.5,1.85,1.85,1640271030,100.0
+2026-11-14T08:21:59+00:00,1029642408,turkey/super_league,Fenerbahce SK,Anadolu Efes,2026-11-15T17:30:00+00:00,total,167.5,1.86,1.84,1640271030,100.0
+2026-11-14T08:21:59+00:00,1029396636,turkey/tbl,Demir İnşaat Büyükçekmece,Balikesir Buyuksehir Belediyespor,2026-11-14T15:00:00+00:00,moneyline,,1.24,3.6,1640217283,74.6
+2026-11-14T08:21:59+00:00,1029396636,turkey/tbl,Demir İnşaat Büyükçekmece,Balikesir Buyuksehir Belediyespor,2026-11-14T15:00:00+00:00,spread,-9.5,2.0,1.73,1640217283,74.6
