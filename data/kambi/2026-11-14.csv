@@ -657,3 +657,6 @@ ts,event_id,group,home,away,start,type,line,dec_1,dec_2,pin_matchup_id,match_sco
 2026-11-14T20:17:14+00:00,1029868348,italy/lega_a,Pallacanestro Cantù,Bertram Tortona,2026-11-15T16:30:00+00:00,spread,3.5,1.93,1.84,1640267674,76.1
 2026-11-14T20:17:14+00:00,1029868348,italy/lega_a,Pallacanestro Cantù,Bertram Tortona,2026-11-15T16:30:00+00:00,total,168.5,1.85,1.85,1640267674,76.1
 2026-11-14T20:17:14+00:00,1029868340,italy/lega_a,Umana Reyer Venezia,Maxima Roma,2026-11-15T17:00:00+00:00,total,173.5,1.85,1.85,1640270554,100.0
+2026-11-14T20:22:28+00:00,1028927676,aba_league,KK Crvena Zvezda Belgrade,KK Cedevita Olimpija,2026-11-15T17:30:00+00:00,moneyline,,1.14,5.0,1640270682,100.0
+2026-11-14T20:22:28+00:00,1028927676,aba_league,KK Crvena Zvezda Belgrade,KK Cedevita Olimpija,2026-11-15T17:30:00+00:00,spread,-11.5,1.84,1.86,1640270682,100.0
+2026-11-14T20:22:28+00:00,1028635011,italy/lega_a,APU Old Wild West Udine,Milano,2026-11-15T17:15:00+00:00,total,167.5,1.88,1.82,1640271027,100.0
