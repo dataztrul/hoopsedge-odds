@@ -637,3 +637,15 @@ ts,event_id,group,home,away,start,type,line,dec_1,dec_2,pin_matchup_id,match_sco
 2026-11-14T19:14:30+00:00,1028130367,bnxt_league,Leuven Bears,Kangoeroes Basket Mechelen,2026-11-14T19:30:00+00:00,total,162.5,1.75,1.95,1640237426,100.0
 2026-11-14T19:14:30+00:00,1028130359,bnxt_league,Antwerp Giants,Circus Brussels,2026-11-14T19:30:00+00:00,moneyline,,1.08,5.8,1640237412,100.0
 2026-11-14T19:14:30+00:00,1028130359,bnxt_league,Antwerp Giants,Circus Brussels,2026-11-14T19:30:00+00:00,spread,-14.5,1.94,1.76,1640237412,100.0
+2026-11-14T19:19:45+00:00,1028130364,bnxt_league,Okapi Aalstar,New Heroes Den Bosch,2026-11-14T19:30:00+00:00,moneyline,,1.27,3.35,1640243517,95.8
+2026-11-14T19:19:45+00:00,1028130364,bnxt_league,Okapi Aalstar,New Heroes Den Bosch,2026-11-14T19:30:00+00:00,spread,-8.5,1.91,1.77,1640243517,95.8
+2026-11-14T19:19:45+00:00,1028130364,bnxt_league,Okapi Aalstar,New Heroes Den Bosch,2026-11-14T19:30:00+00:00,total,172.5,1.81,1.87,1640243517,95.8
+2026-11-14T19:19:45+00:00,1028130359,bnxt_league,Antwerp Giants,Circus Brussels,2026-11-14T19:30:00+00:00,moneyline,,1.11,5.1,1640237412,100.0
+2026-11-14T19:19:45+00:00,1028130359,bnxt_league,Antwerp Giants,Circus Brussels,2026-11-14T19:30:00+00:00,spread,-12.5,1.85,1.83,1640237412,100.0
+2026-11-14T19:19:45+00:00,1028992898,france/elite,Limoges CSP,Paris Basket,2026-11-14T19:30:00+00:00,spread,10.5,1.93,1.84,1640243516,100.0
+2026-11-14T19:19:45+00:00,1028992898,france/elite,Limoges CSP,Paris Basket,2026-11-14T19:30:00+00:00,total,179.5,1.81,1.89,1640243516,100.0
+2026-11-14T19:19:45+00:00,1029269537,italy/lega_a,BC Roma,Tezenis Verona,2026-11-14T19:30:00+00:00,moneyline,,1.44,2.7,1640243387,80.0
+2026-11-14T19:19:45+00:00,1029269537,italy/lega_a,BC Roma,Tezenis Verona,2026-11-14T19:30:00+00:00,spread,-5.5,1.91,1.85,1640243387,80.0
+2026-11-14T19:19:45+00:00,1029269537,italy/lega_a,BC Roma,Tezenis Verona,2026-11-14T19:30:00+00:00,total,186.5,1.89,1.81,1640243387,80.0
+2026-11-14T19:19:45+00:00,1028635588,italy/serie_a2,Urania Milano,Giorgio Tesi Group Pistoia,2026-11-14T19:30:00+00:00,moneyline,,3.15,1.28,1640367789,100.0
+2026-11-14T19:19:45+00:00,1028635588,italy/serie_a2,Urania Milano,Giorgio Tesi Group Pistoia,2026-11-14T19:30:00+00:00,spread,6.5,1.86,1.78,1640367789,100.0
