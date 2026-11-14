@@ -7,3 +7,9 @@ ts,event_id,group,home,away,start,type,line,dec_1,dec_2,pin_matchup_id,match_sco
 2026-11-14T00:41:30+00:00,1029153117,greece/gbl,AS Karditsas,PAOK Thessaloniki BC,2026-11-14T15:30:00+00:00,spread,6.5,1.82,1.87,1640217299,100.0
 2026-11-14T00:41:30+00:00,1029153122,greece/gbl,Panathinaikos,Kolossos Rhodes,2026-11-15T11:00:00+00:00,spread,-20.5,1.8,1.88,1640262028,100.0
 2026-11-14T00:41:30+00:00,1029153122,greece/gbl,Panathinaikos,Kolossos Rhodes,2026-11-15T11:00:00+00:00,total,164.5,1.85,1.85,1640262028,100.0
+2026-11-14T01:11:59+00:00,1028130361,bnxt_league,Rotterdam City Basketball,Donar Groningen,2026-11-15T13:00:00+00:00,moneyline,,2.06,1.66,1640264888,100.0
+2026-11-14T01:11:59+00:00,1028130361,bnxt_league,Rotterdam City Basketball,Donar Groningen,2026-11-15T13:00:00+00:00,spread,2.5,1.79,1.89,1640264888,100.0
+2026-11-14T01:11:59+00:00,1028130361,bnxt_league,Rotterdam City Basketball,Donar Groningen,2026-11-15T13:00:00+00:00,total,163.5,1.78,1.9,1640264888,100.0
+2026-11-14T01:11:59+00:00,1028130362,bnxt_league,Landstede Hammers,Hubo Limburg United,2026-11-15T13:00:00+00:00,moneyline,,2.38,1.5,1640265046,100.0
+2026-11-14T01:11:59+00:00,1028130362,bnxt_league,Landstede Hammers,Hubo Limburg United,2026-11-15T13:00:00+00:00,spread,3.5,1.9,1.79,1640265046,100.0
+2026-11-14T01:11:59+00:00,1028130362,bnxt_league,Landstede Hammers,Hubo Limburg United,2026-11-15T13:00:00+00:00,total,166.5,1.89,1.8,1640265046,100.0
