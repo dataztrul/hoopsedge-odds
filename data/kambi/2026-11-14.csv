@@ -273,3 +273,9 @@ ts,event_id,group,home,away,start,type,line,dec_1,dec_2,pin_matchup_id,match_sco
 2026-11-14T11:47:11+00:00,1028304616,poland/plk,Enea Abramczyk Astoria Bydgoszcz,Górnik Zamek Książ Wałbrzych,2026-11-15T11:30:00+00:00,total,171.5,1.83,1.87,1640294241,84.9
 2026-11-14T11:52:27+00:00,1029153117,greece/gbl,AS Karditsas,PAOK Thessaloniki BC,2026-11-14T15:30:00+00:00,spread,6.5,1.81,1.88,1640217299,100.0
 2026-11-14T11:52:27+00:00,1029153117,greece/gbl,AS Karditsas,PAOK Thessaloniki BC,2026-11-14T15:30:00+00:00,total,155.5,1.82,1.89,1640217299,100.0
+2026-11-14T12:02:55+00:00,1028312619,finland/korisliiga,Lahti Basketball,Korihait,2026-11-14T15:00:00+00:00,moneyline,,1.56,2.35,1640218830,100.0
+2026-11-14T12:02:55+00:00,1028312619,finland/korisliiga,Lahti Basketball,Korihait,2026-11-14T15:00:00+00:00,spread,-3.5,1.88,1.88,1640218830,100.0
+2026-11-14T12:02:55+00:00,1028312612,finland/korisliiga,Kauhajoki,Tampereen Pyrintö,2026-11-14T16:00:00+00:00,total,165.5,1.85,1.85,1640217323,100.0
+2026-11-14T12:02:55+00:00,1028660319,turkey/super_league,Tofaş,Trabzonspor BK,2026-11-14T12:30:00+00:00,moneyline,,1.26,3.45,1640191971,100.0
+2026-11-14T12:02:55+00:00,1028660319,turkey/super_league,Tofaş,Trabzonspor BK,2026-11-14T12:30:00+00:00,spread,-7.5,1.76,1.95,1640191971,100.0
+2026-11-14T12:02:55+00:00,1028660319,turkey/super_league,Tofaş,Trabzonspor BK,2026-11-14T12:30:00+00:00,total,170.5,1.98,1.73,1640191971,100.0
