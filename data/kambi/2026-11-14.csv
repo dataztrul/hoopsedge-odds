@@ -411,3 +411,5 @@ ts,event_id,group,home,away,start,type,line,dec_1,dec_2,pin_matchup_id,match_sco
 2026-11-14T15:17:03+00:00,1029153117,greece/gbl,AS Karditsas,PAOK Thessaloniki BC,2026-11-14T15:30:00+00:00,total,155.5,1.82,1.88,1640217299,100.0
 2026-11-14T15:17:03+00:00,1029829359,slovakia/extraliga,BC Prievidza,BK Levickí Patrioti,2026-11-14T17:00:00+00:00,moneyline,,1.36,2.9,1640229574,94.1
 2026-11-14T15:17:03+00:00,1029829359,slovakia/extraliga,BC Prievidza,BK Levickí Patrioti,2026-11-14T17:00:00+00:00,spread,-5.5,1.76,1.95,1640229574,94.1
+2026-11-14T15:27:34+00:00,1029153117,greece/gbl,AS Karditsas,PAOK Thessaloniki BC,2026-11-14T15:32:00+00:00,moneyline,,2.7,1.44,1640217299,100.0
+2026-11-14T15:27:34+00:00,1029153117,greece/gbl,AS Karditsas,PAOK Thessaloniki BC,2026-11-14T15:32:00+00:00,spread,4.5,1.9,1.78,1640217299,100.0
