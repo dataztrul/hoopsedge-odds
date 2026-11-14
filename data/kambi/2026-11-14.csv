@@ -674,3 +674,6 @@ ts,event_id,group,home,away,start,type,line,dec_1,dec_2,pin_matchup_id,match_sco
 2026-11-14T20:48:35+00:00,1029868340,italy/lega_a,Umana Reyer Venezia,Maxima Roma,2026-11-15T17:00:00+00:00,total,173.5,1.86,1.84,1640270554,100.0
 2026-11-14T21:04:13+00:00,1029642402,turkey/super_league,Besiktas,Bursaspor,2026-11-15T15:00:00+00:00,spread,-12.5,1.86,1.84,1640265108,100.0
 2026-11-14T21:04:13+00:00,1029642402,turkey/super_league,Besiktas,Bursaspor,2026-11-15T15:00:00+00:00,total,169.5,1.97,1.75,1640265108,100.0
+2026-11-14T22:52:04+00:00,1028130361,bnxt_league,Rotterdam City Basketball,Donar Groningen,2026-11-15T13:00:00+00:00,spread,2.5,1.96,1.73,1640264888,100.0
+2026-11-14T22:52:04+00:00,1028130361,bnxt_league,Rotterdam City Basketball,Donar Groningen,2026-11-15T13:00:00+00:00,total,163.5,1.71,2.0,1640264888,100.0
+2026-11-14T22:52:04+00:00,1028130362,bnxt_league,Landstede Hammers,Hubo Limburg United,2026-11-15T13:00:00+00:00,total,166.5,2.0,1.71,1640265046,100.0
