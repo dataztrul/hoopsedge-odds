@@ -417,3 +417,9 @@ ts,event_id,group,home,away,start,type,line,dec_1,dec_2,pin_matchup_id,match_sco
 2026-11-14T15:38:06+00:00,1028992893,france/elite,Gravelines-Dunkerque,Nancy SLUC,2026-11-15T15:00:00+00:00,moneyline,,2.25,1.61,1640265107,100.0
 2026-11-14T15:38:06+00:00,1028992893,france/elite,Gravelines-Dunkerque,Nancy SLUC,2026-11-15T15:00:00+00:00,spread,2.5,1.94,1.82,1640265107,100.0
 2026-11-14T15:38:06+00:00,1028992893,france/elite,Gravelines-Dunkerque,Nancy SLUC,2026-11-15T15:00:00+00:00,total,166.5,1.88,1.82,1640265107,100.0
+2026-11-14T15:43:22+00:00,1029866597,belgium/top_division_1,BC Guco Lier,Basics Melsele,2026-11-15T13:30:00+00:00,moneyline,,1.21,3.85,1640265060,100.0
+2026-11-14T15:43:22+00:00,1029866597,belgium/top_division_1,BC Guco Lier,Basics Melsele,2026-11-15T13:30:00+00:00,spread,-9.5,1.85,1.85,1640265060,100.0
+2026-11-14T15:43:22+00:00,1029866597,belgium/top_division_1,BC Guco Lier,Basics Melsele,2026-11-15T13:30:00+00:00,total,169.5,1.91,1.79,1640265060,100.0
+2026-11-14T15:43:22+00:00,1028435577,portugal/lpb,SL Benfica,CAB Madeira,2026-11-14T16:00:00+00:00,moneyline,,1.04,8.5,1640229520,100.0
+2026-11-14T15:43:22+00:00,1028435577,portugal/lpb,SL Benfica,CAB Madeira,2026-11-14T16:00:00+00:00,spread,-18.5,1.86,1.84,1640229520,100.0
+2026-11-14T15:43:22+00:00,1028435577,portugal/lpb,SL Benfica,CAB Madeira,2026-11-14T16:00:00+00:00,total,171.5,1.78,1.93,1640229520,100.0
