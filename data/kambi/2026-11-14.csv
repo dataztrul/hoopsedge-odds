@@ -203,3 +203,23 @@ ts,event_id,group,home,away,start,type,line,dec_1,dec_2,pin_matchup_id,match_sco
 2026-11-14T09:51:04+00:00,1028803961,united_kingdom/super_league_basketball,Manchester Basketball,Bristol Flyers,2026-11-15T15:00:00+00:00,moneyline,,1.67,2.07,1640267696,100.0
 2026-11-14T09:51:04+00:00,1028803961,united_kingdom/super_league_basketball,Manchester Basketball,Bristol Flyers,2026-11-15T15:00:00+00:00,spread,-2.5,1.91,1.79,1640267696,100.0
 2026-11-14T09:51:04+00:00,1028803961,united_kingdom/super_league_basketball,Manchester Basketball,Bristol Flyers,2026-11-15T15:00:00+00:00,total,162.5,1.86,1.84,1640267696,100.0
+2026-11-14T09:56:19+00:00,1028927676,aba_league,KK Crvena Zvezda Belgrade,KK Cedevita Olimpija,2026-11-15T17:30:00+00:00,spread,-12.5,1.81,1.89,1640270682,100.0
+2026-11-14T09:56:19+00:00,1028927676,aba_league,KK Crvena Zvezda Belgrade,KK Cedevita Olimpija,2026-11-15T17:30:00+00:00,total,170.5,1.9,1.81,1640270682,100.0
+2026-11-14T09:56:19+00:00,1028902607,bulgaria/nbl,BC Beroe Stara Zagora,Rilski Sportist,2026-11-14T15:00:00+00:00,moneyline,,3.2,1.3,1640231380,88.5
+2026-11-14T09:56:19+00:00,1028902607,bulgaria/nbl,BC Beroe Stara Zagora,Rilski Sportist,2026-11-14T15:00:00+00:00,spread,7.5,1.83,1.87,1640231380,88.5
+2026-11-14T09:56:19+00:00,1028280643,czech_republic/nbl,Hradec Kralove,BK Olomoucko,2026-11-14T18:00:00+00:00,moneyline,,1.17,4.35,1640237382,76.9
+2026-11-14T09:56:19+00:00,1028280643,czech_republic/nbl,Hradec Kralove,BK Olomoucko,2026-11-14T18:00:00+00:00,spread,-10.5,1.83,1.87,1640237382,76.9
+2026-11-14T09:56:19+00:00,1028280643,czech_republic/nbl,Hradec Kralove,BK Olomoucko,2026-11-14T18:00:00+00:00,total,162.5,1.82,1.88,1640237382,76.9
+2026-11-14T09:56:19+00:00,1028726956,lithuania/lkl,Žalgiris Kaunas,BC Neptūnas,2026-11-15T14:50:00+00:00,moneyline,,1.08,6.25,1640267588,100.0
+2026-11-14T09:56:19+00:00,1028726956,lithuania/lkl,Žalgiris Kaunas,BC Neptūnas,2026-11-15T14:50:00+00:00,spread,-16.5,2.07,1.67,1640267588,100.0
+2026-11-14T09:56:19+00:00,1029499617,lithuania/lkl,BC Rytas Vilnius,Jonavos SK,2026-11-15T17:10:00+00:00,moneyline,,1.09,6.0,1640270558,88.5
+2026-11-14T09:56:19+00:00,1029499617,lithuania/lkl,BC Rytas Vilnius,Jonavos SK,2026-11-15T17:10:00+00:00,spread,-14.5,1.89,1.81,1640270558,88.5
+2026-11-14T09:56:19+00:00,1028435611,portugal/lpb,Sporting,CD Povoa,2026-11-14T18:30:00+00:00,moneyline,,1.23,3.75,1640331058,100.0
+2026-11-14T09:56:19+00:00,1028435611,portugal/lpb,Sporting,CD Povoa,2026-11-14T18:30:00+00:00,spread,-8.5,1.83,1.87,1640331058,100.0
+2026-11-14T09:56:19+00:00,1028435611,portugal/lpb,Sporting,CD Povoa,2026-11-14T18:30:00+00:00,total,150.5,1.89,1.81,1640331058,100.0
+2026-11-14T09:56:19+00:00,1028660319,turkey/super_league,Tofaş,Trabzonspor BK,2026-11-14T12:30:00+00:00,moneyline,,1.26,3.45,1640191971,100.0
+2026-11-14T09:56:19+00:00,1028660319,turkey/super_league,Tofaş,Trabzonspor BK,2026-11-14T12:30:00+00:00,spread,-7.5,1.76,1.95,1640191971,100.0
+2026-11-14T09:56:19+00:00,1028660319,turkey/super_league,Tofaş,Trabzonspor BK,2026-11-14T12:30:00+00:00,total,170.5,1.98,1.73,1640191971,100.0
+2026-11-14T09:56:19+00:00,1028660314,turkey/super_league,Bordo BK,Karşiyaka,2026-11-14T17:30:00+00:00,moneyline,,1.66,2.08,1640231422,100.0
+2026-11-14T09:56:19+00:00,1028660314,turkey/super_league,Bordo BK,Karşiyaka,2026-11-14T17:30:00+00:00,spread,-2.5,1.88,1.82,1640231422,100.0
+2026-11-14T09:56:19+00:00,1028660314,turkey/super_league,Bordo BK,Karşiyaka,2026-11-14T17:30:00+00:00,total,165.5,1.77,1.94,1640231422,100.0
