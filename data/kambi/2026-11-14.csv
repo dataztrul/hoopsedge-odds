@@ -33,3 +33,5 @@ ts,event_id,group,home,away,start,type,line,dec_1,dec_2,pin_matchup_id,match_sco
 2026-11-14T03:34:17+00:00,1028992893,france/elite,Gravelines-Dunkerque,Nancy SLUC,2026-11-15T15:00:00+00:00,moneyline,,2.05,1.73,,39.5
 2026-11-14T03:34:17+00:00,1028992893,france/elite,Gravelines-Dunkerque,Nancy SLUC,2026-11-15T15:00:00+00:00,spread,1.5,1.91,1.85,,39.5
 2026-11-14T03:34:17+00:00,1028992893,france/elite,Gravelines-Dunkerque,Nancy SLUC,2026-11-15T15:00:00+00:00,total,166.5,1.88,1.82,,39.5
+2026-11-14T03:44:30+00:00,1029766200,mexico/lnbp,Soles de Mexicali,Astros de Jalisco,2026-11-14T04:00:00+00:00,moneyline,,1.43,2.63,,0.0
+2026-11-14T03:44:30+00:00,1029766200,mexico/lnbp,Soles de Mexicali,Astros de Jalisco,2026-11-14T04:00:00+00:00,total,160.5,2.0,1.72,,0.0
