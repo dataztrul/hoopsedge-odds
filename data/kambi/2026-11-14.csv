@@ -147,3 +147,8 @@ ts,event_id,group,home,away,start,type,line,dec_1,dec_2,pin_matchup_id,match_sco
 2026-11-14T09:14:22+00:00,1029642402,turkey/super_league,Besiktas,Bursaspor,2026-11-15T15:00:00+00:00,moneyline,,1.13,5.1,1640265108,100.0
 2026-11-14T09:14:22+00:00,1029642402,turkey/super_league,Besiktas,Bursaspor,2026-11-15T15:00:00+00:00,spread,-12.5,1.85,1.85,1640265108,100.0
 2026-11-14T09:14:22+00:00,1029642402,turkey/super_league,Besiktas,Bursaspor,2026-11-15T15:00:00+00:00,total,169.5,1.85,1.85,1640265108,100.0
+2026-11-14T09:19:36+00:00,1028927676,aba_league,KK Crvena Zvezda Belgrade,KK Cedevita Olimpija,2026-11-15T17:30:00+00:00,moneyline,,1.1,5.75,1640270682,100.0
+2026-11-14T09:19:36+00:00,1028927676,aba_league,KK Crvena Zvezda Belgrade,KK Cedevita Olimpija,2026-11-15T17:30:00+00:00,spread,-12.5,1.8,1.9,1640270682,100.0
+2026-11-14T09:19:36+00:00,1028927676,aba_league,KK Crvena Zvezda Belgrade,KK Cedevita Olimpija,2026-11-15T17:30:00+00:00,total,171.5,1.86,1.84,1640270682,100.0
+2026-11-14T09:19:36+00:00,1029829329,slovakia/extraliga,BK Iskra Svit,MBK Handlová,2026-11-14T17:00:00+00:00,moneyline,,1.81,1.89,1640231379,100.0
+2026-11-14T09:19:36+00:00,1029829329,slovakia/extraliga,BK Iskra Svit,MBK Handlová,2026-11-14T17:00:00+00:00,spread,-0.5,1.81,1.89,1640231379,100.0
