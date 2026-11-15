@@ -282,3 +282,7 @@ ts,event_id,group,home,away,start,type,line,dec_1,dec_2,pin_matchup_id,match_sco
 2026-11-15T14:14:44+00:00,1028635568,italy/serie_a2,Virtus Ruvo di Puglia,Reale Mutua Torino,2026-11-15T16:00:00+00:00,spread,4.5,1.8,1.84,1640410851,87.9
 2026-11-15T14:14:44+00:00,1028635568,italy/serie_a2,Virtus Ruvo di Puglia,Reale Mutua Torino,2026-11-15T16:00:00+00:00,total,149.5,1.84,1.8,1640410851,87.9
 2026-11-15T14:14:44+00:00,1028803970,united_kingdom/super_league_basketball,Cheshire Phoenix,Newcastle Eagles,2026-11-15T17:30:00+00:00,total,181.5,2.15,1.63,1640270683,100.0
+2026-11-15T14:19:59+00:00,1028293048,austria/obl,Xion Dukes Klosterneuburg,Pirlo Kufstein Towers,2026-11-15T16:30:00+00:00,moneyline,,1.23,3.7,1640385216,100.0
+2026-11-15T14:19:59+00:00,1028293048,austria/obl,Xion Dukes Klosterneuburg,Pirlo Kufstein Towers,2026-11-15T16:30:00+00:00,spread,-8.5,1.8,1.9,1640385216,100.0
+2026-11-15T14:19:59+00:00,1028293048,austria/obl,Xion Dukes Klosterneuburg,Pirlo Kufstein Towers,2026-11-15T16:30:00+00:00,total,167.5,1.93,1.78,1640385216,100.0
+2026-11-15T14:19:59+00:00,1028635623,italy/serie_a2,Happy Casa Brindisi,Tramec Cento,2026-11-15T17:00:00+00:00,total,155.5,1.87,1.77,,69.4
