@@ -278,3 +278,7 @@ ts,event_id,group,home,away,start,type,line,dec_1,dec_2,pin_matchup_id,match_sco
 2026-11-15T14:09:29+00:00,1029499617,lithuania/lkl,BC Rytas Vilnius,Jonavos SK,2026-11-15T17:10:00+00:00,moneyline,,1.11,5.5,1640270558,88.5
 2026-11-15T14:09:29+00:00,1029499617,lithuania/lkl,BC Rytas Vilnius,Jonavos SK,2026-11-15T17:10:00+00:00,spread,-13.5,1.87,1.83,1640270558,88.5
 2026-11-15T14:09:29+00:00,1029499617,lithuania/lkl,BC Rytas Vilnius,Jonavos SK,2026-11-15T17:10:00+00:00,total,174.5,1.85,1.85,1640270558,88.5
+2026-11-15T14:14:44+00:00,1028293034,austria/obl,BC Nord,SKN St. Pölten,2026-11-15T16:00:00+00:00,total,167.5,1.68,2.05,1640388618,100.0
+2026-11-15T14:14:44+00:00,1028635568,italy/serie_a2,Virtus Ruvo di Puglia,Reale Mutua Torino,2026-11-15T16:00:00+00:00,spread,4.5,1.8,1.84,1640410851,87.9
+2026-11-15T14:14:44+00:00,1028635568,italy/serie_a2,Virtus Ruvo di Puglia,Reale Mutua Torino,2026-11-15T16:00:00+00:00,total,149.5,1.84,1.8,1640410851,87.9
+2026-11-15T14:14:44+00:00,1028803970,united_kingdom/super_league_basketball,Cheshire Phoenix,Newcastle Eagles,2026-11-15T17:30:00+00:00,total,181.5,2.15,1.63,1640270683,100.0
