@@ -126,3 +126,7 @@ ts,event_id,group,home,away,start,type,line,dec_1,dec_2,pin_matchup_id,match_sco
 2026-11-15T08:12:27+00:00,1028304757,poland/plk,Stal Ostrów Wlkp.,Dziki Warszawa,2026-11-15T16:30:00+00:00,total,169.5,1.9,1.81,1640358427,87.2
 2026-11-15T08:22:53+00:00,1029642402,turkey/super_league,Besiktas,Bursaspor,2026-11-15T15:00:00+00:00,moneyline,,1.1,5.75,1640265108,100.0
 2026-11-15T08:22:53+00:00,1029642402,turkey/super_league,Besiktas,Bursaspor,2026-11-15T15:00:00+00:00,spread,-13.5,1.82,1.88,1640265108,100.0
+2026-11-15T08:28:43+00:00,1028927798,aba_league,BC Dubai,KK Spartak Subotica,2026-11-15T09:00:00+00:00,total,169.5,1.82,1.88,1640258883,100.0
+2026-11-15T08:28:43+00:00,1029005620,brazil/nbb,São José Basketball,Mogi das Cruzes,2026-11-16T22:30:00+00:00,moneyline,,3.25,1.29,,0.0
+2026-11-15T08:28:43+00:00,1029005620,brazil/nbb,São José Basketball,Mogi das Cruzes,2026-11-16T22:30:00+00:00,spread,7.5,1.84,1.86,,0.0
+2026-11-15T08:28:43+00:00,1029005620,brazil/nbb,São José Basketball,Mogi das Cruzes,2026-11-16T22:30:00+00:00,total,161.5,1.84,1.86,,0.0
