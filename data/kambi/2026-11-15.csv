@@ -56,3 +56,17 @@ ts,event_id,group,home,away,start,type,line,dec_1,dec_2,pin_matchup_id,match_sco
 2026-11-15T06:34:49+00:00,1028635011,italy/lega_a,APU Old Wild West Udine,Milano,2026-11-15T17:15:00+00:00,moneyline,,2.8,1.41,1640271027,100.0
 2026-11-15T06:34:49+00:00,1028635011,italy/lega_a,APU Old Wild West Udine,Milano,2026-11-15T17:15:00+00:00,spread,5.5,1.9,1.86,1640271027,100.0
 2026-11-15T06:34:49+00:00,1028635011,italy/lega_a,APU Old Wild West Udine,Milano,2026-11-15T17:15:00+00:00,total,167.5,1.89,1.81,1640271027,100.0
+2026-11-15T06:45:02+00:00,1028927805,aba_league,KK Bosna,Mega Bemax,2026-11-15T16:00:00+00:00,moneyline,,1.17,4.4,1640265641,84.8
+2026-11-15T06:45:02+00:00,1028927805,aba_league,KK Bosna,Mega Bemax,2026-11-15T16:00:00+00:00,spread,-10.5,1.85,1.85,1640265641,84.8
+2026-11-15T06:45:02+00:00,1028927805,aba_league,KK Bosna,Mega Bemax,2026-11-15T16:00:00+00:00,total,173.5,1.87,1.83,1640265641,84.8
+2026-11-15T06:45:02+00:00,1028635568,italy/serie_a2,Virtus Ruvo di Puglia,Reale Mutua Torino,2026-11-15T16:00:00+00:00,moneyline,,2.5,1.43,1640410851,87.9
+2026-11-15T06:45:02+00:00,1028635568,italy/serie_a2,Virtus Ruvo di Puglia,Reale Mutua Torino,2026-11-15T16:00:00+00:00,spread,4.5,1.8,1.83,1640410851,87.9
+2026-11-15T06:45:02+00:00,1028635568,italy/serie_a2,Virtus Ruvo di Puglia,Reale Mutua Torino,2026-11-15T16:00:00+00:00,total,150.5,1.81,1.83,1640410851,87.9
+2026-11-15T06:45:02+00:00,1028726956,lithuania/lkl,Žalgiris Kaunas,BC Neptūnas,2026-11-15T14:50:00+00:00,moneyline,,1.11,5.6,1640267588,100.0
+2026-11-15T06:45:02+00:00,1028726956,lithuania/lkl,Žalgiris Kaunas,BC Neptūnas,2026-11-15T14:50:00+00:00,spread,-13.5,1.86,1.84,1640267588,100.0
+2026-11-15T06:45:02+00:00,1028726956,lithuania/lkl,Žalgiris Kaunas,BC Neptūnas,2026-11-15T14:50:00+00:00,total,170.5,1.9,1.8,1640267588,100.0
+2026-11-15T06:45:02+00:00,1028750461,spain/liga_acb,Valencia Basket Club,Leyma Coruña,2026-11-15T11:00:00+00:00,spread,-18.5,1.85,1.91,1640260134,100.0
+2026-11-15T06:45:02+00:00,1028750461,spain/liga_acb,Valencia Basket Club,Leyma Coruña,2026-11-15T11:00:00+00:00,total,189.5,1.86,1.84,1640260134,100.0
+2026-11-15T06:45:02+00:00,1028803959,united_kingdom/super_league_basketball,Caledonia Gladiators,Leicester Riders,2026-11-15T16:00:00+00:00,moneyline,,1.78,1.93,1640270517,100.0
+2026-11-15T06:45:02+00:00,1028803959,united_kingdom/super_league_basketball,Caledonia Gladiators,Leicester Riders,2026-11-15T16:00:00+00:00,spread,-1.5,1.9,1.8,1640270517,100.0
+2026-11-15T06:45:02+00:00,1028803959,united_kingdom/super_league_basketball,Caledonia Gladiators,Leicester Riders,2026-11-15T16:00:00+00:00,total,174.5,1.83,1.87,1640270517,100.0
