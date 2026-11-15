@@ -246,3 +246,8 @@ ts,event_id,group,home,away,start,type,line,dec_1,dec_2,pin_matchup_id,match_sco
 2026-11-15T13:27:08+00:00,1028750530,spain/liga_acb,Bilbao Basket,UCAM Murcia,2026-11-15T17:00:00+00:00,spread,-2.5,1.81,1.95,1640271024,100.0
 2026-11-15T13:27:08+00:00,1029396582,turkey/tbl,Harem Spor Kulübü,Final Gençlik,2026-11-15T13:32:00+00:00,total,151.5,1.67,2.07,1640264909,100.0
 2026-11-15T13:32:21+00:00,1028646538,germany/bbl,Rostock Seawolves,SC Rasta Vechta,2026-11-15T14:00:00+00:00,spread,-6.5,1.91,1.8,1640264934,100.0
+2026-11-15T13:42:49+00:00,1028646538,germany/bbl,Rostock Seawolves,SC Rasta Vechta,2026-11-15T14:00:00+00:00,moneyline,,1.38,2.8,1640264934,100.0
+2026-11-15T13:42:49+00:00,1028646538,germany/bbl,Rostock Seawolves,SC Rasta Vechta,2026-11-15T14:00:00+00:00,spread,-6.5,1.9,1.8,1640264934,100.0
+2026-11-15T13:42:49+00:00,1028646538,germany/bbl,Rostock Seawolves,SC Rasta Vechta,2026-11-15T14:00:00+00:00,total,174.5,1.83,1.87,1640264934,100.0
+2026-11-15T13:42:49+00:00,1028646535,germany/bbl,Skyliners Frankfurt,Gladiators Trier,2026-11-15T14:00:00+00:00,moneyline,,2.55,1.45,1640264924,85.7
+2026-11-15T13:42:49+00:00,1028646535,germany/bbl,Skyliners Frankfurt,Gladiators Trier,2026-11-15T14:00:00+00:00,total,181.5,1.86,1.84,1640264924,85.7
