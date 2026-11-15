@@ -251,3 +251,10 @@ ts,event_id,group,home,away,start,type,line,dec_1,dec_2,pin_matchup_id,match_sco
 2026-11-15T13:42:49+00:00,1028646538,germany/bbl,Rostock Seawolves,SC Rasta Vechta,2026-11-15T14:00:00+00:00,total,174.5,1.83,1.87,1640264934,100.0
 2026-11-15T13:42:49+00:00,1028646535,germany/bbl,Skyliners Frankfurt,Gladiators Trier,2026-11-15T14:00:00+00:00,moneyline,,2.55,1.45,1640264924,85.7
 2026-11-15T13:42:49+00:00,1028646535,germany/bbl,Skyliners Frankfurt,Gladiators Trier,2026-11-15T14:00:00+00:00,total,181.5,1.86,1.84,1640264924,85.7
+2026-11-15T13:48:03+00:00,1028646538,germany/bbl,Rostock Seawolves,SC Rasta Vechta,2026-11-15T14:00:00+00:00,moneyline,,1.46,2.5,1640264934,100.0
+2026-11-15T13:48:03+00:00,1028646538,germany/bbl,Rostock Seawolves,SC Rasta Vechta,2026-11-15T14:00:00+00:00,spread,-4.5,1.83,1.87,1640264934,100.0
+2026-11-15T13:48:03+00:00,1029153043,greece/gbl,Vikos BC,Maroussi,2026-11-15T14:00:00+00:00,moneyline,,1.9,1.86,1640265577,100.0
+2026-11-15T13:48:03+00:00,1029153043,greece/gbl,Vikos BC,Maroussi,2026-11-15T14:00:00+00:00,spread,-0.5,1.86,1.82,1640265577,100.0
+2026-11-15T13:48:03+00:00,1029153043,greece/gbl,Vikos BC,Maroussi,2026-11-15T14:00:00+00:00,total,162.5,1.86,1.84,1640265577,100.0
+2026-11-15T13:48:03+00:00,1029642408,turkey/super_league,Fenerbahce SK,Anadolu Efes,2026-11-15T17:30:00+00:00,moneyline,,1.25,3.6,1640271030,100.0
+2026-11-15T13:48:03+00:00,1029642408,turkey/super_league,Fenerbahce SK,Anadolu Efes,2026-11-15T17:30:00+00:00,spread,-8.5,1.85,1.85,1640271030,100.0
