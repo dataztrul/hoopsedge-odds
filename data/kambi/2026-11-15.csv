@@ -376,3 +376,8 @@ ts,event_id,group,home,away,start,type,line,dec_1,dec_2,pin_matchup_id,match_sco
 2026-11-15T16:10:00+00:00,1028293036,austria/obl,WBC Raiffeisen Wels,Oberwart Gunners,2026-11-15T16:30:00+00:00,spread,3.5,1.85,1.85,1640385217,76.7
 2026-11-15T16:10:00+00:00,1028293043,austria/obl,Allianz Swans Gmunden,Arkadia Traiskirchen Lions,2026-11-15T16:30:00+00:00,moneyline,,2.35,1.52,1640385215,100.0
 2026-11-15T16:10:00+00:00,1028293043,austria/obl,Allianz Swans Gmunden,Arkadia Traiskirchen Lions,2026-11-15T16:30:00+00:00,spread,3.5,1.89,1.82,1640385215,100.0
+2026-11-15T16:15:13+00:00,1028293036,austria/obl,WBC Raiffeisen Wels,Oberwart Gunners,2026-11-15T16:30:00+00:00,spread,3.5,1.84,1.86,1640385217,76.7
+2026-11-15T16:15:13+00:00,1028293036,austria/obl,WBC Raiffeisen Wels,Oberwart Gunners,2026-11-15T16:30:00+00:00,total,165.5,1.88,1.83,1640385217,76.7
+2026-11-15T16:15:13+00:00,1029005620,brazil/nbb,São José Basketball,Mogi das Cruzes,2026-11-16T22:30:00+00:00,moneyline,,3.7,1.23,,0.0
+2026-11-15T16:15:13+00:00,1029005620,brazil/nbb,São José Basketball,Mogi das Cruzes,2026-11-16T22:30:00+00:00,spread,8.5,1.9,1.81,,0.0
+2026-11-15T16:15:13+00:00,1029005620,brazil/nbb,São José Basketball,Mogi das Cruzes,2026-11-16T22:30:00+00:00,total,161.5,1.84,1.86,,0.0
