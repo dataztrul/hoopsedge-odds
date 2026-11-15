@@ -238,3 +238,10 @@ ts,event_id,group,home,away,start,type,line,dec_1,dec_2,pin_matchup_id,match_sco
 2026-11-15T13:21:53+00:00,1028635011,italy/lega_a,APU Old Wild West Udine,Milano,2026-11-15T17:15:00+00:00,moneyline,,3.15,1.33,1640271027,100.0
 2026-11-15T13:21:53+00:00,1028635011,italy/lega_a,APU Old Wild West Udine,Milano,2026-11-15T17:15:00+00:00,spread,6.5,1.93,1.83,1640271027,100.0
 2026-11-15T13:21:53+00:00,1028635011,italy/lega_a,APU Old Wild West Udine,Milano,2026-11-15T17:15:00+00:00,total,167.5,1.88,1.82,1640271027,100.0
+2026-11-15T13:27:08+00:00,1029866597,belgium/top_division_1,BC Guco Lier,Basics Melsele,2026-11-15T13:32:00+00:00,moneyline,,1.21,3.9,1640265060,100.0
+2026-11-15T13:27:08+00:00,1029866597,belgium/top_division_1,BC Guco Lier,Basics Melsele,2026-11-15T13:32:00+00:00,total,169.5,1.9,1.8,1640265060,100.0
+2026-11-15T13:27:08+00:00,1028646535,germany/bbl,Skyliners Frankfurt,Gladiators Trier,2026-11-15T14:00:00+00:00,spread,4.5,1.88,1.82,1640264924,85.7
+2026-11-15T13:27:08+00:00,1028646535,germany/bbl,Skyliners Frankfurt,Gladiators Trier,2026-11-15T14:00:00+00:00,total,181.5,1.85,1.85,1640264924,85.7
+2026-11-15T13:27:08+00:00,1028750530,spain/liga_acb,Bilbao Basket,UCAM Murcia,2026-11-15T17:00:00+00:00,moneyline,,1.61,2.25,1640271024,100.0
+2026-11-15T13:27:08+00:00,1028750530,spain/liga_acb,Bilbao Basket,UCAM Murcia,2026-11-15T17:00:00+00:00,spread,-2.5,1.81,1.95,1640271024,100.0
+2026-11-15T13:27:08+00:00,1029396582,turkey/tbl,Harem Spor Kulübü,Final Gençlik,2026-11-15T13:32:00+00:00,total,151.5,1.67,2.07,1640264909,100.0
