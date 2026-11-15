@@ -153,3 +153,6 @@ ts,event_id,group,home,away,start,type,line,dec_1,dec_2,pin_matchup_id,match_sco
 2026-11-15T09:26:15+00:00,1029005620,brazil/nbb,São José Basketball,Mogi das Cruzes,2026-11-16T22:30:00+00:00,total,162.5,1.92,1.78,,0.0
 2026-11-15T09:31:31+00:00,1028660327,turkey/super_league,Esenler Erokspor,Bahcesehir Koleji,2026-11-15T10:00:00+00:00,moneyline,,2.33,1.53,1640262006,100.0
 2026-11-15T09:31:31+00:00,1028660327,turkey/super_league,Esenler Erokspor,Bahcesehir Koleji,2026-11-15T10:00:00+00:00,spread,3.5,1.85,1.85,1640262006,100.0
+2026-11-15T09:47:13+00:00,1028660327,turkey/super_league,Esenler Erokspor,Bahcesehir Koleji,2026-11-15T10:00:00+00:00,moneyline,,2.35,1.52,1640262006,100.0
+2026-11-15T09:47:13+00:00,1028660327,turkey/super_league,Esenler Erokspor,Bahcesehir Koleji,2026-11-15T10:00:00+00:00,spread,3.5,1.89,1.81,1640262006,100.0
+2026-11-15T09:47:13+00:00,1028660327,turkey/super_league,Esenler Erokspor,Bahcesehir Koleji,2026-11-15T10:00:00+00:00,total,171.5,1.88,1.82,1640262006,100.0
