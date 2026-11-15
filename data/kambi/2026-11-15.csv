@@ -328,3 +328,6 @@ ts,event_id,group,home,away,start,type,line,dec_1,dec_2,pin_matchup_id,match_sco
 2026-11-15T15:17:42+00:00,1028646531,germany/bbl,FC Bayern München,Syntainics MBC,2026-11-15T15:30:00+00:00,total,169.5,1.91,1.79,,54.8
 2026-11-15T15:17:42+00:00,1029153044,greece/gbl,Aris,Olympiacos BC,2026-11-15T15:30:00+00:00,spread,2.5,1.87,1.82,1640267716,95.0
 2026-11-15T15:17:42+00:00,1029153044,greece/gbl,Aris,Olympiacos BC,2026-11-15T15:30:00+00:00,total,163.5,1.88,1.82,1640267716,95.0
+2026-11-15T15:22:56+00:00,1029877562,spain/liga_acb,Saski Baskonia,Real Madrid Baloncesto,2026-11-15T18:00:00+00:00,moneyline,,3.0,1.37,1640270570,86.4
+2026-11-15T15:22:56+00:00,1029877562,spain/liga_acb,Saski Baskonia,Real Madrid Baloncesto,2026-11-15T18:00:00+00:00,spread,6.5,1.87,1.89,1640270570,86.4
+2026-11-15T15:22:56+00:00,1029877562,spain/liga_acb,Saski Baskonia,Real Madrid Baloncesto,2026-11-15T18:00:00+00:00,total,184.5,1.85,1.85,1640270570,86.4
