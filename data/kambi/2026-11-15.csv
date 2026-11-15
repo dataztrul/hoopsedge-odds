@@ -101,3 +101,6 @@ ts,event_id,group,home,away,start,type,line,dec_1,dec_2,pin_matchup_id,match_sco
 2026-11-15T07:15:42+00:00,1028803970,united_kingdom/super_league_basketball,Cheshire Phoenix,Newcastle Eagles,2026-11-15T17:30:00+00:00,moneyline,,1.46,2.55,1640270683,100.0
 2026-11-15T07:15:42+00:00,1028803970,united_kingdom/super_league_basketball,Cheshire Phoenix,Newcastle Eagles,2026-11-15T17:30:00+00:00,spread,-4.5,1.81,1.89,1640270683,100.0
 2026-11-15T07:15:42+00:00,1028803970,united_kingdom/super_league_basketball,Cheshire Phoenix,Newcastle Eagles,2026-11-15T17:30:00+00:00,total,181.5,1.9,1.8,1640270683,100.0
+2026-11-15T07:25:54+00:00,1028280650,czech_republic/nbl,Sokol Pisek,Ústí nad Labem,2026-11-15T16:00:00+00:00,moneyline,,1.52,2.38,1640267767,81.8
+2026-11-15T07:25:54+00:00,1028280650,czech_republic/nbl,Sokol Pisek,Ústí nad Labem,2026-11-15T16:00:00+00:00,spread,-3.5,1.8,1.9,1640267767,81.8
+2026-11-15T07:25:54+00:00,1028280650,czech_republic/nbl,Sokol Pisek,Ústí nad Labem,2026-11-15T16:00:00+00:00,total,173.5,1.88,1.82,1640267767,81.8
