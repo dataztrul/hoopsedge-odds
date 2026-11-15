@@ -418,3 +418,13 @@ ts,event_id,group,home,away,start,type,line,dec_1,dec_2,pin_matchup_id,match_sco
 2026-11-15T16:56:54+00:00,1028302861,norway/blno,Bærum Basket,Nidaros Jets,2026-11-15T17:00:00+00:00,moneyline,,1.11,5.5,,65.4
 2026-11-15T16:56:54+00:00,1028302861,norway/blno,Bærum Basket,Nidaros Jets,2026-11-15T17:00:00+00:00,spread,-13.5,1.86,1.84,,65.4
 2026-11-15T17:02:06+00:00,1028635011,italy/lega_a,APU Old Wild West Udine,Milano,2026-11-15T17:15:00+00:00,moneyline,,3.2,1.33,1640271027,100.0
+2026-11-15T17:17:42+00:00,1028927676,aba_league,KK Crvena Zvezda Belgrade,KK Cedevita Olimpija,2026-11-15T17:30:00+00:00,spread,-10.5,1.9,1.8,1640270682,100.0
+2026-11-15T17:17:42+00:00,1028927676,aba_league,KK Crvena Zvezda Belgrade,KK Cedevita Olimpija,2026-11-15T17:30:00+00:00,total,170.5,1.89,1.81,1640270682,100.0
+2026-11-15T17:17:42+00:00,1028635010,italy/lega_a,Dolomiti Energia Trento,Virtus Bologna,2026-11-15T18:00:00+00:00,moneyline,,2.95,1.38,1640270569,81.6
+2026-11-15T17:17:42+00:00,1028635010,italy/lega_a,Dolomiti Energia Trento,Virtus Bologna,2026-11-15T18:00:00+00:00,spread,6.5,1.83,1.93,1640270569,81.6
+2026-11-15T17:17:42+00:00,1028635010,italy/lega_a,Dolomiti Energia Trento,Virtus Bologna,2026-11-15T18:00:00+00:00,total,178.5,1.85,1.85,1640270569,81.6
+2026-11-15T17:17:42+00:00,1029642408,turkey/super_league,Fenerbahce SK,Anadolu Efes,2026-11-15T17:30:00+00:00,moneyline,,1.25,3.55,1640271030,100.0
+2026-11-15T17:17:42+00:00,1029642408,turkey/super_league,Fenerbahce SK,Anadolu Efes,2026-11-15T17:30:00+00:00,spread,-8.5,1.86,1.84,1640271030,100.0
+2026-11-15T17:17:42+00:00,1029642408,turkey/super_league,Fenerbahce SK,Anadolu Efes,2026-11-15T17:30:00+00:00,total,166.5,1.9,1.81,1640271030,100.0
+2026-11-15T17:17:42+00:00,1028803970,united_kingdom/super_league_basketball,Cheshire Phoenix,Newcastle Eagles,2026-11-15T17:30:00+00:00,spread,-4.5,1.82,1.88,1640270683,100.0
+2026-11-15T17:17:42+00:00,1028803970,united_kingdom/super_league_basketball,Cheshire Phoenix,Newcastle Eagles,2026-11-15T17:30:00+00:00,total,178.5,1.87,1.83,1640270683,100.0
