@@ -143,3 +143,6 @@ ts,event_id,group,home,away,start,type,line,dec_1,dec_2,pin_matchup_id,match_sco
 2026-11-16T11:32:27+00:00,1028562780,euroleague,FC Barcelona,Paris Basket,2026-11-17T19:30:00+00:00,moneyline,,1.38,3.0,,43.5
 2026-11-16T11:32:27+00:00,1028562780,euroleague,FC Barcelona,Paris Basket,2026-11-17T19:30:00+00:00,spread,-6.5,1.93,1.87,,43.5
 2026-11-16T11:32:27+00:00,1028562780,euroleague,FC Barcelona,Paris Basket,2026-11-17T19:30:00+00:00,total,185.5,1.88,1.92,,43.5
+2026-11-16T11:52:41+00:00,1028562719,euroleague,Maccabi Tel Aviv,Olympiacos BC,2026-11-17T17:00:00+00:00,moneyline,,3.0,1.38,,44.4
+2026-11-16T11:52:41+00:00,1028562719,euroleague,Maccabi Tel Aviv,Olympiacos BC,2026-11-17T17:00:00+00:00,spread,6.5,1.86,1.94,,44.4
+2026-11-16T11:52:41+00:00,1028562719,euroleague,Maccabi Tel Aviv,Olympiacos BC,2026-11-17T17:00:00+00:00,total,174.5,1.91,1.89,,44.4
