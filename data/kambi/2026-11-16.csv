@@ -206,3 +206,8 @@ ts,event_id,group,home,away,start,type,line,dec_1,dec_2,pin_matchup_id,match_sco
 2026-11-16T16:05:57+00:00,1029298355,euroleague,Saski Baskonia,Hapoel Tel Aviv,2026-11-17T19:30:00+00:00,total,179.5,1.89,1.91,,48.4
 2026-11-16T16:05:57+00:00,1029005623,brazil/nbb,Cruzeiro Basquete,Basquete Cearense,2026-11-16T22:30:00+00:00,moneyline,,1.11,5.5,,0.0
 2026-11-16T16:05:57+00:00,1029005623,brazil/nbb,Cruzeiro Basquete,Basquete Cearense,2026-11-16T22:30:00+00:00,spread,-11.5,1.7,2.02,,0.0
+2026-11-16T16:11:04+00:00,1029298355,euroleague,Saski Baskonia,Hapoel Tel Aviv,2026-11-17T19:30:00+00:00,spread,7.5,1.89,1.91,,48.4
+2026-11-16T16:11:04+00:00,1029298355,euroleague,Saski Baskonia,Hapoel Tel Aviv,2026-11-17T19:30:00+00:00,total,179.5,1.88,1.92,,48.4
+2026-11-16T16:11:04+00:00,1029005623,brazil/nbb,Cruzeiro Basquete,Basquete Cearense,2026-11-16T22:30:00+00:00,moneyline,,1.08,6.25,,0.0
+2026-11-16T16:11:04+00:00,1029005623,brazil/nbb,Cruzeiro Basquete,Basquete Cearense,2026-11-16T22:30:00+00:00,spread,-14.5,1.9,1.8,,0.0
+2026-11-16T16:11:04+00:00,1029005623,brazil/nbb,Cruzeiro Basquete,Basquete Cearense,2026-11-16T22:30:00+00:00,total,155.5,1.85,1.85,,0.0
