@@ -224,3 +224,8 @@ ts,event_id,group,home,away,start,type,line,dec_1,dec_2,pin_matchup_id,match_sco
 2026-11-16T16:36:41+00:00,1028562780,euroleague,FC Barcelona,Paris Basket,2026-11-17T19:30:00+00:00,spread,-6.5,1.92,1.88,,43.5
 2026-11-16T16:36:41+00:00,1028562780,euroleague,FC Barcelona,Paris Basket,2026-11-17T19:30:00+00:00,total,185.5,1.87,1.94,,43.5
 2026-11-16T16:36:41+00:00,1028562771,euroleague,Milano,KK Crvena Zvezda Belgrade,2026-11-17T19:30:00+00:00,spread,1.5,1.89,1.91,,39.7
+2026-11-16T16:41:48+00:00,1028562780,euroleague,FC Barcelona,Paris Basket,2026-11-17T19:30:00+00:00,total,185.5,1.86,1.94,,43.5
+2026-11-16T16:41:48+00:00,1028562771,euroleague,Milano,KK Crvena Zvezda Belgrade,2026-11-17T19:30:00+00:00,spread,1.5,1.88,1.92,,39.7
+2026-11-16T16:41:48+00:00,1028927728,aba_league,Borac Čačak,BC Slovan Bratislava,2026-11-16T17:00:00+00:00,moneyline,,1.82,1.88,1640286791,100.0
+2026-11-16T16:41:48+00:00,1028927728,aba_league,Borac Čačak,BC Slovan Bratislava,2026-11-16T17:00:00+00:00,spread,-0.5,1.82,1.88,1640286791,100.0
+2026-11-16T16:41:48+00:00,1028927728,aba_league,Borac Čačak,BC Slovan Bratislava,2026-11-16T17:00:00+00:00,total,167.5,1.82,1.88,1640286791,100.0
