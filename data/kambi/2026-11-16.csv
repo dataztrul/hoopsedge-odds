@@ -7,3 +7,6 @@ ts,event_id,group,home,away,start,type,line,dec_1,dec_2,pin_matchup_id,match_sco
 2026-11-16T01:25:48+00:00,1028405508,eurocup,TÜRK Telekom,La Laguna Tenerife,2026-11-17T16:30:00+00:00,moneyline,,1.74,2.0,,41.9
 2026-11-16T01:25:48+00:00,1028405508,eurocup,TÜRK Telekom,La Laguna Tenerife,2026-11-17T16:30:00+00:00,spread,-1.5,1.88,1.88,,41.9
 2026-11-16T01:25:48+00:00,1028405508,eurocup,TÜRK Telekom,La Laguna Tenerife,2026-11-17T16:30:00+00:00,total,165.5,1.88,1.82,,41.9
+2026-11-16T01:40:54+00:00,1028562719,euroleague,Maccabi Tel Aviv,Olympiacos BC,2026-11-17T17:00:00+00:00,moneyline,,2.95,1.38,,44.4
+2026-11-16T01:40:54+00:00,1028562719,euroleague,Maccabi Tel Aviv,Olympiacos BC,2026-11-17T17:00:00+00:00,spread,6.5,1.87,1.94,,44.4
+2026-11-16T01:40:54+00:00,1028562719,euroleague,Maccabi Tel Aviv,Olympiacos BC,2026-11-17T17:00:00+00:00,total,174.5,1.9,1.9,,44.4
