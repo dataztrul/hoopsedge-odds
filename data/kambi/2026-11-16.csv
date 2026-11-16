@@ -216,3 +216,8 @@ ts,event_id,group,home,away,start,type,line,dec_1,dec_2,pin_matchup_id,match_sco
 2026-11-16T16:21:18+00:00,1029005623,brazil/nbb,Cruzeiro Basquete,Basquete Cearense,2026-11-16T22:30:00+00:00,moneyline,,1.07,6.75,,0.0
 2026-11-16T16:21:18+00:00,1029005623,brazil/nbb,Cruzeiro Basquete,Basquete Cearense,2026-11-16T22:30:00+00:00,spread,-15.5,1.87,1.83,,0.0
 2026-11-16T16:26:25+00:00,1028562713,euroleague,Fenerbahce SK,ASVEL Lyon-Villeurbanne,2026-11-17T18:00:00+00:00,moneyline,,1.16,5.1,,44.4
+2026-11-16T16:31:34+00:00,1028562713,euroleague,Fenerbahce SK,ASVEL Lyon-Villeurbanne,2026-11-17T18:00:00+00:00,moneyline,,1.16,5.2,,44.4
+2026-11-16T16:31:34+00:00,1028562713,euroleague,Fenerbahce SK,ASVEL Lyon-Villeurbanne,2026-11-17T18:00:00+00:00,spread,-11.5,1.9,1.9,,44.4
+2026-11-16T16:31:34+00:00,1028562713,euroleague,Fenerbahce SK,ASVEL Lyon-Villeurbanne,2026-11-17T18:00:00+00:00,total,165.5,1.87,1.93,,44.4
+2026-11-16T16:31:34+00:00,1029005623,brazil/nbb,Cruzeiro Basquete,Basquete Cearense,2026-11-16T22:30:00+00:00,moneyline,,1.05,7.5,,0.0
+2026-11-16T16:31:34+00:00,1029005623,brazil/nbb,Cruzeiro Basquete,Basquete Cearense,2026-11-16T22:30:00+00:00,spread,-16.5,1.85,1.85,,0.0
