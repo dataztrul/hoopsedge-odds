@@ -150,3 +150,5 @@ ts,event_id,group,home,away,start,type,line,dec_1,dec_2,pin_matchup_id,match_sco
 2026-11-16T12:02:48+00:00,1028562719,euroleague,Maccabi Tel Aviv,Olympiacos BC,2026-11-17T17:00:00+00:00,total,174.5,1.89,1.91,,44.4
 2026-11-16T12:02:48+00:00,1029766201,mexico/lnbp,Astros de Jalisco,Soles de Mexicali,2026-11-17T02:15:00+00:00,moneyline,,2.35,1.53,,0.0
 2026-11-16T12:02:48+00:00,1029766201,mexico/lnbp,Astros de Jalisco,Soles de Mexicali,2026-11-17T02:15:00+00:00,spread,1.5,2.16,1.62,,0.0
+2026-11-16T12:12:55+00:00,1028562719,euroleague,Maccabi Tel Aviv,Olympiacos BC,2026-11-17T17:00:00+00:00,moneyline,,2.95,1.38,,44.4
+2026-11-16T12:12:55+00:00,1028562719,euroleague,Maccabi Tel Aviv,Olympiacos BC,2026-11-17T17:00:00+00:00,spread,6.5,1.85,1.95,,44.4
