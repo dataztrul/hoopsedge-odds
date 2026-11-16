@@ -188,3 +188,5 @@ ts,event_id,group,home,away,start,type,line,dec_1,dec_2,pin_matchup_id,match_sco
 2026-11-16T13:54:09+00:00,1029005638,brazil/nbb,Corinthians-SP,CA Paulistano,2026-11-17T23:30:00+00:00,moneyline,,1.55,2.3,,0.0
 2026-11-16T13:54:09+00:00,1029005638,brazil/nbb,Corinthians-SP,CA Paulistano,2026-11-17T23:30:00+00:00,spread,-3.5,1.86,1.84,,0.0
 2026-11-16T14:14:22+00:00,1028562788,euroleague,Besiktas,Real Madrid Baloncesto,2026-11-18T17:00:00+00:00,total,178.5,1.88,1.92,,26.2
+2026-11-16T15:04:59+00:00,1029766201,mexico/lnbp,Astros de Jalisco,Soles de Mexicali,2026-11-17T02:15:00+00:00,moneyline,,2.12,1.64,,0.0
+2026-11-16T15:04:59+00:00,1029766201,mexico/lnbp,Astros de Jalisco,Soles de Mexicali,2026-11-17T02:15:00+00:00,spread,1.5,1.98,1.74,,0.0
