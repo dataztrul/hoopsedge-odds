@@ -257,3 +257,14 @@ ts,event_id,group,home,away,start,type,line,dec_1,dec_2,pin_matchup_id,match_sco
 2026-11-16T17:54:33+00:00,1028304614,poland/plk,Energa Icon Sea Czarni Słupsk,MKS Dabrowa Gornicza,2026-11-16T18:00:00+00:00,spread,2.5,1.87,1.83,1640286806,81.6
 2026-11-16T18:04:55+00:00,1028927839,aba_league,Studentski Centar,Basketclubs Vienna,2026-11-16T19:00:00+00:00,spread,-4.5,1.92,1.79,1640522011,100.0
 2026-11-16T18:04:55+00:00,1028927839,aba_league,Studentski Centar,Basketclubs Vienna,2026-11-16T19:00:00+00:00,total,168.5,1.98,1.74,1640522011,100.0
+2026-11-16T18:15:15+00:00,1028562780,euroleague,FC Barcelona,Paris Basket,2026-11-17T19:30:00+00:00,total,185.5,1.87,1.93,,43.5
+2026-11-16T18:15:15+00:00,1028562784,euroleague,Virtus Bologna,Panathinaikos,2026-11-17T20:00:00+00:00,total,170.5,1.92,1.88,,45.7
+2026-11-16T18:15:15+00:00,1027960455,sweden/basketligan,Södertälje Kings,Borås Basket,2026-11-17T18:04:00+00:00,moneyline,,1.97,1.75,1640324167,91.7
+2026-11-16T18:15:15+00:00,1027960455,sweden/basketligan,Södertälje Kings,Borås Basket,2026-11-17T18:04:00+00:00,spread,1.5,1.85,1.85,1640324167,91.7
+2026-11-16T18:15:15+00:00,1028405621,eurocup,Balkan Botevgrad,Ulm Basketball,2026-11-17T17:00:00+00:00,moneyline,,2.63,1.44,1640315192,100.0
+2026-11-16T18:15:15+00:00,1028405621,eurocup,Balkan Botevgrad,Ulm Basketball,2026-11-17T17:00:00+00:00,spread,6.5,1.67,2.15,1640315192,100.0
+2026-11-16T18:15:15+00:00,1029269530,eurocup,BC Roma,Bahcesehir Koleji,2026-11-17T19:00:00+00:00,moneyline,,2.6,1.45,1640324395,100.0
+2026-11-16T18:15:15+00:00,1029269530,eurocup,BC Roma,Bahcesehir Koleji,2026-11-17T19:00:00+00:00,spread,6.5,1.68,2.1,1640324395,100.0
+2026-11-16T18:15:15+00:00,1029082825,israel/super_league,Maccabi Rishon Le Zion,Hapoel Beer Sheva,2026-11-16T18:20:00+00:00,moneyline,,1.34,3.0,1640284030,97.5
+2026-11-16T18:15:15+00:00,1029082825,israel/super_league,Maccabi Rishon Le Zion,Hapoel Beer Sheva,2026-11-16T18:20:00+00:00,spread,-6.5,1.85,1.85,1640284030,97.5
+2026-11-16T18:15:15+00:00,1029082825,israel/super_league,Maccabi Rishon Le Zion,Hapoel Beer Sheva,2026-11-16T18:20:00+00:00,total,167.5,1.85,1.85,1640284030,97.5
