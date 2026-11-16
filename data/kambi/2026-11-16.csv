@@ -172,3 +172,10 @@ ts,event_id,group,home,away,start,type,line,dec_1,dec_2,pin_matchup_id,match_sco
 2026-11-16T13:13:39+00:00,1028405511,eurocup,London Lions,BC Šiauliai,2026-11-17T19:30:00+00:00,moneyline,,1.19,4.2,1640324296,100.0
 2026-11-16T13:13:39+00:00,1028405511,eurocup,London Lions,BC Šiauliai,2026-11-17T19:30:00+00:00,spread,-9.5,1.85,1.9,1640324296,100.0
 2026-11-16T13:13:39+00:00,1028405511,eurocup,London Lions,BC Šiauliai,2026-11-17T19:30:00+00:00,total,162.5,1.87,1.83,1640324296,100.0
+2026-11-16T13:23:46+00:00,1028562716,euroleague,Žalgiris Kaunas,FC Bayern München,2026-11-17T18:00:00+00:00,spread,-9.5,1.92,1.88,,40.9
+2026-11-16T13:23:46+00:00,1028562716,euroleague,Žalgiris Kaunas,FC Bayern München,2026-11-17T18:00:00+00:00,total,171.5,1.91,1.89,,40.9
+2026-11-16T13:23:46+00:00,1028405511,eurocup,London Lions,BC Šiauliai,2026-11-17T19:30:00+00:00,moneyline,,1.24,3.7,1640324296,100.0
+2026-11-16T13:23:46+00:00,1028405511,eurocup,London Lions,BC Šiauliai,2026-11-17T19:30:00+00:00,spread,-8.5,1.89,1.87,1640324296,100.0
+2026-11-16T13:23:46+00:00,1028405511,eurocup,London Lions,BC Šiauliai,2026-11-17T19:30:00+00:00,total,161.5,1.89,1.81,1640324296,100.0
+2026-11-16T13:23:46+00:00,1029005638,brazil/nbb,Corinthians-SP,CA Paulistano,2026-11-17T23:30:00+00:00,moneyline,,1.67,2.07,,0.0
+2026-11-16T13:23:46+00:00,1029005638,brazil/nbb,Corinthians-SP,CA Paulistano,2026-11-17T23:30:00+00:00,spread,-1.5,1.78,1.93,,0.0
