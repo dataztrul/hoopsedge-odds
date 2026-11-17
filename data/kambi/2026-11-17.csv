@@ -414,3 +414,8 @@ ts,event_id,group,home,away,start,type,line,dec_1,dec_2,pin_matchup_id,match_sco
 2026-11-17T16:06:10+00:00,1027960455,sweden/basketligan,Södertälje Kings,Borås Basket,2026-11-17T18:04:00+00:00,total,163.5,1.77,1.93,1640324167,91.7
 2026-11-17T16:11:18+00:00,1027168435,eurobasket_qualification__w_,Croatia (W),Spain (W),2026-11-17T17:00:00+00:00,spread,12.5,1.9,1.8,,48.8
 2026-11-17T16:11:18+00:00,1027168435,eurobasket_qualification__w_,Croatia (W),Spain (W),2026-11-17T17:00:00+00:00,total,148.5,2.05,1.68,,48.8
+2026-11-17T16:16:27+00:00,1028405508,eurocup,TÜRK Telekom,La Laguna Tenerife,2026-11-17T16:30:00+00:00,spread,-3.5,1.93,1.84,1640315291,100.0
+2026-11-17T16:16:27+00:00,1028405508,eurocup,TÜRK Telekom,La Laguna Tenerife,2026-11-17T16:30:00+00:00,total,163.5,1.88,1.83,1640315291,100.0
+2026-11-17T16:16:27+00:00,1027168423,eurobasket_qualification__w_,Montenegro (W),Israel (W),2026-11-17T17:00:00+00:00,moneyline,,1.95,1.76,,43.3
+2026-11-17T16:16:27+00:00,1027168423,eurobasket_qualification__w_,Montenegro (W),Israel (W),2026-11-17T17:00:00+00:00,spread,1.5,1.81,1.89,,43.3
+2026-11-17T16:16:27+00:00,1029262834,fiba_europe_cup,Yukatel Merkezefendi Belediyesi Denizli Basket,SL Benfica,2026-11-17T17:00:00+00:00,total,169.5,1.95,1.75,1640324426,100.0
