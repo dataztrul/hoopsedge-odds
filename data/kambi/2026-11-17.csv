@@ -263,3 +263,6 @@ ts,event_id,group,home,away,start,type,line,dec_1,dec_2,pin_matchup_id,match_sco
 2026-11-17T10:12:55+00:00,1028722051,fiba_champions_league,Unicaja Málaga,BK Pardubice,2026-11-18T19:30:00+00:00,spread,-21.5,1.84,1.92,1640357031,100.0
 2026-11-17T10:12:55+00:00,1028722051,fiba_champions_league,Unicaja Málaga,BK Pardubice,2026-11-18T19:30:00+00:00,total,168.5,1.86,1.84,1640357031,100.0
 2026-11-17T10:12:55+00:00,1029005638,brazil/nbb,Corinthians-SP,CA Paulistano,2026-11-17T23:30:00+00:00,total,155.5,2.0,1.72,,0.0
+2026-11-17T10:23:04+00:00,1029005638,brazil/nbb,Corinthians-SP,CA Paulistano,2026-11-17T23:30:00+00:00,moneyline,,1.38,2.8,,0.0
+2026-11-17T10:23:04+00:00,1029005638,brazil/nbb,Corinthians-SP,CA Paulistano,2026-11-17T23:30:00+00:00,spread,-5.5,1.83,1.87,,0.0
+2026-11-17T10:23:04+00:00,1029005638,brazil/nbb,Corinthians-SP,CA Paulistano,2026-11-17T23:30:00+00:00,total,154.5,1.98,1.73,,0.0
