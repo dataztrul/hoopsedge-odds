@@ -622,3 +622,5 @@ ts,event_id,group,home,away,start,type,line,dec_1,dec_2,pin_matchup_id,match_sco
 2026-11-17T21:39:20+00:00,1028405471,eurocup,KK Cedevita Olimpija,San Pablo Burgos,2026-11-18T17:30:00+00:00,moneyline,,1.36,2.95,,40.7
 2026-11-17T21:39:20+00:00,1028405471,eurocup,KK Cedevita Olimpija,San Pablo Burgos,2026-11-18T17:30:00+00:00,spread,-5.5,1.81,1.96,,40.7
 2026-11-17T21:39:20+00:00,1029005638,brazil/nbb,Corinthians-SP,CA Paulistano,2026-11-17T23:30:00+00:00,total,152.5,2.0,1.72,,0.0
+2026-11-17T22:24:46+00:00,1029005628,brazil/nbb,Unifacisa,Botafogo,2026-11-17T22:30:00+00:00,spread,-11.5,1.82,1.89,,31.7
+2026-11-17T22:24:46+00:00,1029005628,brazil/nbb,Unifacisa,Botafogo,2026-11-17T22:30:00+00:00,total,159.5,1.96,1.75,,31.7
