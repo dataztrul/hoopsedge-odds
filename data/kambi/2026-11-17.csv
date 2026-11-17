@@ -385,3 +385,7 @@ ts,event_id,group,home,away,start,type,line,dec_1,dec_2,pin_matchup_id,match_sco
 2026-11-17T15:45:37+00:00,1027168435,eurobasket_qualification__w_,Croatia (W),Spain (W),2026-11-17T17:00:00+00:00,moneyline,,5.75,1.1,,48.8
 2026-11-17T15:45:37+00:00,1027168435,eurobasket_qualification__w_,Croatia (W),Spain (W),2026-11-17T17:00:00+00:00,spread,12.5,1.91,1.8,,48.8
 2026-11-17T15:45:37+00:00,1027168435,eurobasket_qualification__w_,Croatia (W),Spain (W),2026-11-17T17:00:00+00:00,total,148.5,1.93,1.78,,48.8
+2026-11-17T15:50:45+00:00,1027168420,eurobasket_qualification__w_,Poland (W),Turkey (W),2026-11-17T16:00:00+00:00,spread,3.5,1.83,1.87,,46.8
+2026-11-17T15:50:45+00:00,1027168420,eurobasket_qualification__w_,Poland (W),Turkey (W),2026-11-17T16:00:00+00:00,total,136.5,1.84,1.86,,46.8
+2026-11-17T15:50:45+00:00,1027168423,eurobasket_qualification__w_,Montenegro (W),Israel (W),2026-11-17T17:00:00+00:00,moneyline,,1.81,1.9,,43.3
+2026-11-17T15:50:45+00:00,1027168423,eurobasket_qualification__w_,Montenegro (W),Israel (W),2026-11-17T17:00:00+00:00,spread,-0.5,1.81,1.9,,43.3
