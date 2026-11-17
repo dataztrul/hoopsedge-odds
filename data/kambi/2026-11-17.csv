@@ -1,0 +1,4 @@
+ts,event_id,group,home,away,start,type,line,dec_1,dec_2,pin_matchup_id,match_score
+2026-11-17T00:10:28+00:00,1027960455,sweden/basketligan,Södertälje Kings,Borås Basket,2026-11-17T18:04:00+00:00,moneyline,,1.67,2.07,1640324167,91.7
+2026-11-17T00:10:28+00:00,1027960455,sweden/basketligan,Södertälje Kings,Borås Basket,2026-11-17T18:04:00+00:00,spread,-1.5,1.78,1.93,1640324167,91.7
+2026-11-17T00:10:28+00:00,1027960455,sweden/basketligan,Södertälje Kings,Borås Basket,2026-11-17T18:04:00+00:00,total,163.5,1.88,1.82,1640324167,91.7
