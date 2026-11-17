@@ -116,3 +116,28 @@ ts,event_id,group,home,away,start,type,line,dec_1,dec_2,pin_matchup_id,match_sco
 2026-11-17T07:15:01+00:00,1029893720,france/elite_2,Rouen,Fos Ouest Provence Basket,2026-11-17T19:00:00+00:00,moneyline,,1.11,5.2,1640474245,100.0
 2026-11-17T07:15:01+00:00,1029893720,france/elite_2,Rouen,Fos Ouest Provence Basket,2026-11-17T19:00:00+00:00,spread,-11.5,1.78,1.86,1640474245,100.0
 2026-11-17T07:15:01+00:00,1029893720,france/elite_2,Rouen,Fos Ouest Provence Basket,2026-11-17T19:00:00+00:00,total,161.5,1.87,1.78,1640474245,100.0
+2026-11-17T07:30:09+00:00,1028405508,eurocup,TÜRK Telekom,La Laguna Tenerife,2026-11-17T16:30:00+00:00,moneyline,,1.68,2.08,1640315291,100.0
+2026-11-17T07:30:09+00:00,1028405508,eurocup,TÜRK Telekom,La Laguna Tenerife,2026-11-17T16:30:00+00:00,spread,-1.5,1.82,1.95,1640315291,100.0
+2026-11-17T07:30:09+00:00,1028405508,eurocup,TÜRK Telekom,La Laguna Tenerife,2026-11-17T16:30:00+00:00,total,163.5,1.87,1.83,1640315291,100.0
+2026-11-17T07:30:09+00:00,1028405468,eurocup,Rostock Seawolves,Hapoel Jerusalem,2026-11-17T19:00:00+00:00,moneyline,,4.6,1.16,1640324182,100.0
+2026-11-17T07:30:09+00:00,1028405468,eurocup,Rostock Seawolves,Hapoel Jerusalem,2026-11-17T19:00:00+00:00,spread,10.5,1.9,1.86,1640324182,100.0
+2026-11-17T07:30:09+00:00,1028405468,eurocup,Rostock Seawolves,Hapoel Jerusalem,2026-11-17T19:00:00+00:00,total,165.5,1.83,1.87,1640324182,100.0
+2026-11-17T07:30:09+00:00,1029269530,eurocup,BC Roma,Bahcesehir Koleji,2026-11-17T19:00:00+00:00,moneyline,,2.8,1.4,1640324395,100.0
+2026-11-17T07:30:09+00:00,1029269530,eurocup,BC Roma,Bahcesehir Koleji,2026-11-17T19:00:00+00:00,spread,5.5,1.89,1.87,1640324395,100.0
+2026-11-17T07:30:09+00:00,1029269530,eurocup,BC Roma,Bahcesehir Koleji,2026-11-17T19:00:00+00:00,total,176.5,1.82,1.88,1640324395,100.0
+2026-11-17T07:30:09+00:00,1028405472,eurocup,Aris,Le Mans BC,2026-11-18T18:00:00+00:00,moneyline,,1.1,6.0,,40.0
+2026-11-17T07:30:09+00:00,1028405472,eurocup,Aris,Le Mans BC,2026-11-18T18:00:00+00:00,spread,-13.5,1.91,1.85,,40.0
+2026-11-17T07:30:09+00:00,1028405472,eurocup,Aris,Le Mans BC,2026-11-18T18:00:00+00:00,total,169.5,1.87,1.83,,40.0
+2026-11-17T07:30:09+00:00,1028492487,fiba_champions_league,BC Juventus,Unahotels Reggio Emilia,2026-11-17T18:00:00+00:00,moneyline,,2.02,1.75,1640324166,72.6
+2026-11-17T07:30:09+00:00,1028492487,fiba_champions_league,BC Juventus,Unahotels Reggio Emilia,2026-11-17T18:00:00+00:00,spread,0.5,2.02,1.75,1640324166,72.6
+2026-11-17T07:30:09+00:00,1028492487,fiba_champions_league,BC Juventus,Unahotels Reggio Emilia,2026-11-17T18:00:00+00:00,total,166.5,1.88,1.82,1640324166,72.6
+2026-11-17T07:30:09+00:00,1028280655,czech_republic/nbl,Lokomotiva Plzeň,Ústí nad Labem,2026-11-18T17:00:00+00:00,moneyline,,7.5,1.04,1640349262,100.0
+2026-11-17T07:30:09+00:00,1028280655,czech_republic/nbl,Lokomotiva Plzeň,Ústí nad Labem,2026-11-18T17:00:00+00:00,spread,16.5,1.87,1.83,1640349262,100.0
+2026-11-17T07:30:09+00:00,1028280655,czech_republic/nbl,Lokomotiva Plzeň,Ústí nad Labem,2026-11-18T17:00:00+00:00,total,172.5,1.87,1.83,1640349262,100.0
+2026-11-17T07:30:09+00:00,1028280628,czech_republic/nbl,USK Praha,BK Děčín,2026-11-18T17:00:00+00:00,moneyline,,1.66,2.08,1640349740,86.8
+2026-11-17T07:30:09+00:00,1028280628,czech_republic/nbl,USK Praha,BK Děčín,2026-11-18T17:00:00+00:00,spread,-2.5,1.89,1.81,1640349740,86.8
+2026-11-17T07:30:09+00:00,1028280628,czech_republic/nbl,USK Praha,BK Děčín,2026-11-18T17:00:00+00:00,total,165.5,1.85,1.85,1640349740,86.8
+2026-11-17T07:30:09+00:00,1027224019,eurobasket_qualification__w_,Ukraine (W),France (W),2026-11-17T13:00:00+00:00,spread,39.5,1.9,1.8,,41.7
+2026-11-17T07:30:09+00:00,1027224019,eurobasket_qualification__w_,Ukraine (W),France (W),2026-11-17T13:00:00+00:00,total,154.5,1.95,1.76,,41.7
+2026-11-17T07:30:09+00:00,1029827440,eurobasket_qualification__w_,Estonia (W),Romania (W),2026-11-17T15:30:00+00:00,spread,-6.5,1.83,1.88,,50.5
+2026-11-17T07:30:09+00:00,1029827440,eurobasket_qualification__w_,Estonia (W),Romania (W),2026-11-17T15:30:00+00:00,total,133.5,1.84,1.86,,50.5
