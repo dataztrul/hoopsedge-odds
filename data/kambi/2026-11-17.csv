@@ -561,3 +561,20 @@ ts,event_id,group,home,away,start,type,line,dec_1,dec_2,pin_matchup_id,match_sco
 2026-11-17T18:45:53+00:00,1028475207,france/elite_2,Evreux,Denain,2026-11-17T19:00:00+00:00,spread,4.5,1.79,1.85,1640324181,100.0
 2026-11-17T18:45:53+00:00,1029893720,france/elite_2,Rouen,Fos Ouest Provence Basket,2026-11-17T19:00:00+00:00,moneyline,,1.11,5.1,1640474245,100.0
 2026-11-17T18:45:53+00:00,1029893720,france/elite_2,Rouen,Fos Ouest Provence Basket,2026-11-17T19:00:00+00:00,total,160.5,1.79,1.85,1640474245,100.0
+2026-11-17T18:51:01+00:00,1029269530,eurocup,BC Roma,Bahcesehir Koleji,2026-11-17T19:00:00+00:00,total,179.5,1.84,1.86,1640324395,100.0
+2026-11-17T18:51:01+00:00,1029339740,fiba_champions_league,Antwerp Giants,Salon Vilpas,2026-11-17T19:00:00+00:00,moneyline,,1.15,5.0,1640324183,100.0
+2026-11-17T18:51:01+00:00,1029339740,fiba_champions_league,Antwerp Giants,Salon Vilpas,2026-11-17T19:00:00+00:00,spread,-11.5,1.87,1.89,1640324183,100.0
+2026-11-17T18:51:01+00:00,1029339740,fiba_champions_league,Antwerp Giants,Salon Vilpas,2026-11-17T19:00:00+00:00,total,169.5,1.84,1.86,1640324183,100.0
+2026-11-17T18:51:01+00:00,1027224022,eurobasket_qualification__w_,Great Britain (W),Luxembourg (W),2026-11-17T19:00:00+00:00,spread,-22.5,1.89,1.81,,45.3
+2026-11-17T18:51:01+00:00,1027224022,eurobasket_qualification__w_,Great Britain (W),Luxembourg (W),2026-11-17T19:00:00+00:00,total,141.5,1.95,1.77,,45.3
+2026-11-17T18:51:01+00:00,1029336817,fiba_europe_cup,Nancy SLUC,Pärnu Sadam,2026-11-17T19:00:00+00:00,spread,-22.5,1.83,1.87,1640324293,100.0
+2026-11-17T18:51:01+00:00,1029336817,fiba_europe_cup,Nancy SLUC,Pärnu Sadam,2026-11-17T19:00:00+00:00,total,158.5,1.87,1.83,1640324293,100.0
+2026-11-17T18:51:01+00:00,1028475167,france/elite_2,ADA Blois Basket 41,Alliance Sport Alsace,2026-11-17T19:00:00+00:00,moneyline,,1.12,4.8,1640546210,79.3
+2026-11-17T18:51:01+00:00,1028475167,france/elite_2,ADA Blois Basket 41,Alliance Sport Alsace,2026-11-17T19:00:00+00:00,spread,-11.5,1.79,1.85,1640546210,79.3
+2026-11-17T18:51:01+00:00,1028475167,france/elite_2,ADA Blois Basket 41,Alliance Sport Alsace,2026-11-17T19:00:00+00:00,total,173.5,1.79,1.86,1640546210,79.3
+2026-11-17T18:51:01+00:00,1028475205,france/elite_2,Hyères-Toulon,Nantes,2026-11-17T19:00:00+00:00,moneyline,,1.6,2.12,1640324386,100.0
+2026-11-17T18:51:01+00:00,1028475205,france/elite_2,Hyères-Toulon,Nantes,2026-11-17T19:00:00+00:00,spread,-2.5,1.82,1.82,1640324386,100.0
+2026-11-17T18:51:01+00:00,1028475191,france/elite_2,Châlons-Reims,Stade Rochelais Basket,2026-11-17T19:00:00+00:00,moneyline,,1.47,2.4,1640324387,100.0
+2026-11-17T18:51:01+00:00,1028475191,france/elite_2,Châlons-Reims,Stade Rochelais Basket,2026-11-17T19:00:00+00:00,spread,-4.5,1.89,1.76,1640324387,100.0
+2026-11-17T18:51:01+00:00,1028475203,france/elite_2,Orléans Loiret Basket,Aix-Maurienne,2026-11-17T19:00:00+00:00,spread,-12.5,1.84,1.79,1640324284,100.0
+2026-11-17T18:51:01+00:00,1028475203,france/elite_2,Orléans Loiret Basket,Aix-Maurienne,2026-11-17T19:00:00+00:00,total,171.5,1.86,1.78,1640324284,100.0
