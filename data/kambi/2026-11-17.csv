@@ -479,3 +479,9 @@ ts,event_id,group,home,away,start,type,line,dec_1,dec_2,pin_matchup_id,match_sco
 2026-11-17T17:23:24+00:00,1029766199,mexico/lnbp,Astros de Jalisco,Soles de Mexicali,2026-11-18T02:15:00+00:00,moneyline,,2.6,1.44,,0.0
 2026-11-17T17:23:24+00:00,1029766199,mexico/lnbp,Astros de Jalisco,Soles de Mexicali,2026-11-18T02:15:00+00:00,spread,4.5,1.89,1.82,,0.0
 2026-11-17T17:23:24+00:00,1029766199,mexico/lnbp,Astros de Jalisco,Soles de Mexicali,2026-11-18T02:15:00+00:00,total,158.5,1.98,1.73,,0.0
+2026-11-17T17:38:53+00:00,1027960455,sweden/basketligan,Södertälje Kings,Borås Basket,2026-11-17T18:04:00+00:00,moneyline,,1.98,1.73,1640324167,91.7
+2026-11-17T17:38:53+00:00,1027960455,sweden/basketligan,Södertälje Kings,Borås Basket,2026-11-17T18:04:00+00:00,spread,0.5,1.98,1.73,1640324167,91.7
+2026-11-17T17:38:53+00:00,1027960459,sweden/basketligan,Norrköping Dolphins,Sloga Uppsala,2026-11-17T18:04:00+00:00,spread,-26.5,1.95,1.76,1640324370,100.0
+2026-11-17T17:38:53+00:00,1027960459,sweden/basketligan,Norrköping Dolphins,Sloga Uppsala,2026-11-17T18:04:00+00:00,total,177.5,1.9,1.81,1640324370,100.0
+2026-11-17T17:38:53+00:00,1029766199,mexico/lnbp,Astros de Jalisco,Soles de Mexicali,2026-11-18T02:15:00+00:00,moneyline,,2.35,1.53,,0.0
+2026-11-17T17:38:53+00:00,1029766199,mexico/lnbp,Astros de Jalisco,Soles de Mexicali,2026-11-18T02:15:00+00:00,spread,3.5,1.86,1.84,,0.0
