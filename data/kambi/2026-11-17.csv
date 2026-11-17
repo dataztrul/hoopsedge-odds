@@ -525,3 +525,4 @@ ts,event_id,group,home,away,start,type,line,dec_1,dec_2,pin_matchup_id,match_sco
 2026-11-17T18:04:39+00:00,1027960446,sweden/basketligan,Högsbo Basket,Uppsala Basket,2026-11-17T18:10:00+00:00,total,168.5,1.85,1.85,1640324371,100.0
 2026-11-17T18:04:39+00:00,1028405468,eurocup,Rostock Seawolves,Hapoel Jerusalem,2026-11-17T19:00:00+00:00,moneyline,,5.1,1.14,1640324182,100.0
 2026-11-17T18:04:39+00:00,1028405468,eurocup,Rostock Seawolves,Hapoel Jerusalem,2026-11-17T19:00:00+00:00,spread,11.5,1.9,1.86,1640324182,100.0
+2026-11-17T18:09:49+00:00,1029190939,denmark/basketligaen,Team Fog Næstved,Gladsaxe,2026-11-17T18:30:00+00:00,total,176.5,1.89,1.81,1640324382,95.5
