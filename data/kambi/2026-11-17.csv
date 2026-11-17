@@ -329,3 +329,5 @@ ts,event_id,group,home,away,start,type,line,dec_1,dec_2,pin_matchup_id,match_sco
 2026-11-17T14:17:44+00:00,1028405468,eurocup,Rostock Seawolves,Hapoel Jerusalem,2026-11-17T19:00:00+00:00,spread,10.5,1.86,1.9,1640324182,100.0
 2026-11-17T14:17:44+00:00,1027224031,eurobasket_qualification__w_,Greece (W),Netherlands (W),2026-11-17T16:00:00+00:00,moneyline,,1.24,3.6,,42.4
 2026-11-17T14:17:44+00:00,1027224031,eurobasket_qualification__w_,Greece (W),Netherlands (W),2026-11-17T16:00:00+00:00,spread,-9.5,2.08,1.66,,42.4
+2026-11-17T14:18:21+00:00,1029298355,euroleague,Saski Baskonia,Hapoel Tel Aviv,2026-11-17T19:30:00+00:00,moneyline,,2.95,1.38,1640291726,86.4
+2026-11-17T14:18:21+00:00,1029298355,euroleague,Saski Baskonia,Hapoel Tel Aviv,2026-11-17T19:30:00+00:00,spread,6.5,1.85,1.96,1640291726,86.4
