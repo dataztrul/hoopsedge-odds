@@ -605,3 +605,6 @@ ts,event_id,group,home,away,start,type,line,dec_1,dec_2,pin_matchup_id,match_sco
 2026-11-17T19:37:13+00:00,1028562782,euroleague,Partizan Belgrade,Valencia Basket Club,2026-11-17T19:45:00+00:00,spread,-0.5,1.96,1.84,1640284077,100.0
 2026-11-17T19:42:20+00:00,1029005628,brazil/nbb,Unifacisa,Botafogo,2026-11-17T22:30:00+00:00,spread,-11.5,1.8,1.91,,31.7
 2026-11-17T19:42:20+00:00,1029005628,brazil/nbb,Unifacisa,Botafogo,2026-11-17T22:30:00+00:00,total,160.5,1.93,1.77,,31.7
+2026-11-17T19:47:27+00:00,1028562784,euroleague,Virtus Bologna,Panathinaikos,2026-11-17T20:00:00+00:00,total,170.5,1.9,1.9,1640286859,100.0
+2026-11-17T19:47:27+00:00,1029005638,brazil/nbb,Corinthians-SP,CA Paulistano,2026-11-17T23:30:00+00:00,spread,-5.5,1.85,1.85,,0.0
+2026-11-17T19:47:27+00:00,1029005638,brazil/nbb,Corinthians-SP,CA Paulistano,2026-11-17T23:30:00+00:00,total,152.5,1.98,1.73,,0.0
