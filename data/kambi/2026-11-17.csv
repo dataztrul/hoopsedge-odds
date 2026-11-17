@@ -14,3 +14,9 @@ ts,event_id,group,home,away,start,type,line,dec_1,dec_2,pin_matchup_id,match_sco
 2026-11-17T01:26:13+00:00,1029766201,mexico/lnbp,Astros de Jalisco,Soles de Mexicali,2026-11-17T02:15:00+00:00,moneyline,,1.85,1.85,,0.0
 2026-11-17T01:26:13+00:00,1029766201,mexico/lnbp,Astros de Jalisco,Soles de Mexicali,2026-11-17T02:15:00+00:00,spread,-0.5,1.85,1.85,,0.0
 2026-11-17T01:26:13+00:00,1029766201,mexico/lnbp,Astros de Jalisco,Soles de Mexicali,2026-11-17T02:15:00+00:00,total,159.5,1.9,1.8,,0.0
+2026-11-17T03:43:05+00:00,1028492429,fiba_champions_league,Bnei Herzliya,Baskets Bonn,2026-11-17T17:30:00+00:00,moneyline,,3.3,1.3,1640315308,100.0
+2026-11-17T03:43:05+00:00,1028492429,fiba_champions_league,Bnei Herzliya,Baskets Bonn,2026-11-17T17:30:00+00:00,spread,7.5,1.85,1.91,1640315308,100.0
+2026-11-17T03:43:05+00:00,1028492429,fiba_champions_league,Bnei Herzliya,Baskets Bonn,2026-11-17T17:30:00+00:00,total,168.5,1.85,1.85,1640315308,100.0
+2026-11-17T03:43:05+00:00,1029339740,fiba_champions_league,Antwerp Giants,Salon Vilpas,2026-11-17T19:00:00+00:00,moneyline,,1.18,4.6,1640324183,100.0
+2026-11-17T03:43:05+00:00,1029339740,fiba_champions_league,Antwerp Giants,Salon Vilpas,2026-11-17T19:00:00+00:00,spread,-10.5,1.85,1.91,1640324183,100.0
+2026-11-17T03:43:05+00:00,1029339740,fiba_champions_league,Antwerp Giants,Salon Vilpas,2026-11-17T19:00:00+00:00,total,168.5,1.85,1.85,1640324183,100.0
