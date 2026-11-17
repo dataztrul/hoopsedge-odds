@@ -597,3 +597,5 @@ ts,event_id,group,home,away,start,type,line,dec_1,dec_2,pin_matchup_id,match_sco
 2026-11-17T19:16:40+00:00,1028475170,france/elite_2,Antibes,Le Havre,2026-11-17T19:30:00+00:00,moneyline,,1.3,3.0,1640513899,100.0
 2026-11-17T19:16:40+00:00,1028475170,france/elite_2,Antibes,Le Havre,2026-11-17T19:30:00+00:00,spread,-6.5,1.77,1.87,1640513899,100.0
 2026-11-17T19:21:48+00:00,1028405511,eurocup,London Lions,BC Šiauliai,2026-11-17T19:30:00+00:00,spread,-9.5,1.85,1.91,1640324296,100.0
+2026-11-17T19:26:56+00:00,1028492437,fiba_champions_league,Joventut Badalona,Porto,2026-11-17T19:32:00+00:00,moneyline,,1.05,8.5,1640324405,100.0
+2026-11-17T19:26:56+00:00,1028492437,fiba_champions_league,Joventut Badalona,Porto,2026-11-17T19:32:00+00:00,spread,-16.5,1.79,1.98,1640324405,100.0
