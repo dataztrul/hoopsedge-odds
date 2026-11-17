@@ -542,3 +542,22 @@ ts,event_id,group,home,away,start,type,line,dec_1,dec_2,pin_matchup_id,match_sco
 2026-11-17T18:30:27+00:00,1029336817,fiba_europe_cup,Nancy SLUC,Pärnu Sadam,2026-11-17T19:00:00+00:00,total,158.5,1.88,1.82,1640324293,100.0
 2026-11-17T18:35:35+00:00,1028405468,eurocup,Rostock Seawolves,Hapoel Jerusalem,2026-11-17T19:00:00+00:00,moneyline,,4.4,1.18,1640324182,100.0
 2026-11-17T18:35:35+00:00,1028405468,eurocup,Rostock Seawolves,Hapoel Jerusalem,2026-11-17T19:00:00+00:00,spread,10.5,1.86,1.9,1640324182,100.0
+2026-11-17T18:45:53+00:00,1029269530,eurocup,BC Roma,Bahcesehir Koleji,2026-11-17T19:00:00+00:00,moneyline,,3.2,1.32,1640324395,100.0
+2026-11-17T18:45:53+00:00,1029269530,eurocup,BC Roma,Bahcesehir Koleji,2026-11-17T19:00:00+00:00,spread,7.5,1.84,1.92,1640324395,100.0
+2026-11-17T18:45:53+00:00,1029269530,eurocup,BC Roma,Bahcesehir Koleji,2026-11-17T19:00:00+00:00,total,178.5,1.87,1.83,1640324395,100.0
+2026-11-17T18:45:53+00:00,1027223989,eurobasket_qualification__w_,Portugal (W),Germany (W),2026-11-17T19:00:00+00:00,spread,7.5,1.83,1.87,,41.3
+2026-11-17T18:45:53+00:00,1027223989,eurobasket_qualification__w_,Portugal (W),Germany (W),2026-11-17T19:00:00+00:00,total,137.5,1.84,1.86,,41.3
+2026-11-17T18:45:53+00:00,1029299379,fiba_europe_cup,Elan Chalon,Manisa Buyuksehir Belediye,2026-11-17T19:00:00+00:00,moneyline,,1.28,3.35,,56.2
+2026-11-17T18:45:53+00:00,1029299379,fiba_europe_cup,Elan Chalon,Manisa Buyuksehir Belediye,2026-11-17T19:00:00+00:00,spread,-7.5,1.84,1.86,,56.2
+2026-11-17T18:45:53+00:00,1029299379,fiba_europe_cup,Elan Chalon,Manisa Buyuksehir Belediye,2026-11-17T19:00:00+00:00,total,166.5,1.8,1.91,,56.2
+2026-11-17T18:45:53+00:00,1029504618,france/elite_2,Poitiers Basket 86,Quimper,2026-11-17T19:00:00+00:00,spread,-6.5,1.77,1.87,1640515635,100.0
+2026-11-17T18:45:53+00:00,1029504618,france/elite_2,Poitiers Basket 86,Quimper,2026-11-17T19:00:00+00:00,total,166.5,1.79,1.86,1640515635,100.0
+2026-11-17T18:45:53+00:00,1029507067,france/elite_2,Caen Calvados,Levallois Basketball,2026-11-17T19:00:00+00:00,spread,-1.5,1.76,1.88,1640513889,100.0
+2026-11-17T18:45:53+00:00,1029507067,france/elite_2,Caen Calvados,Levallois Basketball,2026-11-17T19:00:00+00:00,total,166.5,1.8,1.84,1640513889,100.0
+2026-11-17T18:45:53+00:00,1028475191,france/elite_2,Châlons-Reims,Stade Rochelais Basket,2026-11-17T19:00:00+00:00,moneyline,,1.38,2.7,1640324387,100.0
+2026-11-17T18:45:53+00:00,1028475191,france/elite_2,Châlons-Reims,Stade Rochelais Basket,2026-11-17T19:00:00+00:00,spread,-5.5,1.86,1.78,1640324387,100.0
+2026-11-17T18:45:53+00:00,1028475191,france/elite_2,Châlons-Reims,Stade Rochelais Basket,2026-11-17T19:00:00+00:00,total,163.5,1.83,1.81,1640324387,100.0
+2026-11-17T18:45:53+00:00,1028475207,france/elite_2,Evreux,Denain,2026-11-17T19:00:00+00:00,moneyline,,2.43,1.45,1640324181,100.0
+2026-11-17T18:45:53+00:00,1028475207,france/elite_2,Evreux,Denain,2026-11-17T19:00:00+00:00,spread,4.5,1.79,1.85,1640324181,100.0
+2026-11-17T18:45:53+00:00,1029893720,france/elite_2,Rouen,Fos Ouest Provence Basket,2026-11-17T19:00:00+00:00,moneyline,,1.11,5.1,1640474245,100.0
+2026-11-17T18:45:53+00:00,1029893720,france/elite_2,Rouen,Fos Ouest Provence Basket,2026-11-17T19:00:00+00:00,total,160.5,1.79,1.85,1640474245,100.0
