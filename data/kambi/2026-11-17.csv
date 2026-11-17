@@ -198,3 +198,32 @@ ts,event_id,group,home,away,start,type,line,dec_1,dec_2,pin_matchup_id,match_sco
 2026-11-17T08:30:46+00:00,1028405499,eurocup,Skyliners Frankfurt,Umana Reyer Venezia,2026-11-18T18:30:00+00:00,moneyline,,3.1,1.33,,38.0
 2026-11-17T08:30:46+00:00,1028405499,eurocup,Skyliners Frankfurt,Umana Reyer Venezia,2026-11-18T18:30:00+00:00,spread,6.5,1.92,1.84,,38.0
 2026-11-17T08:30:46+00:00,1028405499,eurocup,Skyliners Frankfurt,Umana Reyer Venezia,2026-11-18T18:30:00+00:00,total,174.5,1.86,1.84,,38.0
+2026-11-17T08:51:05+00:00,1028562719,euroleague,Maccabi Tel Aviv,Olympiacos BC,2026-11-17T17:00:00+00:00,moneyline,,3.2,1.35,1640282951,95.0
+2026-11-17T08:51:05+00:00,1028562719,euroleague,Maccabi Tel Aviv,Olympiacos BC,2026-11-17T17:00:00+00:00,spread,6.5,1.94,1.86,1640282951,95.0
+2026-11-17T08:51:05+00:00,1029298355,euroleague,Saski Baskonia,Hapoel Tel Aviv,2026-11-17T19:30:00+00:00,total,178.5,1.92,1.88,1640291726,86.4
+2026-11-17T08:51:05+00:00,1027224031,eurobasket_qualification__w_,Greece (W),Netherlands (W),2026-11-17T16:00:00+00:00,moneyline,,1.15,4.7,,42.4
+2026-11-17T08:51:05+00:00,1027224031,eurobasket_qualification__w_,Greece (W),Netherlands (W),2026-11-17T16:00:00+00:00,spread,-10.5,1.86,1.84,,42.4
+2026-11-17T08:51:05+00:00,1027224031,eurobasket_qualification__w_,Greece (W),Netherlands (W),2026-11-17T16:00:00+00:00,total,157.5,1.88,1.82,,42.4
+2026-11-17T08:51:05+00:00,1027168420,eurobasket_qualification__w_,Poland (W),Turkey (W),2026-11-17T16:00:00+00:00,moneyline,,2.32,1.54,,46.8
+2026-11-17T08:51:05+00:00,1027168420,eurobasket_qualification__w_,Poland (W),Turkey (W),2026-11-17T16:00:00+00:00,spread,3.5,1.82,1.88,,46.8
+2026-11-17T08:51:05+00:00,1027223992,eurobasket_qualification__w_,Hungary (W),Denmark (W),2026-11-17T17:00:00+00:00,spread,-17.5,1.85,1.85,,41.7
+2026-11-17T08:51:05+00:00,1027223992,eurobasket_qualification__w_,Hungary (W),Denmark (W),2026-11-17T17:00:00+00:00,total,145.5,1.85,1.85,,41.7
+2026-11-17T08:51:05+00:00,1027224030,eurobasket_qualification__w_,Slovakia (W),Serbia (W),2026-11-17T17:00:00+00:00,moneyline,,8.0,1.03,,42.0
+2026-11-17T08:51:05+00:00,1027224030,eurobasket_qualification__w_,Slovakia (W),Serbia (W),2026-11-17T17:00:00+00:00,spread,15.5,1.81,1.89,,42.0
+2026-11-17T08:51:05+00:00,1027224030,eurobasket_qualification__w_,Slovakia (W),Serbia (W),2026-11-17T17:00:00+00:00,total,149.5,1.89,1.82,,42.0
+2026-11-17T08:51:05+00:00,1027224046,eurobasket_qualification__w_,Slovenia (W),Austria (W),2026-11-17T17:00:00+00:00,spread,-21.5,1.83,1.87,,48.5
+2026-11-17T08:51:05+00:00,1027224046,eurobasket_qualification__w_,Slovenia (W),Austria (W),2026-11-17T17:00:00+00:00,total,138.5,1.84,1.86,,48.5
+2026-11-17T08:51:05+00:00,1027224045,eurobasket_qualification__w_,Latvia (W),Italy (W),2026-11-17T17:00:00+00:00,moneyline,,2.55,1.45,,38.5
+2026-11-17T08:51:05+00:00,1027224045,eurobasket_qualification__w_,Latvia (W),Italy (W),2026-11-17T17:00:00+00:00,spread,4.5,1.82,1.88,,38.5
+2026-11-17T08:51:05+00:00,1027224045,eurobasket_qualification__w_,Latvia (W),Italy (W),2026-11-17T17:00:00+00:00,total,136.5,1.91,1.8,,38.5
+2026-11-17T08:51:05+00:00,1029827452,eurobasket_qualification__w_,Norway (W),Bosnia & Herzegovina (W),2026-11-17T17:00:00+00:00,moneyline,,1.63,2.15,,40.9
+2026-11-17T08:51:05+00:00,1029827452,eurobasket_qualification__w_,Norway (W),Bosnia & Herzegovina (W),2026-11-17T17:00:00+00:00,spread,-2.5,1.87,1.83,,40.9
+2026-11-17T08:51:05+00:00,1029827452,eurobasket_qualification__w_,Norway (W),Bosnia & Herzegovina (W),2026-11-17T17:00:00+00:00,total,126.5,1.76,1.95,,40.9
+2026-11-17T08:51:05+00:00,1029827442,eurobasket_qualification__w_,Switzerland (W),Republic of Ireland (W),2026-11-17T18:00:00+00:00,moneyline,,1.37,2.85,,41.9
+2026-11-17T08:51:05+00:00,1029827442,eurobasket_qualification__w_,Switzerland (W),Republic of Ireland (W),2026-11-17T18:00:00+00:00,spread,-5.5,1.83,1.87,,41.9
+2026-11-17T08:51:05+00:00,1029827442,eurobasket_qualification__w_,Switzerland (W),Republic of Ireland (W),2026-11-17T18:00:00+00:00,total,150.5,1.82,1.88,,41.9
+2026-11-17T08:51:05+00:00,1027224022,eurobasket_qualification__w_,Great Britain (W),Luxembourg (W),2026-11-17T19:00:00+00:00,spread,-22.5,1.85,1.85,,45.3
+2026-11-17T08:51:05+00:00,1027224022,eurobasket_qualification__w_,Great Britain (W),Luxembourg (W),2026-11-17T19:00:00+00:00,total,141.5,1.86,1.84,,45.3
+2026-11-17T08:51:05+00:00,1027223989,eurobasket_qualification__w_,Portugal (W),Germany (W),2026-11-17T19:00:00+00:00,moneyline,,3.4,1.27,,41.3
+2026-11-17T08:51:05+00:00,1027223989,eurobasket_qualification__w_,Portugal (W),Germany (W),2026-11-17T19:00:00+00:00,spread,7.5,1.82,1.88,,41.3
+2026-11-17T08:51:05+00:00,1027223989,eurobasket_qualification__w_,Portugal (W),Germany (W),2026-11-17T19:00:00+00:00,total,138.5,1.92,1.78,,41.3
