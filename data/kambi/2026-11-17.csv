@@ -458,3 +458,8 @@ ts,event_id,group,home,away,start,type,line,dec_1,dec_2,pin_matchup_id,match_sco
 2026-11-17T16:47:20+00:00,1029299332,fiba_europe_cup,Würzburg Baskets,Iraklis,2026-11-17T18:00:00+00:00,moneyline,,1.6,2.18,1640324273,100.0
 2026-11-17T16:47:20+00:00,1029299332,fiba_europe_cup,Würzburg Baskets,Iraklis,2026-11-17T18:00:00+00:00,spread,-2.5,1.82,1.88,1640324273,100.0
 2026-11-17T16:47:20+00:00,1029299332,fiba_europe_cup,Würzburg Baskets,Iraklis,2026-11-17T18:00:00+00:00,total,159.5,1.7,2.02,1640324273,100.0
+2026-11-17T16:52:29+00:00,1028562719,euroleague,Maccabi Tel Aviv,Olympiacos BC,2026-11-17T17:00:00+00:00,moneyline,,3.2,1.35,1640282951,95.0
+2026-11-17T16:52:29+00:00,1028562719,euroleague,Maccabi Tel Aviv,Olympiacos BC,2026-11-17T17:00:00+00:00,spread,6.5,1.94,1.86,1640282951,95.0
+2026-11-17T16:52:29+00:00,1029262834,fiba_europe_cup,Yukatel Merkezefendi Belediyesi Denizli Basket,SL Benfica,2026-11-17T17:00:00+00:00,moneyline,,1.57,2.25,1640324426,100.0
+2026-11-17T16:52:29+00:00,1029262834,fiba_europe_cup,Yukatel Merkezefendi Belediyesi Denizli Basket,SL Benfica,2026-11-17T17:00:00+00:00,spread,-3.5,1.88,1.82,1640324426,100.0
+2026-11-17T16:52:29+00:00,1029262834,fiba_europe_cup,Yukatel Merkezefendi Belediyesi Denizli Basket,SL Benfica,2026-11-17T17:00:00+00:00,total,168.5,1.88,1.82,1640324426,100.0
