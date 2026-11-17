@@ -402,3 +402,11 @@ ts,event_id,group,home,away,start,type,line,dec_1,dec_2,pin_matchup_id,match_sco
 2026-11-17T15:55:53+00:00,1027168438,eurobasket_qualification__w_,Czech Republic (W),Bulgaria (W),2026-11-17T16:15:00+00:00,total,149.5,1.87,1.83,,36.5
 2026-11-17T15:55:53+00:00,1027168423,eurobasket_qualification__w_,Montenegro (W),Israel (W),2026-11-17T17:00:00+00:00,moneyline,,1.8,1.9,,43.3
 2026-11-17T15:55:53+00:00,1027168423,eurobasket_qualification__w_,Montenegro (W),Israel (W),2026-11-17T17:00:00+00:00,spread,0.5,1.8,1.9,,43.3
+2026-11-17T16:01:02+00:00,1028405620,eurocup,BAXI Manresa,PAOK Thessaloniki BC,2026-11-18T19:30:00+00:00,moneyline,,2.48,1.49,,44.3
+2026-11-17T16:01:02+00:00,1028405620,eurocup,BAXI Manresa,PAOK Thessaloniki BC,2026-11-18T19:30:00+00:00,spread,4.5,1.84,1.92,,44.3
+2026-11-17T16:01:02+00:00,1028405620,eurocup,BAXI Manresa,PAOK Thessaloniki BC,2026-11-18T19:30:00+00:00,total,172.5,1.88,1.82,,44.3
+2026-11-17T16:01:02+00:00,1028492464,fiba_champions_league,Cibona Zagreb,Strasbourg,2026-11-18T19:00:00+00:00,moneyline,,2.35,1.56,1640357022,100.0
+2026-11-17T16:01:02+00:00,1028492464,fiba_champions_league,Cibona Zagreb,Strasbourg,2026-11-18T19:00:00+00:00,spread,3.5,1.88,1.88,1640357022,100.0
+2026-11-17T16:01:02+00:00,1028492464,fiba_champions_league,Cibona Zagreb,Strasbourg,2026-11-18T19:00:00+00:00,total,163.5,1.82,1.88,1640357022,100.0
+2026-11-17T16:01:02+00:00,1027168438,eurobasket_qualification__w_,Czech Republic (W),Bulgaria (W),2026-11-17T16:15:00+00:00,moneyline,,1.26,3.5,,36.5
+2026-11-17T16:01:02+00:00,1027168438,eurobasket_qualification__w_,Czech Republic (W),Bulgaria (W),2026-11-17T16:15:00+00:00,spread,-7.5,1.8,1.9,,36.5
