@@ -540,3 +540,5 @@ ts,event_id,group,home,away,start,type,line,dec_1,dec_2,pin_matchup_id,match_sco
 2026-11-17T18:30:27+00:00,1028405468,eurocup,Rostock Seawolves,Hapoel Jerusalem,2026-11-17T19:00:00+00:00,spread,9.5,1.82,1.95,1640324182,100.0
 2026-11-17T18:30:27+00:00,1029299379,fiba_europe_cup,Elan Chalon,Manisa Buyuksehir Belediye,2026-11-17T19:00:00+00:00,spread,-7.5,1.85,1.85,,56.2
 2026-11-17T18:30:27+00:00,1029336817,fiba_europe_cup,Nancy SLUC,Pärnu Sadam,2026-11-17T19:00:00+00:00,total,158.5,1.88,1.82,1640324293,100.0
+2026-11-17T18:35:35+00:00,1028405468,eurocup,Rostock Seawolves,Hapoel Jerusalem,2026-11-17T19:00:00+00:00,moneyline,,4.4,1.18,1640324182,100.0
+2026-11-17T18:35:35+00:00,1028405468,eurocup,Rostock Seawolves,Hapoel Jerusalem,2026-11-17T19:00:00+00:00,spread,10.5,1.86,1.9,1640324182,100.0
