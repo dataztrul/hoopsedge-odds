@@ -232,3 +232,7 @@ ts,event_id,group,home,away,start,type,line,dec_1,dec_2,pin_matchup_id,match_sco
 2026-11-17T09:01:48+00:00,1029827452,eurobasket_qualification__w_,Norway (W),Bosnia & Herzegovina (W),2026-11-17T17:00:00+00:00,total,126.5,1.66,2.08,,40.9
 2026-11-17T09:01:48+00:00,1029262834,fiba_europe_cup,Yukatel Merkezefendi Belediyesi Denizli Basket,SL Benfica,2026-11-17T17:00:00+00:00,moneyline,,1.45,2.55,1640324426,100.0
 2026-11-17T09:01:48+00:00,1029262834,fiba_europe_cup,Yukatel Merkezefendi Belediyesi Denizli Basket,SL Benfica,2026-11-17T17:00:00+00:00,spread,-4.5,1.83,1.87,1640324426,100.0
+2026-11-17T09:22:07+00:00,1028405621,eurocup,Balkan Botevgrad,Ulm Basketball,2026-11-17T17:00:00+00:00,moneyline,,2.95,1.36,1640315192,100.0
+2026-11-17T09:22:07+00:00,1028405621,eurocup,Balkan Botevgrad,Ulm Basketball,2026-11-17T17:00:00+00:00,spread,6.5,1.8,1.97,1640315192,100.0
+2026-11-17T09:22:07+00:00,1029269530,eurocup,BC Roma,Bahcesehir Koleji,2026-11-17T19:00:00+00:00,moneyline,,2.8,1.4,1640324395,100.0
+2026-11-17T09:22:07+00:00,1029269530,eurocup,BC Roma,Bahcesehir Koleji,2026-11-17T19:00:00+00:00,spread,5.5,1.89,1.87,1640324395,100.0
