@@ -295,3 +295,6 @@ ts,event_id,group,home,away,start,type,line,dec_1,dec_2,pin_matchup_id,match_sco
 2026-11-17T12:04:41+00:00,1027224030,eurobasket_qualification__w_,Slovakia (W),Serbia (W),2026-11-17T17:00:00+00:00,moneyline,,6.75,1.07,,42.0
 2026-11-17T12:04:41+00:00,1027224030,eurobasket_qualification__w_,Slovakia (W),Serbia (W),2026-11-17T17:00:00+00:00,spread,15.5,1.67,2.08,,42.0
 2026-11-17T12:04:41+00:00,1027224030,eurobasket_qualification__w_,Slovakia (W),Serbia (W),2026-11-17T17:00:00+00:00,total,149.5,1.9,1.81,,42.0
+2026-11-17T12:45:18+00:00,1027224019,eurobasket_qualification__w_,Ukraine (W),France (W),2026-11-17T13:00:00+00:00,total,152.5,1.85,1.85,,41.7
+2026-11-17T12:45:18+00:00,1029299411,fiba_europe_cup,AO Mykonos BC,Fribourg Olympic,2026-11-17T17:00:00+00:00,moneyline,,1.1,5.75,1640315444,100.0
+2026-11-17T12:45:18+00:00,1029299411,fiba_europe_cup,AO Mykonos BC,Fribourg Olympic,2026-11-17T17:00:00+00:00,spread,-12.5,1.74,1.98,1640315444,100.0
