@@ -266,3 +266,7 @@ ts,event_id,group,home,away,start,type,line,dec_1,dec_2,pin_matchup_id,match_sco
 2026-11-17T10:23:04+00:00,1029005638,brazil/nbb,Corinthians-SP,CA Paulistano,2026-11-17T23:30:00+00:00,moneyline,,1.38,2.8,,0.0
 2026-11-17T10:23:04+00:00,1029005638,brazil/nbb,Corinthians-SP,CA Paulistano,2026-11-17T23:30:00+00:00,spread,-5.5,1.83,1.87,,0.0
 2026-11-17T10:23:04+00:00,1029005638,brazil/nbb,Corinthians-SP,CA Paulistano,2026-11-17T23:30:00+00:00,total,154.5,1.98,1.73,,0.0
+2026-11-17T10:33:14+00:00,1027168438,eurobasket_qualification__w_,Czech Republic (W),Bulgaria (W),2026-11-17T16:15:00+00:00,moneyline,,1.37,2.85,,36.5
+2026-11-17T10:33:14+00:00,1027168438,eurobasket_qualification__w_,Czech Republic (W),Bulgaria (W),2026-11-17T16:15:00+00:00,spread,-5.5,1.84,1.86,,36.5
+2026-11-17T10:33:14+00:00,1029299379,fiba_europe_cup,Elan Chalon,Manisa Buyuksehir Belediye,2026-11-17T19:00:00+00:00,moneyline,,1.43,2.6,,56.2
+2026-11-17T10:33:14+00:00,1029299379,fiba_europe_cup,Elan Chalon,Manisa Buyuksehir Belediye,2026-11-17T19:00:00+00:00,spread,-3.5,1.68,2.05,,56.2
