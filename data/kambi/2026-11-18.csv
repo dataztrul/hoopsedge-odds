@@ -275,3 +275,5 @@ ts,event_id,group,home,away,start,type,line,dec_1,dec_2,pin_matchup_id,match_sco
 2026-11-18T13:18:12+00:00,1029299271,fiba_europe_cup,Sporting,SCM Craiova,2026-11-18T19:30:00+00:00,total,167.5,1.68,2.05,1640357032,88.9
 2026-11-18T13:28:29+00:00,1028562763,euroleague,Paris Basket,Hapoel Tel Aviv,2026-11-19T19:45:00+00:00,moneyline,,2.3,1.61,,34.4
 2026-11-18T13:28:29+00:00,1028562763,euroleague,Paris Basket,Hapoel Tel Aviv,2026-11-19T19:45:00+00:00,spread,3.5,1.86,1.94,,34.4
+2026-11-18T13:38:46+00:00,1028405543,eurocup,Dolomiti Energia Trento,BC Neptūnas,2026-11-18T19:00:00+00:00,moneyline,,1.46,2.55,1640358370,81.6
+2026-11-18T13:38:46+00:00,1028405543,eurocup,Dolomiti Energia Trento,BC Neptūnas,2026-11-18T19:00:00+00:00,spread,-4.5,1.86,1.9,1640358370,81.6
