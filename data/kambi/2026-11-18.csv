@@ -105,3 +105,7 @@ ts,event_id,group,home,away,start,type,line,dec_1,dec_2,pin_matchup_id,match_sco
 2026-11-18T07:10:52+00:00,1029299248,fiba_europe_cup,Gladiators Trier,ASP Promitheas,2026-11-18T19:00:00+00:00,moneyline,,1.32,3.1,,46.7
 2026-11-18T07:10:52+00:00,1029299248,fiba_europe_cup,Gladiators Trier,ASP Promitheas,2026-11-18T19:00:00+00:00,spread,-6.5,1.8,1.91,,46.7
 2026-11-18T07:10:52+00:00,1029299248,fiba_europe_cup,Gladiators Trier,ASP Promitheas,2026-11-18T19:00:00+00:00,total,174.5,1.88,1.82,,46.7
+2026-11-18T07:31:08+00:00,1029299345,fiba_europe_cup,Keravnos Nicosia,Nitra Blue Wings,2026-11-18T17:00:00+00:00,moneyline,,1.35,2.95,,47.8
+2026-11-18T07:31:08+00:00,1029299345,fiba_europe_cup,Keravnos Nicosia,Nitra Blue Wings,2026-11-18T17:00:00+00:00,spread,-5.5,1.74,1.97,,47.8
+2026-11-18T07:31:08+00:00,1029299251,fiba_europe_cup,BK Opava,Batumi,2026-11-18T17:00:00+00:00,moneyline,,1.11,5.4,,53.0
+2026-11-18T07:31:08+00:00,1029299251,fiba_europe_cup,BK Opava,Batumi,2026-11-18T17:00:00+00:00,spread,-12.5,1.8,1.9,,53.0
