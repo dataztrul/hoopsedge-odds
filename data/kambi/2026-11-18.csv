@@ -502,3 +502,7 @@ ts,event_id,group,home,away,start,type,line,dec_1,dec_2,pin_matchup_id,match_sco
 2026-11-18T18:47:42+00:00,1028475168,france/elite_2,Nantes,St Chamond,2026-11-20T19:00:00+00:00,moneyline,,1.4,2.6,,39.4
 2026-11-18T18:47:42+00:00,1028475168,france/elite_2,Nantes,St Chamond,2026-11-20T19:00:00+00:00,spread,-5.5,1.88,1.76,,39.4
 2026-11-18T18:47:42+00:00,1028475168,france/elite_2,Nantes,St Chamond,2026-11-20T19:00:00+00:00,total,166.5,1.8,1.85,,39.4
+2026-11-18T18:52:49+00:00,1028562759,euroleague,Milano,Fenerbahce SK,2026-11-19T19:30:00+00:00,moneyline,,2.55,1.52,1640385203,100.0
+2026-11-18T18:52:49+00:00,1028562759,euroleague,Milano,Fenerbahce SK,2026-11-19T19:30:00+00:00,spread,4.5,1.87,1.93,1640385203,100.0
+2026-11-18T18:52:49+00:00,1028405543,eurocup,Dolomiti Energia Trento,BC Neptūnas,2026-11-18T19:00:00+00:00,moneyline,,1.38,2.88,1640358370,81.6
+2026-11-18T18:52:49+00:00,1028405543,eurocup,Dolomiti Energia Trento,BC Neptūnas,2026-11-18T19:00:00+00:00,spread,-5.5,1.83,1.93,1640358370,81.6
