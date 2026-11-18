@@ -454,3 +454,11 @@ ts,event_id,group,home,away,start,type,line,dec_1,dec_2,pin_matchup_id,match_sco
 2026-11-18T17:41:12+00:00,1029842442,israel/liga_leumit,Hapoel Haifa BC,Ironi Nahariya,2026-11-18T17:45:00+00:00,moneyline,,1.7,2.02,1640522007,100.0
 2026-11-18T17:41:12+00:00,1029842442,israel/liga_leumit,Hapoel Haifa BC,Ironi Nahariya,2026-11-18T17:45:00+00:00,spread,-2.0,1.85,1.85,1640522007,100.0
 2026-11-18T17:41:12+00:00,1029842442,israel/liga_leumit,Hapoel Haifa BC,Ironi Nahariya,2026-11-18T17:45:00+00:00,total,159.0,1.85,1.85,1640522007,100.0
+2026-11-18T17:46:19+00:00,1028405566,eurocup,BV Chemnitz 99,Tofaş,2026-11-18T18:00:00+00:00,spread,2.5,1.94,1.83,1640367719,100.0
+2026-11-18T17:46:19+00:00,1028405541,eurocup,Budućnost Podgorica,WKS Śląsk Wrocław,2026-11-18T18:00:00+00:00,spread,-14.5,1.86,1.9,1640358361,80.5
+2026-11-18T17:46:19+00:00,1028405541,eurocup,Budućnost Podgorica,WKS Śląsk Wrocław,2026-11-18T18:00:00+00:00,total,173.5,1.83,1.87,1640358361,80.5
+2026-11-18T17:46:19+00:00,1028405472,eurocup,Aris,Le Mans BC,2026-11-18T18:00:00+00:00,moneyline,,1.16,4.6,1640349774,100.0
+2026-11-18T17:46:19+00:00,1028405472,eurocup,Aris,Le Mans BC,2026-11-18T18:00:00+00:00,total,170.5,1.84,1.86,1640349774,100.0
+2026-11-18T17:46:19+00:00,1028280631,czech_republic/nbl,Hradec Kralove,Sokol Pisek,2026-11-18T18:00:00+00:00,moneyline,,4.1,1.19,1640358360,81.8
+2026-11-18T17:46:19+00:00,1028280631,czech_republic/nbl,Hradec Kralove,Sokol Pisek,2026-11-18T18:00:00+00:00,spread,9.5,1.85,1.85,1640358360,81.8
+2026-11-18T17:46:19+00:00,1028280631,czech_republic/nbl,Hradec Kralove,Sokol Pisek,2026-11-18T18:00:00+00:00,total,177.5,1.87,1.83,1640358360,81.8
