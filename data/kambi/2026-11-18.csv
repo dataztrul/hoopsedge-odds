@@ -100,3 +100,5 @@ ts,event_id,group,home,away,start,type,line,dec_1,dec_2,pin_matchup_id,match_sco
 2026-11-18T06:14:38+00:00,1029299342,fiba_europe_cup,King Szczecin,Basketclubs Vienna,2026-11-18T18:00:00+00:00,moneyline,,1.34,2.95,,40.7
 2026-11-18T06:14:38+00:00,1029299342,fiba_europe_cup,King Szczecin,Basketclubs Vienna,2026-11-18T18:00:00+00:00,spread,-6.5,1.85,1.85,,40.7
 2026-11-18T06:14:38+00:00,1029299342,fiba_europe_cup,King Szczecin,Basketclubs Vienna,2026-11-18T18:00:00+00:00,total,165.5,1.88,1.83,,40.7
+2026-11-18T06:29:48+00:00,1028562788,euroleague,Besiktas,Real Madrid Baloncesto,2026-11-18T17:00:00+00:00,spread,6.5,1.9,1.9,1640324441,100.0
+2026-11-18T06:29:48+00:00,1028562788,euroleague,Besiktas,Real Madrid Baloncesto,2026-11-18T17:00:00+00:00,total,180.5,1.91,1.89,1640324441,100.0
