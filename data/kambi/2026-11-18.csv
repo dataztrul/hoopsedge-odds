@@ -313,3 +313,5 @@ ts,event_id,group,home,away,start,type,line,dec_1,dec_2,pin_matchup_id,match_sco
 2026-11-18T15:01:11+00:00,1029299251,fiba_europe_cup,BK Opava,Batumi,2026-11-18T17:00:00+00:00,total,169.5,1.87,1.83,1640349738,100.0
 2026-11-18T15:21:48+00:00,1028722051,fiba_champions_league,Unicaja Málaga,BK Pardubice,2026-11-18T19:30:00+00:00,spread,-22.5,1.92,1.84,1640357031,100.0
 2026-11-18T15:21:48+00:00,1028722051,fiba_champions_league,Unicaja Málaga,BK Pardubice,2026-11-18T19:30:00+00:00,total,168.5,1.88,1.82,1640357031,100.0
+2026-11-18T15:42:21+00:00,1028405541,eurocup,Budućnost Podgorica,WKS Śląsk Wrocław,2026-11-18T18:00:00+00:00,spread,-14.5,1.87,1.89,1640358361,80.5
+2026-11-18T15:42:21+00:00,1028405541,eurocup,Budućnost Podgorica,WKS Śląsk Wrocław,2026-11-18T18:00:00+00:00,total,173.5,1.82,1.88,1640358361,80.5
