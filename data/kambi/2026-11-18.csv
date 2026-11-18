@@ -514,3 +514,11 @@ ts,event_id,group,home,away,start,type,line,dec_1,dec_2,pin_matchup_id,match_sco
 2026-11-18T19:03:04+00:00,1028562737,euroleague,FC Barcelona,KK Crvena Zvezda Belgrade,2026-11-20T19:30:00+00:00,total,170.5,1.92,1.88,,40.5
 2026-11-18T19:13:18+00:00,1028722051,fiba_champions_league,Unicaja Málaga,BK Pardubice,2026-11-18T19:30:00+00:00,spread,-23.5,1.89,1.87,1640357031,100.0
 2026-11-18T19:13:18+00:00,1028722051,fiba_champions_league,Unicaja Málaga,BK Pardubice,2026-11-18T19:30:00+00:00,total,167.5,1.91,1.8,1640357031,100.0
+2026-11-18T19:18:25+00:00,1028562766,euroleague,Valencia Basket Club,Virtus Bologna,2026-11-19T20:00:00+00:00,spread,-9.5,1.89,1.91,1640377126,100.0
+2026-11-18T19:18:25+00:00,1028562766,euroleague,Valencia Basket Club,Virtus Bologna,2026-11-19T20:00:00+00:00,total,185.5,1.87,1.93,1640377126,100.0
+2026-11-18T19:18:25+00:00,1028405620,eurocup,BAXI Manresa,PAOK Thessaloniki BC,2026-11-18T19:30:00+00:00,spread,1.5,1.89,1.87,1640358379,86.8
+2026-11-18T19:18:25+00:00,1028405620,eurocup,BAXI Manresa,PAOK Thessaloniki BC,2026-11-18T19:30:00+00:00,total,173.5,1.89,1.82,1640358379,86.8
+2026-11-18T19:18:25+00:00,1028722051,fiba_champions_league,Unicaja Málaga,BK Pardubice,2026-11-18T19:30:00+00:00,spread,-23.5,1.9,1.86,1640357031,100.0
+2026-11-18T19:18:25+00:00,1028722051,fiba_champions_league,Unicaja Málaga,BK Pardubice,2026-11-18T19:30:00+00:00,total,166.5,1.82,1.88,1640357031,100.0
+2026-11-18T19:18:25+00:00,1029299271,fiba_europe_cup,Sporting,SCM Craiova,2026-11-18T19:30:00+00:00,moneyline,,1.35,2.9,1640357032,88.9
+2026-11-18T19:18:25+00:00,1029299271,fiba_europe_cup,Sporting,SCM Craiova,2026-11-18T19:30:00+00:00,total,174.5,1.89,1.81,1640357032,88.9
