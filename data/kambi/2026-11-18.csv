@@ -83,3 +83,5 @@ ts,event_id,group,home,away,start,type,line,dec_1,dec_2,pin_matchup_id,match_sco
 2026-11-18T05:29:15+00:00,1029299251,fiba_europe_cup,BK Opava,Batumi,2026-11-18T17:00:00+00:00,moneyline,,1.14,4.8,,53.0
 2026-11-18T05:29:15+00:00,1029299251,fiba_europe_cup,BK Opava,Batumi,2026-11-18T17:00:00+00:00,spread,-11.5,1.84,1.86,,53.0
 2026-11-18T05:29:15+00:00,1029299251,fiba_europe_cup,BK Opava,Batumi,2026-11-18T17:00:00+00:00,total,166.5,1.84,1.86,,53.0
+2026-11-18T05:44:23+00:00,1028562788,euroleague,Besiktas,Real Madrid Baloncesto,2026-11-18T17:00:00+00:00,spread,6.5,1.89,1.91,1640324441,100.0
+2026-11-18T05:44:23+00:00,1028562788,euroleague,Besiktas,Real Madrid Baloncesto,2026-11-18T17:00:00+00:00,total,180.5,1.93,1.87,1640324441,100.0
