@@ -315,3 +315,8 @@ ts,event_id,group,home,away,start,type,line,dec_1,dec_2,pin_matchup_id,match_sco
 2026-11-18T15:21:48+00:00,1028722051,fiba_champions_league,Unicaja Málaga,BK Pardubice,2026-11-18T19:30:00+00:00,total,168.5,1.88,1.82,1640357031,100.0
 2026-11-18T15:42:21+00:00,1028405541,eurocup,Budućnost Podgorica,WKS Śląsk Wrocław,2026-11-18T18:00:00+00:00,spread,-14.5,1.87,1.89,1640358361,80.5
 2026-11-18T15:42:21+00:00,1028405541,eurocup,Budućnost Podgorica,WKS Śląsk Wrocław,2026-11-18T18:00:00+00:00,total,173.5,1.82,1.88,1640358361,80.5
+2026-11-18T15:47:32+00:00,1029299274,fiba_europe_cup,Esenler Erokspor,Rilski Sportist,2026-11-18T16:00:00+00:00,spread,-24.5,1.81,1.89,1640349699,100.0
+2026-11-18T15:47:32+00:00,1029299274,fiba_europe_cup,Esenler Erokspor,Rilski Sportist,2026-11-18T16:00:00+00:00,total,165.5,1.89,1.81,1640349699,100.0
+2026-11-18T15:47:32+00:00,1029410917,fiba_europe_cup,Kolossos Rhodes,Gence BK,2026-11-18T16:00:00+00:00,moneyline,,1.01,11.5,1640349104,100.0
+2026-11-18T15:47:32+00:00,1029410917,fiba_europe_cup,Kolossos Rhodes,Gence BK,2026-11-18T16:00:00+00:00,spread,-19.5,1.79,1.91,1640349104,100.0
+2026-11-18T15:47:32+00:00,1029410917,fiba_europe_cup,Kolossos Rhodes,Gence BK,2026-11-18T16:00:00+00:00,total,162.5,1.9,1.8,1640349104,100.0
