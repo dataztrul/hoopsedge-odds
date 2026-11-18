@@ -236,3 +236,9 @@ ts,event_id,group,home,away,start,type,line,dec_1,dec_2,pin_matchup_id,match_sco
 2026-11-18T11:24:39+00:00,1028492451,fiba_champions_league,AEK B.C.,Szombathely,2026-11-18T17:00:00+00:00,moneyline,,1.79,1.98,1640356964,80.0
 2026-11-18T11:24:39+00:00,1028492451,fiba_champions_league,AEK B.C.,Szombathely,2026-11-18T17:00:00+00:00,spread,-1.5,1.91,1.85,1640356964,80.0
 2026-11-18T11:24:39+00:00,1028492451,fiba_champions_league,AEK B.C.,Szombathely,2026-11-18T17:00:00+00:00,total,163.5,1.81,1.89,1640356964,80.0
+2026-11-18T11:29:48+00:00,1029410917,fiba_europe_cup,Kolossos Rhodes,Gence BK,2026-11-18T16:00:00+00:00,moneyline,,1.02,10.0,1640349104,100.0
+2026-11-18T11:29:48+00:00,1029410917,fiba_europe_cup,Kolossos Rhodes,Gence BK,2026-11-18T16:00:00+00:00,spread,-17.5,1.71,2.02,1640349104,100.0
+2026-11-18T11:29:48+00:00,1029299345,fiba_europe_cup,Keravnos Nicosia,Nitra Blue Wings,2026-11-18T17:00:00+00:00,total,163.5,1.76,1.95,1640349747,100.0
+2026-11-18T11:29:48+00:00,1029299248,fiba_europe_cup,Gladiators Trier,ASP Promitheas,2026-11-18T19:00:00+00:00,moneyline,,1.13,5.1,1640358373,77.6
+2026-11-18T11:29:48+00:00,1029299248,fiba_europe_cup,Gladiators Trier,ASP Promitheas,2026-11-18T19:00:00+00:00,spread,-12.5,1.84,1.86,1640358373,77.6
+2026-11-18T11:29:48+00:00,1029299248,fiba_europe_cup,Gladiators Trier,ASP Promitheas,2026-11-18T19:00:00+00:00,total,174.5,1.9,1.8,1640358373,77.6
