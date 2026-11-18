@@ -17,3 +17,23 @@ ts,event_id,group,home,away,start,type,line,dec_1,dec_2,pin_matchup_id,match_sco
 2026-11-18T02:57:52+00:00,1029298358,euroleague,FC Bayern München,Saski Baskonia,2026-11-19T19:00:00+00:00,total,175.5,1.93,1.87,,42.8
 2026-11-18T02:57:52+00:00,1028405543,eurocup,Dolomiti Energia Trento,BC Neptūnas,2026-11-18T19:00:00+00:00,moneyline,,1.46,2.55,1640358370,81.6
 2026-11-18T02:57:52+00:00,1028405543,eurocup,Dolomiti Energia Trento,BC Neptūnas,2026-11-18T19:00:00+00:00,spread,-4.5,1.86,1.9,1640358370,81.6
+2026-11-18T03:13:00+00:00,1029298358,euroleague,FC Bayern München,Saski Baskonia,2026-11-19T19:00:00+00:00,moneyline,,1.36,3.1,,42.8
+2026-11-18T03:13:00+00:00,1029298358,euroleague,FC Bayern München,Saski Baskonia,2026-11-19T19:00:00+00:00,spread,-6.5,1.89,1.91,,42.8
+2026-11-18T03:13:00+00:00,1028562759,euroleague,Milano,Fenerbahce SK,2026-11-19T19:30:00+00:00,moneyline,,2.85,1.42,,36.1
+2026-11-18T03:13:00+00:00,1028562759,euroleague,Milano,Fenerbahce SK,2026-11-19T19:30:00+00:00,spread,5.5,1.9,1.9,,36.1
+2026-11-18T03:13:00+00:00,1028562759,euroleague,Milano,Fenerbahce SK,2026-11-19T19:30:00+00:00,total,167.5,1.9,1.9,,36.1
+2026-11-18T03:13:00+00:00,1028562763,euroleague,Paris Basket,Hapoel Tel Aviv,2026-11-19T19:45:00+00:00,moneyline,,2.6,1.5,,34.4
+2026-11-18T03:13:00+00:00,1028562763,euroleague,Paris Basket,Hapoel Tel Aviv,2026-11-19T19:45:00+00:00,spread,4.5,1.9,1.9,,34.4
+2026-11-18T03:13:00+00:00,1028562763,euroleague,Paris Basket,Hapoel Tel Aviv,2026-11-19T19:45:00+00:00,total,181.5,1.92,1.88,,34.4
+2026-11-18T03:13:00+00:00,1028562766,euroleague,Valencia Basket Club,Virtus Bologna,2026-11-19T20:00:00+00:00,moneyline,,1.29,3.6,,41.0
+2026-11-18T03:13:00+00:00,1028562766,euroleague,Valencia Basket Club,Virtus Bologna,2026-11-19T20:00:00+00:00,spread,-8.5,1.93,1.87,,41.0
+2026-11-18T03:13:00+00:00,1028562766,euroleague,Valencia Basket Club,Virtus Bologna,2026-11-19T20:00:00+00:00,total,184.5,1.9,1.9,,41.0
+2026-11-18T03:13:00+00:00,1028562734,euroleague,Anadolu Efes,ASVEL Lyon-Villeurbanne,2026-11-20T17:30:00+00:00,moneyline,,1.42,2.85,,42.0
+2026-11-18T03:13:00+00:00,1028562734,euroleague,Anadolu Efes,ASVEL Lyon-Villeurbanne,2026-11-20T17:30:00+00:00,spread,-5.5,1.89,1.91,,42.0
+2026-11-18T03:13:00+00:00,1028562734,euroleague,Anadolu Efes,ASVEL Lyon-Villeurbanne,2026-11-20T17:30:00+00:00,total,170.5,1.91,1.89,,42.0
+2026-11-18T03:13:00+00:00,1028562737,euroleague,FC Barcelona,KK Crvena Zvezda Belgrade,2026-11-20T19:30:00+00:00,moneyline,,1.75,2.07,,37.9
+2026-11-18T03:13:00+00:00,1028562737,euroleague,FC Barcelona,KK Crvena Zvezda Belgrade,2026-11-20T19:30:00+00:00,spread,-1.5,1.88,1.93,,37.9
+2026-11-18T03:13:00+00:00,1028562737,euroleague,FC Barcelona,KK Crvena Zvezda Belgrade,2026-11-20T19:30:00+00:00,total,167.5,1.9,1.9,,37.9
+2026-11-18T03:13:00+00:00,1029336718,fiba_europe_cup,Absheron Lions,BC Prievidza,2026-11-18T15:00:00+00:00,moneyline,,3.0,1.34,,38.2
+2026-11-18T03:13:00+00:00,1029336718,fiba_europe_cup,Absheron Lions,BC Prievidza,2026-11-18T15:00:00+00:00,spread,6.5,1.88,1.82,,38.2
+2026-11-18T03:13:00+00:00,1029336718,fiba_europe_cup,Absheron Lions,BC Prievidza,2026-11-18T15:00:00+00:00,total,176.5,1.83,1.87,,38.2
