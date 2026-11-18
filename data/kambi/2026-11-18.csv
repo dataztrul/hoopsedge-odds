@@ -525,3 +525,5 @@ ts,event_id,group,home,away,start,type,line,dec_1,dec_2,pin_matchup_id,match_sco
 2026-11-18T20:19:45+00:00,1028475242,france/elite_2,Le Havre,Vichy,2026-11-20T19:00:00+00:00,moneyline,,1.89,1.76,1640622570,100.0
 2026-11-18T20:19:45+00:00,1028475242,france/elite_2,Le Havre,Vichy,2026-11-20T19:00:00+00:00,spread,1.5,1.76,1.88,1640622570,100.0
 2026-11-18T20:19:45+00:00,1028475242,france/elite_2,Le Havre,Vichy,2026-11-20T19:00:00+00:00,total,170.5,1.85,1.8,1640622570,100.0
+2026-11-18T20:40:15+00:00,1029005635,brazil/nbb,Franca Basquetebol Clube,Caxias do Sul,2026-11-18T22:30:00+00:00,spread,-13.5,1.74,1.98,,39.0
+2026-11-18T20:40:15+00:00,1029005635,brazil/nbb,Franca Basquetebol Clube,Caxias do Sul,2026-11-18T22:30:00+00:00,total,146.5,1.68,2.05,,39.0
