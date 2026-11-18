@@ -447,3 +447,5 @@ ts,event_id,group,home,away,start,type,line,dec_1,dec_2,pin_matchup_id,match_sco
 2026-11-18T17:30:59+00:00,1029299342,fiba_europe_cup,King Szczecin,Basketclubs Vienna,2026-11-18T18:00:00+00:00,moneyline,,1.34,3.0,,40.7
 2026-11-18T17:30:59+00:00,1029299342,fiba_europe_cup,King Szczecin,Basketclubs Vienna,2026-11-18T18:00:00+00:00,spread,-6.5,1.84,1.86,,40.7
 2026-11-18T17:30:59+00:00,1029299342,fiba_europe_cup,King Szczecin,Basketclubs Vienna,2026-11-18T18:00:00+00:00,total,169.5,1.88,1.82,,40.7
+2026-11-18T17:36:06+00:00,1028280631,czech_republic/nbl,Hradec Kralove,Sokol Pisek,2026-11-18T18:00:00+00:00,moneyline,,4.0,1.2,1640358360,81.8
+2026-11-18T17:36:06+00:00,1028280631,czech_republic/nbl,Hradec Kralove,Sokol Pisek,2026-11-18T18:00:00+00:00,spread,7.5,2.08,1.66,1640358360,81.8
