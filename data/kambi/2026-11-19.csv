@@ -340,3 +340,8 @@ ts,event_id,group,home,away,start,type,line,dec_1,dec_2,pin_matchup_id,match_sco
 2026-11-19T23:10:20+00:00,1028562737,euroleague,FC Barcelona,KK Crvena Zvezda Belgrade,2026-11-20T19:30:00+00:00,total,174.5,1.94,1.86,1640403533,100.0
 2026-11-19T23:10:20+00:00,1028312664,finland/korisliiga,Korihait,Tapiolan Honka,2026-11-20T16:30:00+00:00,moneyline,,1.4,2.88,1640420613,82.0
 2026-11-19T23:10:20+00:00,1028312664,finland/korisliiga,Korihait,Tapiolan Honka,2026-11-20T16:30:00+00:00,spread,-5.5,1.83,1.93,1640420613,82.0
+2026-11-19T23:25:31+00:00,1028927837,aba_league,KK Bosna,KD Ilirija,2026-11-20T19:00:00+00:00,spread,-10.5,1.83,1.87,1640432779,100.0
+2026-11-19T23:25:31+00:00,1028927837,aba_league,KK Bosna,KD Ilirija,2026-11-20T19:00:00+00:00,total,165.5,1.81,1.89,1640432779,100.0
+2026-11-19T23:25:31+00:00,1029895568,mexico/lnbp,Astros de Jalisco,Soles de Mexicali,2026-11-20T02:15:00+00:00,moneyline,,1.87,1.83,,0.0
+2026-11-19T23:25:31+00:00,1029895568,mexico/lnbp,Astros de Jalisco,Soles de Mexicali,2026-11-20T02:15:00+00:00,spread,0.5,1.87,1.83,,0.0
+2026-11-19T23:25:31+00:00,1029895568,mexico/lnbp,Astros de Jalisco,Soles de Mexicali,2026-11-20T02:15:00+00:00,total,156.5,1.95,1.76,,0.0
