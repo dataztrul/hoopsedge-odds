@@ -177,3 +177,5 @@ ts,event_id,group,home,away,start,type,line,dec_1,dec_2,pin_matchup_id,match_sco
 2026-11-19T12:06:40+00:00,1028562791,euroleague,Žalgiris Kaunas,Panathinaikos,2026-11-19T18:00:00+00:00,moneyline,,1.74,2.1,1640385199,100.0
 2026-11-19T12:06:40+00:00,1028562791,euroleague,Žalgiris Kaunas,Panathinaikos,2026-11-19T18:00:00+00:00,spread,-1.5,1.86,1.94,1640385199,100.0
 2026-11-19T12:06:40+00:00,1028562791,euroleague,Žalgiris Kaunas,Panathinaikos,2026-11-19T18:00:00+00:00,total,168.5,1.94,1.86,1640385199,100.0
+2026-11-19T12:16:51+00:00,1028562737,euroleague,FC Barcelona,KK Crvena Zvezda Belgrade,2026-11-20T19:30:00+00:00,moneyline,,1.64,2.25,,40.8
+2026-11-19T12:16:51+00:00,1028562737,euroleague,FC Barcelona,KK Crvena Zvezda Belgrade,2026-11-20T19:30:00+00:00,spread,-2.5,1.85,1.95,,40.8
