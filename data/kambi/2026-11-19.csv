@@ -221,3 +221,5 @@ ts,event_id,group,home,away,start,type,line,dec_1,dec_2,pin_matchup_id,match_sco
 2026-11-19T15:57:18+00:00,1028562740,euroleague,Partizan Belgrade,Besiktas,2026-11-20T19:45:00+00:00,moneyline,,1.42,2.88,1640391778,100.0
 2026-11-19T15:57:18+00:00,1028562740,euroleague,Partizan Belgrade,Besiktas,2026-11-20T19:45:00+00:00,spread,-5.5,1.91,1.89,1640391778,100.0
 2026-11-19T15:57:18+00:00,1028562740,euroleague,Partizan Belgrade,Besiktas,2026-11-20T19:45:00+00:00,total,167.5,1.94,1.86,1640391778,100.0
+2026-11-19T16:07:41+00:00,1028302895,norway/blno,Kongsberg Miners,Centrum Tigers,2026-11-19T18:00:00+00:00,spread,-27.5,1.8,1.9,1640388654,100.0
+2026-11-19T16:07:41+00:00,1028302895,norway/blno,Kongsberg Miners,Centrum Tigers,2026-11-19T18:00:00+00:00,total,170.5,2.0,1.73,1640388654,100.0
