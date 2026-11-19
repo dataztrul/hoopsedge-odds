@@ -188,3 +188,6 @@ ts,event_id,group,home,away,start,type,line,dec_1,dec_2,pin_matchup_id,match_sco
 2026-11-19T13:48:29+00:00,1028562735,euroleague,Olympiacos BC,Real Madrid Baloncesto,2026-11-20T19:15:00+00:00,total,172.5,1.93,1.87,,42.2
 2026-11-19T14:29:10+00:00,1028562737,euroleague,FC Barcelona,KK Crvena Zvezda Belgrade,2026-11-20T19:30:00+00:00,total,174.5,1.94,1.86,,40.8
 2026-11-19T14:39:21+00:00,1028562737,euroleague,FC Barcelona,KK Crvena Zvezda Belgrade,2026-11-20T19:30:00+00:00,total,172.5,1.88,1.92,,40.8
+2026-11-19T14:49:32+00:00,1029299292,fiba_europe_cup,BK Levickí Patrioti,Zastal Zielona Góra,2026-11-19T18:00:00+00:00,moneyline,,2.4,1.5,1640388652,94.1
+2026-11-19T14:49:32+00:00,1029299292,fiba_europe_cup,BK Levickí Patrioti,Zastal Zielona Góra,2026-11-19T18:00:00+00:00,spread,3.5,1.9,1.8,1640388652,94.1
+2026-11-19T14:49:32+00:00,1028302895,norway/blno,Kongsberg Miners,Centrum Tigers,2026-11-19T18:00:00+00:00,spread,-29.5,1.67,2.07,1640388654,100.0
