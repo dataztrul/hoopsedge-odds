@@ -312,3 +312,8 @@ ts,event_id,group,home,away,start,type,line,dec_1,dec_2,pin_matchup_id,match_sco
 2026-11-19T20:00:41+00:00,1028927723,aba_league,Krka Novo Mesto,Borac Čačak,2026-11-20T17:30:00+00:00,moneyline,,1.42,2.65,1640432739,100.0
 2026-11-19T20:00:41+00:00,1028927723,aba_league,Krka Novo Mesto,Borac Čačak,2026-11-20T17:30:00+00:00,spread,-4.5,1.8,1.91,1640432739,100.0
 2026-11-19T20:00:41+00:00,1028927723,aba_league,Krka Novo Mesto,Borac Čačak,2026-11-20T17:30:00+00:00,total,165.5,1.86,1.84,1640432739,100.0
+2026-11-19T20:21:12+00:00,1029862598,belgium/top_division_1,Horticult Kontich Wolves Hse A,BC Guco Lier,2026-11-20T20:00:00+00:00,moneyline,,4.4,1.17,1640443134,100.0
+2026-11-19T20:21:12+00:00,1029862598,belgium/top_division_1,Horticult Kontich Wolves Hse A,BC Guco Lier,2026-11-20T20:00:00+00:00,spread,11.5,1.8,1.9,1640443134,100.0
+2026-11-19T20:21:12+00:00,1029862598,belgium/top_division_1,Horticult Kontich Wolves Hse A,BC Guco Lier,2026-11-20T20:00:00+00:00,total,172.5,1.88,1.82,1640443134,100.0
+2026-11-19T20:21:12+00:00,1029005640,brazil/nbb,Unifacisa,Flamengo,2026-11-19T22:00:00+00:00,moneyline,,2.38,1.5,,34.1
+2026-11-19T20:21:12+00:00,1029005640,brazil/nbb,Unifacisa,Flamengo,2026-11-19T22:00:00+00:00,spread,2.5,2.02,1.71,,34.1
