@@ -196,3 +196,9 @@ ts,event_id,group,home,away,start,type,line,dec_1,dec_2,pin_matchup_id,match_sco
 2026-11-19T15:15:53+00:00,1029396575,turkey/tbl,Fenerbache Koleji,iLab Basketbol,2026-11-20T15:00:00+00:00,total,171.5,2.12,1.63,1640428838,86.7
 2026-11-19T15:36:37+00:00,1028992926,france/elite,Chorale Roanne,Limoges CSP,2026-11-20T19:00:00+00:00,moneyline,,1.37,2.95,,46.1
 2026-11-19T15:36:37+00:00,1028992926,france/elite,Chorale Roanne,Limoges CSP,2026-11-20T19:00:00+00:00,spread,-5.5,1.8,1.97,,46.1
+2026-11-19T15:41:47+00:00,1028992926,france/elite,Chorale Roanne,Limoges CSP,2026-11-20T19:00:00+00:00,moneyline,,1.37,2.95,1640432775,100.0
+2026-11-19T15:41:47+00:00,1028992926,france/elite,Chorale Roanne,Limoges CSP,2026-11-20T19:00:00+00:00,spread,-5.5,1.8,1.97,1640432775,100.0
+2026-11-19T15:41:47+00:00,1028992926,france/elite,Chorale Roanne,Limoges CSP,2026-11-20T19:00:00+00:00,total,166.5,1.83,1.87,1640432775,100.0
+2026-11-19T15:41:47+00:00,1028646518,germany/bbl,Würzburg Baskets,SC Rasta Vechta,2026-11-20T19:00:00+00:00,moneyline,,1.58,2.23,1640443101,100.0
+2026-11-19T15:41:47+00:00,1028646518,germany/bbl,Würzburg Baskets,SC Rasta Vechta,2026-11-20T19:00:00+00:00,spread,-3.5,1.9,1.8,1640443101,100.0
+2026-11-19T15:41:47+00:00,1028646518,germany/bbl,Würzburg Baskets,SC Rasta Vechta,2026-11-20T19:00:00+00:00,total,168.5,1.88,1.82,1640443101,100.0
