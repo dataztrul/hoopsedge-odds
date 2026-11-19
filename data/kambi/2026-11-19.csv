@@ -331,3 +331,9 @@ ts,event_id,group,home,away,start,type,line,dec_1,dec_2,pin_matchup_id,match_sco
 2026-11-19T22:40:01+00:00,1029005651,brazil/nbb,AERC Osasco,Minas Tênis Clube,2026-11-19T23:00:00+00:00,spread,18.5,1.86,1.84,,41.7
 2026-11-19T22:40:01+00:00,1029005651,brazil/nbb,AERC Osasco,Minas Tênis Clube,2026-11-19T23:00:00+00:00,total,165.5,2.0,1.72,,41.7
 2026-11-19T22:40:01+00:00,1029396575,turkey/tbl,Fenerbache Koleji,iLab Basketbol,2026-11-20T15:00:00+00:00,total,171.5,1.89,1.82,1640428838,86.7
+2026-11-19T22:55:11+00:00,1029005648,brazil/nbb,EC Pinheiros B,Cruzeiro Basquete,2026-11-19T23:00:00+00:00,moneyline,,1.17,4.4,,31.4
+2026-11-19T22:55:11+00:00,1029005648,brazil/nbb,EC Pinheiros B,Cruzeiro Basquete,2026-11-19T23:00:00+00:00,spread,-10.5,1.82,1.88,,31.4
+2026-11-19T22:55:11+00:00,1029005648,brazil/nbb,EC Pinheiros B,Cruzeiro Basquete,2026-11-19T23:00:00+00:00,total,159.5,1.8,1.9,,31.4
+2026-11-19T22:55:11+00:00,1029005651,brazil/nbb,AERC Osasco,Minas Tênis Clube,2026-11-19T23:00:00+00:00,moneyline,,9.5,1.01,,41.7
+2026-11-19T22:55:11+00:00,1029005651,brazil/nbb,AERC Osasco,Minas Tênis Clube,2026-11-19T23:00:00+00:00,spread,18.5,1.85,1.85,,41.7
+2026-11-19T22:55:11+00:00,1029005651,brazil/nbb,AERC Osasco,Minas Tênis Clube,2026-11-19T23:00:00+00:00,total,163.5,1.82,1.88,,41.7
