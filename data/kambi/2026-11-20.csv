@@ -155,3 +155,8 @@ ts,event_id,group,home,away,start,type,line,dec_1,dec_2,pin_matchup_id,match_sco
 2026-11-20T07:18:10+00:00,1028646517,germany/bbl,Gladiators Trier,BV Chemnitz 99,2026-11-21T19:00:00+00:00,moneyline,,1.22,3.8,,41.6
 2026-11-20T07:18:10+00:00,1028646517,germany/bbl,Gladiators Trier,BV Chemnitz 99,2026-11-21T19:00:00+00:00,spread,-9.5,1.85,1.85,,41.6
 2026-11-20T07:18:10+00:00,1028646517,germany/bbl,Gladiators Trier,BV Chemnitz 99,2026-11-21T19:00:00+00:00,total,182.5,1.9,1.8,,41.6
+2026-11-20T07:28:22+00:00,1028562740,euroleague,Partizan Belgrade,Besiktas,2026-11-20T19:45:00+00:00,spread,-5.5,1.91,1.89,1640391778,100.0
+2026-11-20T07:28:22+00:00,1028562740,euroleague,Partizan Belgrade,Besiktas,2026-11-20T19:45:00+00:00,total,165.5,1.91,1.89,1640391778,100.0
+2026-11-20T07:28:22+00:00,1028646515,germany/bbl,EWE Baskets Oldenburg,Skyliners Frankfurt,2026-11-21T19:00:00+00:00,moneyline,,1.77,1.93,,41.8
+2026-11-20T07:28:22+00:00,1028646515,germany/bbl,EWE Baskets Oldenburg,Skyliners Frankfurt,2026-11-21T19:00:00+00:00,spread,-1.5,1.9,1.8,,41.8
+2026-11-20T07:28:22+00:00,1028646515,germany/bbl,EWE Baskets Oldenburg,Skyliners Frankfurt,2026-11-21T19:00:00+00:00,total,164.5,1.89,1.81,,41.8
