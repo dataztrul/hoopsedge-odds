@@ -47,3 +47,11 @@ ts,event_id,group,home,away,start,type,line,dec_1,dec_2,pin_matchup_id,match_sco
 2026-11-20T02:13:08+00:00,1028803975,united_kingdom/super_league_basketball,Bristol Flyers,Cheshire Phoenix,2026-11-20T19:30:00+00:00,moneyline,,1.83,1.87,1640459400,100.0
 2026-11-20T02:13:08+00:00,1028803975,united_kingdom/super_league_basketball,Bristol Flyers,Cheshire Phoenix,2026-11-20T19:30:00+00:00,spread,-0.5,1.83,1.87,1640459400,100.0
 2026-11-20T02:13:08+00:00,1028803975,united_kingdom/super_league_basketball,Bristol Flyers,Cheshire Phoenix,2026-11-20T19:30:00+00:00,total,170.5,1.88,1.82,1640459400,100.0
+2026-11-20T02:28:17+00:00,1028562737,euroleague,FC Barcelona,KK Crvena Zvezda Belgrade,2026-11-20T19:30:00+00:00,spread,-2.5,1.86,1.95,1640403533,100.0
+2026-11-20T02:28:17+00:00,1028562737,euroleague,FC Barcelona,KK Crvena Zvezda Belgrade,2026-11-20T19:30:00+00:00,total,172.5,1.87,1.93,1640403533,100.0
+2026-11-20T02:28:17+00:00,1029005664,brazil/nbb,Basquete Cearense,Botafogo,2026-11-20T21:00:00+00:00,moneyline,,2.33,1.53,,37.0
+2026-11-20T02:28:17+00:00,1029005664,brazil/nbb,Basquete Cearense,Botafogo,2026-11-20T21:00:00+00:00,spread,3.5,1.85,1.85,,37.0
+2026-11-20T02:28:17+00:00,1029005664,brazil/nbb,Basquete Cearense,Botafogo,2026-11-20T21:00:00+00:00,total,157.5,1.85,1.85,,37.0
+2026-11-20T02:28:17+00:00,1029153049,greece/gbl,Kolossos Rhodes,ASP Promitheas,2026-11-21T14:00:00+00:00,moneyline,,1.3,3.4,1640499516,91.9
+2026-11-20T02:28:17+00:00,1029153049,greece/gbl,Kolossos Rhodes,ASP Promitheas,2026-11-21T14:00:00+00:00,spread,-7.5,1.84,1.84,1640499516,91.9
+2026-11-20T02:28:17+00:00,1029153049,greece/gbl,Kolossos Rhodes,ASP Promitheas,2026-11-21T14:00:00+00:00,total,163.5,1.83,1.87,1640499516,91.9
