@@ -193,3 +193,6 @@ ts,event_id,group,home,away,start,type,line,dec_1,dec_2,pin_matchup_id,match_sco
 2026-11-20T08:49:58+00:00,1028304657,poland/plk,Polski Cukier Start Lublin,Arriva Polski Cukier Toruń,2026-11-21T11:30:00+00:00,moneyline,,2.45,1.48,,67.8
 2026-11-20T08:49:58+00:00,1028304657,poland/plk,Polski Cukier Start Lublin,Arriva Polski Cukier Toruń,2026-11-21T11:30:00+00:00,spread,4.5,1.81,1.89,,67.8
 2026-11-20T08:49:58+00:00,1028304657,poland/plk,Polski Cukier Start Lublin,Arriva Polski Cukier Toruń,2026-11-21T11:30:00+00:00,total,170.5,1.87,1.83,,67.8
+2026-11-20T09:00:11+00:00,1028304631,poland/plk,King Szczecin,Anwil Włocławek,2026-11-21T16:30:00+00:00,moneyline,,1.38,2.8,1640622502,96.4
+2026-11-20T09:00:11+00:00,1028304631,poland/plk,King Szczecin,Anwil Włocławek,2026-11-21T16:30:00+00:00,spread,-5.5,1.84,1.87,1640622502,96.4
+2026-11-20T09:00:11+00:00,1028304631,poland/plk,King Szczecin,Anwil Włocławek,2026-11-21T16:30:00+00:00,total,164.5,1.85,1.85,1640622502,96.4
