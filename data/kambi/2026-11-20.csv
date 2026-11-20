@@ -370,3 +370,7 @@ ts,event_id,group,home,away,start,type,line,dec_1,dec_2,pin_matchup_id,match_sco
 2026-11-20T15:55:08+00:00,1028312602,finland/korisliiga,KTP-Basket,Helsinki Seagulls,2026-11-20T16:30:00+00:00,moneyline,,1.25,3.75,1640420610,100.0
 2026-11-20T15:55:08+00:00,1028312602,finland/korisliiga,KTP-Basket,Helsinki Seagulls,2026-11-20T16:30:00+00:00,spread,-8.5,1.85,1.92,1640420610,100.0
 2026-11-20T15:55:08+00:00,1028312602,finland/korisliiga,KTP-Basket,Helsinki Seagulls,2026-11-20T16:30:00+00:00,total,174.5,1.85,1.85,1640420610,100.0
+2026-11-20T16:00:21+00:00,1028312606,finland/korisliiga,Salon Vilpas,Kauhajoki,2026-11-20T16:30:00+00:00,moneyline,,1.34,3.1,1640420609,100.0
+2026-11-20T16:00:21+00:00,1028312606,finland/korisliiga,Salon Vilpas,Kauhajoki,2026-11-20T16:30:00+00:00,spread,-6.5,1.85,1.9,1640420609,100.0
+2026-11-20T16:00:21+00:00,1028646528,germany/bbl,Science City Jena,Rostock Seawolves,2026-11-21T15:00:00+00:00,total,166.5,1.77,1.95,1640502525,76.5
+2026-11-20T16:00:21+00:00,1028635004,italy/lega_a,Dolomiti Energia Trento,GeVi Napoli,2026-11-21T18:00:00+00:00,total,174.5,1.85,1.85,1640512284,81.6
