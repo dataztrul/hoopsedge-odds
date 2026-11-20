@@ -485,3 +485,13 @@ ts,event_id,group,home,away,start,type,line,dec_1,dec_2,pin_matchup_id,match_sco
 2026-11-20T18:32:58+00:00,1028475236,france/elite_2,Aix-Maurienne,ADA Blois Basket 41,2026-11-20T19:00:00+00:00,total,179.5,1.85,1.79,1640441922,100.0
 2026-11-20T18:38:11+00:00,1028646518,germany/bbl,Würzburg Baskets,SC Rasta Vechta,2026-11-20T19:00:00+00:00,spread,-3.5,1.9,1.8,1640443101,100.0
 2026-11-20T18:38:11+00:00,1028646518,germany/bbl,Würzburg Baskets,SC Rasta Vechta,2026-11-20T19:00:00+00:00,total,170.5,1.83,1.87,1640443101,100.0
+2026-11-20T18:43:23+00:00,1028562735,euroleague,Olympiacos BC,Real Madrid Baloncesto,2026-11-20T19:15:00+00:00,moneyline,,1.72,2.12,1640388677,95.0
+2026-11-20T18:43:23+00:00,1028562735,euroleague,Olympiacos BC,Real Madrid Baloncesto,2026-11-20T19:15:00+00:00,spread,-2.5,1.96,1.84,1640388677,95.0
+2026-11-20T18:43:23+00:00,1028130344,bnxt_league,New Heroes Den Bosch,Circus Brussels,2026-11-20T19:00:00+00:00,moneyline,,2.18,1.6,1640441930,100.0
+2026-11-20T18:43:23+00:00,1028130344,bnxt_league,New Heroes Den Bosch,Circus Brussels,2026-11-20T19:00:00+00:00,spread,2.5,1.87,1.81,1640441930,100.0
+2026-11-20T18:43:23+00:00,1029005664,brazil/nbb,Basquete Cearense,Botafogo,2026-11-20T21:00:00+00:00,moneyline,,2.33,1.53,,37.0
+2026-11-20T18:43:23+00:00,1029005664,brazil/nbb,Basquete Cearense,Botafogo,2026-11-20T21:00:00+00:00,spread,3.5,1.85,1.85,,37.0
+2026-11-20T18:43:23+00:00,1028992926,france/elite,Chorale Roanne,Limoges CSP,2026-11-20T19:00:00+00:00,moneyline,,1.24,3.8,1640432775,100.0
+2026-11-20T18:43:23+00:00,1028992926,france/elite,Chorale Roanne,Limoges CSP,2026-11-20T19:00:00+00:00,spread,-8.5,1.85,1.91,1640432775,100.0
+2026-11-20T18:43:23+00:00,1028992926,france/elite,Chorale Roanne,Limoges CSP,2026-11-20T19:00:00+00:00,total,166.5,1.86,1.84,1640432775,100.0
+2026-11-20T18:43:23+00:00,1028475168,france/elite_2,Nantes,St Chamond,2026-11-20T19:00:00+00:00,spread,-6.5,1.8,1.83,,63.3
