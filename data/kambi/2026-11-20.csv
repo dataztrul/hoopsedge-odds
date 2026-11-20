@@ -384,3 +384,10 @@ ts,event_id,group,home,away,start,type,line,dec_1,dec_2,pin_matchup_id,match_sco
 2026-11-20T16:16:02+00:00,1028312606,finland/korisliiga,Salon Vilpas,Kauhajoki,2026-11-20T16:30:00+00:00,moneyline,,1.34,3.15,1640420609,100.0
 2026-11-20T16:16:02+00:00,1028312606,finland/korisliiga,Salon Vilpas,Kauhajoki,2026-11-20T16:30:00+00:00,spread,-6.5,1.85,1.91,1640420609,100.0
 2026-11-20T16:16:02+00:00,1028312606,finland/korisliiga,Salon Vilpas,Kauhajoki,2026-11-20T16:30:00+00:00,total,167.5,1.88,1.83,1640420609,100.0
+2026-11-20T16:21:16+00:00,1027960463,sweden/basketligan,Södertälje Kings,Umeå BSKT,2026-11-21T15:04:00+00:00,moneyline,,1.03,8.5,1640499454,91.7
+2026-11-20T16:21:16+00:00,1027960463,sweden/basketligan,Södertälje Kings,Umeå BSKT,2026-11-21T15:04:00+00:00,spread,-16.5,1.75,1.97,1640499454,91.7
+2026-11-20T16:21:16+00:00,1028280663,czech_republic/nbl,BK Děčín,BK Opava,2026-11-21T16:00:00+00:00,moneyline,,1.63,2.14,1640505022,100.0
+2026-11-20T16:21:16+00:00,1028312602,finland/korisliiga,KTP-Basket,Helsinki Seagulls,2026-11-20T16:30:00+00:00,moneyline,,1.3,3.3,1640420610,100.0
+2026-11-20T16:21:16+00:00,1028312602,finland/korisliiga,KTP-Basket,Helsinki Seagulls,2026-11-20T16:30:00+00:00,spread,-7.5,1.9,1.86,1640420610,100.0
+2026-11-20T16:21:16+00:00,1028312606,finland/korisliiga,Salon Vilpas,Kauhajoki,2026-11-20T16:30:00+00:00,moneyline,,1.28,3.55,1640420609,100.0
+2026-11-20T16:21:16+00:00,1028312606,finland/korisliiga,Salon Vilpas,Kauhajoki,2026-11-20T16:30:00+00:00,spread,-7.5,1.81,1.96,1640420609,100.0
