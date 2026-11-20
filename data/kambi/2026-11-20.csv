@@ -564,3 +564,8 @@ ts,event_id,group,home,away,start,type,line,dec_1,dec_2,pin_matchup_id,match_sco
 2026-11-20T19:45:54+00:00,1028435646,portugal/lpb,Clube Atletico Queluz,SC Braga,2026-11-21T18:15:00+00:00,moneyline,,2.6,1.44,1640512288,90.0
 2026-11-20T19:45:54+00:00,1028435646,portugal/lpb,Clube Atletico Queluz,SC Braga,2026-11-21T18:15:00+00:00,spread,4.5,1.9,1.8,1640512288,90.0
 2026-11-20T19:45:54+00:00,1028435646,portugal/lpb,Clube Atletico Queluz,SC Braga,2026-11-21T18:15:00+00:00,total,175.5,1.87,1.83,1640512288,90.0
+2026-11-20T20:06:41+00:00,1029938848,belgium/top_division_1,BBC Croonen Lommel,Port of Antwerp Giants B,2026-11-21T19:30:00+00:00,moneyline,,1.17,4.4,1640512327,100.0
+2026-11-20T20:06:41+00:00,1029938848,belgium/top_division_1,BBC Croonen Lommel,Port of Antwerp Giants B,2026-11-21T19:30:00+00:00,spread,-10.5,1.85,1.85,1640512327,100.0
+2026-11-20T20:06:41+00:00,1029938848,belgium/top_division_1,BBC Croonen Lommel,Port of Antwerp Giants B,2026-11-21T19:30:00+00:00,total,159.5,1.82,1.89,1640512327,100.0
+2026-11-20T20:06:41+00:00,1028280633,czech_republic/nbl,BLK Slavia Praha,Basket Brno,2026-11-21T14:00:00+00:00,spread,-20.5,1.9,1.81,1640499528,85.1
+2026-11-20T20:06:41+00:00,1028280633,czech_republic/nbl,BLK Slavia Praha,Basket Brno,2026-11-21T14:00:00+00:00,total,176.5,1.98,1.74,1640499528,85.1
