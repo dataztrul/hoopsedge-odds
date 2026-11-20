@@ -148,3 +148,6 @@ ts,event_id,group,home,away,start,type,line,dec_1,dec_2,pin_matchup_id,match_sco
 2026-11-20T06:47:02+00:00,1028312662,finland/korisliiga,Bisons Loimaa,Kouvot,2026-11-21T15:00:00+00:00,total,170.5,1.81,1.9,1640504872,100.0
 2026-11-20T06:57:14+00:00,1028646528,germany/bbl,Science City Jena,Rostock Seawolves,2026-11-21T15:00:00+00:00,moneyline,,3.0,1.34,,41.8
 2026-11-20T06:57:14+00:00,1028646528,germany/bbl,Science City Jena,Rostock Seawolves,2026-11-21T15:00:00+00:00,spread,5.5,1.98,1.74,,41.8
+2026-11-20T07:07:24+00:00,1028130348,bnxt_league,Antwerp Giants,Spirou Basket,2026-11-21T19:00:00+00:00,moneyline,,1.09,6.0,1640515629,100.0
+2026-11-20T07:07:24+00:00,1028130348,bnxt_league,Antwerp Giants,Spirou Basket,2026-11-21T19:00:00+00:00,spread,-14.5,1.88,1.8,1640515629,100.0
+2026-11-20T07:07:24+00:00,1028130348,bnxt_league,Antwerp Giants,Spirou Basket,2026-11-21T19:00:00+00:00,total,166.5,1.86,1.82,1640515629,100.0
