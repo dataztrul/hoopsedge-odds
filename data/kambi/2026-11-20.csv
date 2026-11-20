@@ -271,3 +271,7 @@ ts,event_id,group,home,away,start,type,line,dec_1,dec_2,pin_matchup_id,match_sco
 2026-11-20T12:37:29+00:00,1028293023,austria/obl,Kapfenberg Bulls,Allianz Swans Gmunden,2026-11-21T18:30:00+00:00,spread,-5.5,1.82,1.88,1640691677,100.0
 2026-11-20T12:37:29+00:00,1028293023,austria/obl,Kapfenberg Bulls,Allianz Swans Gmunden,2026-11-21T18:30:00+00:00,total,170.5,1.85,1.85,1640691677,100.0
 2026-11-20T12:37:29+00:00,1028312606,finland/korisliiga,Salon Vilpas,Kauhajoki,2026-11-20T16:30:00+00:00,total,169.5,2.05,1.68,1640420609,100.0
+2026-11-20T12:48:17+00:00,1029005664,brazil/nbb,Basquete Cearense,Botafogo,2026-11-20T21:00:00+00:00,moneyline,,2.12,1.64,,37.0
+2026-11-20T12:48:17+00:00,1029005664,brazil/nbb,Basquete Cearense,Botafogo,2026-11-20T21:00:00+00:00,spread,2.5,1.83,1.87,,37.0
+2026-11-20T12:48:17+00:00,1029396575,turkey/tbl,Fenerbache Koleji,iLab Basketbol,2026-11-20T15:00:00+00:00,moneyline,,2.0,1.72,1640428838,86.7
+2026-11-20T12:48:17+00:00,1029396575,turkey/tbl,Fenerbache Koleji,iLab Basketbol,2026-11-20T15:00:00+00:00,spread,1.5,1.87,1.83,1640428838,86.7
