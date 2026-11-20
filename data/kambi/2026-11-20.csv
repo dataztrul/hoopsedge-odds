@@ -160,3 +160,11 @@ ts,event_id,group,home,away,start,type,line,dec_1,dec_2,pin_matchup_id,match_sco
 2026-11-20T07:28:22+00:00,1028646515,germany/bbl,EWE Baskets Oldenburg,Skyliners Frankfurt,2026-11-21T19:00:00+00:00,moneyline,,1.77,1.93,,41.8
 2026-11-20T07:28:22+00:00,1028646515,germany/bbl,EWE Baskets Oldenburg,Skyliners Frankfurt,2026-11-21T19:00:00+00:00,spread,-1.5,1.9,1.8,,41.8
 2026-11-20T07:28:22+00:00,1028646515,germany/bbl,EWE Baskets Oldenburg,Skyliners Frankfurt,2026-11-21T19:00:00+00:00,total,164.5,1.89,1.81,,41.8
+2026-11-20T07:38:33+00:00,1028130349,bnxt_league,Kangoeroes Basket Mechelen,ZZ Leiden,2026-11-21T19:30:00+00:00,moneyline,,1.52,2.33,1640513897,90.0
+2026-11-20T07:38:33+00:00,1028130349,bnxt_league,Kangoeroes Basket Mechelen,ZZ Leiden,2026-11-21T19:30:00+00:00,spread,-3.5,1.83,1.85,1640513897,90.0
+2026-11-20T07:38:33+00:00,1028130349,bnxt_league,Kangoeroes Basket Mechelen,ZZ Leiden,2026-11-21T19:30:00+00:00,total,168.5,1.85,1.84,1640513897,90.0
+2026-11-20T07:38:33+00:00,1028130383,bnxt_league,Mons-Hainaut,Leuven Bears,2026-11-21T19:30:00+00:00,moneyline,,3.4,1.26,1640513894,100.0
+2026-11-20T07:38:33+00:00,1028130383,bnxt_league,Mons-Hainaut,Leuven Bears,2026-11-21T19:30:00+00:00,spread,7.5,1.86,1.82,1640513894,100.0
+2026-11-20T07:38:33+00:00,1028130383,bnxt_league,Mons-Hainaut,Leuven Bears,2026-11-21T19:30:00+00:00,total,153.5,1.84,1.84,1640513894,100.0
+2026-11-20T07:38:33+00:00,1028130390,bnxt_league,BC Oostende,Rotterdam City Basketball,2026-11-21T19:30:00+00:00,spread,-19.5,1.89,1.79,1640512322,100.0
+2026-11-20T07:38:33+00:00,1028130390,bnxt_league,BC Oostende,Rotterdam City Basketball,2026-11-21T19:30:00+00:00,total,157.5,1.81,1.87,1640512322,100.0
