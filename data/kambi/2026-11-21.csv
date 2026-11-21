@@ -200,3 +200,5 @@ ts,event_id,group,home,away,start,type,line,dec_1,dec_2,pin_matchup_id,match_sco
 2026-11-21T08:30:10+00:00,1029851637,germany/bbl,Baskets Bonn,Ulm Basketball,2026-11-22T14:00:00+00:00,moneyline,,1.33,3.0,,36.0
 2026-11-21T08:30:10+00:00,1029851637,germany/bbl,Baskets Bonn,Ulm Basketball,2026-11-22T14:00:00+00:00,spread,-6.5,1.83,1.87,,36.0
 2026-11-21T08:30:10+00:00,1029851637,germany/bbl,Baskets Bonn,Ulm Basketball,2026-11-22T14:00:00+00:00,total,167.5,1.87,1.83,,36.0
+2026-11-21T08:40:41+00:00,1028304660,poland/plk,Stal Ostrów Wlkp.,Arka Gdynia,2026-11-22T16:30:00+00:00,spread,5.5,1.9,1.81,1640693416,76.0
+2026-11-21T08:40:41+00:00,1028304660,poland/plk,Stal Ostrów Wlkp.,Arka Gdynia,2026-11-22T16:30:00+00:00,total,158.5,1.91,1.79,1640693416,76.0
