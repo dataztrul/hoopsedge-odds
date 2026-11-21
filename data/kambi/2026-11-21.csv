@@ -775,3 +775,12 @@ ts,event_id,group,home,away,start,type,line,dec_1,dec_2,pin_matchup_id,match_sco
 2026-11-21T18:51:58+00:00,1029420778,france/elite_2,Fos Ouest Provence Basket,Denain,2026-11-21T19:00:00+00:00,total,161.5,1.78,1.86,1640515619,100.0
 2026-11-21T18:51:58+00:00,1029946571,germany/pro_a,Crailsheim Merlins,Nuremberg Falcons BC,2026-11-21T19:00:00+00:00,moneyline,,1.12,5.2,1640512317,100.0
 2026-11-21T18:51:58+00:00,1029946571,germany/pro_a,Crailsheim Merlins,Nuremberg Falcons BC,2026-11-21T19:00:00+00:00,spread,-12.5,1.89,1.81,1640512317,100.0
+2026-11-21T18:57:17+00:00,1028293020,austria/obl,Arkadia Traiskirchen Lions,Xion Dukes Klosterneuburg,2026-11-21T19:20:00+00:00,spread,-16.5,1.78,1.93,1640689093,100.0
+2026-11-21T18:57:17+00:00,1028293020,austria/obl,Arkadia Traiskirchen Lions,Xion Dukes Klosterneuburg,2026-11-21T19:20:00+00:00,total,158.5,2.0,1.72,1640689093,100.0
+2026-11-21T18:57:17+00:00,1029420778,france/elite_2,Fos Ouest Provence Basket,Denain,2026-11-21T19:02:00+00:00,total,161.5,1.68,1.98,1640515619,100.0
+2026-11-21T18:57:17+00:00,1029269535,italy/lega_a,Virtus Bologna,BC Roma,2026-11-22T17:00:00+00:00,moneyline,,1.12,5.8,1640539678,100.0
+2026-11-21T18:57:17+00:00,1029269535,italy/lega_a,Virtus Bologna,BC Roma,2026-11-22T17:00:00+00:00,spread,-11.5,1.66,2.17,1640539678,100.0
+2026-11-21T18:57:17+00:00,1029269535,italy/lega_a,Virtus Bologna,BC Roma,2026-11-22T17:00:00+00:00,total,185.5,1.74,1.98,1640539678,100.0
+2026-11-21T18:57:17+00:00,1028726950,lithuania/lkl,BC Rytas Vilnius,BC Juventus,2026-11-22T17:10:00+00:00,moneyline,,1.29,3.25,1640540172,100.0
+2026-11-21T18:57:17+00:00,1028726950,lithuania/lkl,BC Rytas Vilnius,BC Juventus,2026-11-22T17:10:00+00:00,spread,-7.5,1.84,1.86,1640540172,100.0
+2026-11-21T18:57:17+00:00,1028726950,lithuania/lkl,BC Rytas Vilnius,BC Juventus,2026-11-22T17:10:00+00:00,total,176.5,1.84,1.86,1640540172,100.0
