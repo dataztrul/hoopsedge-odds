@@ -766,3 +766,12 @@ ts,event_id,group,home,away,start,type,line,dec_1,dec_2,pin_matchup_id,match_sco
 2026-11-21T18:46:41+00:00,1028635009,italy/lega_a,Allianz Trieste,Unahotels Reggio Emilia,2026-11-21T19:00:00+00:00,total,177.5,1.87,1.83,1640515628,72.6
 2026-11-21T18:46:41+00:00,1028635575,italy/serie_a2,Cividale,Juvecaserta,2026-11-21T19:00:00+00:00,spread,-5.5,1.76,1.88,1640630510,100.0
 2026-11-21T18:46:41+00:00,1028635575,italy/serie_a2,Cividale,Juvecaserta,2026-11-21T19:00:00+00:00,total,157.5,1.86,1.78,1640630510,100.0
+2026-11-21T18:51:58+00:00,1028293020,austria/obl,Arkadia Traiskirchen Lions,Xion Dukes Klosterneuburg,2026-11-21T19:20:00+00:00,moneyline,,1.05,8.5,1640689093,100.0
+2026-11-21T18:51:58+00:00,1028293020,austria/obl,Arkadia Traiskirchen Lions,Xion Dukes Klosterneuburg,2026-11-21T19:20:00+00:00,spread,-16.5,1.76,1.95,1640689093,100.0
+2026-11-21T18:51:58+00:00,1029005676,brazil/nbb,AERC Osasco,Cruzeiro Basquete,2026-11-21T19:00:00+00:00,moneyline,,2.8,1.38,,58.1
+2026-11-21T18:51:58+00:00,1029005676,brazil/nbb,AERC Osasco,Cruzeiro Basquete,2026-11-21T19:00:00+00:00,spread,5.5,1.87,1.83,,58.1
+2026-11-21T18:51:58+00:00,1028475165,france/elite_2,Quimper,Hyères-Toulon,2026-11-21T19:00:00+00:00,spread,-4.5,1.87,1.77,1640693504,100.0
+2026-11-21T18:51:58+00:00,1028475165,france/elite_2,Quimper,Hyères-Toulon,2026-11-21T19:00:00+00:00,total,170.5,1.8,1.84,1640693504,100.0
+2026-11-21T18:51:58+00:00,1029420778,france/elite_2,Fos Ouest Provence Basket,Denain,2026-11-21T19:00:00+00:00,total,161.5,1.78,1.86,1640515619,100.0
+2026-11-21T18:51:58+00:00,1029946571,germany/pro_a,Crailsheim Merlins,Nuremberg Falcons BC,2026-11-21T19:00:00+00:00,moneyline,,1.12,5.2,1640512317,100.0
+2026-11-21T18:51:58+00:00,1029946571,germany/pro_a,Crailsheim Merlins,Nuremberg Falcons BC,2026-11-21T19:00:00+00:00,spread,-12.5,1.89,1.81,1640512317,100.0
