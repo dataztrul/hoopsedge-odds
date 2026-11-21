@@ -448,3 +448,10 @@ ts,event_id,group,home,away,start,type,line,dec_1,dec_2,pin_matchup_id,match_sco
 2026-11-21T14:25:18+00:00,1028992877,france/elite,Cholet,Boulazac,2026-11-21T17:30:00+00:00,moneyline,,1.38,2.9,1640512267,100.0
 2026-11-21T14:25:18+00:00,1028992877,france/elite,Cholet,Boulazac,2026-11-21T17:30:00+00:00,spread,-5.5,1.85,1.91,1640512267,100.0
 2026-11-21T14:30:38+00:00,1028312662,finland/korisliiga,Bisons Loimaa,Kouvot,2026-11-21T15:00:00+00:00,total,171.5,1.8,1.9,1640504872,100.0
+2026-11-21T14:35:57+00:00,1028130349,bnxt_league,Kangoeroes Basket Mechelen,ZZ Leiden,2026-11-21T19:30:00+00:00,moneyline,,1.34,2.9,1640513897,90.0
+2026-11-21T14:35:57+00:00,1028130349,bnxt_league,Kangoeroes Basket Mechelen,ZZ Leiden,2026-11-21T19:30:00+00:00,spread,-4.5,1.66,2.06,1640513897,90.0
+2026-11-21T14:35:57+00:00,1028312662,finland/korisliiga,Bisons Loimaa,Kouvot,2026-11-21T15:00:00+00:00,moneyline,,1.38,2.9,1640504872,100.0
+2026-11-21T14:35:57+00:00,1028312662,finland/korisliiga,Bisons Loimaa,Kouvot,2026-11-21T15:00:00+00:00,spread,-4.5,1.72,2.08,1640504872,100.0
+2026-11-21T14:35:57+00:00,1029832545,germany/pro_a,PS Karlsruhe Lions,VfL SparkassenStars Bochum,2026-11-21T18:30:00+00:00,total,163.5,1.85,1.84,1640515613,88.3
+2026-11-21T14:35:57+00:00,1029521464,lithuania/lkl,Gargždai SC,KK Taurage,2026-11-21T14:50:00+00:00,moneyline,,1.43,2.63,1640499420,100.0
+2026-11-21T14:35:57+00:00,1029521464,lithuania/lkl,Gargždai SC,KK Taurage,2026-11-21T14:50:00+00:00,spread,-5.5,1.91,1.8,1640499420,100.0
