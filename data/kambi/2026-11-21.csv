@@ -703,3 +703,5 @@ ts,event_id,group,home,away,start,type,line,dec_1,dec_2,pin_matchup_id,match_sco
 2026-11-21T17:48:10+00:00,1028635004,italy/lega_a,Dolomiti Energia Trento,GeVi Napoli,2026-11-21T18:00:00+00:00,total,175.5,1.81,1.89,1640512284,81.6
 2026-11-21T17:48:10+00:00,1028697320,spain/leb_oro,Chocolates Trapa Palencia,Palmer Basket Mallorca,2026-11-21T18:00:00+00:00,moneyline,,1.08,5.75,1640512283,81.1
 2026-11-21T17:48:10+00:00,1028697320,spain/leb_oro,Chocolates Trapa Palencia,Palmer Basket Mallorca,2026-11-21T18:00:00+00:00,spread,-13.5,1.86,1.79,1640512283,81.1
+2026-11-21T17:53:31+00:00,1028293026,austria/obl,UBSC Graz,WBC Raiffeisen Wels,2026-11-21T18:00:00+00:00,moneyline,,2.06,1.68,1640513857,76.7
+2026-11-21T17:53:31+00:00,1028293026,austria/obl,UBSC Graz,WBC Raiffeisen Wels,2026-11-21T18:00:00+00:00,spread,1.5,1.92,1.79,1640513857,76.7
