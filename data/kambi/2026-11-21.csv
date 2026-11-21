@@ -612,3 +612,15 @@ ts,event_id,group,home,away,start,type,line,dec_1,dec_2,pin_matchup_id,match_sco
 2026-11-21T16:28:32+00:00,1028304631,poland/plk,King Szczecin,Anwil Włocławek,2026-11-21T16:30:00+00:00,spread,-11.5,1.91,1.79,1640622502,96.4
 2026-11-21T16:28:32+00:00,1028304631,poland/plk,King Szczecin,Anwil Włocławek,2026-11-21T16:30:00+00:00,total,164.5,1.85,1.85,1640622502,96.4
 2026-11-21T16:28:32+00:00,1029396592,turkey/tbl,Keçiören Belediyesi,Demir İnşaat Büyükçekmece,2026-11-21T16:34:00+00:00,total,170.5,1.66,2.1,1640504929,70.1
+2026-11-21T16:33:50+00:00,1029831956,germany/pro_a,Kirchheim Knights,Eisbären Bremerhaven,2026-11-21T17:00:00+00:00,moneyline,,1.15,4.7,1640512261,100.0
+2026-11-21T16:33:50+00:00,1029831956,germany/pro_a,Kirchheim Knights,Eisbären Bremerhaven,2026-11-21T17:00:00+00:00,spread,-11.5,1.85,1.85,1640512261,100.0
+2026-11-21T16:33:50+00:00,1029831947,germany/pro_a,Orange Academy,Baskets Koblenz,2026-11-21T17:00:00+00:00,moneyline,,1.86,1.84,1640513829,100.0
+2026-11-21T16:33:50+00:00,1029831947,germany/pro_a,Orange Academy,Baskets Koblenz,2026-11-21T17:00:00+00:00,spread,-0.5,1.86,1.84,1640513829,100.0
+2026-11-21T16:33:50+00:00,1029912210,slovakia/extraliga,MBK Handlová,Spisski Rytieri,2026-11-21T17:00:00+00:00,moneyline,,1.43,2.6,1640511562,70.6
+2026-11-21T16:33:50+00:00,1029912210,slovakia/extraliga,MBK Handlová,Spisski Rytieri,2026-11-21T17:00:00+00:00,spread,-4.5,1.8,1.91,1640511562,70.6
+2026-11-21T16:33:50+00:00,1029912210,slovakia/extraliga,MBK Handlová,Spisski Rytieri,2026-11-21T17:00:00+00:00,total,168.5,1.88,1.82,1640511562,70.6
+2026-11-21T16:33:50+00:00,1029912212,slovakia/extraliga,MBK Rieker Komárno,BC Prievidza,2026-11-21T17:00:00+00:00,moneyline,,4.8,1.14,1640513830,100.0
+2026-11-21T16:33:50+00:00,1029912212,slovakia/extraliga,MBK Rieker Komárno,BC Prievidza,2026-11-21T17:00:00+00:00,spread,11.5,1.88,1.82,1640513830,100.0
+2026-11-21T16:33:50+00:00,1029912212,slovakia/extraliga,MBK Rieker Komárno,BC Prievidza,2026-11-21T17:00:00+00:00,total,167.5,1.86,1.84,1640513830,100.0
+2026-11-21T16:33:50+00:00,1029818062,slovakia/extraliga,Nitra Blue Wings,BK Inter Incheba Bratislava,2026-11-21T17:00:00+00:00,spread,-13.5,1.8,1.9,1640505059,100.0
+2026-11-21T16:33:50+00:00,1029818062,slovakia/extraliga,Nitra Blue Wings,BK Inter Incheba Bratislava,2026-11-21T17:00:00+00:00,total,159.5,1.84,1.86,1640505059,100.0
