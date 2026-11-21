@@ -341,3 +341,8 @@ ts,event_id,group,home,away,start,type,line,dec_1,dec_2,pin_matchup_id,match_sco
 2026-11-21T11:30:10+00:00,1028803897,united_kingdom/super_league_basketball,Cheshire Phoenix,Caledonia Gladiators,2026-11-22T17:30:00+00:00,moneyline,,1.16,4.5,1640540177,100.0
 2026-11-21T11:30:10+00:00,1028803897,united_kingdom/super_league_basketball,Cheshire Phoenix,Caledonia Gladiators,2026-11-22T17:30:00+00:00,spread,-11.5,1.89,1.81,1640540177,100.0
 2026-11-21T11:30:10+00:00,1028803897,united_kingdom/super_league_basketball,Cheshire Phoenix,Caledonia Gladiators,2026-11-22T17:30:00+00:00,total,184.5,1.66,2.08,1640540177,100.0
+2026-11-21T11:35:28+00:00,1028697310,spain/leb_oro,Caja'87 Baloncesto,CB Zamora,2026-11-22T11:30:00+00:00,moneyline,,1.43,2.5,1640601922,100.0
+2026-11-21T11:35:28+00:00,1028697310,spain/leb_oro,Caja'87 Baloncesto,CB Zamora,2026-11-22T11:30:00+00:00,spread,-4.5,1.81,1.83,1640601922,100.0
+2026-11-21T11:35:28+00:00,1029396587,turkey/tbl,Kahramanmaras Istiklal,Ankaragucu Mamak,2026-11-21T13:30:00+00:00,moneyline,,1.14,4.8,1640499379,93.3
+2026-11-21T11:35:28+00:00,1029396587,turkey/tbl,Kahramanmaras Istiklal,Ankaragucu Mamak,2026-11-21T13:30:00+00:00,spread,-11.5,1.84,1.86,1640499379,93.3
+2026-11-21T11:35:28+00:00,1029396587,turkey/tbl,Kahramanmaras Istiklal,Ankaragucu Mamak,2026-11-21T13:30:00+00:00,total,174.5,2.1,1.65,1640499379,93.3
