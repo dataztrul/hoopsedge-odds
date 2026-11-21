@@ -855,3 +855,4 @@ ts,event_id,group,home,away,start,type,line,dec_1,dec_2,pin_matchup_id,match_sco
 2026-11-21T22:06:33+00:00,1028803897,united_kingdom/super_league_basketball,Cheshire Phoenix,Caledonia Gladiators,2026-11-22T17:30:00+00:00,spread,-12.5,1.83,1.87,1640540177,100.0
 2026-11-21T22:37:04+00:00,1029336188,slovakia/extraliga,BK Levickí Patrioti,Lucenec,2026-11-22T17:00:00+00:00,moneyline,,1.04,9.0,1640535731,94.1
 2026-11-21T22:37:04+00:00,1029336188,slovakia/extraliga,BK Levickí Patrioti,Lucenec,2026-11-22T17:00:00+00:00,spread,-16.5,1.66,2.1,1640535731,94.1
+2026-11-21T22:52:19+00:00,1028635006,italy/lega_a,Bertram Tortona,Milano,2026-11-22T15:00:00+00:00,total,169.5,1.71,2.0,1640535763,76.1
