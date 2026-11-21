@@ -549,3 +549,10 @@ ts,event_id,group,home,away,start,type,line,dec_1,dec_2,pin_matchup_id,match_sco
 2026-11-21T15:23:47+00:00,1029153087,greece/gbl,PAOK Thessaloniki BC,Aris,2026-11-21T15:30:00+00:00,moneyline,,2.0,1.76,1640504990,100.0
 2026-11-21T15:23:47+00:00,1029153087,greece/gbl,PAOK Thessaloniki BC,Aris,2026-11-21T15:30:00+00:00,total,159.5,1.87,1.83,1640504990,100.0
 2026-11-21T15:23:47+00:00,1028635006,italy/lega_a,Bertram Tortona,Milano,2026-11-22T15:00:00+00:00,total,169.5,1.83,1.87,1640535763,76.1
+2026-11-21T15:29:07+00:00,1029938908,germany/bbl,Basketball Löwen Braunschweig,Bamberg Baskets,2026-11-21T17:30:00+00:00,total,174.5,1.65,2.1,1640513844,89.3
+2026-11-21T15:29:07+00:00,1028635006,italy/lega_a,Bertram Tortona,Milano,2026-11-22T15:00:00+00:00,moneyline,,2.85,1.41,1640535763,76.1
+2026-11-21T15:29:07+00:00,1028635006,italy/lega_a,Bertram Tortona,Milano,2026-11-22T15:00:00+00:00,spread,4.5,2.04,1.74,1640535763,76.1
+2026-11-21T15:29:07+00:00,1028635006,italy/lega_a,Bertram Tortona,Milano,2026-11-22T15:00:00+00:00,total,169.5,1.81,1.89,1640535763,76.1
+2026-11-21T15:29:07+00:00,1029948115,spain/leb_oro,CB Bahia San Agustin,Coto Córdoba CB,2026-11-22T17:00:00+00:00,moneyline,,1.7,1.98,,59.1
+2026-11-21T15:29:07+00:00,1029948115,spain/leb_oro,CB Bahia San Agustin,Coto Córdoba CB,2026-11-22T17:00:00+00:00,spread,-1.5,1.81,1.83,,59.1
+2026-11-21T15:29:07+00:00,1029948115,spain/leb_oro,CB Bahia San Agustin,Coto Córdoba CB,2026-11-22T17:00:00+00:00,total,159.5,1.94,1.71,,59.1
