@@ -641,3 +641,14 @@ ts,event_id,group,home,away,start,type,line,dec_1,dec_2,pin_matchup_id,match_sco
 2026-11-21T16:44:25+00:00,1029912212,slovakia/extraliga,MBK Rieker Komárno,BC Prievidza,2026-11-21T17:00:00+00:00,spread,11.5,1.88,1.82,1640513830,100.0
 2026-11-21T16:44:25+00:00,1028750533,spain/liga_acb,San Pablo Burgos,Unicaja Málaga,2026-11-21T17:00:00+00:00,moneyline,,3.05,1.36,1640512264,100.0
 2026-11-21T16:44:25+00:00,1028750533,spain/liga_acb,San Pablo Burgos,Unicaja Málaga,2026-11-21T17:00:00+00:00,total,178.5,1.85,1.85,1640512264,100.0
+2026-11-21T16:49:44+00:00,1027960398,sweden/basketligan,Högsbo Basket,Sloga Uppsala,2026-11-21T17:04:00+00:00,spread,-5.5,1.85,1.85,1640511561,100.0
+2026-11-21T16:49:44+00:00,1027960398,sweden/basketligan,Högsbo Basket,Sloga Uppsala,2026-11-21T17:04:00+00:00,total,170.5,1.82,1.88,1640511561,100.0
+2026-11-21T16:49:44+00:00,1028992868,france/elite,Elan Chalon,Saint-Quentin,2026-11-21T17:00:00+00:00,spread,-17.5,1.93,1.84,1640511540,100.0
+2026-11-21T16:49:44+00:00,1028992868,france/elite,Elan Chalon,Saint-Quentin,2026-11-21T17:00:00+00:00,total,177.5,1.74,1.97,1640511540,100.0
+2026-11-21T16:49:44+00:00,1029831947,germany/pro_a,Orange Academy,Baskets Koblenz,2026-11-21T17:00:00+00:00,moneyline,,2.04,1.68,1640513829,100.0
+2026-11-21T16:49:44+00:00,1029831947,germany/pro_a,Orange Academy,Baskets Koblenz,2026-11-21T17:00:00+00:00,spread,1.5,1.9,1.8,1640513829,100.0
+2026-11-21T16:49:44+00:00,1029831947,germany/pro_a,Orange Academy,Baskets Koblenz,2026-11-21T17:00:00+00:00,total,171.5,1.93,1.78,1640513829,100.0
+2026-11-21T16:49:44+00:00,1029912212,slovakia/extraliga,MBK Rieker Komárno,BC Prievidza,2026-11-21T17:00:00+00:00,moneyline,,5.4,1.11,1640513830,100.0
+2026-11-21T16:49:44+00:00,1029912212,slovakia/extraliga,MBK Rieker Komárno,BC Prievidza,2026-11-21T17:00:00+00:00,spread,12.5,1.92,1.79,1640513830,100.0
+2026-11-21T16:49:44+00:00,1028750533,spain/liga_acb,San Pablo Burgos,Unicaja Málaga,2026-11-21T17:00:00+00:00,moneyline,,2.7,1.44,1640512264,100.0
+2026-11-21T16:49:44+00:00,1028750533,spain/liga_acb,San Pablo Burgos,Unicaja Málaga,2026-11-21T17:00:00+00:00,spread,5.5,1.83,1.93,1640512264,100.0
