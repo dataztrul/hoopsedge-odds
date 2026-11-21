@@ -377,3 +377,11 @@ ts,event_id,group,home,away,start,type,line,dec_1,dec_2,pin_matchup_id,match_sco
 2026-11-21T12:28:31+00:00,1028280663,czech_republic/nbl,BK Děčín,BK Opava,2026-11-21T16:00:00+00:00,spread,-3.5,1.82,1.88,1640505022,100.0
 2026-11-21T12:44:24+00:00,1029946480,bulgaria/nbl,BK Politehnika Dupnitsa,Balkan Botevgrad,2026-11-21T16:00:00+00:00,spread,26.5,1.9,1.8,1640756324,78.9
 2026-11-21T12:44:24+00:00,1029946480,bulgaria/nbl,BK Politehnika Dupnitsa,Balkan Botevgrad,2026-11-21T16:00:00+00:00,total,164.5,1.86,1.84,1640756324,78.9
+2026-11-21T12:49:42+00:00,1029946540,aba_league,KK Spartak Subotica,Basketclubs Vienna,2026-11-21T18:00:00+00:00,moneyline,,1.17,4.35,1640756639,100.0
+2026-11-21T12:49:42+00:00,1029946540,aba_league,KK Spartak Subotica,Basketclubs Vienna,2026-11-21T18:00:00+00:00,spread,-10.5,1.88,1.83,1640756639,100.0
+2026-11-21T12:49:42+00:00,1029946540,aba_league,KK Spartak Subotica,Basketclubs Vienna,2026-11-21T18:00:00+00:00,total,166.5,1.88,1.82,1640756639,100.0
+2026-11-21T12:49:42+00:00,1029153046,greece/gbl,Iraklis,AEK B.C.,2026-11-21T13:00:00+00:00,spread,-4.5,1.8,1.88,1640481907,80.0
+2026-11-21T12:49:42+00:00,1029153046,greece/gbl,Iraklis,AEK B.C.,2026-11-21T13:00:00+00:00,total,157.5,1.85,1.85,1640481907,80.0
+2026-11-21T12:49:42+00:00,1029396593,turkey/tbl,Gaziantep Basketbol,Goztepe SK,2026-11-21T13:00:00+00:00,moneyline,,1.32,3.1,1640499491,100.0
+2026-11-21T12:49:42+00:00,1029396593,turkey/tbl,Gaziantep Basketbol,Goztepe SK,2026-11-21T13:00:00+00:00,spread,-6.5,1.85,1.85,1640499491,100.0
+2026-11-21T12:49:42+00:00,1029396593,turkey/tbl,Gaziantep Basketbol,Goztepe SK,2026-11-21T13:00:00+00:00,total,152.5,1.88,1.82,1640499491,100.0
