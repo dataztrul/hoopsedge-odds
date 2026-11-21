@@ -229,3 +229,11 @@ ts,event_id,group,home,away,start,type,line,dec_1,dec_2,pin_matchup_id,match_sco
 2026-11-21T09:43:48+00:00,1028660321,turkey/super_league,Karşiyaka,Yukatel Merkezefendi Belediyesi Denizli Basket,2026-11-21T10:00:00+00:00,total,166.5,1.9,1.8,1640474259,100.0
 2026-11-21T09:43:48+00:00,1028660328,turkey/super_league,TÜRK Telekom,Tofaş,2026-11-21T12:30:00+00:00,moneyline,,1.56,2.25,1640493707,100.0
 2026-11-21T09:43:48+00:00,1028660328,turkey/super_league,TÜRK Telekom,Tofaş,2026-11-21T12:30:00+00:00,spread,-3.5,1.89,1.81,1640493707,100.0
+2026-11-21T09:49:03+00:00,1029420778,france/elite_2,Fos Ouest Provence Basket,Denain,2026-11-21T19:00:00+00:00,moneyline,,3.35,1.25,1640515619,100.0
+2026-11-21T09:49:03+00:00,1029420778,france/elite_2,Fos Ouest Provence Basket,Denain,2026-11-21T19:00:00+00:00,spread,8.5,1.73,1.92,1640515619,100.0
+2026-11-21T09:49:03+00:00,1028660321,turkey/super_league,Karşiyaka,Yukatel Merkezefendi Belediyesi Denizli Basket,2026-11-21T10:00:00+00:00,spread,-6.5,1.91,1.79,1640474259,100.0
+2026-11-21T09:49:03+00:00,1028660321,turkey/super_league,Karşiyaka,Yukatel Merkezefendi Belediyesi Denizli Basket,2026-11-21T10:00:00+00:00,total,167.5,1.78,1.92,1640474259,100.0
+2026-11-21T09:49:03+00:00,1028660312,turkey/super_league,Bahcesehir Koleji,Manisa Buyuksehir Belediye,2026-11-21T15:00:00+00:00,moneyline,,1.12,5.3,,56.2
+2026-11-21T09:49:03+00:00,1028660312,turkey/super_league,Bahcesehir Koleji,Manisa Buyuksehir Belediye,2026-11-21T15:00:00+00:00,spread,-12.5,1.81,1.89,,56.2
+2026-11-21T09:49:03+00:00,1028660312,turkey/super_league,Bahcesehir Koleji,Manisa Buyuksehir Belediye,2026-11-21T15:00:00+00:00,total,172.5,2.0,1.71,,56.2
+2026-11-21T09:49:03+00:00,1028660318,turkey/super_league,Bursaspor,Bordo BK,2026-11-21T17:30:00+00:00,total,165.5,1.68,2.05,1640513850,100.0
