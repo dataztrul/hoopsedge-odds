@@ -856,3 +856,5 @@ ts,event_id,group,home,away,start,type,line,dec_1,dec_2,pin_matchup_id,match_sco
 2026-11-21T22:37:04+00:00,1029336188,slovakia/extraliga,BK Levickí Patrioti,Lucenec,2026-11-22T17:00:00+00:00,moneyline,,1.04,9.0,1640535731,94.1
 2026-11-21T22:37:04+00:00,1029336188,slovakia/extraliga,BK Levickí Patrioti,Lucenec,2026-11-22T17:00:00+00:00,spread,-16.5,1.66,2.1,1640535731,94.1
 2026-11-21T22:52:19+00:00,1028635006,italy/lega_a,Bertram Tortona,Milano,2026-11-22T15:00:00+00:00,total,169.5,1.71,2.0,1640535763,76.1
+2026-11-21T23:07:34+00:00,1028635601,italy/serie_a2,Libertas Livorno,Banco di Sardegna Sassari,2026-11-22T19:45:00+00:00,moneyline,,1.19,3.9,1640691752,83.3
+2026-11-21T23:07:34+00:00,1028635601,italy/serie_a2,Libertas Livorno,Banco di Sardegna Sassari,2026-11-22T19:45:00+00:00,spread,-7.5,1.64,2.04,1640691752,83.3
