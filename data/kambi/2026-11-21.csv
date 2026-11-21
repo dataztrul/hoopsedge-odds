@@ -624,3 +624,10 @@ ts,event_id,group,home,away,start,type,line,dec_1,dec_2,pin_matchup_id,match_sco
 2026-11-21T16:33:50+00:00,1029912212,slovakia/extraliga,MBK Rieker Komárno,BC Prievidza,2026-11-21T17:00:00+00:00,total,167.5,1.86,1.84,1640513830,100.0
 2026-11-21T16:33:50+00:00,1029818062,slovakia/extraliga,Nitra Blue Wings,BK Inter Incheba Bratislava,2026-11-21T17:00:00+00:00,spread,-13.5,1.8,1.9,1640505059,100.0
 2026-11-21T16:33:50+00:00,1029818062,slovakia/extraliga,Nitra Blue Wings,BK Inter Incheba Bratislava,2026-11-21T17:00:00+00:00,total,159.5,1.84,1.86,1640505059,100.0
+2026-11-21T16:39:08+00:00,1029938908,germany/bbl,Basketball Löwen Braunschweig,Bamberg Baskets,2026-11-21T17:30:00+00:00,moneyline,,2.6,1.44,1640513844,89.3
+2026-11-21T16:39:08+00:00,1029938908,germany/bbl,Basketball Löwen Braunschweig,Bamberg Baskets,2026-11-21T17:30:00+00:00,spread,5.5,1.8,1.91,1640513844,89.3
+2026-11-21T16:39:08+00:00,1029938908,germany/bbl,Basketball Löwen Braunschweig,Bamberg Baskets,2026-11-21T17:30:00+00:00,total,178.5,1.83,1.87,1640513844,89.3
+2026-11-21T16:39:08+00:00,1029831947,germany/pro_a,Orange Academy,Baskets Koblenz,2026-11-21T17:00:00+00:00,moneyline,,2.05,1.68,1640513829,100.0
+2026-11-21T16:39:08+00:00,1029831947,germany/pro_a,Orange Academy,Baskets Koblenz,2026-11-21T17:00:00+00:00,spread,1.5,1.91,1.8,1640513829,100.0
+2026-11-21T16:39:08+00:00,1029912212,slovakia/extraliga,MBK Rieker Komárno,BC Prievidza,2026-11-21T17:00:00+00:00,moneyline,,5.4,1.11,1640513830,100.0
+2026-11-21T16:39:08+00:00,1029912212,slovakia/extraliga,MBK Rieker Komárno,BC Prievidza,2026-11-21T17:00:00+00:00,spread,12.5,1.92,1.79,1640513830,100.0
