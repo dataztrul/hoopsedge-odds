@@ -824,3 +824,6 @@ ts,event_id,group,home,away,start,type,line,dec_1,dec_2,pin_matchup_id,match_sco
 2026-11-21T19:34:15+00:00,1029938932,belgium/top_division_1,Basket SKT Ieper,Bent Schoenen Waregem,2026-11-21T19:45:00+00:00,total,160.5,1.86,1.84,1640513900,100.0
 2026-11-21T19:34:15+00:00,1028435646,portugal/lpb,Clube Atletico Queluz,SC Braga,2026-11-21T19:45:00+00:00,moneyline,,2.63,1.43,1640512288,90.0
 2026-11-21T19:34:15+00:00,1028435646,portugal/lpb,Clube Atletico Queluz,SC Braga,2026-11-21T19:45:00+00:00,spread,5.5,1.8,1.9,1640512288,90.0
+2026-11-21T19:39:32+00:00,1028280652,czech_republic/nbl,Ústí nad Labem,USK Praha,2026-11-22T17:00:00+00:00,moneyline,,1.4,2.75,1640540263,86.8
+2026-11-21T19:39:32+00:00,1028280652,czech_republic/nbl,Ústí nad Labem,USK Praha,2026-11-22T17:00:00+00:00,spread,-4.5,1.75,1.96,1640540263,86.8
+2026-11-21T19:39:32+00:00,1028280652,czech_republic/nbl,Ústí nad Labem,USK Praha,2026-11-22T17:00:00+00:00,total,171.5,1.91,1.8,1640540263,86.8
