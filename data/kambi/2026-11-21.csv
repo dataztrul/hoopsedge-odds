@@ -166,3 +166,8 @@ ts,event_id,group,home,away,start,type,line,dec_1,dec_2,pin_matchup_id,match_sco
 2026-11-21T07:48:09+00:00,1028635603,italy/serie_a2,Carpegna Prosciutto Basket Pesaro,Montecatiniterme Basket,2026-11-22T17:00:00+00:00,moneyline,,1.11,5.0,1640691751,74.4
 2026-11-21T07:48:09+00:00,1028635603,italy/serie_a2,Carpegna Prosciutto Basket Pesaro,Montecatiniterme Basket,2026-11-22T17:00:00+00:00,spread,-11.5,1.84,1.79,1640691751,74.4
 2026-11-21T07:48:09+00:00,1028635603,italy/serie_a2,Carpegna Prosciutto Basket Pesaro,Montecatiniterme Basket,2026-11-22T17:00:00+00:00,total,153.5,1.83,1.81,1640691751,74.4
+2026-11-21T07:58:41+00:00,1029005676,brazil/nbb,AERC Osasco,Cruzeiro Basquete,2026-11-21T19:00:00+00:00,moneyline,,2.5,1.46,,58.1
+2026-11-21T07:58:41+00:00,1029005676,brazil/nbb,AERC Osasco,Cruzeiro Basquete,2026-11-21T19:00:00+00:00,spread,4.5,1.85,1.85,,58.1
+2026-11-21T07:58:41+00:00,1029005676,brazil/nbb,AERC Osasco,Cruzeiro Basquete,2026-11-21T19:00:00+00:00,total,163.5,1.85,1.85,,58.1
+2026-11-21T07:58:41+00:00,1028660321,turkey/super_league,Karşiyaka,Yukatel Merkezefendi Belediyesi Denizli Basket,2026-11-21T10:00:00+00:00,moneyline,,1.38,2.8,1640474259,100.0
+2026-11-21T07:58:41+00:00,1028660321,turkey/super_league,Karşiyaka,Yukatel Merkezefendi Belediyesi Denizli Basket,2026-11-21T10:00:00+00:00,total,166.5,2.15,1.63,1640474259,100.0
