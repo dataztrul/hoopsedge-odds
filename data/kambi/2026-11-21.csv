@@ -375,3 +375,5 @@ ts,event_id,group,home,away,start,type,line,dec_1,dec_2,pin_matchup_id,match_sco
 2026-11-21T12:17:53+00:00,1028660328,turkey/super_league,TÜRK Telekom,Tofaş,2026-11-21T12:30:00+00:00,total,174.5,1.9,1.8,1640493707,100.0
 2026-11-21T12:28:31+00:00,1028280663,czech_republic/nbl,BK Děčín,BK Opava,2026-11-21T16:00:00+00:00,moneyline,,1.52,2.35,1640505022,100.0
 2026-11-21T12:28:31+00:00,1028280663,czech_republic/nbl,BK Děčín,BK Opava,2026-11-21T16:00:00+00:00,spread,-3.5,1.82,1.88,1640505022,100.0
+2026-11-21T12:44:24+00:00,1029946480,bulgaria/nbl,BK Politehnika Dupnitsa,Balkan Botevgrad,2026-11-21T16:00:00+00:00,spread,26.5,1.9,1.8,1640756324,78.9
+2026-11-21T12:44:24+00:00,1029946480,bulgaria/nbl,BK Politehnika Dupnitsa,Balkan Botevgrad,2026-11-21T16:00:00+00:00,total,164.5,1.86,1.84,1640756324,78.9
