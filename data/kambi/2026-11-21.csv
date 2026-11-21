@@ -848,3 +848,6 @@ ts,event_id,group,home,away,start,type,line,dec_1,dec_2,pin_matchup_id,match_sco
 2026-11-21T20:32:17+00:00,1028304654,poland/plk,WKS Śląsk Wrocław,Trefl Sopot,2026-11-22T14:00:00+00:00,total,169.5,1.84,1.86,1640529224,91.4
 2026-11-21T20:48:06+00:00,1028435514,portugal/lpb,UD Oliveirense,Vitória S.C.,2026-11-21T21:00:00+00:00,moneyline,,1.12,5.2,1640515661,88.9
 2026-11-21T20:48:06+00:00,1028435514,portugal/lpb,UD Oliveirense,Vitória S.C.,2026-11-21T21:00:00+00:00,total,167.5,1.84,1.86,1640515661,88.9
+2026-11-21T21:51:18+00:00,1029005657,brazil/nbb,EC Pinheiros B,Minas Tênis Clube,2026-11-21T22:00:00+00:00,moneyline,,2.25,1.57,,45.6
+2026-11-21T21:51:18+00:00,1029005657,brazil/nbb,EC Pinheiros B,Minas Tênis Clube,2026-11-21T22:00:00+00:00,spread,3.5,1.8,1.9,,45.6
+2026-11-21T21:51:18+00:00,1029005657,brazil/nbb,EC Pinheiros B,Minas Tênis Clube,2026-11-21T22:00:00+00:00,total,158.5,1.88,1.82,,45.6
