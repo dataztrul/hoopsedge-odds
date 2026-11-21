@@ -87,3 +87,5 @@ ts,event_id,group,home,away,start,type,line,dec_1,dec_2,pin_matchup_id,match_sco
 2026-11-21T05:45:15+00:00,1028726944,lithuania/lkl,BC Neptūnas,Jonavos SK,2026-11-21T15:00:00+00:00,moneyline,,1.25,3.5,1640502549,88.5
 2026-11-21T05:45:15+00:00,1028726944,lithuania/lkl,BC Neptūnas,Jonavos SK,2026-11-21T15:00:00+00:00,spread,-10.5,2.14,1.63,1640502549,88.5
 2026-11-21T05:45:15+00:00,1028726944,lithuania/lkl,BC Neptūnas,Jonavos SK,2026-11-21T15:00:00+00:00,total,168.5,1.7,2.02,1640502549,88.5
+2026-11-21T05:55:31+00:00,1028992920,france/elite,Paris Basket,Gravelines-Dunkerque,2026-11-22T15:30:00+00:00,moneyline,,1.05,9.0,,52.2
+2026-11-21T05:55:31+00:00,1028992920,france/elite,Paris Basket,Gravelines-Dunkerque,2026-11-22T15:30:00+00:00,spread,-18.5,1.97,1.8,,52.2
