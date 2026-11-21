@@ -295,3 +295,9 @@ ts,event_id,group,home,away,start,type,line,dec_1,dec_2,pin_matchup_id,match_sco
 2026-11-21T10:47:45+00:00,1029396573,turkey/tbl,Cedi Osman Basketbol,Harem Spor Kulübü,2026-11-21T11:00:00+00:00,moneyline,,4.9,1.14,1640481843,92.9
 2026-11-21T10:47:45+00:00,1029396573,turkey/tbl,Cedi Osman Basketbol,Harem Spor Kulübü,2026-11-21T11:00:00+00:00,spread,11.5,1.89,1.81,1640481843,92.9
 2026-11-21T10:47:45+00:00,1029396573,turkey/tbl,Cedi Osman Basketbol,Harem Spor Kulübü,2026-11-21T11:00:00+00:00,total,156.5,1.68,2.06,1640481843,92.9
+2026-11-21T10:58:20+00:00,1028293026,austria/obl,UBSC Graz,WBC Raiffeisen Wels,2026-11-21T18:00:00+00:00,moneyline,,1.88,1.82,1640513857,76.7
+2026-11-21T10:58:20+00:00,1028293026,austria/obl,UBSC Graz,WBC Raiffeisen Wels,2026-11-21T18:00:00+00:00,spread,-0.5,1.88,1.82,1640513857,76.7
+2026-11-21T10:58:20+00:00,1028293026,austria/obl,UBSC Graz,WBC Raiffeisen Wels,2026-11-21T18:00:00+00:00,total,174.5,1.88,1.82,1640513857,76.7
+2026-11-21T10:58:20+00:00,1029153049,greece/gbl,Kolossos Rhodes,ASP Promitheas,2026-11-21T14:00:00+00:00,moneyline,,1.16,5.0,1640499516,91.9
+2026-11-21T10:58:20+00:00,1029153049,greece/gbl,Kolossos Rhodes,ASP Promitheas,2026-11-21T14:00:00+00:00,spread,-11.5,1.84,1.84,1640499516,91.9
+2026-11-21T10:58:20+00:00,1029153049,greece/gbl,Kolossos Rhodes,ASP Promitheas,2026-11-21T14:00:00+00:00,total,163.5,1.83,1.87,1640499516,91.9
