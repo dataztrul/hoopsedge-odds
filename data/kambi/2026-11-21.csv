@@ -385,3 +385,13 @@ ts,event_id,group,home,away,start,type,line,dec_1,dec_2,pin_matchup_id,match_sco
 2026-11-21T12:49:42+00:00,1029396593,turkey/tbl,Gaziantep Basketbol,Goztepe SK,2026-11-21T13:00:00+00:00,moneyline,,1.32,3.1,1640499491,100.0
 2026-11-21T12:49:42+00:00,1029396593,turkey/tbl,Gaziantep Basketbol,Goztepe SK,2026-11-21T13:00:00+00:00,spread,-6.5,1.85,1.85,1640499491,100.0
 2026-11-21T12:49:42+00:00,1029396593,turkey/tbl,Gaziantep Basketbol,Goztepe SK,2026-11-21T13:00:00+00:00,total,152.5,1.88,1.82,1640499491,100.0
+2026-11-21T12:55:00+00:00,1029946540,aba_league,KK Spartak Subotica,Basketclubs Vienna,2026-11-21T18:00:00+00:00,total,165.5,1.9,1.8,1640756639,100.0
+2026-11-21T12:55:00+00:00,1029946571,germany/pro_a,Crailsheim Merlins,Nuremberg Falcons BC,2026-11-21T19:00:00+00:00,moneyline,,1.11,5.5,1640512317,100.0
+2026-11-21T12:55:00+00:00,1029946571,germany/pro_a,Crailsheim Merlins,Nuremberg Falcons BC,2026-11-21T19:00:00+00:00,spread,-12.5,1.82,1.89,1640512317,100.0
+2026-11-21T12:55:00+00:00,1029946571,germany/pro_a,Crailsheim Merlins,Nuremberg Falcons BC,2026-11-21T19:00:00+00:00,total,159.5,2.07,1.68,1640512317,100.0
+2026-11-21T12:55:00+00:00,1029153046,greece/gbl,Iraklis,AEK B.C.,2026-11-21T13:00:00+00:00,total,156.5,1.87,1.83,1640481907,80.0
+2026-11-21T12:55:00+00:00,1028435513,portugal/lpb,Sporting,Portimonense SC,2026-11-21T15:00:00+00:00,moneyline,,1.07,7.0,1640504881,100.0
+2026-11-21T12:55:00+00:00,1028435513,portugal/lpb,Sporting,Portimonense SC,2026-11-21T15:00:00+00:00,spread,-16.5,2.0,1.72,1640504881,100.0
+2026-11-21T12:55:00+00:00,1029946584,spain/liga_acb,Bilbao Basket,Saski Baskonia,2026-11-22T11:00:00+00:00,moneyline,,1.79,1.97,,43.7
+2026-11-21T12:55:00+00:00,1029946584,spain/liga_acb,Bilbao Basket,Saski Baskonia,2026-11-22T11:00:00+00:00,spread,-1.5,1.91,1.85,,43.7
+2026-11-21T12:55:00+00:00,1029946584,spain/liga_acb,Bilbao Basket,Saski Baskonia,2026-11-22T11:00:00+00:00,total,180.5,1.83,1.87,,43.7
