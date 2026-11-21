@@ -399,3 +399,8 @@ ts,event_id,group,home,away,start,type,line,dec_1,dec_2,pin_matchup_id,match_sco
 2026-11-21T13:00:18+00:00,1029153046,greece/gbl,Iraklis,AEK B.C.,2026-11-21T13:06:00+00:00,moneyline,,1.32,3.25,1640481907,80.0
 2026-11-21T13:00:18+00:00,1029153046,greece/gbl,Iraklis,AEK B.C.,2026-11-21T13:06:00+00:00,spread,-7.5,1.89,1.79,1640481907,80.0
 2026-11-21T13:00:18+00:00,1029153046,greece/gbl,Iraklis,AEK B.C.,2026-11-21T13:06:00+00:00,total,156.5,1.85,1.85,1640481907,80.0
+2026-11-21T13:05:35+00:00,1028660324,turkey/super_league,Cayirova Belediyesi,Esenler Erokspor,2026-11-22T10:00:00+00:00,moneyline,,1.85,1.85,1640523279,100.0
+2026-11-21T13:05:35+00:00,1028660324,turkey/super_league,Cayirova Belediyesi,Esenler Erokspor,2026-11-22T10:00:00+00:00,spread,1.5,1.74,1.98,1640523279,100.0
+2026-11-21T13:05:35+00:00,1029396591,turkey/tbl,Final Gençlik,Mersin Spor,2026-11-22T13:00:00+00:00,moneyline,,2.12,1.64,1640530043,88.1
+2026-11-21T13:05:35+00:00,1029396591,turkey/tbl,Final Gençlik,Mersin Spor,2026-11-22T13:00:00+00:00,spread,3.5,1.72,2.0,1640530043,88.1
+2026-11-21T13:05:35+00:00,1029396591,turkey/tbl,Final Gençlik,Mersin Spor,2026-11-22T13:00:00+00:00,total,157.5,1.85,1.85,1640530043,88.1
