@@ -114,3 +114,11 @@ ts,event_id,group,home,away,start,type,line,dec_1,dec_2,pin_matchup_id,match_sco
 2026-11-21T06:26:12+00:00,1028750498,spain/liga_acb,Monbus Obradoiro,Club Basquet Girona 2014,2026-11-22T11:00:00+00:00,spread,-4.5,1.83,1.94,1640523329,72.6
 2026-11-21T06:26:12+00:00,1028750498,spain/liga_acb,Monbus Obradoiro,Club Basquet Girona 2014,2026-11-22T11:00:00+00:00,total,182.5,1.82,1.88,1640523329,72.6
 2026-11-21T06:36:26+00:00,1028660321,turkey/super_league,Karşiyaka,Yukatel Merkezefendi Belediyesi Denizli Basket,2026-11-21T10:00:00+00:00,total,166.5,2.0,1.71,1640474259,100.0
+2026-11-21T06:46:40+00:00,1028280652,czech_republic/nbl,Ústí nad Labem,USK Praha,2026-11-22T17:00:00+00:00,moneyline,,1.38,2.75,1640540263,86.8
+2026-11-21T06:46:40+00:00,1028280652,czech_republic/nbl,Ústí nad Labem,USK Praha,2026-11-22T17:00:00+00:00,spread,-6.5,1.97,1.74,1640540263,86.8
+2026-11-21T06:46:40+00:00,1028304634,poland/plk,Zastal Zielona Góra,Dziki Warszawa,2026-11-22T11:30:00+00:00,moneyline,,2.45,1.49,1640693414,96.4
+2026-11-21T06:46:40+00:00,1028304634,poland/plk,Zastal Zielona Góra,Dziki Warszawa,2026-11-22T11:30:00+00:00,spread,4.5,1.81,1.9,1640693414,96.4
+2026-11-21T06:46:40+00:00,1028304634,poland/plk,Zastal Zielona Góra,Dziki Warszawa,2026-11-22T11:30:00+00:00,total,168.5,1.84,1.86,1640693414,96.4
+2026-11-21T06:46:40+00:00,1028750502,spain/liga_acb,Leyma Coruña,Força Lleida CE,2026-11-22T11:30:00+00:00,moneyline,,1.68,2.12,,43.8
+2026-11-21T06:46:40+00:00,1028750502,spain/liga_acb,Leyma Coruña,Força Lleida CE,2026-11-22T11:30:00+00:00,spread,-2.5,1.91,1.85,,43.8
+2026-11-21T06:46:40+00:00,1028750502,spain/liga_acb,Leyma Coruña,Força Lleida CE,2026-11-22T11:30:00+00:00,total,189.5,1.87,1.83,,43.8
