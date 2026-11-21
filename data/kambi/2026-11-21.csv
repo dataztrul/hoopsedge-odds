@@ -171,3 +171,15 @@ ts,event_id,group,home,away,start,type,line,dec_1,dec_2,pin_matchup_id,match_sco
 2026-11-21T07:58:41+00:00,1029005676,brazil/nbb,AERC Osasco,Cruzeiro Basquete,2026-11-21T19:00:00+00:00,total,163.5,1.85,1.85,,58.1
 2026-11-21T07:58:41+00:00,1028660321,turkey/super_league,Karşiyaka,Yukatel Merkezefendi Belediyesi Denizli Basket,2026-11-21T10:00:00+00:00,moneyline,,1.38,2.8,1640474259,100.0
 2026-11-21T07:58:41+00:00,1028660321,turkey/super_league,Karşiyaka,Yukatel Merkezefendi Belediyesi Denizli Basket,2026-11-21T10:00:00+00:00,total,166.5,2.15,1.63,1640474259,100.0
+2026-11-21T08:03:56+00:00,1028293020,austria/obl,Arkadia Traiskirchen Lions,Xion Dukes Klosterneuburg,2026-11-21T19:20:00+00:00,moneyline,,1.06,7.0,1640689093,100.0
+2026-11-21T08:03:56+00:00,1028293020,austria/obl,Arkadia Traiskirchen Lions,Xion Dukes Klosterneuburg,2026-11-21T19:20:00+00:00,spread,-15.5,1.8,1.9,1640689093,100.0
+2026-11-21T08:03:56+00:00,1028293020,austria/obl,Arkadia Traiskirchen Lions,Xion Dukes Klosterneuburg,2026-11-21T19:20:00+00:00,total,158.5,1.9,1.8,1640689093,100.0
+2026-11-21T08:03:56+00:00,1028312596,finland/korisliiga,Kipina,Kataja Basket,2026-11-21T14:00:00+00:00,moneyline,,2.3,1.58,1640493758,100.0
+2026-11-21T08:03:56+00:00,1028312596,finland/korisliiga,Kipina,Kataja Basket,2026-11-21T14:00:00+00:00,spread,2.5,2.0,1.78,1640493758,100.0
+2026-11-21T08:03:56+00:00,1028312596,finland/korisliiga,Kipina,Kataja Basket,2026-11-21T14:00:00+00:00,total,177.5,1.92,1.79,1640493758,100.0
+2026-11-21T08:03:56+00:00,1028992855,france/elite,ASVEL Lyon-Villeurbanne,Bourg-en-Bresse,2026-11-22T18:00:00+00:00,moneyline,,1.32,3.3,,40.7
+2026-11-21T08:03:56+00:00,1028992855,france/elite,ASVEL Lyon-Villeurbanne,Bourg-en-Bresse,2026-11-22T18:00:00+00:00,spread,-7.5,1.9,1.86,,40.7
+2026-11-21T08:03:56+00:00,1028992855,france/elite,ASVEL Lyon-Villeurbanne,Bourg-en-Bresse,2026-11-22T18:00:00+00:00,total,176.5,1.87,1.83,,40.7
+2026-11-21T08:03:56+00:00,1028304629,poland/plk,MKS Dabrowa Gornicza,Legia Warszawa,2026-11-22T18:30:00+00:00,moneyline,,1.74,1.97,1640539700,100.0
+2026-11-21T08:03:56+00:00,1028304629,poland/plk,MKS Dabrowa Gornicza,Legia Warszawa,2026-11-22T18:30:00+00:00,spread,-1.5,1.86,1.84,1640539700,100.0
+2026-11-21T08:03:56+00:00,1028304629,poland/plk,MKS Dabrowa Gornicza,Legia Warszawa,2026-11-22T18:30:00+00:00,total,172.5,1.81,1.89,1640539700,100.0
