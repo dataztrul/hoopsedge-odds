@@ -752,3 +752,17 @@ ts,event_id,group,home,away,start,type,line,dec_1,dec_2,pin_matchup_id,match_sco
 2026-11-21T18:41:22+00:00,1028646515,germany/bbl,EWE Baskets Oldenburg,Skyliners Frankfurt,2026-11-21T19:00:00+00:00,spread,-1.5,1.89,1.81,1640512311,100.0
 2026-11-21T18:41:22+00:00,1028646515,germany/bbl,EWE Baskets Oldenburg,Skyliners Frankfurt,2026-11-21T19:00:00+00:00,total,162.5,1.85,1.85,1640512311,100.0
 2026-11-21T18:41:22+00:00,1029082837,israel/super_league,Maccabi Tel Aviv,Hapoel Holon,2026-11-21T18:55:00+00:00,total,174.5,1.88,1.82,1640512304,100.0
+2026-11-21T18:46:41+00:00,1028130348,bnxt_league,Antwerp Giants,Spirou Basket,2026-11-21T19:00:00+00:00,spread,-13.5,1.81,1.88,1640515629,100.0
+2026-11-21T18:46:41+00:00,1028130348,bnxt_league,Antwerp Giants,Spirou Basket,2026-11-21T19:00:00+00:00,total,162.5,1.83,1.85,1640515629,100.0
+2026-11-21T18:46:41+00:00,1029005676,brazil/nbb,AERC Osasco,Cruzeiro Basquete,2026-11-21T19:00:00+00:00,moneyline,,2.5,1.47,,58.1
+2026-11-21T18:46:41+00:00,1029005676,brazil/nbb,AERC Osasco,Cruzeiro Basquete,2026-11-21T19:00:00+00:00,spread,4.5,1.84,1.86,,58.1
+2026-11-21T18:46:41+00:00,1029420778,france/elite_2,Fos Ouest Provence Basket,Denain,2026-11-21T19:00:00+00:00,moneyline,,3.0,1.3,1640515619,100.0
+2026-11-21T18:46:41+00:00,1029420778,france/elite_2,Fos Ouest Provence Basket,Denain,2026-11-21T19:00:00+00:00,spread,6.5,1.82,1.82,1640515619,100.0
+2026-11-21T18:46:41+00:00,1029420778,france/elite_2,Fos Ouest Provence Basket,Denain,2026-11-21T19:00:00+00:00,total,160.5,1.8,1.84,1640515619,100.0
+2026-11-21T18:46:41+00:00,1028646517,germany/bbl,Gladiators Trier,BV Chemnitz 99,2026-11-21T19:00:00+00:00,spread,-11.5,1.9,1.8,1640515622,85.7
+2026-11-21T18:46:41+00:00,1028646517,germany/bbl,Gladiators Trier,BV Chemnitz 99,2026-11-21T19:00:00+00:00,total,184.5,1.83,1.88,1640515622,85.7
+2026-11-21T18:46:41+00:00,1029946571,germany/pro_a,Crailsheim Merlins,Nuremberg Falcons BC,2026-11-21T19:00:00+00:00,spread,-12.5,1.8,1.9,1640512317,100.0
+2026-11-21T18:46:41+00:00,1029946571,germany/pro_a,Crailsheim Merlins,Nuremberg Falcons BC,2026-11-21T19:00:00+00:00,total,157.5,1.87,1.83,1640512317,100.0
+2026-11-21T18:46:41+00:00,1028635009,italy/lega_a,Allianz Trieste,Unahotels Reggio Emilia,2026-11-21T19:00:00+00:00,total,177.5,1.87,1.83,1640515628,72.6
+2026-11-21T18:46:41+00:00,1028635575,italy/serie_a2,Cividale,Juvecaserta,2026-11-21T19:00:00+00:00,spread,-5.5,1.76,1.88,1640630510,100.0
+2026-11-21T18:46:41+00:00,1028635575,italy/serie_a2,Cividale,Juvecaserta,2026-11-21T19:00:00+00:00,total,157.5,1.86,1.78,1640630510,100.0
