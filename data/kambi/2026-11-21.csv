@@ -271,3 +271,19 @@ ts,event_id,group,home,away,start,type,line,dec_1,dec_2,pin_matchup_id,match_sco
 2026-11-21T10:31:52+00:00,1028304657,poland/plk,Polski Cukier Start Lublin,Arriva Polski Cukier Toruń,2026-11-21T11:30:00+00:00,spread,2.5,1.9,1.8,,67.8
 2026-11-21T10:31:52+00:00,1028304660,poland/plk,Stal Ostrów Wlkp.,Arka Gdynia,2026-11-22T16:30:00+00:00,spread,5.5,1.89,1.81,1640693416,76.0
 2026-11-21T10:31:52+00:00,1028304660,poland/plk,Stal Ostrów Wlkp.,Arka Gdynia,2026-11-22T16:30:00+00:00,total,158.5,2.02,1.7,1640693416,76.0
+2026-11-21T10:42:28+00:00,1028902601,bulgaria/nbl,BC Levski Sofia,BC Beroe Stara Zagora,2026-11-21T15:30:00+00:00,moneyline,,3.5,1.26,1640563922,88.5
+2026-11-21T10:42:28+00:00,1028902601,bulgaria/nbl,BC Levski Sofia,BC Beroe Stara Zagora,2026-11-21T15:30:00+00:00,spread,7.5,1.97,1.75,1640563922,88.5
+2026-11-21T10:42:28+00:00,1029831947,germany/pro_a,Orange Academy,Baskets Koblenz,2026-11-21T17:00:00+00:00,moneyline,,1.86,1.84,1640513829,100.0
+2026-11-21T10:42:28+00:00,1029831947,germany/pro_a,Orange Academy,Baskets Koblenz,2026-11-21T17:00:00+00:00,spread,-0.5,1.86,1.84,1640513829,100.0
+2026-11-21T10:42:28+00:00,1029831947,germany/pro_a,Orange Academy,Baskets Koblenz,2026-11-21T17:00:00+00:00,total,171.5,1.91,1.79,1640513829,100.0
+2026-11-21T10:42:28+00:00,1029831946,germany/pro_a,BG Göttingen,Medi Bayreuth,2026-11-21T17:30:00+00:00,moneyline,,1.15,4.6,1640513848,100.0
+2026-11-21T10:42:28+00:00,1029831946,germany/pro_a,BG Göttingen,Medi Bayreuth,2026-11-21T17:30:00+00:00,spread,-11.5,1.86,1.84,1640513848,100.0
+2026-11-21T10:42:28+00:00,1029831946,germany/pro_a,BG Göttingen,Medi Bayreuth,2026-11-21T17:30:00+00:00,total,173.5,1.83,1.87,1640513848,100.0
+2026-11-21T10:42:28+00:00,1029832545,germany/pro_a,PS Karlsruhe Lions,VfL SparkassenStars Bochum,2026-11-21T18:30:00+00:00,moneyline,,1.32,3.1,1640515613,88.3
+2026-11-21T10:42:28+00:00,1029832545,germany/pro_a,PS Karlsruhe Lions,VfL SparkassenStars Bochum,2026-11-21T18:30:00+00:00,spread,-6.5,1.8,1.9,1640515613,88.3
+2026-11-21T10:42:28+00:00,1029832545,germany/pro_a,PS Karlsruhe Lions,VfL SparkassenStars Bochum,2026-11-21T18:30:00+00:00,total,165.5,1.98,1.74,1640515613,88.3
+2026-11-21T10:42:28+00:00,1029832543,germany/pro_a,Walter Tigers Tübingen,ETB Miners Essen,2026-11-21T18:30:00+00:00,moneyline,,1.3,3.15,1640630594,100.0
+2026-11-21T10:42:28+00:00,1029832543,germany/pro_a,Walter Tigers Tübingen,ETB Miners Essen,2026-11-21T18:30:00+00:00,spread,-7.5,1.91,1.8,1640630594,100.0
+2026-11-21T10:42:28+00:00,1029832543,germany/pro_a,Walter Tigers Tübingen,ETB Miners Essen,2026-11-21T18:30:00+00:00,total,167.5,2.14,1.63,1640630594,100.0
+2026-11-21T10:42:28+00:00,1028435513,portugal/lpb,Sporting,Portimonense SC,2026-11-21T15:00:00+00:00,moneyline,,1.05,8.0,1640504881,100.0
+2026-11-21T10:42:28+00:00,1028435513,portugal/lpb,Sporting,Portimonense SC,2026-11-21T15:00:00+00:00,spread,-16.5,1.84,1.86,1640504881,100.0
