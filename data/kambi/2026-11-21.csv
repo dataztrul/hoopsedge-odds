@@ -358,3 +358,6 @@ ts,event_id,group,home,away,start,type,line,dec_1,dec_2,pin_matchup_id,match_sco
 2026-11-21T11:46:04+00:00,1028992923,france/elite,Nanterre,Strasbourg,2026-11-21T19:30:00+00:00,moneyline,,1.21,4.2,1640515643,100.0
 2026-11-21T11:46:04+00:00,1028992923,france/elite,Nanterre,Strasbourg,2026-11-21T19:30:00+00:00,spread,-8.5,1.73,2.06,1640515643,100.0
 2026-11-21T11:46:04+00:00,1028660328,turkey/super_league,TÜRK Telekom,Tofaş,2026-11-21T12:30:00+00:00,total,171.5,1.7,2.02,1640493707,100.0
+2026-11-21T11:51:22+00:00,1028312656,finland/korisliiga,Tampereen Pyrintö,Lahti Basketball,2026-11-21T16:00:00+00:00,moneyline,,1.45,2.65,1640505008,100.0
+2026-11-21T11:51:22+00:00,1028312656,finland/korisliiga,Tampereen Pyrintö,Lahti Basketball,2026-11-21T16:00:00+00:00,spread,-5.5,1.97,1.8,1640505008,100.0
+2026-11-21T11:51:22+00:00,1028312656,finland/korisliiga,Tampereen Pyrintö,Lahti Basketball,2026-11-21T16:00:00+00:00,total,168.5,1.86,1.84,1640505008,100.0
