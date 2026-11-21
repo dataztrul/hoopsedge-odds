@@ -567,3 +567,12 @@ ts,event_id,group,home,away,start,type,line,dec_1,dec_2,pin_matchup_id,match_sco
 2026-11-21T15:40:34+00:00,1028312656,finland/korisliiga,Tampereen Pyrintö,Lahti Basketball,2026-11-21T16:00:00+00:00,spread,-5.5,1.97,1.79,1640505008,100.0
 2026-11-21T15:40:34+00:00,1028635570,italy/serie_a2,IVPC Del Fes Avellino,Virtus Ruvo di Puglia,2026-11-22T19:00:00+00:00,moneyline,,1.02,8.5,1640693449,87.9
 2026-11-21T15:40:34+00:00,1028635570,italy/serie_a2,IVPC Del Fes Avellino,Virtus Ruvo di Puglia,2026-11-22T19:00:00+00:00,spread,-16.5,1.82,1.82,1640693449,87.9
+2026-11-21T15:45:58+00:00,1029946480,bulgaria/nbl,BK Politehnika Dupnitsa,Balkan Botevgrad,2026-11-21T16:00:00+00:00,total,164.5,1.88,1.82,1640756324,78.9
+2026-11-21T15:45:58+00:00,1028902651,bulgaria/nbl,Spartak-Pleven,Academic Bultex 99 Plovdiv,2026-11-21T16:00:00+00:00,spread,-8.5,1.81,1.89,1640630238,100.0
+2026-11-21T15:45:58+00:00,1028902651,bulgaria/nbl,Spartak-Pleven,Academic Bultex 99 Plovdiv,2026-11-21T16:00:00+00:00,total,161.5,1.84,1.87,1640630238,100.0
+2026-11-21T15:45:58+00:00,1028280663,czech_republic/nbl,BK Děčín,BK Opava,2026-11-21T16:00:00+00:00,moneyline,,1.42,2.65,1640505022,100.0
+2026-11-21T15:45:58+00:00,1028280663,czech_republic/nbl,BK Děčín,BK Opava,2026-11-21T16:00:00+00:00,spread,-4.5,1.78,1.92,1640505022,100.0
+2026-11-21T15:45:58+00:00,1028312656,finland/korisliiga,Tampereen Pyrintö,Lahti Basketball,2026-11-21T16:00:00+00:00,spread,-4.5,1.84,1.92,1640505008,100.0
+2026-11-21T15:45:58+00:00,1029396592,turkey/tbl,Keçiören Belediyesi,Demir İnşaat Büyükçekmece,2026-11-21T16:30:00+00:00,moneyline,,1.78,1.93,1640504929,70.1
+2026-11-21T15:45:58+00:00,1029396592,turkey/tbl,Keçiören Belediyesi,Demir İnşaat Büyükçekmece,2026-11-21T16:30:00+00:00,spread,-1.5,1.9,1.8,1640504929,70.1
+2026-11-21T15:45:58+00:00,1029396592,turkey/tbl,Keçiören Belediyesi,Demir İnşaat Büyükçekmece,2026-11-21T16:30:00+00:00,total,173.5,2.1,1.65,1640504929,70.1
