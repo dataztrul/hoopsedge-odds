@@ -666,3 +666,4 @@ ts,event_id,group,home,away,start,type,line,dec_1,dec_2,pin_matchup_id,match_sco
 2026-11-21T17:05:37+00:00,1028660318,turkey/super_league,Bursaspor,Bordo BK,2026-11-21T17:30:00+00:00,moneyline,,1.96,1.75,1640513850,100.0
 2026-11-21T17:05:37+00:00,1028660318,turkey/super_league,Bursaspor,Bordo BK,2026-11-21T17:30:00+00:00,spread,1.5,1.84,1.87,1640513850,100.0
 2026-11-21T17:05:37+00:00,1028660318,turkey/super_league,Bursaspor,Bordo BK,2026-11-21T17:30:00+00:00,total,169.5,1.82,1.88,1640513850,100.0
+2026-11-21T17:10:55+00:00,1028697319,spain/leb_oro,Oviedo CB,Lucentum Alicante,2026-11-22T11:30:00+00:00,total,166.5,1.98,1.68,1640523351,90.0
