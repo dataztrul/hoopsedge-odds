@@ -74,3 +74,11 @@ ts,event_id,group,home,away,start,type,line,dec_1,dec_2,pin_matchup_id,match_sco
 2026-11-21T05:24:48+00:00,1028280652,czech_republic/nbl,Ústí nad Labem,USK Praha,2026-11-22T17:00:00+00:00,moneyline,,1.26,3.5,1640540263,86.8
 2026-11-21T05:24:48+00:00,1028280652,czech_republic/nbl,Ústí nad Labem,USK Praha,2026-11-22T17:00:00+00:00,spread,-8.5,1.9,1.8,1640540263,86.8
 2026-11-21T05:24:48+00:00,1028280652,czech_republic/nbl,Ústí nad Labem,USK Praha,2026-11-22T17:00:00+00:00,total,169.5,1.86,1.84,1640540263,86.8
+2026-11-21T05:35:01+00:00,1028280652,czech_republic/nbl,Ústí nad Labem,USK Praha,2026-11-22T17:00:00+00:00,moneyline,,1.32,3.1,1640540263,86.8
+2026-11-21T05:35:01+00:00,1028280652,czech_republic/nbl,Ústí nad Labem,USK Praha,2026-11-22T17:00:00+00:00,spread,-6.5,1.81,1.89,1640540263,86.8
+2026-11-21T05:35:01+00:00,1028646508,germany/bbl,Alba Berlin,FC Bayern München,2026-11-22T17:00:00+00:00,moneyline,,2.48,1.48,,46.9
+2026-11-21T05:35:01+00:00,1028646508,germany/bbl,Alba Berlin,FC Bayern München,2026-11-22T17:00:00+00:00,spread,4.5,1.84,1.86,,46.9
+2026-11-21T05:35:01+00:00,1028646508,germany/bbl,Alba Berlin,FC Bayern München,2026-11-22T17:00:00+00:00,total,171.5,1.91,1.79,,46.9
+2026-11-21T05:35:01+00:00,1029153046,greece/gbl,Iraklis,AEK B.C.,2026-11-21T13:00:00+00:00,moneyline,,1.46,2.63,1640481907,80.0
+2026-11-21T05:35:01+00:00,1029153046,greece/gbl,Iraklis,AEK B.C.,2026-11-21T13:00:00+00:00,spread,-3.5,1.68,2.02,1640481907,80.0
+2026-11-21T05:35:01+00:00,1029153046,greece/gbl,Iraklis,AEK B.C.,2026-11-21T13:00:00+00:00,total,157.5,1.84,1.86,1640481907,80.0
