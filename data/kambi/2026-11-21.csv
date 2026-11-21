@@ -477,3 +477,20 @@ ts,event_id,group,home,away,start,type,line,dec_1,dec_2,pin_matchup_id,match_sco
 2026-11-21T14:46:34+00:00,1028660312,turkey/super_league,Bahcesehir Koleji,Manisa Buyuksehir Belediye,2026-11-21T15:00:00+00:00,moneyline,,1.09,6.0,,56.2
 2026-11-21T14:46:34+00:00,1028660312,turkey/super_league,Bahcesehir Koleji,Manisa Buyuksehir Belediye,2026-11-21T15:00:00+00:00,spread,-14.5,1.9,1.81,,56.2
 2026-11-21T14:46:34+00:00,1028660312,turkey/super_league,Bahcesehir Koleji,Manisa Buyuksehir Belediye,2026-11-21T15:00:00+00:00,total,169.5,1.85,1.85,,56.2
+2026-11-21T14:51:53+00:00,1027960463,sweden/basketligan,Södertälje Kings,Umeå BSKT,2026-11-21T15:04:00+00:00,spread,-17.5,1.83,1.87,1640499454,91.7
+2026-11-21T14:51:53+00:00,1027960463,sweden/basketligan,Södertälje Kings,Umeå BSKT,2026-11-21T15:04:00+00:00,total,160.5,1.82,1.88,1640499454,91.7
+2026-11-21T14:51:53+00:00,1028312662,finland/korisliiga,Bisons Loimaa,Kouvot,2026-11-21T15:00:00+00:00,moneyline,,1.5,2.5,1640504872,100.0
+2026-11-21T14:51:53+00:00,1028312662,finland/korisliiga,Bisons Loimaa,Kouvot,2026-11-21T15:00:00+00:00,spread,-4.5,1.91,1.85,1640504872,100.0
+2026-11-21T14:51:53+00:00,1028992920,france/elite,Paris Basket,Gravelines-Dunkerque,2026-11-22T15:30:00+00:00,spread,-18.5,1.94,1.82,,52.2
+2026-11-21T14:51:53+00:00,1028992920,france/elite,Paris Basket,Gravelines-Dunkerque,2026-11-22T15:30:00+00:00,total,177.5,1.77,1.95,,52.2
+2026-11-21T14:51:53+00:00,1028646528,germany/bbl,Science City Jena,Rostock Seawolves,2026-11-21T15:00:00+00:00,moneyline,,3.35,1.27,1640502525,76.5
+2026-11-21T14:51:53+00:00,1028646528,germany/bbl,Science City Jena,Rostock Seawolves,2026-11-21T15:00:00+00:00,spread,7.5,1.9,1.8,1640502525,76.5
+2026-11-21T14:51:53+00:00,1028646528,germany/bbl,Science City Jena,Rostock Seawolves,2026-11-21T15:00:00+00:00,total,169.5,1.89,1.81,1640502525,76.5
+2026-11-21T14:51:53+00:00,1028646506,germany/bbl,Hamburg Towers,Phoenix Hagen,2026-11-22T15:30:00+00:00,moneyline,,1.5,2.43,,44.0
+2026-11-21T14:51:53+00:00,1028646506,germany/bbl,Hamburg Towers,Phoenix Hagen,2026-11-22T15:30:00+00:00,spread,-3.5,1.78,1.93,,44.0
+2026-11-21T14:51:53+00:00,1028726944,lithuania/lkl,BC Neptūnas,Jonavos SK,2026-11-21T15:00:00+00:00,moneyline,,1.2,4.0,1640502549,88.5
+2026-11-21T14:51:53+00:00,1028726944,lithuania/lkl,BC Neptūnas,Jonavos SK,2026-11-21T15:00:00+00:00,spread,-9.5,1.81,1.89,1640502549,88.5
+2026-11-21T14:51:53+00:00,1028726944,lithuania/lkl,BC Neptūnas,Jonavos SK,2026-11-21T15:00:00+00:00,total,170.5,1.88,1.82,1640502549,88.5
+2026-11-21T14:51:53+00:00,1028304631,poland/plk,King Szczecin,Anwil Włocławek,2026-11-21T16:30:00+00:00,moneyline,,1.25,3.55,1640622502,96.4
+2026-11-21T14:51:53+00:00,1028304631,poland/plk,King Szczecin,Anwil Włocławek,2026-11-21T16:30:00+00:00,spread,-6.5,1.67,2.08,1640622502,96.4
+2026-11-21T14:51:53+00:00,1028304631,poland/plk,King Szczecin,Anwil Włocławek,2026-11-21T16:30:00+00:00,total,164.5,1.86,1.84,1640622502,96.4
