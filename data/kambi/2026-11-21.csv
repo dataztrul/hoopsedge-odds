@@ -247,3 +247,7 @@ ts,event_id,group,home,away,start,type,line,dec_1,dec_2,pin_matchup_id,match_sco
 2026-11-21T09:59:34+00:00,1028660318,turkey/super_league,Bursaspor,Bordo BK,2026-11-21T17:30:00+00:00,moneyline,,1.8,1.91,1640513850,100.0
 2026-11-21T09:59:34+00:00,1028660318,turkey/super_league,Bursaspor,Bordo BK,2026-11-21T17:30:00+00:00,spread,-0.5,1.8,1.91,1640513850,100.0
 2026-11-21T09:59:34+00:00,1028660318,turkey/super_league,Bursaspor,Bordo BK,2026-11-21T17:30:00+00:00,total,167.5,1.76,1.95,1640513850,100.0
+2026-11-21T10:15:59+00:00,1028312662,finland/korisliiga,Bisons Loimaa,Kouvot,2026-11-21T15:00:00+00:00,total,170.5,1.83,1.87,1640504872,100.0
+2026-11-21T10:15:59+00:00,1028803897,united_kingdom/super_league_basketball,Cheshire Phoenix,Caledonia Gladiators,2026-11-22T17:30:00+00:00,moneyline,,1.13,5.0,1640540177,100.0
+2026-11-21T10:15:59+00:00,1028803897,united_kingdom/super_league_basketball,Cheshire Phoenix,Caledonia Gladiators,2026-11-22T17:30:00+00:00,spread,-12.5,1.87,1.83,1640540177,100.0
+2026-11-21T10:15:59+00:00,1028803897,united_kingdom/super_league_basketball,Cheshire Phoenix,Caledonia Gladiators,2026-11-22T17:30:00+00:00,total,184.5,1.86,1.84,1640540177,100.0
