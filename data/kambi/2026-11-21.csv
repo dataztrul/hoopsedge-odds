@@ -440,3 +440,7 @@ ts,event_id,group,home,away,start,type,line,dec_1,dec_2,pin_matchup_id,match_sco
 2026-11-21T13:58:44+00:00,1028697319,spain/leb_oro,Oviedo CB,Lucentum Alicante,2026-11-22T11:30:00+00:00,total,166.5,1.88,1.77,1640523351,90.0
 2026-11-21T13:58:44+00:00,1029396576,turkey/tbl,Darüşşafaka,Konya Buyuksehir Belediye Spor Kulubu,2026-11-22T13:30:00+00:00,moneyline,,2.38,1.52,1640532347,83.3
 2026-11-21T13:58:44+00:00,1029396576,turkey/tbl,Darüşşafaka,Konya Buyuksehir Belediye Spor Kulubu,2026-11-22T13:30:00+00:00,total,168.5,2.0,1.72,1640532347,83.3
+2026-11-21T14:04:03+00:00,1028646528,germany/bbl,Science City Jena,Rostock Seawolves,2026-11-21T15:00:00+00:00,moneyline,,3.35,1.28,1640502525,76.5
+2026-11-21T14:04:03+00:00,1028646528,germany/bbl,Science City Jena,Rostock Seawolves,2026-11-21T15:00:00+00:00,spread,7.5,1.89,1.81,1640502525,76.5
+2026-11-21T14:04:03+00:00,1028646528,germany/bbl,Science City Jena,Rostock Seawolves,2026-11-21T15:00:00+00:00,total,169.5,1.91,1.8,1640502525,76.5
+2026-11-21T14:04:03+00:00,1029153053,greece/gbl,Doxa Lefkadas,Peristeri,2026-11-21T15:00:00+00:00,total,159.5,1.88,1.82,1640504856,100.0
