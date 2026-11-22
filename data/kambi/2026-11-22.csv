@@ -229,3 +229,6 @@ ts,event_id,group,home,away,start,type,line,dec_1,dec_2,pin_matchup_id,match_sco
 2026-11-22T13:11:58+00:00,1029005678,brazil/nbb,São José Basketball,Corinthians-SP,2026-11-22T14:00:00+00:00,spread,3.5,1.84,1.86,,50.8
 2026-11-22T13:11:58+00:00,1028902582,bulgaria/nbl,Rilski Sportist,Cherno More Ticha,2026-11-22T15:00:00+00:00,moneyline,,1.22,3.85,1640630450,94.0
 2026-11-22T13:11:58+00:00,1028902582,bulgaria/nbl,Rilski Sportist,Cherno More Ticha,2026-11-22T15:00:00+00:00,total,160.5,1.73,1.98,1640630450,94.0
+2026-11-22T13:17:16+00:00,1029396576,turkey/tbl,Darüşşafaka,Konya Buyuksehir Belediye Spor Kulubu,2026-11-22T13:30:00+00:00,moneyline,,2.4,1.5,1640532347,83.3
+2026-11-22T13:17:16+00:00,1029396576,turkey/tbl,Darüşşafaka,Konya Buyuksehir Belediye Spor Kulubu,2026-11-22T13:30:00+00:00,spread,4.5,1.78,1.92,1640532347,83.3
+2026-11-22T13:17:16+00:00,1029396576,turkey/tbl,Darüşşafaka,Konya Buyuksehir Belediye Spor Kulubu,2026-11-22T13:30:00+00:00,total,171.5,1.84,1.86,1640532347,83.3
