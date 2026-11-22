@@ -349,3 +349,5 @@ ts,event_id,group,home,away,start,type,line,dec_1,dec_2,pin_matchup_id,match_sco
 2026-11-22T16:37:08+00:00,1028635603,italy/serie_a2,Carpegna Prosciutto Basket Pesaro,Montecatiniterme Basket,2026-11-22T17:00:00+00:00,spread,-10.5,1.87,1.77,1640691751,74.4
 2026-11-22T16:37:08+00:00,1029336188,slovakia/extraliga,BK Levickí Patrioti,Lucenec,2026-11-22T17:00:00+00:00,moneyline,,1.08,6.5,1640535731,94.1
 2026-11-22T16:37:08+00:00,1029336188,slovakia/extraliga,BK Levickí Patrioti,Lucenec,2026-11-22T17:00:00+00:00,spread,-15.5,1.85,1.85,1640535731,94.1
+2026-11-22T16:42:21+00:00,1028280652,czech_republic/nbl,Ústí nad Labem,USK Praha,2026-11-22T17:00:00+00:00,moneyline,,1.41,2.7,1640540263,86.8
+2026-11-22T16:42:21+00:00,1028280652,czech_republic/nbl,Ústí nad Labem,USK Praha,2026-11-22T17:00:00+00:00,spread,-5.5,1.87,1.83,1640540263,86.8
