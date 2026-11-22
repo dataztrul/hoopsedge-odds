@@ -28,3 +28,12 @@ ts,event_id,group,home,away,start,type,line,dec_1,dec_2,pin_matchup_id,match_sco
 2026-11-22T03:12:34+00:00,1029907781,belgium/top_division_1,Bavi Vilvoorde,Basket Willebroek,2026-11-22T14:00:00+00:00,moneyline,,3.6,1.24,1640529217,100.0
 2026-11-22T03:12:34+00:00,1029907781,belgium/top_division_1,Bavi Vilvoorde,Basket Willebroek,2026-11-22T14:00:00+00:00,spread,8.5,1.84,1.86,1640529217,100.0
 2026-11-22T03:12:34+00:00,1029907781,belgium/top_division_1,Bavi Vilvoorde,Basket Willebroek,2026-11-22T14:00:00+00:00,total,160.5,1.85,1.85,1640529217,100.0
+2026-11-22T03:22:47+00:00,1029005678,brazil/nbb,São José Basketball,Corinthians-SP,2026-11-22T14:00:00+00:00,moneyline,,2.55,1.45,,50.8
+2026-11-22T03:22:47+00:00,1029005678,brazil/nbb,São José Basketball,Corinthians-SP,2026-11-22T14:00:00+00:00,spread,4.5,1.87,1.83,,50.8
+2026-11-22T03:22:47+00:00,1029005678,brazil/nbb,São José Basketball,Corinthians-SP,2026-11-22T14:00:00+00:00,total,160.5,1.81,1.89,,50.8
+2026-11-22T03:22:47+00:00,1028902582,bulgaria/nbl,Rilski Sportist,Cherno More Ticha,2026-11-22T15:00:00+00:00,moneyline,,1.41,2.7,1640630450,94.0
+2026-11-22T03:22:47+00:00,1028902582,bulgaria/nbl,Rilski Sportist,Cherno More Ticha,2026-11-22T15:00:00+00:00,spread,-5.5,1.87,1.83,1640630450,94.0
+2026-11-22T03:22:47+00:00,1028902582,bulgaria/nbl,Rilski Sportist,Cherno More Ticha,2026-11-22T15:00:00+00:00,total,160.5,1.79,1.91,1640630450,94.0
+2026-11-22T03:22:47+00:00,1028435631,portugal/lpb,SL Benfica,Ovarense,2026-11-22T15:00:00+00:00,moneyline,,1.13,5.0,1640533904,100.0
+2026-11-22T03:22:47+00:00,1028435631,portugal/lpb,SL Benfica,Ovarense,2026-11-22T15:00:00+00:00,spread,-12.5,1.9,1.8,1640533904,100.0
+2026-11-22T03:22:47+00:00,1028435631,portugal/lpb,SL Benfica,Ovarense,2026-11-22T15:00:00+00:00,total,166.5,1.98,1.73,1640533904,100.0
