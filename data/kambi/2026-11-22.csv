@@ -422,3 +422,6 @@ ts,event_id,group,home,away,start,type,line,dec_1,dec_2,pin_matchup_id,match_sco
 2026-11-22T17:44:45+00:00,1029082832,israel/super_league,Hapoel Eilat B.C,Ironi Ramat Gan,2026-11-22T17:55:00+00:00,total,172.5,1.82,1.88,1640540185,100.0
 2026-11-22T17:44:45+00:00,1028635002,italy/lega_a,Openjobmetis Varese,Umana Reyer Venezia,2026-11-22T18:00:00+00:00,moneyline,,1.83,1.93,1640540191,100.0
 2026-11-22T17:44:45+00:00,1028635002,italy/lega_a,Openjobmetis Varese,Umana Reyer Venezia,2026-11-22T18:00:00+00:00,spread,0.5,1.83,1.93,1640540191,100.0
+2026-11-22T17:49:55+00:00,1027960409,sweden/basketligan,Uppsala Basket,Köping Stars,2026-11-22T18:04:00+00:00,moneyline,,2.55,1.45,1640540285,100.0
+2026-11-22T17:49:55+00:00,1027960409,sweden/basketligan,Uppsala Basket,Köping Stars,2026-11-22T18:04:00+00:00,spread,4.5,1.88,1.82,1640540285,100.0
+2026-11-22T17:49:55+00:00,1029082832,israel/super_league,Hapoel Eilat B.C,Ironi Ramat Gan,2026-11-22T17:55:00+00:00,total,173.5,2.02,1.7,1640540185,100.0
