@@ -165,3 +165,4 @@ ts,event_id,group,home,away,start,type,line,dec_1,dec_2,pin_matchup_id,match_sco
 2026-11-22T10:50:06+00:00,1029946584,spain/liga_acb,Bilbao Basket,Saski Baskonia,2026-11-22T11:00:00+00:00,moneyline,,1.64,2.2,1640529152,86.4
 2026-11-22T10:50:06+00:00,1029946584,spain/liga_acb,Bilbao Basket,Saski Baskonia,2026-11-22T11:00:00+00:00,spread,-2.5,1.85,1.91,1640529152,86.4
 2026-11-22T10:50:06+00:00,1029946584,spain/liga_acb,Bilbao Basket,Saski Baskonia,2026-11-22T11:00:00+00:00,total,175.5,1.92,1.78,1640529152,86.4
+2026-11-22T10:55:21+00:00,1029153090,greece/gbl,AO Mykonos BC,Vikos BC,2026-11-22T11:00:00+00:00,total,163.5,1.87,1.83,1640523316,100.0
