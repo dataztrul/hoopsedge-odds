@@ -127,3 +127,6 @@ ts,event_id,group,home,away,start,type,line,dec_1,dec_2,pin_matchup_id,match_sco
 2026-11-22T09:41:47+00:00,1028660324,turkey/super_league,Cayirova Belediyesi,Esenler Erokspor,2026-11-22T10:00:00+00:00,total,165.5,1.78,1.92,1640523279,100.0
 2026-11-22T09:47:01+00:00,1029946584,spain/liga_acb,Bilbao Basket,Saski Baskonia,2026-11-22T11:00:00+00:00,moneyline,,1.77,2.0,1640529152,86.4
 2026-11-22T09:47:01+00:00,1029946584,spain/liga_acb,Bilbao Basket,Saski Baskonia,2026-11-22T11:00:00+00:00,total,180.5,2.08,1.66,1640529152,86.4
+2026-11-22T09:52:17+00:00,1028635570,italy/serie_a2,IVPC Del Fes Avellino,Virtus Ruvo di Puglia,2026-11-22T19:00:00+00:00,spread,-16.5,1.68,1.98,1640693449,87.9
+2026-11-22T09:52:17+00:00,1028660324,turkey/super_league,Cayirova Belediyesi,Esenler Erokspor,2026-11-22T10:00:00+00:00,total,166.5,1.75,1.97,1640523279,100.0
+2026-11-22T09:52:17+00:00,1029396576,turkey/tbl,Darüşşafaka,Konya Buyuksehir Belediye Spor Kulubu,2026-11-22T13:30:00+00:00,total,168.5,1.79,1.91,1640532347,83.3
