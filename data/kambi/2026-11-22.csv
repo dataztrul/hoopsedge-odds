@@ -49,3 +49,9 @@ ts,event_id,group,home,away,start,type,line,dec_1,dec_2,pin_matchup_id,match_sco
 2026-11-22T03:33:01+00:00,1029288182,united_kingdom/super_league_basketball,Liverpool,Leicester Riders,2026-11-22T16:00:00+00:00,moneyline,,1.46,2.55,1640535823,100.0
 2026-11-22T03:33:01+00:00,1029288182,united_kingdom/super_league_basketball,Liverpool,Leicester Riders,2026-11-22T16:00:00+00:00,spread,-4.5,1.83,1.87,1640535823,100.0
 2026-11-22T03:33:01+00:00,1029288182,united_kingdom/super_league_basketball,Liverpool,Leicester Riders,2026-11-22T16:00:00+00:00,total,170.5,1.86,1.84,1640535823,100.0
+2026-11-22T03:43:18+00:00,1029082827,israel/super_league,Hapoel Haemek,Bnei Herzliya,2026-11-22T18:05:00+00:00,moneyline,,1.83,1.87,1640539693,100.0
+2026-11-22T03:43:18+00:00,1029082827,israel/super_league,Hapoel Haemek,Bnei Herzliya,2026-11-22T18:05:00+00:00,spread,-0.5,1.83,1.87,1640539693,100.0
+2026-11-22T03:43:18+00:00,1029082827,israel/super_league,Hapoel Haemek,Bnei Herzliya,2026-11-22T18:05:00+00:00,total,163.5,1.9,1.8,1640539693,100.0
+2026-11-22T03:43:18+00:00,1028435511,portugal/lpb,Porto,CD Povoa,2026-11-22T18:30:00+00:00,moneyline,,1.08,6.5,1640540197,100.0
+2026-11-22T03:43:18+00:00,1028435511,portugal/lpb,Porto,CD Povoa,2026-11-22T18:30:00+00:00,spread,-14.5,1.82,1.88,1640540197,100.0
+2026-11-22T03:43:18+00:00,1028435511,portugal/lpb,Porto,CD Povoa,2026-11-22T18:30:00+00:00,total,158.5,1.88,1.82,1640540197,100.0
