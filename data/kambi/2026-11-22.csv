@@ -444,3 +444,10 @@ ts,event_id,group,home,away,start,type,line,dec_1,dec_2,pin_matchup_id,match_sco
 2026-11-22T18:20:50+00:00,1028304629,poland/plk,MKS Dabrowa Gornicza,Legia Warszawa,2026-11-22T18:30:00+00:00,total,172.5,1.83,1.87,1640539700,100.0
 2026-11-22T18:31:06+00:00,1028635597,italy/serie_a2,Unieuro Forlì,Basket Mestre,2026-11-22T19:00:00+00:00,total,158.5,1.8,1.85,1640697430,100.0
 2026-11-22T18:41:23+00:00,1029005681,brazil/nbb,Basquete Cearense,Flamengo,2026-11-22T19:00:00+00:00,spread,18.5,1.81,1.89,,52.4
+2026-11-22T18:46:31+00:00,1029005681,brazil/nbb,Basquete Cearense,Flamengo,2026-11-22T19:00:00+00:00,moneyline,,9.5,1.01,,52.4
+2026-11-22T18:46:31+00:00,1029005681,brazil/nbb,Basquete Cearense,Flamengo,2026-11-22T19:00:00+00:00,spread,18.5,1.82,1.88,,52.4
+2026-11-22T18:46:31+00:00,1028635597,italy/serie_a2,Unieuro Forlì,Basket Mestre,2026-11-22T19:00:00+00:00,moneyline,,1.34,2.85,1640697430,100.0
+2026-11-22T18:46:31+00:00,1028635597,italy/serie_a2,Unieuro Forlì,Basket Mestre,2026-11-22T19:00:00+00:00,spread,-5.5,1.78,1.86,1640697430,100.0
+2026-11-22T18:46:31+00:00,1028635597,italy/serie_a2,Unieuro Forlì,Basket Mestre,2026-11-22T19:00:00+00:00,total,158.5,1.8,1.84,1640697430,100.0
+2026-11-22T18:46:31+00:00,1028635570,italy/serie_a2,IVPC Del Fes Avellino,Virtus Ruvo di Puglia,2026-11-22T19:00:00+00:00,spread,-17.5,1.77,1.88,1640693449,87.9
+2026-11-22T18:46:31+00:00,1028635570,italy/serie_a2,IVPC Del Fes Avellino,Virtus Ruvo di Puglia,2026-11-22T19:00:00+00:00,total,155.5,1.8,1.85,1640693449,87.9
