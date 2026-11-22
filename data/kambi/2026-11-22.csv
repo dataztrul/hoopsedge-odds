@@ -206,3 +206,4 @@ ts,event_id,group,home,away,start,type,line,dec_1,dec_2,pin_matchup_id,match_sco
 2026-11-22T12:19:23+00:00,1028304654,poland/plk,WKS Śląsk Wrocław,Trefl Sopot,2026-11-22T14:00:00+00:00,spread,-24.5,1.87,1.84,1640529224,91.4
 2026-11-22T12:19:23+00:00,1029336188,slovakia/extraliga,BK Levickí Patrioti,Lucenec,2026-11-22T17:00:00+00:00,moneyline,,1.06,7.5,1640535731,94.1
 2026-11-22T12:19:23+00:00,1029336188,slovakia/extraliga,BK Levickí Patrioti,Lucenec,2026-11-22T17:00:00+00:00,spread,-16.5,1.8,1.9,1640535731,94.1
+2026-11-22T12:24:39+00:00,1029642413,turkey/super_league,Trabzonspor BK,Anadolu Efes,2026-11-22T12:30:00+00:00,moneyline,,3.0,1.34,1640530017,100.0
