@@ -460,3 +460,6 @@ ts,event_id,group,home,away,start,type,line,dec_1,dec_2,pin_matchup_id,match_sco
 2026-11-22T19:38:11+00:00,1028635601,italy/serie_a2,Libertas Livorno,Banco di Sardegna Sassari,2026-11-22T19:45:00+00:00,moneyline,,1.18,3.9,1640691752,83.3
 2026-11-22T19:38:11+00:00,1028635601,italy/serie_a2,Libertas Livorno,Banco di Sardegna Sassari,2026-11-22T19:45:00+00:00,spread,-9.5,1.88,1.76,1640691752,83.3
 2026-11-22T19:38:11+00:00,1028635601,italy/serie_a2,Libertas Livorno,Banco di Sardegna Sassari,2026-11-22T19:45:00+00:00,total,149.5,1.86,1.79,1640691752,83.3
+2026-11-22T19:48:25+00:00,1029005611,brazil/nbb,Mogi das Cruzes,CA Paulistano,2026-11-22T20:00:00+00:00,moneyline,,1.09,6.0,,42.6
+2026-11-22T19:48:25+00:00,1029005611,brazil/nbb,Mogi das Cruzes,CA Paulistano,2026-11-22T20:00:00+00:00,spread,-13.5,1.87,1.84,,42.6
+2026-11-22T19:48:25+00:00,1029005611,brazil/nbb,Mogi das Cruzes,CA Paulistano,2026-11-22T20:00:00+00:00,total,152.5,1.9,1.8,,42.6
