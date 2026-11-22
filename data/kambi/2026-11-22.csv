@@ -394,3 +394,8 @@ ts,event_id,group,home,away,start,type,line,dec_1,dec_2,pin_matchup_id,match_sco
 2026-11-22T16:58:01+00:00,1028495863,spain/liga_femenina__w_,ADB Araski (W),Perfumerías Avenida (W),2026-11-22T17:00:00+00:00,moneyline,,3.05,1.33,1640540261,87.5
 2026-11-22T16:58:01+00:00,1028495863,spain/liga_femenina__w_,ADB Araski (W),Perfumerías Avenida (W),2026-11-22T17:00:00+00:00,spread,6.5,1.85,1.85,1640540261,87.5
 2026-11-22T16:58:01+00:00,1028495863,spain/liga_femenina__w_,ADB Araski (W),Perfumerías Avenida (W),2026-11-22T17:00:00+00:00,total,139.5,1.85,1.85,1640540261,87.5
+2026-11-22T17:03:14+00:00,1028635001,italy/lega_a,Tezenis Verona,APU Old Wild West Udine,2026-11-22T17:15:00+00:00,spread,-3.5,1.82,1.95,1640540173,80.0
+2026-11-22T17:03:14+00:00,1028635001,italy/lega_a,Tezenis Verona,APU Old Wild West Udine,2026-11-22T17:15:00+00:00,total,172.5,1.88,1.82,1640540173,80.0
+2026-11-22T17:03:14+00:00,1029642420,turkey/super_league,Besiktas,Fenerbahce SK,2026-11-22T17:30:00+00:00,total,168.5,1.88,1.82,1640540176,100.0
+2026-11-22T17:03:14+00:00,1028803897,united_kingdom/super_league_basketball,Cheshire Phoenix,Caledonia Gladiators,2026-11-22T17:30:00+00:00,moneyline,,1.13,5.1,1640540177,100.0
+2026-11-22T17:03:14+00:00,1028803897,united_kingdom/super_league_basketball,Cheshire Phoenix,Caledonia Gladiators,2026-11-22T17:30:00+00:00,spread,-12.5,1.83,1.87,1640540177,100.0
