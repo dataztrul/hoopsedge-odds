@@ -452,3 +452,6 @@ ts,event_id,group,home,away,start,type,line,dec_1,dec_2,pin_matchup_id,match_sco
 2026-11-22T18:46:31+00:00,1028635570,italy/serie_a2,IVPC Del Fes Avellino,Virtus Ruvo di Puglia,2026-11-22T19:00:00+00:00,spread,-17.5,1.77,1.88,1640693449,87.9
 2026-11-22T18:46:31+00:00,1028635570,italy/serie_a2,IVPC Del Fes Avellino,Virtus Ruvo di Puglia,2026-11-22T19:00:00+00:00,total,155.5,1.8,1.85,1640693449,87.9
 2026-11-22T18:57:17+00:00,1029005681,brazil/nbb,Basquete Cearense,Flamengo,2026-11-22T19:02:00+00:00,spread,19.5,1.85,1.85,,52.4
+2026-11-22T19:33:05+00:00,1028635601,italy/serie_a2,Libertas Livorno,Banco di Sardegna Sassari,2026-11-22T19:45:00+00:00,moneyline,,1.18,3.95,1640691752,83.3
+2026-11-22T19:33:05+00:00,1028635601,italy/serie_a2,Libertas Livorno,Banco di Sardegna Sassari,2026-11-22T19:45:00+00:00,spread,-9.5,1.86,1.78,1640691752,83.3
+2026-11-22T19:33:05+00:00,1028635601,italy/serie_a2,Libertas Livorno,Banco di Sardegna Sassari,2026-11-22T19:45:00+00:00,total,150.5,1.85,1.79,1640691752,83.3
