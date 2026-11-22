@@ -251,3 +251,7 @@ ts,event_id,group,home,away,start,type,line,dec_1,dec_2,pin_matchup_id,match_sco
 2026-11-22T13:44:05+00:00,1029005678,brazil/nbb,São José Basketball,Corinthians-SP,2026-11-22T14:00:00+00:00,spread,3.5,1.71,2.02,,50.8
 2026-11-22T13:44:05+00:00,1029005678,brazil/nbb,São José Basketball,Corinthians-SP,2026-11-22T14:00:00+00:00,total,161.5,1.88,1.82,,50.8
 2026-11-22T13:44:05+00:00,1028304654,poland/plk,WKS Śląsk Wrocław,Trefl Sopot,2026-11-22T14:00:00+00:00,spread,-24.5,1.84,1.86,1640529224,91.4
+2026-11-22T13:49:20+00:00,1029907781,belgium/top_division_1,Bavi Vilvoorde,Basket Willebroek,2026-11-22T14:00:00+00:00,moneyline,,3.55,1.25,1640529217,100.0
+2026-11-22T13:49:20+00:00,1029907781,belgium/top_division_1,Bavi Vilvoorde,Basket Willebroek,2026-11-22T14:00:00+00:00,spread,8.5,1.84,1.87,1640529217,100.0
+2026-11-22T13:49:20+00:00,1029005678,brazil/nbb,São José Basketball,Corinthians-SP,2026-11-22T14:00:00+00:00,spread,2.5,1.82,1.88,,50.8
+2026-11-22T13:49:20+00:00,1029005678,brazil/nbb,São José Basketball,Corinthians-SP,2026-11-22T14:00:00+00:00,total,161.5,1.97,1.75,,50.8
