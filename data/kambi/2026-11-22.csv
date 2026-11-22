@@ -327,3 +327,7 @@ ts,event_id,group,home,away,start,type,line,dec_1,dec_2,pin_matchup_id,match_sco
 2026-11-22T15:55:19+00:00,1028992855,france/elite,ASVEL Lyon-Villeurbanne,Bourg-en-Bresse,2026-11-22T18:00:00+00:00,total,177.5,1.75,1.96,1640540188,88.5
 2026-11-22T15:55:19+00:00,1029948115,spain/leb_oro,CB Bahia San Agustin,Coto Córdoba CB,2026-11-22T17:00:00+00:00,moneyline,,1.57,2.17,,59.1
 2026-11-22T15:55:19+00:00,1029948115,spain/leb_oro,CB Bahia San Agustin,Coto Córdoba CB,2026-11-22T17:00:00+00:00,spread,-2.5,1.79,1.85,,59.1
+2026-11-22T16:00:33+00:00,1028992855,france/elite,ASVEL Lyon-Villeurbanne,Bourg-en-Bresse,2026-11-22T18:00:00+00:00,total,177.5,1.66,2.08,1640540188,88.5
+2026-11-22T16:00:33+00:00,1029948115,spain/leb_oro,CB Bahia San Agustin,Coto Córdoba CB,2026-11-22T17:00:00+00:00,moneyline,,1.48,2.35,,59.1
+2026-11-22T16:00:33+00:00,1029948115,spain/leb_oro,CB Bahia San Agustin,Coto Córdoba CB,2026-11-22T17:00:00+00:00,spread,-3.5,1.78,1.86,,59.1
+2026-11-22T16:00:33+00:00,1029948115,spain/leb_oro,CB Bahia San Agustin,Coto Córdoba CB,2026-11-22T17:00:00+00:00,total,156.5,1.79,1.85,,59.1
