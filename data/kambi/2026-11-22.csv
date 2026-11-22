@@ -72,3 +72,5 @@ ts,event_id,group,home,away,start,type,line,dec_1,dec_2,pin_matchup_id,match_sco
 2026-11-22T06:22:14+00:00,1028660324,turkey/super_league,Cayirova Belediyesi,Esenler Erokspor,2026-11-22T10:00:00+00:00,total,169.5,2.12,1.63,1640523279,100.0
 2026-11-22T06:27:29+00:00,1028660324,turkey/super_league,Cayirova Belediyesi,Esenler Erokspor,2026-11-22T10:00:00+00:00,spread,0.5,1.85,1.85,1640523279,100.0
 2026-11-22T06:27:29+00:00,1028660324,turkey/super_league,Cayirova Belediyesi,Esenler Erokspor,2026-11-22T10:00:00+00:00,total,165.5,1.88,1.82,1640523279,100.0
+2026-11-22T06:32:44+00:00,1028635601,italy/serie_a2,Libertas Livorno,Banco di Sardegna Sassari,2026-11-22T19:45:00+00:00,spread,-9.5,1.86,1.77,1640691752,83.3
+2026-11-22T06:32:44+00:00,1028635601,italy/serie_a2,Libertas Livorno,Banco di Sardegna Sassari,2026-11-22T19:45:00+00:00,total,150.5,1.84,1.8,1640691752,83.3
