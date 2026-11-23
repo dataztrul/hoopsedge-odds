@@ -23,3 +23,9 @@ ts,event_id,group,home,away,start,type,line,dec_1,dec_2,pin_matchup_id,match_sco
 2026-11-23T03:11:50+00:00,1028562793,euroleague,BC Dubai,Partizan Belgrade,2026-11-25T16:00:00+00:00,moneyline,,1.32,3.35,,0.0
 2026-11-23T03:11:50+00:00,1028562793,euroleague,BC Dubai,Partizan Belgrade,2026-11-25T16:00:00+00:00,spread,-7.5,1.93,1.87,,0.0
 2026-11-23T03:11:50+00:00,1028562793,euroleague,BC Dubai,Partizan Belgrade,2026-11-25T16:00:00+00:00,total,167.5,1.89,1.91,,0.0
+2026-11-23T03:26:55+00:00,1028562753,euroleague,Olympiacos BC,Hapoel Tel Aviv,2026-11-25T19:15:00+00:00,moneyline,,1.5,2.6,,0.0
+2026-11-23T03:26:55+00:00,1028562753,euroleague,Olympiacos BC,Hapoel Tel Aviv,2026-11-25T19:15:00+00:00,spread,-4.5,1.91,1.89,,0.0
+2026-11-23T03:26:55+00:00,1028562753,euroleague,Olympiacos BC,Hapoel Tel Aviv,2026-11-25T19:15:00+00:00,total,170.5,1.9,1.9,,0.0
+2026-11-23T03:26:55+00:00,1029298357,euroleague,Saski Baskonia,Anadolu Efes,2026-11-25T19:30:00+00:00,moneyline,,2.0,1.81,,0.0
+2026-11-23T03:26:55+00:00,1029298357,euroleague,Saski Baskonia,Anadolu Efes,2026-11-25T19:30:00+00:00,spread,1.5,1.86,1.94,,0.0
+2026-11-23T03:26:55+00:00,1029298357,euroleague,Saski Baskonia,Anadolu Efes,2026-11-25T19:30:00+00:00,total,175.5,1.94,1.86,,0.0
