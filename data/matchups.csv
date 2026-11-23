@@ -2603,36 +2603,36 @@ matchup_id,league_key,pin_league,start,home,away,first_seen,last_seen
 1640621281,serbia,Serbia - Nasa Liga,2026-11-23T17:00:00+00:00,KK Vojvodina,KK Sloboda Uzice,2026-11-21T17:21:32+00:00,2026-11-23T16:56:38+00:00
 1640671828,,Israel - Premier League Women,2026-11-23T17:00:00+00:00,Maccabi Karmiel,Bnei Yehuda,2026-11-23T05:12:24+00:00,2026-11-23T16:56:38+00:00
 1640940932,,Czech Republic - Cup Women,2026-11-23T17:00:00+00:00,Brandys nad Labem,Levharti Chomutov,2026-11-23T08:24:21+00:00,2026-11-23T16:56:38+00:00
-1640560399,greece_a2,Greece - Elite League,2026-11-23T18:00:00+00:00,Panionios BC,Psychikou,2026-11-21T18:20:06+00:00,2026-11-23T17:06:51+00:00
-1640697906,pl_1liga,Poland - 1. Liga,2026-11-23T19:00:00+00:00,Polonia Warszawa,Polonia Bytom,2026-11-21T19:23:42+00:00,2026-11-23T17:06:51+00:00
-1640767371,,Serbia - 1 ZLS Women,2026-11-23T19:00:00+00:00,KK Vojvodina,Korac Akademija 011,2026-11-21T19:23:42+00:00,2026-11-23T17:06:51+00:00
-1640560420,,Iceland - Premier League Women,2026-11-23T19:15:00+00:00,UMF Tindastoll,Armann,2026-11-21T19:34:15+00:00,2026-11-23T17:06:51+00:00
-1640560421,,Iceland - Premier League Women,2026-11-23T19:15:00+00:00,UMF Njardvik,Haukar,2026-11-21T19:34:15+00:00,2026-11-23T17:06:51+00:00
-1640563889,,Iceland - Premier League Women,2026-11-23T19:15:00+00:00,Keflavik,KR Reykjavik,2026-11-21T19:34:15+00:00,2026-11-23T17:06:51+00:00
-1640567056,,Iceland - Premier League Women,2026-11-23T19:15:00+00:00,UMF Grindavik,Stjarnan FC,2026-11-21T19:34:15+00:00,2026-11-23T17:06:51+00:00
-1640693512,,Iceland - Division 1,2026-11-23T19:15:00+00:00,Thor Akureyri,Akranes IA,2026-11-22T10:13:19+00:00,2026-11-23T17:06:51+00:00
-1640621275,nkl,Lithuania - National Basketball League,2026-11-24T16:00:00+00:00,BC Zalgiris Kaunas II,BC Telsiai,2026-11-21T20:21:44+00:00,2026-11-23T17:06:51+00:00
-1640621274,nkl,Lithuania - National Basketball League,2026-11-24T16:05:00+00:00,Alytaus Patriotai,Vilkaviskis,2026-11-21T17:05:37+00:00,2026-11-23T17:06:51+00:00
-1640620976,,Israel - National League,2026-11-24T16:15:00+00:00,Elitzur Netanya,Hapoel Haifa BC,2026-11-22T16:47:35+00:00,2026-11-23T17:06:51+00:00
-1640621289,,Israel - National League,2026-11-24T16:30:00+00:00,Maccabi Rehovot,Maccabi Kiryat Gat,2026-11-22T16:58:01+00:00,2026-11-23T17:06:51+00:00
-1640621290,,Israel - National League,2026-11-24T16:30:00+00:00,Maccabi Kiryat Motzkin,Elitzur Yavne,2026-11-23T15:55:06+00:00,2026-11-23T17:06:51+00:00
-1640621291,,Israel - National League,2026-11-24T16:45:00+00:00,Elitzur Shomron Hlp,Migdal Haemek,2026-11-22T16:58:01+00:00,2026-11-23T17:06:51+00:00
-1640621298,,Israel - National League,2026-11-24T16:45:00+00:00,AS Ramat Hasharon,Elitzur Ashkelon,2026-11-22T16:58:01+00:00,2026-11-23T17:06:51+00:00
-1640620924,euroleague,Europe - Euroleague,2026-11-24T17:00:00+00:00,Besiktas JK,Paris,2026-11-23T14:08:25+00:00,2026-11-23T17:06:51+00:00
-1640621299,nkl,Lithuania - National Basketball League,2026-11-24T17:00:00+00:00,BC Jurbarkas-Karys,Vytis-VDU Sakiai,2026-11-21T17:21:32+00:00,2026-11-23T17:06:51+00:00
-1640621570,nkl,Lithuania - National Basketball League,2026-11-24T17:00:00+00:00,Kretingos Kretinga,BC Silute,2026-11-21T17:21:32+00:00,2026-11-23T17:06:51+00:00
-1640769753,,Israel - Premier League Women,2026-11-24T17:00:00+00:00,Maccabi Haifa,Elitzur Holon,2026-11-22T17:13:37+00:00,2026-11-23T17:06:51+00:00
-1640621581,dk_kvinde_w,Denmark - Kvindebasketligaen,2026-11-24T17:30:00+00:00,Skovbakken,Aabyhoj,2026-11-22T18:00:15+00:00,2026-11-23T17:06:51+00:00
-1640511550,ba_prvenstvo,Bosnia and Herzegovina - Prvenstvo BIH,2026-11-24T18:00:00+00:00,KK Leotar Trebinje,Zivinice,2026-11-22T18:15:42+00:00,2026-11-23T17:06:51+00:00
-1640621517,euroleague,Europe - Euroleague,2026-11-24T18:00:00+00:00,Crvena Zvezda,Virtus Bologna,2026-11-23T14:08:25+00:00,2026-11-23T17:06:51+00:00
-1640698037,,Poland - Liga 1 Women,2026-11-24T18:00:00+00:00,Tecza Leszno,Swarzedz,2026-11-22T18:15:42+00:00,2026-11-23T17:06:51+00:00
-1640767373,nkl,Lithuania - National Basketball League,2026-11-24T18:00:00+00:00,Omega-Tauras,Mazeikiai M Basket,2026-11-21T18:20:06+00:00,2026-11-23T17:06:51+00:00
-1640621004,dk_kvinde_w,Denmark - Kvindebasketligaen,2026-11-24T18:15:00+00:00,BK Amager,Falcon,2026-11-22T18:46:31+00:00,2026-11-23T17:06:51+00:00
-1640620925,euroleague,Europe - Euroleague,2026-11-24T19:00:00+00:00,Bayern Munich,Maccabi Tel-Aviv,2026-11-23T14:08:25+00:00,2026-11-23T17:06:51+00:00
-1640622572,,Iceland - Premier League Women,2026-11-24T19:15:00+00:00,Fjolnir Reykjavik,Valur Reykjavik,2026-11-22T19:48:25+00:00,2026-11-23T17:06:51+00:00
-1640621231,euroleague,Europe - Euroleague,2026-11-24T19:30:00+00:00,Valencia BC,Panathinaikos BC,2026-11-23T14:08:25+00:00,2026-11-23T17:06:51+00:00
-1640622583,,France - Nationale 1,2026-11-24T19:30:00+00:00,Vitre,Angers,2026-11-22T20:03:44+00:00,2026-11-23T17:06:51+00:00
-1640988463,it_a2,Italy - Serie A2,2026-11-24T19:30:00+00:00,Basket Torino,Juvecaserta 2021,2026-11-23T11:21:54+00:00,2026-11-23T17:06:51+00:00
-1640621518,euroleague,Europe - Euroleague,2026-11-24T19:45:00+00:00,Asvel Villeurbanne,Olimpia Milano,2026-11-23T14:08:25+00:00,2026-11-23T17:06:51+00:00
-1640620928,euroleague,Europe - Euroleague,2026-11-24T20:00:00+00:00,Barcelona,Fenerbahce,2026-11-23T14:08:25+00:00,2026-11-23T17:06:51+00:00
-1640720368,nkl,Lithuania - National Basketball League,2026-11-26T16:00:00+00:00,Atletas,Ukmerges Stekas,2026-11-23T16:25:37+00:00,2026-11-23T17:06:51+00:00
+1640560399,greece_a2,Greece - Elite League,2026-11-23T18:00:00+00:00,Panionios BC,Psychikou,2026-11-21T18:20:06+00:00,2026-11-23T17:11:56+00:00
+1640697906,pl_1liga,Poland - 1. Liga,2026-11-23T19:00:00+00:00,Polonia Warszawa,Polonia Bytom,2026-11-21T19:23:42+00:00,2026-11-23T17:11:56+00:00
+1640767371,,Serbia - 1 ZLS Women,2026-11-23T19:00:00+00:00,KK Vojvodina,Korac Akademija 011,2026-11-21T19:23:42+00:00,2026-11-23T17:11:56+00:00
+1640560420,,Iceland - Premier League Women,2026-11-23T19:15:00+00:00,UMF Tindastoll,Armann,2026-11-21T19:34:15+00:00,2026-11-23T17:11:56+00:00
+1640560421,,Iceland - Premier League Women,2026-11-23T19:15:00+00:00,UMF Njardvik,Haukar,2026-11-21T19:34:15+00:00,2026-11-23T17:11:56+00:00
+1640563889,,Iceland - Premier League Women,2026-11-23T19:15:00+00:00,Keflavik,KR Reykjavik,2026-11-21T19:34:15+00:00,2026-11-23T17:11:56+00:00
+1640567056,,Iceland - Premier League Women,2026-11-23T19:15:00+00:00,UMF Grindavik,Stjarnan FC,2026-11-21T19:34:15+00:00,2026-11-23T17:11:56+00:00
+1640693512,,Iceland - Division 1,2026-11-23T19:15:00+00:00,Thor Akureyri,Akranes IA,2026-11-22T10:13:19+00:00,2026-11-23T17:11:56+00:00
+1640621275,nkl,Lithuania - National Basketball League,2026-11-24T16:00:00+00:00,BC Zalgiris Kaunas II,BC Telsiai,2026-11-21T20:21:44+00:00,2026-11-23T17:11:56+00:00
+1640621274,nkl,Lithuania - National Basketball League,2026-11-24T16:05:00+00:00,Alytaus Patriotai,Vilkaviskis,2026-11-21T17:05:37+00:00,2026-11-23T17:11:56+00:00
+1640620976,,Israel - National League,2026-11-24T16:15:00+00:00,Elitzur Netanya,Hapoel Haifa BC,2026-11-22T16:47:35+00:00,2026-11-23T17:11:56+00:00
+1640621289,,Israel - National League,2026-11-24T16:30:00+00:00,Maccabi Rehovot,Maccabi Kiryat Gat,2026-11-22T16:58:01+00:00,2026-11-23T17:11:56+00:00
+1640621290,,Israel - National League,2026-11-24T16:30:00+00:00,Maccabi Kiryat Motzkin,Elitzur Yavne,2026-11-23T15:55:06+00:00,2026-11-23T17:11:56+00:00
+1640621291,,Israel - National League,2026-11-24T16:45:00+00:00,Elitzur Shomron Hlp,Migdal Haemek,2026-11-22T16:58:01+00:00,2026-11-23T17:11:56+00:00
+1640621298,,Israel - National League,2026-11-24T16:45:00+00:00,AS Ramat Hasharon,Elitzur Ashkelon,2026-11-22T16:58:01+00:00,2026-11-23T17:11:56+00:00
+1640620924,euroleague,Europe - Euroleague,2026-11-24T17:00:00+00:00,Besiktas JK,Paris,2026-11-23T14:08:25+00:00,2026-11-23T17:11:56+00:00
+1640621299,nkl,Lithuania - National Basketball League,2026-11-24T17:00:00+00:00,BC Jurbarkas-Karys,Vytis-VDU Sakiai,2026-11-21T17:21:32+00:00,2026-11-23T17:11:56+00:00
+1640621570,nkl,Lithuania - National Basketball League,2026-11-24T17:00:00+00:00,Kretingos Kretinga,BC Silute,2026-11-21T17:21:32+00:00,2026-11-23T17:11:56+00:00
+1640769753,,Israel - Premier League Women,2026-11-24T17:00:00+00:00,Maccabi Haifa,Elitzur Holon,2026-11-22T17:13:37+00:00,2026-11-23T17:11:56+00:00
+1640621581,dk_kvinde_w,Denmark - Kvindebasketligaen,2026-11-24T17:30:00+00:00,Skovbakken,Aabyhoj,2026-11-22T18:00:15+00:00,2026-11-23T17:11:56+00:00
+1640511550,ba_prvenstvo,Bosnia and Herzegovina - Prvenstvo BIH,2026-11-24T18:00:00+00:00,KK Leotar Trebinje,Zivinice,2026-11-22T18:15:42+00:00,2026-11-23T17:11:56+00:00
+1640621517,euroleague,Europe - Euroleague,2026-11-24T18:00:00+00:00,Crvena Zvezda,Virtus Bologna,2026-11-23T14:08:25+00:00,2026-11-23T17:11:56+00:00
+1640698037,,Poland - Liga 1 Women,2026-11-24T18:00:00+00:00,Tecza Leszno,Swarzedz,2026-11-22T18:15:42+00:00,2026-11-23T17:11:56+00:00
+1640767373,nkl,Lithuania - National Basketball League,2026-11-24T18:00:00+00:00,Omega-Tauras,Mazeikiai M Basket,2026-11-21T18:20:06+00:00,2026-11-23T17:11:56+00:00
+1640621004,dk_kvinde_w,Denmark - Kvindebasketligaen,2026-11-24T18:15:00+00:00,BK Amager,Falcon,2026-11-22T18:46:31+00:00,2026-11-23T17:11:56+00:00
+1640620925,euroleague,Europe - Euroleague,2026-11-24T19:00:00+00:00,Bayern Munich,Maccabi Tel-Aviv,2026-11-23T14:08:25+00:00,2026-11-23T17:11:56+00:00
+1640622572,,Iceland - Premier League Women,2026-11-24T19:15:00+00:00,Fjolnir Reykjavik,Valur Reykjavik,2026-11-22T19:48:25+00:00,2026-11-23T17:11:56+00:00
+1640621231,euroleague,Europe - Euroleague,2026-11-24T19:30:00+00:00,Valencia BC,Panathinaikos BC,2026-11-23T14:08:25+00:00,2026-11-23T17:11:56+00:00
+1640622583,,France - Nationale 1,2026-11-24T19:30:00+00:00,Vitre,Angers,2026-11-22T20:03:44+00:00,2026-11-23T17:11:56+00:00
+1640988463,it_a2,Italy - Serie A2,2026-11-24T19:30:00+00:00,Basket Torino,Juvecaserta 2021,2026-11-23T11:21:54+00:00,2026-11-23T17:11:56+00:00
+1640621518,euroleague,Europe - Euroleague,2026-11-24T19:45:00+00:00,Asvel Villeurbanne,Olimpia Milano,2026-11-23T14:08:25+00:00,2026-11-23T17:11:56+00:00
+1640620928,euroleague,Europe - Euroleague,2026-11-24T20:00:00+00:00,Barcelona,Fenerbahce,2026-11-23T14:08:25+00:00,2026-11-23T17:11:56+00:00
+1640720368,nkl,Lithuania - National Basketball League,2026-11-26T16:00:00+00:00,Atletas,Ukmerges Stekas,2026-11-23T16:25:37+00:00,2026-11-23T17:11:56+00:00
