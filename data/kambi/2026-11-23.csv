@@ -44,3 +44,11 @@ ts,event_id,group,home,away,start,type,line,dec_1,dec_2,pin_matchup_id,match_sco
 2026-11-23T13:48:05+00:00,1028562778,euroleague,FC Barcelona,Fenerbahce SK,2026-11-24T20:00:00+00:00,spread,2.5,1.87,1.93,,33.3
 2026-11-23T13:53:09+00:00,1028562778,euroleague,FC Barcelona,Fenerbahce SK,2026-11-24T20:00:00+00:00,moneyline,,2.23,1.66,,33.3
 2026-11-23T13:53:09+00:00,1028562778,euroleague,FC Barcelona,Fenerbahce SK,2026-11-24T20:00:00+00:00,spread,2.5,1.93,1.87,,33.3
+2026-11-23T13:58:14+00:00,1028562743,euroleague,Besiktas,Paris Basket,2026-11-24T17:00:00+00:00,moneyline,,1.9,1.9,,42.7
+2026-11-23T13:58:14+00:00,1028562743,euroleague,Besiktas,Paris Basket,2026-11-24T17:00:00+00:00,spread,-0.5,1.9,1.9,,42.7
+2026-11-23T13:58:14+00:00,1028562743,euroleague,Besiktas,Paris Basket,2026-11-24T17:00:00+00:00,total,182.5,1.87,1.93,,42.7
+2026-11-23T13:58:14+00:00,1028562722,euroleague,KK Crvena Zvezda Belgrade,Virtus Bologna,2026-11-24T18:00:00+00:00,total,170.5,1.86,1.94,,37.2
+2026-11-23T13:58:14+00:00,1028562770,euroleague,FC Bayern München,Maccabi Tel Aviv,2026-11-24T19:00:00+00:00,moneyline,,1.56,2.43,,42.7
+2026-11-23T13:58:14+00:00,1028562770,euroleague,FC Bayern München,Maccabi Tel Aviv,2026-11-24T19:00:00+00:00,spread,-3.5,1.87,1.93,,42.7
+2026-11-23T13:58:14+00:00,1028562770,euroleague,FC Bayern München,Maccabi Tel Aviv,2026-11-24T19:00:00+00:00,total,179.5,1.88,1.92,,42.7
+2026-11-23T13:58:14+00:00,1028562776,euroleague,ASVEL Lyon-Villeurbanne,Milano,2026-11-24T19:45:00+00:00,total,174.5,1.87,1.93,,36.2
