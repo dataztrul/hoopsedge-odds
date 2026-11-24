@@ -46,3 +46,5 @@ ts,event_id,group,home,away,start,type,line,dec_1,dec_2,pin_matchup_id,match_sco
 2026-11-24T07:59:38+00:00,1028562778,euroleague,FC Barcelona,Fenerbahce SK,2026-11-24T20:00:00+00:00,moneyline,,2.5,1.53,1640620928,100.0
 2026-11-24T07:59:38+00:00,1028562778,euroleague,FC Barcelona,Fenerbahce SK,2026-11-24T20:00:00+00:00,spread,3.5,1.97,1.84,1640620928,100.0
 2026-11-24T07:59:38+00:00,1028562778,euroleague,FC Barcelona,Fenerbahce SK,2026-11-24T20:00:00+00:00,total,170.5,1.93,1.87,1640620928,100.0
+2026-11-24T11:27:01+00:00,1028562756,euroleague,Real Madrid Baloncesto,Žalgiris Kaunas,2026-11-25T19:45:00+00:00,moneyline,,1.38,3.0,,38.8
+2026-11-24T11:27:01+00:00,1028562756,euroleague,Real Madrid Baloncesto,Žalgiris Kaunas,2026-11-25T19:45:00+00:00,spread,-6.5,1.94,1.86,,38.8
