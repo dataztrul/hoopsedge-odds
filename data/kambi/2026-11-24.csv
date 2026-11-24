@@ -111,3 +111,6 @@ ts,event_id,group,home,away,start,type,line,dec_1,dec_2,pin_matchup_id,match_sco
 2026-11-24T18:13:45+00:00,1028562774,euroleague,Valencia Basket Club,Panathinaikos,2026-11-24T19:30:00+00:00,moneyline,,1.79,2.02,1640621231,100.0
 2026-11-24T18:13:45+00:00,1028562774,euroleague,Valencia Basket Club,Panathinaikos,2026-11-24T19:30:00+00:00,spread,-1.5,1.91,1.89,1640621231,100.0
 2026-11-24T18:13:45+00:00,1028562774,euroleague,Valencia Basket Club,Panathinaikos,2026-11-24T19:30:00+00:00,total,176.5,1.93,1.87,1640621231,100.0
+2026-11-24T18:44:26+00:00,1028562770,euroleague,FC Bayern München,Maccabi Tel Aviv,2026-11-24T19:00:00+00:00,moneyline,,1.55,2.43,1640620925,94.4
+2026-11-24T18:44:26+00:00,1028562770,euroleague,FC Bayern München,Maccabi Tel Aviv,2026-11-24T19:00:00+00:00,spread,-3.5,1.85,1.96,1640620925,94.4
+2026-11-24T18:44:26+00:00,1028562770,euroleague,FC Bayern München,Maccabi Tel Aviv,2026-11-24T19:00:00+00:00,total,180.5,1.87,1.93,1640620925,94.4
