@@ -146,3 +146,12 @@ ts,event_id,group,home,away,start,type,line,dec_1,dec_2,pin_matchup_id,match_sco
 2026-11-24T22:08:08+00:00,1029331339,euroleague__w_,Emlak Konut Spor Kulubu (W),Bourges Basket (W),2026-11-25T16:00:00+00:00,total,150.5,2.0,1.72,1640688900,100.0
 2026-11-24T22:08:08+00:00,1029246922,euroleague__w_,Galatasaray S.K. (W),Kangoeroes Basket Mechelen (W),2026-11-25T17:00:00+00:00,spread,-31.5,1.72,2.0,1640689038,100.0
 2026-11-24T22:08:08+00:00,1029246922,euroleague__w_,Galatasaray S.K. (W),Kangoeroes Basket Mechelen (W),2026-11-25T17:00:00+00:00,total,142.5,1.76,1.95,1640689038,100.0
+2026-11-24T22:23:13+00:00,1029331046,euroleague__w_,Vilniaus Kibirkstis-MRU (W),Basket Landes (W),2026-11-25T17:00:00+00:00,moneyline,,1.63,2.12,1640688936,100.0
+2026-11-24T22:23:13+00:00,1029331046,euroleague__w_,Vilniaus Kibirkstis-MRU (W),Basket Landes (W),2026-11-25T17:00:00+00:00,spread,-2.5,1.86,1.84,1640688936,100.0
+2026-11-24T22:23:13+00:00,1029331046,euroleague__w_,Vilniaus Kibirkstis-MRU (W),Basket Landes (W),2026-11-25T17:00:00+00:00,total,141.5,1.82,1.88,1640688936,100.0
+2026-11-24T22:23:13+00:00,1029331111,euroleague__w_,ZKK Crvena Zvezda (W),Famila Schio (W),2026-11-25T17:00:00+00:00,moneyline,,2.0,1.72,1640688935,88.5
+2026-11-24T22:23:13+00:00,1029331111,euroleague__w_,ZKK Crvena Zvezda (W),Famila Schio (W),2026-11-25T17:00:00+00:00,spread,1.5,1.87,1.83,1640688935,88.5
+2026-11-24T22:23:13+00:00,1029331111,euroleague__w_,ZKK Crvena Zvezda (W),Famila Schio (W),2026-11-25T17:00:00+00:00,total,148.5,1.89,1.82,1640688935,88.5
+2026-11-24T22:23:13+00:00,1029246907,euroleague__w_,Casademont Zaragoza (W),Athinaikos BC (W),2026-11-25T19:00:00+00:00,moneyline,,1.13,5.0,1640693502,100.0
+2026-11-24T22:23:13+00:00,1029246907,euroleague__w_,Casademont Zaragoza (W),Athinaikos BC (W),2026-11-25T19:00:00+00:00,spread,-11.5,1.83,1.87,1640693502,100.0
+2026-11-24T22:23:13+00:00,1029246907,euroleague__w_,Casademont Zaragoza (W),Athinaikos BC (W),2026-11-25T19:00:00+00:00,total,145.5,1.83,1.87,1640693502,100.0
