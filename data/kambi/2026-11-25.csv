@@ -298,3 +298,6 @@ ts,event_id,group,home,away,start,type,line,dec_1,dec_2,pin_matchup_id,match_sco
 2026-11-25T22:24:33+00:00,1028289511,fiba_world_cup_qualification_-_europe,Portugal,Ukraine,2026-11-26T19:00:00+00:00,moneyline,,2.25,1.6,,34.8
 2026-11-25T22:24:33+00:00,1028289511,fiba_world_cup_qualification_-_europe,Portugal,Ukraine,2026-11-26T19:00:00+00:00,spread,2.5,1.92,1.82,,34.8
 2026-11-25T22:24:33+00:00,1028289511,fiba_world_cup_qualification_-_europe,Portugal,Ukraine,2026-11-26T19:00:00+00:00,total,161.5,1.9,1.81,,34.8
+2026-11-25T22:39:59+00:00,1028289539,fiba_world_cup_qualification_-_europe,Iceland,Bosnia & Herzegovina,2026-11-26T19:30:00+00:00,moneyline,,2.85,1.4,,34.4
+2026-11-25T22:39:59+00:00,1028289539,fiba_world_cup_qualification_-_europe,Iceland,Bosnia & Herzegovina,2026-11-26T19:30:00+00:00,spread,5.5,1.88,1.86,,34.4
+2026-11-25T22:39:59+00:00,1028289539,fiba_world_cup_qualification_-_europe,Iceland,Bosnia & Herzegovina,2026-11-26T19:30:00+00:00,total,166.5,1.86,1.84,,34.4
