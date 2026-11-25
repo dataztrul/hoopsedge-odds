@@ -187,3 +187,5 @@ ts,event_id,group,home,away,start,type,line,dec_1,dec_2,pin_matchup_id,match_sco
 2026-11-25T13:06:06+00:00,1028562753,euroleague,Olympiacos BC,Hapoel Tel Aviv,2026-11-25T19:15:00+00:00,spread,-7.5,1.91,1.89,1640622383,95.0
 2026-11-25T13:16:12+00:00,1028562793,euroleague,BC Dubai,Partizan Belgrade,2026-11-25T16:00:00+00:00,spread,-7.5,1.97,1.84,1640622382,100.0
 2026-11-25T13:16:12+00:00,1028562793,euroleague,BC Dubai,Partizan Belgrade,2026-11-25T16:00:00+00:00,total,163.5,1.88,1.92,1640622382,100.0
+2026-11-25T14:11:56+00:00,1029344257,eurocup__w_,Ostrava (W),Rutronik Stars Keltern (W),2026-11-25T16:15:00+00:00,spread,9.5,1.81,1.9,1640689130,100.0
+2026-11-25T14:11:56+00:00,1029344257,eurocup__w_,Ostrava (W),Rutronik Stars Keltern (W),2026-11-25T16:15:00+00:00,total,139.5,1.82,1.88,1640689130,100.0
