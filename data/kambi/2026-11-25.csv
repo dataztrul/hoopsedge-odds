@@ -222,3 +222,6 @@ ts,event_id,group,home,away,start,type,line,dec_1,dec_2,pin_matchup_id,match_sco
 2026-11-25T16:04:13+00:00,1029246974,euroleague__w_,USK Praha (W),AZS UMCS Lublin (W),2026-11-25T18:00:00+00:00,total,149.5,1.82,1.88,1640689171,79.2
 2026-11-25T16:14:37+00:00,1029343949,eurocup__w_,Olympiacos Piraeus BC (W),Ślęza Wrocław (W),2026-11-25T16:30:00+00:00,spread,-13.5,1.84,1.86,1640689036,98.0
 2026-11-25T16:14:37+00:00,1029343949,eurocup__w_,Olympiacos Piraeus BC (W),Ślęza Wrocław (W),2026-11-25T16:30:00+00:00,total,149.5,1.87,1.83,1640689036,98.0
+2026-11-25T16:29:53+00:00,1029967368,finland/suomen_cup__w_,Tampereen Pyrintö (W),Tapiolan Honka (W),2026-11-25T16:30:00+00:00,moneyline,,1.22,3.8,,42.7
+2026-11-25T16:29:53+00:00,1029967368,finland/suomen_cup__w_,Tampereen Pyrintö (W),Tapiolan Honka (W),2026-11-25T16:30:00+00:00,spread,-8.5,1.85,1.85,,42.7
+2026-11-25T16:29:53+00:00,1029967368,finland/suomen_cup__w_,Tampereen Pyrintö (W),Tapiolan Honka (W),2026-11-25T16:30:00+00:00,total,135.5,1.85,1.85,,42.7
