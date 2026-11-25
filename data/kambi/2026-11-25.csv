@@ -301,3 +301,5 @@ ts,event_id,group,home,away,start,type,line,dec_1,dec_2,pin_matchup_id,match_sco
 2026-11-25T22:39:59+00:00,1028289539,fiba_world_cup_qualification_-_europe,Iceland,Bosnia & Herzegovina,2026-11-26T19:30:00+00:00,moneyline,,2.85,1.4,,34.4
 2026-11-25T22:39:59+00:00,1028289539,fiba_world_cup_qualification_-_europe,Iceland,Bosnia & Herzegovina,2026-11-26T19:30:00+00:00,spread,5.5,1.88,1.86,,34.4
 2026-11-25T22:39:59+00:00,1028289539,fiba_world_cup_qualification_-_europe,Iceland,Bosnia & Herzegovina,2026-11-26T19:30:00+00:00,total,166.5,1.86,1.84,,34.4
+2026-11-25T23:55:23+00:00,1028289535,fiba_world_cup_qualification_-_europe,Italy,Turkey,2026-11-26T19:00:00+00:00,moneyline,,1.45,2.6,,37.6
+2026-11-25T23:55:23+00:00,1028289535,fiba_world_cup_qualification_-_europe,Italy,Turkey,2026-11-26T19:00:00+00:00,spread,-4.5,1.85,1.89,,37.6
