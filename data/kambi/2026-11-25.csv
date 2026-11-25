@@ -129,3 +129,17 @@ ts,event_id,group,home,away,start,type,line,dec_1,dec_2,pin_matchup_id,match_sco
 2026-11-25T09:13:15+00:00,1029331111,euroleague__w_,ZKK Crvena Zvezda (W),Famila Schio (W),2026-11-25T17:00:00+00:00,moneyline,,2.32,1.54,1640688935,88.5
 2026-11-25T09:13:15+00:00,1029331111,euroleague__w_,ZKK Crvena Zvezda (W),Famila Schio (W),2026-11-25T17:00:00+00:00,spread,3.5,1.83,1.87,1640688935,88.5
 2026-11-25T09:13:15+00:00,1029331111,euroleague__w_,ZKK Crvena Zvezda (W),Famila Schio (W),2026-11-25T17:00:00+00:00,total,148.5,1.83,1.87,1640688935,88.5
+2026-11-25T09:23:26+00:00,1029298357,euroleague,Saski Baskonia,Anadolu Efes,2026-11-25T19:30:00+00:00,moneyline,,2.2,1.67,1640693516,86.4
+2026-11-25T09:23:26+00:00,1028562756,euroleague,Real Madrid Baloncesto,Žalgiris Kaunas,2026-11-25T19:45:00+00:00,moneyline,,1.32,3.4,1640622474,100.0
+2026-11-25T09:23:26+00:00,1028562756,euroleague,Real Madrid Baloncesto,Žalgiris Kaunas,2026-11-25T19:45:00+00:00,total,179.5,1.88,1.92,1640622474,100.0
+2026-11-25T09:23:26+00:00,1029344247,eurocup__w_,Spar Citylift Girona (W),Montana 2003 (W),2026-11-25T19:00:00+00:00,moneyline,,1.01,18.0,1640693366,100.0
+2026-11-25T09:23:26+00:00,1029344247,eurocup__w_,Spar Citylift Girona (W),Montana 2003 (W),2026-11-25T19:00:00+00:00,spread,-23.5,1.98,1.74,1640693366,100.0
+2026-11-25T09:23:26+00:00,1029344247,eurocup__w_,Spar Citylift Girona (W),Montana 2003 (W),2026-11-25T19:00:00+00:00,total,146.5,1.88,1.82,1640693366,100.0
+2026-11-25T09:23:26+00:00,1029342374,eurocup__w_,Charnay Basket (W),Imperial AEL Limassol (W),2026-11-25T19:00:00+00:00,spread,-33.5,1.89,1.81,1640693365,100.0
+2026-11-25T09:23:26+00:00,1029342374,eurocup__w_,Charnay Basket (W),Imperial AEL Limassol (W),2026-11-25T19:00:00+00:00,total,152.5,1.83,1.87,1640693365,100.0
+2026-11-25T09:23:26+00:00,1029344030,eurocup__w_,Magnolia Basket Campobasso (W),Nyon Basket Féminin (W),2026-11-25T19:30:00+00:00,moneyline,,1.03,12.5,1640693515,100.0
+2026-11-25T09:23:26+00:00,1029344030,eurocup__w_,Magnolia Basket Campobasso (W),Nyon Basket Féminin (W),2026-11-25T19:30:00+00:00,spread,-19.5,1.88,1.83,1640693515,100.0
+2026-11-25T09:23:26+00:00,1029344030,eurocup__w_,Magnolia Basket Campobasso (W),Nyon Basket Féminin (W),2026-11-25T19:30:00+00:00,total,138.5,1.9,1.8,1640693515,100.0
+2026-11-25T09:23:26+00:00,1029345151,eurocup__w_,Perfumerías Avenida (W),Chartres (W),2026-11-25T19:30:00+00:00,moneyline,,1.22,3.8,1640693514,100.0
+2026-11-25T09:23:26+00:00,1029345151,eurocup__w_,Perfumerías Avenida (W),Chartres (W),2026-11-25T19:30:00+00:00,spread,-8.5,1.82,1.88,1640693514,100.0
+2026-11-25T09:23:26+00:00,1029345151,eurocup__w_,Perfumerías Avenida (W),Chartres (W),2026-11-25T19:30:00+00:00,total,147.5,1.84,1.86,1640693514,100.0
