@@ -283,3 +283,18 @@ ts,event_id,group,home,away,start,type,line,dec_1,dec_2,pin_matchup_id,match_sco
 2026-11-25T19:33:29+00:00,1028562756,euroleague,Real Madrid Baloncesto,Žalgiris Kaunas,2026-11-25T19:45:00+00:00,moneyline,,1.32,3.4,1640622474,100.0
 2026-11-25T19:33:29+00:00,1028562756,euroleague,Real Madrid Baloncesto,Žalgiris Kaunas,2026-11-25T19:45:00+00:00,spread,-7.5,1.89,1.91,1640622474,100.0
 2026-11-25T19:33:29+00:00,1028562756,euroleague,Real Madrid Baloncesto,Žalgiris Kaunas,2026-11-25T19:45:00+00:00,total,181.5,1.93,1.87,1640622474,100.0
+2026-11-25T22:24:33+00:00,1028289542,fiba_world_cup_qualification_-_europe,Lithuania,Serbia,2026-11-26T16:30:00+00:00,moneyline,,1.49,2.55,,44.9
+2026-11-25T22:24:33+00:00,1028289542,fiba_world_cup_qualification_-_europe,Lithuania,Serbia,2026-11-26T16:30:00+00:00,spread,-4.5,1.91,1.83,,44.9
+2026-11-25T22:24:33+00:00,1028289542,fiba_world_cup_qualification_-_europe,Lithuania,Serbia,2026-11-26T16:30:00+00:00,total,163.5,1.83,1.87,,44.9
+2026-11-25T22:24:33+00:00,1028289505,fiba_world_cup_qualification_-_europe,Montenegro,Spain,2026-11-26T18:00:00+00:00,moneyline,,8.0,1.05,,44.0
+2026-11-25T22:24:33+00:00,1028289505,fiba_world_cup_qualification_-_europe,Montenegro,Spain,2026-11-26T18:00:00+00:00,spread,15.5,1.93,1.82,,44.0
+2026-11-25T22:24:33+00:00,1028289505,fiba_world_cup_qualification_-_europe,Montenegro,Spain,2026-11-26T18:00:00+00:00,total,159.5,1.89,1.81,,44.0
+2026-11-25T22:24:33+00:00,1028289509,fiba_world_cup_qualification_-_europe,Greece,Georgia,2026-11-26T18:00:00+00:00,moneyline,,1.25,3.75,,29.9
+2026-11-25T22:24:33+00:00,1028289509,fiba_world_cup_qualification_-_europe,Greece,Georgia,2026-11-26T18:00:00+00:00,spread,-8.5,1.86,1.88,,29.9
+2026-11-25T22:24:33+00:00,1028289509,fiba_world_cup_qualification_-_europe,Greece,Georgia,2026-11-26T18:00:00+00:00,total,160.5,1.89,1.81,,29.9
+2026-11-25T22:24:33+00:00,1028289535,fiba_world_cup_qualification_-_europe,Italy,Turkey,2026-11-26T19:00:00+00:00,moneyline,,1.56,2.35,,37.6
+2026-11-25T22:24:33+00:00,1028289535,fiba_world_cup_qualification_-_europe,Italy,Turkey,2026-11-26T19:00:00+00:00,spread,-3.5,1.88,1.86,,37.6
+2026-11-25T22:24:33+00:00,1028289535,fiba_world_cup_qualification_-_europe,Italy,Turkey,2026-11-26T19:00:00+00:00,total,162.5,1.86,1.84,,37.6
+2026-11-25T22:24:33+00:00,1028289511,fiba_world_cup_qualification_-_europe,Portugal,Ukraine,2026-11-26T19:00:00+00:00,moneyline,,2.25,1.6,,34.8
+2026-11-25T22:24:33+00:00,1028289511,fiba_world_cup_qualification_-_europe,Portugal,Ukraine,2026-11-26T19:00:00+00:00,spread,2.5,1.92,1.82,,34.8
+2026-11-25T22:24:33+00:00,1028289511,fiba_world_cup_qualification_-_europe,Portugal,Ukraine,2026-11-26T19:00:00+00:00,total,161.5,1.9,1.81,,34.8
