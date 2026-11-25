@@ -248,3 +248,5 @@ ts,event_id,group,home,away,start,type,line,dec_1,dec_2,pin_matchup_id,match_sco
 2026-11-25T16:50:18+00:00,1029246907,euroleague__w_,Casademont Zaragoza (W),Athinaikos BC (W),2026-11-25T19:00:00+00:00,total,145.5,1.68,2.05,1640693502,100.0
 2026-11-25T17:16:14+00:00,1029298357,euroleague,Saski Baskonia,Anadolu Efes,2026-11-25T19:30:00+00:00,moneyline,,2.0,1.8,1640693516,86.4
 2026-11-25T17:16:14+00:00,1029298357,euroleague,Saski Baskonia,Anadolu Efes,2026-11-25T19:30:00+00:00,spread,1.5,1.88,1.92,1640693516,86.4
+2026-11-25T17:21:20+00:00,1029286080,eurocup__w_,AZS Poznan (W),Eco Program Castelnuovo S. (W),2026-11-25T17:30:00+00:00,moneyline,,1.8,1.9,1640688951,86.7
+2026-11-25T17:21:20+00:00,1029286080,eurocup__w_,AZS Poznan (W),Eco Program Castelnuovo S. (W),2026-11-25T17:30:00+00:00,spread,-0.5,1.8,1.9,1640688951,86.7
