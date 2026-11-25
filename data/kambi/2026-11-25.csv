@@ -185,3 +185,5 @@ ts,event_id,group,home,away,start,type,line,dec_1,dec_2,pin_matchup_id,match_sco
 2026-11-25T12:45:56+00:00,1029344247,eurocup__w_,Spar Citylift Girona (W),Montana 2003 (W),2026-11-25T19:00:00+00:00,total,146.5,1.86,1.84,1640693366,100.0
 2026-11-25T13:06:06+00:00,1028562753,euroleague,Olympiacos BC,Hapoel Tel Aviv,2026-11-25T19:15:00+00:00,moneyline,,1.32,3.4,1640622383,95.0
 2026-11-25T13:06:06+00:00,1028562753,euroleague,Olympiacos BC,Hapoel Tel Aviv,2026-11-25T19:15:00+00:00,spread,-7.5,1.91,1.89,1640622383,95.0
+2026-11-25T13:16:12+00:00,1028562793,euroleague,BC Dubai,Partizan Belgrade,2026-11-25T16:00:00+00:00,spread,-7.5,1.97,1.84,1640622382,100.0
+2026-11-25T13:16:12+00:00,1028562793,euroleague,BC Dubai,Partizan Belgrade,2026-11-25T16:00:00+00:00,total,163.5,1.88,1.92,1640622382,100.0
