@@ -20,3 +20,6 @@ ts,event_id,group,home,away,start,type,line,dec_1,dec_2,pin_matchup_id,match_sco
 2026-11-25T03:55:45+00:00,1029343796,eurocup__w_,Beşiktaş JK İstanbul (W),DSK Basketball (W),2026-11-25T17:00:00+00:00,total,136.5,1.85,1.85,,60.0
 2026-11-25T03:55:45+00:00,1029490658,eurocup__w_,DVTK Miskolc (W),ZK Brod na Savi (W),2026-11-25T17:00:00+00:00,spread,-31.5,1.87,1.83,1640688928,98.4
 2026-11-25T03:55:45+00:00,1029490658,eurocup__w_,DVTK Miskolc (W),ZK Brod na Savi (W),2026-11-25T17:00:00+00:00,total,141.5,1.87,1.83,1640688928,98.4
+2026-11-25T04:10:52+00:00,1028562753,euroleague,Olympiacos BC,Hapoel Tel Aviv,2026-11-25T19:15:00+00:00,moneyline,,1.38,3.0,1640622383,95.0
+2026-11-25T04:10:52+00:00,1028562753,euroleague,Olympiacos BC,Hapoel Tel Aviv,2026-11-25T19:15:00+00:00,spread,-6.5,1.93,1.87,1640622383,95.0
+2026-11-25T04:10:52+00:00,1028562753,euroleague,Olympiacos BC,Hapoel Tel Aviv,2026-11-25T19:15:00+00:00,total,170.5,1.92,1.88,1640622383,95.0
