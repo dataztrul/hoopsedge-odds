@@ -113,3 +113,9 @@ ts,event_id,group,home,away,start,type,line,dec_1,dec_2,pin_matchup_id,match_sco
 2026-11-26T10:41:14+00:00,1028289245,fiba_world_cup_qualification_-_asia,Qatar,South Korea,2026-11-26T16:00:00+00:00,spread,2.5,1.89,1.81,,40.4
 2026-11-26T10:51:21+00:00,1028289247,fiba_world_cup_qualification_-_asia,Saudi Arabia,China,2026-11-26T13:00:00+00:00,spread,13.5,1.83,1.87,,30.8
 2026-11-26T10:51:21+00:00,1028289247,fiba_world_cup_qualification_-_asia,Saudi Arabia,China,2026-11-26T13:00:00+00:00,total,159.5,1.83,1.87,,30.8
+2026-11-26T11:01:28+00:00,1028289593,fiba_world_cup_qualification_-_europe,Sweden,Hungary,2026-11-27T18:00:00+00:00,moneyline,,1.75,2.0,,32.2
+2026-11-26T11:01:28+00:00,1028289593,fiba_world_cup_qualification_-_europe,Sweden,Hungary,2026-11-27T18:00:00+00:00,spread,-1.5,1.88,1.86,,32.2
+2026-11-26T11:01:28+00:00,1028289600,fiba_world_cup_qualification_-_europe,Slovenia,Finland,2026-11-27T19:00:00+00:00,moneyline,,1.42,2.75,,35.8
+2026-11-26T11:01:28+00:00,1028289600,fiba_world_cup_qualification_-_europe,Slovenia,Finland,2026-11-27T19:00:00+00:00,spread,-3.5,1.68,2.12,,35.8
+2026-11-26T11:01:28+00:00,1028289247,fiba_world_cup_qualification_-_asia,Saudi Arabia,China,2026-11-26T13:00:00+00:00,spread,13.5,1.85,1.85,,30.8
+2026-11-26T11:01:28+00:00,1028289247,fiba_world_cup_qualification_-_asia,Saudi Arabia,China,2026-11-26T13:00:00+00:00,total,159.5,1.73,1.98,,30.8
