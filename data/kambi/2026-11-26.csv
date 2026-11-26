@@ -124,3 +124,9 @@ ts,event_id,group,home,away,start,type,line,dec_1,dec_2,pin_matchup_id,match_sco
 2026-11-26T11:11:37+00:00,1029345153,eurocup__w_,Belfius Namur Capitale (W),Ružomberok (W),2026-11-26T19:30:00+00:00,total,138.5,1.82,1.89,1640743605,100.0
 2026-11-26T11:21:45+00:00,1029345153,eurocup__w_,Belfius Namur Capitale (W),Ružomberok (W),2026-11-26T19:30:00+00:00,moneyline,,1.13,5.0,1640743605,100.0
 2026-11-26T11:21:45+00:00,1029345153,eurocup__w_,Belfius Namur Capitale (W),Ružomberok (W),2026-11-26T19:30:00+00:00,spread,-10.5,1.75,1.96,1640743605,100.0
+2026-11-26T11:31:53+00:00,1028289542,fiba_world_cup_qualification_-_europe,Lithuania,Serbia,2026-11-26T16:30:00+00:00,moneyline,,1.33,3.15,,44.9
+2026-11-26T11:31:53+00:00,1028289542,fiba_world_cup_qualification_-_europe,Lithuania,Serbia,2026-11-26T16:30:00+00:00,spread,-5.5,1.73,2.02,,44.9
+2026-11-26T11:31:53+00:00,1029566326,fiba_world_cup_qualification_-_americas,Argentina,Bahamas,2026-11-27T00:40:00+00:00,spread,-28.5,1.98,1.73,,0.0
+2026-11-26T11:31:53+00:00,1029566326,fiba_world_cup_qualification_-_americas,Argentina,Bahamas,2026-11-27T00:40:00+00:00,total,159.5,1.89,1.81,,0.0
+2026-11-26T11:31:53+00:00,1028289247,fiba_world_cup_qualification_-_asia,Saudi Arabia,China,2026-11-26T13:00:00+00:00,spread,13.5,1.87,1.83,,30.8
+2026-11-26T11:31:53+00:00,1028289247,fiba_world_cup_qualification_-_asia,Saudi Arabia,China,2026-11-26T13:00:00+00:00,total,162.5,1.87,1.83,,30.8
