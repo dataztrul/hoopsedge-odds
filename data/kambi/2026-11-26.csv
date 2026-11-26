@@ -164,3 +164,7 @@ ts,event_id,group,home,away,start,type,line,dec_1,dec_2,pin_matchup_id,match_sco
 2026-11-26T13:23:16+00:00,1028289539,fiba_world_cup_qualification_-_europe,Iceland,Bosnia & Herzegovina,2026-11-26T19:30:00+00:00,total,167.5,1.82,1.88,,34.4
 2026-11-26T13:23:16+00:00,1029343850,eurocup__w_,Panathinaikos (W),GEAS Sesto San Giovanni (W),2026-11-26T16:30:00+00:00,moneyline,,1.11,5.4,1640723946,84.3
 2026-11-26T13:23:16+00:00,1029343850,eurocup__w_,Panathinaikos (W),GEAS Sesto San Giovanni (W),2026-11-26T16:30:00+00:00,spread,-12.5,1.88,1.82,1640723946,84.3
+2026-11-26T13:33:23+00:00,1028289577,fiba_world_cup_qualification_-_europe,Poland,Croatia,2026-11-27T19:45:00+00:00,total,171.5,1.82,1.88,,33.4
+2026-11-26T13:33:23+00:00,1029566328,fiba_world_cup_qualification_-_americas,Uruguay,Canada,2026-11-26T22:10:00+00:00,moneyline,,3.35,1.27,,25.5
+2026-11-26T13:33:23+00:00,1029566328,fiba_world_cup_qualification_-_americas,Uruguay,Canada,2026-11-26T22:10:00+00:00,spread,7.5,1.88,1.82,,25.5
+2026-11-26T13:33:23+00:00,1029566328,fiba_world_cup_qualification_-_americas,Uruguay,Canada,2026-11-26T22:10:00+00:00,total,165.5,1.73,2.0,,25.5
