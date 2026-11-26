@@ -218,3 +218,7 @@ ts,event_id,group,home,away,start,type,line,dec_1,dec_2,pin_matchup_id,match_sco
 2026-11-26T16:01:36+00:00,1028289244,fiba_world_cup_qualification_-_asia,Lebanon,Japan,2026-11-26T19:00:00+00:00,total,169.5,1.68,2.06,,49.4
 2026-11-26T16:06:42+00:00,1028289244,fiba_world_cup_qualification_-_asia,Lebanon,Japan,2026-11-26T19:00:00+00:00,spread,-4.5,1.85,1.85,,49.4
 2026-11-26T16:06:42+00:00,1028289244,fiba_world_cup_qualification_-_asia,Lebanon,Japan,2026-11-26T19:00:00+00:00,total,173.5,1.87,1.83,,49.4
+2026-11-26T16:11:47+00:00,1028289542,fiba_world_cup_qualification_-_europe,Lithuania,Serbia,2026-11-26T16:30:00+00:00,moneyline,,1.36,3.0,,44.9
+2026-11-26T16:11:47+00:00,1028289542,fiba_world_cup_qualification_-_europe,Lithuania,Serbia,2026-11-26T16:30:00+00:00,spread,-5.5,1.8,1.94,,44.9
+2026-11-26T16:11:47+00:00,1029566325,fiba_world_cup_qualification_-_americas,Panama,Puerto Rico,2026-11-27T01:40:00+00:00,moneyline,,2.65,1.42,,0.0
+2026-11-26T16:11:47+00:00,1029566325,fiba_world_cup_qualification_-_americas,Panama,Puerto Rico,2026-11-27T01:40:00+00:00,spread,3.5,2.08,1.66,,0.0
