@@ -205,3 +205,7 @@ ts,event_id,group,home,away,start,type,line,dec_1,dec_2,pin_matchup_id,match_sco
 2026-11-26T15:20:49+00:00,1028289245,fiba_world_cup_qualification_-_asia,Qatar,South Korea,2026-11-26T16:00:00+00:00,spread,3.5,1.97,1.75,,40.4
 2026-11-26T15:25:54+00:00,1029566325,fiba_world_cup_qualification_-_americas,Panama,Puerto Rico,2026-11-27T01:40:00+00:00,moneyline,,2.4,1.5,,0.0
 2026-11-26T15:25:54+00:00,1029566325,fiba_world_cup_qualification_-_americas,Panama,Puerto Rico,2026-11-27T01:40:00+00:00,spread,3.5,1.9,1.8,,0.0
+2026-11-26T15:36:07+00:00,1029566328,fiba_world_cup_qualification_-_americas,Uruguay,Canada,2026-11-26T22:10:00+00:00,moneyline,,4.1,1.19,,25.5
+2026-11-26T15:36:07+00:00,1029566328,fiba_world_cup_qualification_-_americas,Uruguay,Canada,2026-11-26T22:10:00+00:00,spread,10.5,1.81,1.89,,25.5
+2026-11-26T15:36:07+00:00,1029566328,fiba_world_cup_qualification_-_americas,Uruguay,Canada,2026-11-26T22:10:00+00:00,total,169.5,1.85,1.85,,25.5
+2026-11-26T15:36:07+00:00,1028289245,fiba_world_cup_qualification_-_asia,Qatar,South Korea,2026-11-26T16:00:00+00:00,total,159.5,2.1,1.65,,40.4
