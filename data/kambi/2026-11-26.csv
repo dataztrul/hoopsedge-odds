@@ -140,3 +140,6 @@ ts,event_id,group,home,away,start,type,line,dec_1,dec_2,pin_matchup_id,match_sco
 2026-11-26T12:02:13+00:00,1028289247,fiba_world_cup_qualification_-_asia,Saudi Arabia,China,2026-11-26T13:00:00+00:00,total,163.5,1.77,1.94,,30.8
 2026-11-26T12:02:13+00:00,1028289245,fiba_world_cup_qualification_-_asia,Qatar,South Korea,2026-11-26T16:00:00+00:00,spread,2.5,1.9,1.8,,40.4
 2026-11-26T12:02:13+00:00,1028289245,fiba_world_cup_qualification_-_asia,Qatar,South Korea,2026-11-26T16:00:00+00:00,total,159.5,1.87,1.83,,40.4
+2026-11-26T12:12:23+00:00,1028289247,fiba_world_cup_qualification_-_asia,Saudi Arabia,China,2026-11-26T13:00:00+00:00,moneyline,,4.3,1.17,,30.8
+2026-11-26T12:12:23+00:00,1028289247,fiba_world_cup_qualification_-_asia,Saudi Arabia,China,2026-11-26T13:00:00+00:00,spread,10.5,1.92,1.78,,30.8
+2026-11-26T12:12:23+00:00,1028289247,fiba_world_cup_qualification_-_asia,Saudi Arabia,China,2026-11-26T13:00:00+00:00,total,164.5,1.83,1.87,,30.8
