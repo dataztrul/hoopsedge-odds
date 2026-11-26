@@ -277,3 +277,5 @@ ts,event_id,group,home,away,start,type,line,dec_1,dec_2,pin_matchup_id,match_sco
 2026-11-26T18:03:59+00:00,1029566325,fiba_world_cup_qualification_-_americas,Panama,Puerto Rico,2026-11-27T01:40:00+00:00,total,160.5,1.76,1.95,,0.0
 2026-11-26T18:14:11+00:00,1028911152,eurobasket_qualification,Norway,Belgium,2026-11-26T18:30:00+00:00,moneyline,,4.1,1.19,,32.7
 2026-11-26T18:14:11+00:00,1028911152,eurobasket_qualification,Norway,Belgium,2026-11-26T18:30:00+00:00,spread,10.5,1.77,1.95,,32.7
+2026-11-26T18:19:17+00:00,1028911152,eurobasket_qualification,Norway,Belgium,2026-11-26T18:30:00+00:00,spread,9.5,1.89,1.81,,32.7
+2026-11-26T18:19:17+00:00,1028911152,eurobasket_qualification,Norway,Belgium,2026-11-26T18:30:00+00:00,total,158.5,1.88,1.82,,32.7
