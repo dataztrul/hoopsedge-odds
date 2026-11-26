@@ -316,3 +316,5 @@ ts,event_id,group,home,away,start,type,line,dec_1,dec_2,pin_matchup_id,match_sco
 2026-11-26T20:01:45+00:00,1029856539,belgium/top_division_1,BBC Falco Gent,Avanti Brugge,2026-11-27T19:45:00+00:00,total,156.5,1.82,1.88,1640822626,100.0
 2026-11-26T20:01:45+00:00,1029566328,fiba_world_cup_qualification_-_americas,Uruguay,Canada,2026-11-26T22:10:00+00:00,moneyline,,3.7,1.23,,25.5
 2026-11-26T20:01:45+00:00,1029566328,fiba_world_cup_qualification_-_americas,Uruguay,Canada,2026-11-26T22:10:00+00:00,spread,9.5,1.78,1.93,,25.5
+2026-11-26T20:37:02+00:00,1028289581,fiba_world_cup_qualification_-_europe,Netherlands,Israel,2026-11-27T19:00:00+00:00,moneyline,,1.46,2.6,,42.3
+2026-11-26T20:37:02+00:00,1028289581,fiba_world_cup_qualification_-_europe,Netherlands,Israel,2026-11-27T19:00:00+00:00,spread,-4.5,1.86,1.88,,42.3
