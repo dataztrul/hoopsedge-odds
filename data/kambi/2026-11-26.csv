@@ -42,3 +42,9 @@ ts,event_id,group,home,away,start,type,line,dec_1,dec_2,pin_matchup_id,match_sco
 2026-11-26T03:11:28+00:00,1029566328,fiba_world_cup_qualification_-_americas,Uruguay,Canada,2026-11-26T22:10:00+00:00,total,165.5,1.82,1.88,,25.5
 2026-11-26T03:11:28+00:00,1029566326,fiba_world_cup_qualification_-_americas,Argentina,Bahamas,2026-11-27T00:40:00+00:00,spread,-30.5,1.9,1.8,,0.0
 2026-11-26T03:11:28+00:00,1029566326,fiba_world_cup_qualification_-_americas,Argentina,Bahamas,2026-11-27T00:40:00+00:00,total,159.5,1.84,1.86,,0.0
+2026-11-26T03:26:34+00:00,1028289587,fiba_world_cup_qualification_-_europe,Estonia,France,2026-11-27T17:00:00+00:00,moneyline,,8.0,1.06,,31.0
+2026-11-26T03:26:34+00:00,1028289587,fiba_world_cup_qualification_-_europe,Estonia,France,2026-11-27T17:00:00+00:00,spread,16.5,1.86,1.88,,31.0
+2026-11-26T03:26:34+00:00,1028289587,fiba_world_cup_qualification_-_europe,Estonia,France,2026-11-27T17:00:00+00:00,total,161.5,1.85,1.85,,31.0
+2026-11-26T03:26:34+00:00,1028289583,fiba_world_cup_qualification_-_europe,Latvia,Germany,2026-11-27T17:30:00+00:00,moneyline,,3.0,1.36,,30.7
+2026-11-26T03:26:34+00:00,1028289583,fiba_world_cup_qualification_-_europe,Latvia,Germany,2026-11-27T17:30:00+00:00,spread,6.5,1.86,1.88,,30.7
+2026-11-26T03:26:34+00:00,1028289583,fiba_world_cup_qualification_-_europe,Latvia,Germany,2026-11-27T17:30:00+00:00,total,170.5,1.85,1.85,,30.7
