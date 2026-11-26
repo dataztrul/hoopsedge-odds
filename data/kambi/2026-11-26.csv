@@ -37,3 +37,8 @@ ts,event_id,group,home,away,start,type,line,dec_1,dec_2,pin_matchup_id,match_sco
 2026-11-26T02:56:23+00:00,1029345186,eurocup__w_,SL Benfica (W),UZKK Student (W),2026-11-26T20:00:00+00:00,moneyline,,1.04,9.0,1640736976,88.9
 2026-11-26T02:56:23+00:00,1029345186,eurocup__w_,SL Benfica (W),UZKK Student (W),2026-11-26T20:00:00+00:00,spread,-17.5,1.86,1.84,1640736976,88.9
 2026-11-26T02:56:23+00:00,1029345186,eurocup__w_,SL Benfica (W),UZKK Student (W),2026-11-26T20:00:00+00:00,total,149.5,1.87,1.83,1640736976,88.9
+2026-11-26T03:11:28+00:00,1029566328,fiba_world_cup_qualification_-_americas,Uruguay,Canada,2026-11-26T22:10:00+00:00,moneyline,,3.0,1.34,,25.5
+2026-11-26T03:11:28+00:00,1029566328,fiba_world_cup_qualification_-_americas,Uruguay,Canada,2026-11-26T22:10:00+00:00,spread,6.5,1.85,1.85,,25.5
+2026-11-26T03:11:28+00:00,1029566328,fiba_world_cup_qualification_-_americas,Uruguay,Canada,2026-11-26T22:10:00+00:00,total,165.5,1.82,1.88,,25.5
+2026-11-26T03:11:28+00:00,1029566326,fiba_world_cup_qualification_-_americas,Argentina,Bahamas,2026-11-27T00:40:00+00:00,spread,-30.5,1.9,1.8,,0.0
+2026-11-26T03:11:28+00:00,1029566326,fiba_world_cup_qualification_-_americas,Argentina,Bahamas,2026-11-27T00:40:00+00:00,total,159.5,1.84,1.86,,0.0
