@@ -154,3 +154,8 @@ ts,event_id,group,home,away,start,type,line,dec_1,dec_2,pin_matchup_id,match_sco
 2026-11-26T12:52:52+00:00,1028289244,fiba_world_cup_qualification_-_asia,Lebanon,Japan,2026-11-26T19:00:00+00:00,total,169.5,1.77,1.93,,49.4
 2026-11-26T13:02:59+00:00,1029566326,fiba_world_cup_qualification_-_americas,Argentina,Bahamas,2026-11-27T00:40:00+00:00,spread,-21.5,1.85,1.85,,0.0
 2026-11-26T13:02:59+00:00,1029566326,fiba_world_cup_qualification_-_americas,Argentina,Bahamas,2026-11-27T00:40:00+00:00,total,161.5,1.84,1.86,,0.0
+2026-11-26T13:13:08+00:00,1028289539,fiba_world_cup_qualification_-_europe,Iceland,Bosnia & Herzegovina,2026-11-26T19:30:00+00:00,moneyline,,1.9,1.84,,34.4
+2026-11-26T13:13:08+00:00,1028289539,fiba_world_cup_qualification_-_europe,Iceland,Bosnia & Herzegovina,2026-11-26T19:30:00+00:00,spread,0.5,1.9,1.84,,34.4
+2026-11-26T13:13:08+00:00,1028289539,fiba_world_cup_qualification_-_europe,Iceland,Bosnia & Herzegovina,2026-11-26T19:30:00+00:00,total,166.5,1.85,1.85,,34.4
+2026-11-26T13:13:08+00:00,1029566326,fiba_world_cup_qualification_-_americas,Argentina,Bahamas,2026-11-27T00:40:00+00:00,spread,-21.5,1.81,1.89,,0.0
+2026-11-26T13:13:08+00:00,1029566326,fiba_world_cup_qualification_-_americas,Argentina,Bahamas,2026-11-27T00:40:00+00:00,total,162.5,1.82,1.88,,0.0
