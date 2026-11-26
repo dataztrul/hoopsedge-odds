@@ -242,3 +242,9 @@ ts,event_id,group,home,away,start,type,line,dec_1,dec_2,pin_matchup_id,match_sco
 2026-11-26T16:52:35+00:00,1028579674,eurobasket_qualification,Bulgaria,Denmark,2026-11-26T17:00:00+00:00,total,164.5,1.75,1.95,,33.6
 2026-11-26T16:57:41+00:00,1029566328,fiba_world_cup_qualification_-_americas,Uruguay,Canada,2026-11-26T22:10:00+00:00,spread,10.5,1.82,1.88,,25.5
 2026-11-26T16:57:41+00:00,1029566328,fiba_world_cup_qualification_-_americas,Uruguay,Canada,2026-11-26T22:10:00+00:00,total,169.5,1.75,1.96,,25.5
+2026-11-26T17:12:58+00:00,1028289222,fiba_world_cup_qualification_-_asia,Jordan,New Zealand,2026-11-27T06:00:00+00:00,moneyline,,9.0,1.02,,0.0
+2026-11-26T17:12:58+00:00,1028289222,fiba_world_cup_qualification_-_asia,Jordan,New Zealand,2026-11-27T06:00:00+00:00,spread,18.5,1.85,1.85,,0.0
+2026-11-26T17:12:58+00:00,1028289222,fiba_world_cup_qualification_-_asia,Jordan,New Zealand,2026-11-27T06:00:00+00:00,total,176.5,1.97,1.74,,0.0
+2026-11-26T17:12:58+00:00,1028289220,fiba_world_cup_qualification_-_asia,Iran,Australia,2026-11-27T09:00:00+00:00,moneyline,,6.75,1.07,,25.4
+2026-11-26T17:12:58+00:00,1028289220,fiba_world_cup_qualification_-_asia,Iran,Australia,2026-11-27T09:00:00+00:00,spread,15.5,1.8,1.9,,25.4
+2026-11-26T17:12:58+00:00,1028289220,fiba_world_cup_qualification_-_asia,Iran,Australia,2026-11-27T09:00:00+00:00,total,162.5,1.89,1.81,,25.4
