@@ -31,3 +31,9 @@ ts,event_id,group,home,away,start,type,line,dec_1,dec_2,pin_matchup_id,match_sco
 2026-11-26T02:41:18+00:00,1029345153,eurocup__w_,Belfius Namur Capitale (W),Ružomberok (W),2026-11-26T19:30:00+00:00,moneyline,,1.34,3.0,1640743605,100.0
 2026-11-26T02:41:18+00:00,1029345153,eurocup__w_,Belfius Namur Capitale (W),Ružomberok (W),2026-11-26T19:30:00+00:00,spread,-6.5,1.89,1.81,1640743605,100.0
 2026-11-26T02:41:18+00:00,1029345153,eurocup__w_,Belfius Namur Capitale (W),Ružomberok (W),2026-11-26T19:30:00+00:00,total,138.5,1.84,1.86,1640743605,100.0
+2026-11-26T02:56:23+00:00,1029343850,eurocup__w_,Panathinaikos (W),GEAS Sesto San Giovanni (W),2026-11-26T16:30:00+00:00,moneyline,,1.11,5.4,1640723946,84.3
+2026-11-26T02:56:23+00:00,1029343850,eurocup__w_,Panathinaikos (W),GEAS Sesto San Giovanni (W),2026-11-26T16:30:00+00:00,spread,-12.5,1.88,1.82,1640723946,84.3
+2026-11-26T02:56:23+00:00,1029343850,eurocup__w_,Panathinaikos (W),GEAS Sesto San Giovanni (W),2026-11-26T16:30:00+00:00,total,146.5,1.89,1.81,1640723946,84.3
+2026-11-26T02:56:23+00:00,1029345186,eurocup__w_,SL Benfica (W),UZKK Student (W),2026-11-26T20:00:00+00:00,moneyline,,1.04,9.0,1640736976,88.9
+2026-11-26T02:56:23+00:00,1029345186,eurocup__w_,SL Benfica (W),UZKK Student (W),2026-11-26T20:00:00+00:00,spread,-17.5,1.86,1.84,1640736976,88.9
+2026-11-26T02:56:23+00:00,1029345186,eurocup__w_,SL Benfica (W),UZKK Student (W),2026-11-26T20:00:00+00:00,total,149.5,1.87,1.83,1640736976,88.9
