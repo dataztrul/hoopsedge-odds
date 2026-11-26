@@ -346,3 +346,8 @@ ts,event_id,group,home,away,start,type,line,dec_1,dec_2,pin_matchup_id,match_sco
 2026-11-26T22:22:50+00:00,1028289224,fiba_world_cup_qualification_-_asia,Syria,Philippines,2026-11-27T12:00:00+00:00,total,162.5,1.87,1.83,,28.5
 2026-11-26T23:08:08+00:00,1029566325,fiba_world_cup_qualification_-_americas,Panama,Puerto Rico,2026-11-27T01:40:00+00:00,moneyline,,2.6,1.44,,0.0
 2026-11-26T23:08:08+00:00,1029566325,fiba_world_cup_qualification_-_americas,Panama,Puerto Rico,2026-11-27T01:40:00+00:00,spread,5.5,1.79,1.91,,0.0
+2026-11-26T23:23:16+00:00,1028289600,fiba_world_cup_qualification_-_europe,Slovenia,Finland,2026-11-27T19:00:00+00:00,moneyline,,1.28,3.5,,35.8
+2026-11-26T23:23:16+00:00,1028289600,fiba_world_cup_qualification_-_europe,Slovenia,Finland,2026-11-27T19:00:00+00:00,spread,-7.5,1.82,1.93,,35.8
+2026-11-26T23:23:16+00:00,1028289600,fiba_world_cup_qualification_-_europe,Slovenia,Finland,2026-11-27T19:00:00+00:00,total,166.5,1.87,1.83,,35.8
+2026-11-26T23:23:16+00:00,1029566325,fiba_world_cup_qualification_-_americas,Panama,Puerto Rico,2026-11-27T01:40:00+00:00,moneyline,,2.33,1.53,,0.0
+2026-11-26T23:23:16+00:00,1029566325,fiba_world_cup_qualification_-_americas,Panama,Puerto Rico,2026-11-27T01:40:00+00:00,spread,4.5,1.77,1.94,,0.0
