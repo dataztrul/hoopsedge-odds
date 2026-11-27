@@ -71,3 +71,5 @@ ts,event_id,group,home,away,start,type,line,dec_1,dec_2,pin_matchup_id,match_sco
 2026-11-27T10:20:08+00:00,1028289583,fiba_world_cup_qualification_-_europe,Latvia,Germany,2026-11-27T17:30:00+00:00,total,171.5,1.83,1.87,,36.8
 2026-11-27T10:20:08+00:00,1028289577,fiba_world_cup_qualification_-_europe,Poland,Croatia,2026-11-27T19:45:00+00:00,moneyline,,1.6,2.25,,37.6
 2026-11-27T10:20:08+00:00,1028289577,fiba_world_cup_qualification_-_europe,Poland,Croatia,2026-11-27T19:45:00+00:00,spread,-2.5,1.81,1.93,,37.6
+2026-11-27T10:50:50+00:00,1028289224,fiba_world_cup_qualification_-_asia,Syria,Philippines,2026-11-27T12:00:00+00:00,spread,23.5,1.88,1.82,,28.5
+2026-11-27T10:50:50+00:00,1028289224,fiba_world_cup_qualification_-_asia,Syria,Philippines,2026-11-27T12:00:00+00:00,total,159.5,1.83,1.87,,28.5
