@@ -62,3 +62,6 @@ ts,event_id,group,home,away,start,type,line,dec_1,dec_2,pin_matchup_id,match_sco
 2026-11-27T08:53:46+00:00,1028289220,fiba_world_cup_qualification_-_asia,Iran,Australia,2026-11-27T09:00:00+00:00,spread,17.5,1.83,1.87,,25.4
 2026-11-27T08:53:46+00:00,1028289220,fiba_world_cup_qualification_-_asia,Iran,Australia,2026-11-27T09:00:00+00:00,total,163.5,2.1,1.65,,25.4
 2026-11-27T09:34:16+00:00,1028289581,fiba_world_cup_qualification_-_europe,Netherlands,Israel,2026-11-27T19:00:00+00:00,total,165.5,1.82,1.88,,42.3
+2026-11-27T10:04:45+00:00,1029396615,turkey/tbl,OGM Ormanspor,Keçiören Belediyesi,2026-11-28T10:00:00+00:00,moneyline,,1.24,3.65,1640863822,84.8
+2026-11-27T10:04:45+00:00,1029396615,turkey/tbl,OGM Ormanspor,Keçiören Belediyesi,2026-11-28T10:00:00+00:00,spread,-8.5,1.85,1.85,1640863822,84.8
+2026-11-27T10:04:45+00:00,1029396615,turkey/tbl,OGM Ormanspor,Keçiören Belediyesi,2026-11-28T10:00:00+00:00,total,167.5,1.67,2.07,1640863822,84.8
