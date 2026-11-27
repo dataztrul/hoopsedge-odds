@@ -174,3 +174,8 @@ ts,event_id,group,home,away,start,type,line,dec_1,dec_2,pin_matchup_id,match_sco
 2026-11-27T17:13:59+00:00,1029856539,belgium/top_division_1,BBC Falco Gent,Avanti Brugge,2026-11-27T19:45:00+00:00,spread,-8.5,1.74,1.97,1640822626,100.0
 2026-11-27T17:13:59+00:00,1029396615,turkey/tbl,OGM Ormanspor,Keçiören Belediyesi,2026-11-28T10:00:00+00:00,spread,-4.5,1.82,1.88,1640863822,84.8
 2026-11-27T17:13:59+00:00,1029396615,turkey/tbl,OGM Ormanspor,Keçiören Belediyesi,2026-11-28T10:00:00+00:00,total,175.5,1.88,1.82,1640863822,84.8
+2026-11-27T17:19:05+00:00,1028289583,fiba_world_cup_qualification_-_europe,Latvia,Germany,2026-11-27T17:30:00+00:00,moneyline,,2.75,1.42,,36.8
+2026-11-27T17:19:05+00:00,1028289583,fiba_world_cup_qualification_-_europe,Latvia,Germany,2026-11-27T17:30:00+00:00,spread,5.5,1.84,1.9,,36.8
+2026-11-27T17:19:05+00:00,1028289583,fiba_world_cup_qualification_-_europe,Latvia,Germany,2026-11-27T17:30:00+00:00,total,175.5,1.84,1.86,,36.8
+2026-11-27T17:19:05+00:00,1029856539,belgium/top_division_1,BBC Falco Gent,Avanti Brugge,2026-11-27T19:45:00+00:00,moneyline,,1.25,3.55,1640822626,100.0
+2026-11-27T17:19:05+00:00,1029856539,belgium/top_division_1,BBC Falco Gent,Avanti Brugge,2026-11-27T19:45:00+00:00,spread,-8.5,1.88,1.82,1640822626,100.0
