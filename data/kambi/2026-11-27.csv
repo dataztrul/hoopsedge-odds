@@ -189,3 +189,5 @@ ts,event_id,group,home,away,start,type,line,dec_1,dec_2,pin_matchup_id,match_sco
 2026-11-27T17:45:06+00:00,1028289593,fiba_world_cup_qualification_-_europe,Sweden,Hungary,2026-11-27T18:00:00+00:00,total,156.5,1.86,1.84,,36.3
 2026-11-27T17:50:15+00:00,1028289593,fiba_world_cup_qualification_-_europe,Sweden,Hungary,2026-11-27T18:00:00+00:00,moneyline,,1.88,1.86,,36.3
 2026-11-27T17:50:15+00:00,1028289593,fiba_world_cup_qualification_-_europe,Sweden,Hungary,2026-11-27T18:00:00+00:00,spread,-0.5,1.88,1.86,,36.3
+2026-11-27T17:55:21+00:00,1028289577,fiba_world_cup_qualification_-_europe,Poland,Croatia,2026-11-27T19:45:00+00:00,spread,-4.5,1.9,1.84,,37.6
+2026-11-27T17:55:21+00:00,1028289577,fiba_world_cup_qualification_-_europe,Poland,Croatia,2026-11-27T19:45:00+00:00,total,177.5,1.85,1.85,,37.6
