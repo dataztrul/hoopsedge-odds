@@ -113,3 +113,9 @@ ts,event_id,group,home,away,start,type,line,dec_1,dec_2,pin_matchup_id,match_sco
 2026-11-27T13:18:49+00:00,1029396584,turkey/tbl,iLab Basketbol,Darüşşafaka,2026-11-28T12:30:00+00:00,spread,-9.5,1.83,1.87,1640887968,100.0
 2026-11-27T13:18:49+00:00,1029396584,turkey/tbl,iLab Basketbol,Darüşşafaka,2026-11-28T12:30:00+00:00,total,168.5,1.67,2.07,1640887968,100.0
 2026-11-27T13:18:49+00:00,1029396588,turkey/tbl,Goztepe SK,Harem Spor Kulübü,2026-11-28T12:30:00+00:00,total,152.5,1.67,2.07,1640881482,100.0
+2026-11-27T13:34:10+00:00,1029396585,turkey/tbl,Mersin Spor,Cedi Osman Basketbol,2026-11-28T13:00:00+00:00,moneyline,,2.7,1.41,1640887995,81.0
+2026-11-27T13:34:10+00:00,1029396585,turkey/tbl,Mersin Spor,Cedi Osman Basketbol,2026-11-28T13:00:00+00:00,spread,5.5,1.82,1.88,1640887995,81.0
+2026-11-27T13:34:10+00:00,1029396585,turkey/tbl,Mersin Spor,Cedi Osman Basketbol,2026-11-28T13:00:00+00:00,total,169.5,2.06,1.68,1640887995,81.0
+2026-11-27T13:34:10+00:00,1029396589,turkey/tbl,Gaziantep Basketbol,Fenerbache Koleji,2026-11-28T13:30:00+00:00,moneyline,,1.08,6.25,1640881526,86.7
+2026-11-27T13:34:10+00:00,1029396589,turkey/tbl,Gaziantep Basketbol,Fenerbache Koleji,2026-11-28T13:30:00+00:00,spread,-13.5,1.84,1.86,1640881526,86.7
+2026-11-27T13:34:10+00:00,1029396589,turkey/tbl,Gaziantep Basketbol,Fenerbache Koleji,2026-11-28T13:30:00+00:00,total,154.5,1.9,1.8,1640881526,86.7
