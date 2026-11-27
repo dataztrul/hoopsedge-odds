@@ -41,3 +41,5 @@ ts,event_id,group,home,away,start,type,line,dec_1,dec_2,pin_matchup_id,match_sco
 2026-11-27T05:51:23+00:00,1028289222,fiba_world_cup_qualification_-_asia,Jordan,New Zealand,2026-11-27T06:00:00+00:00,moneyline,,9.0,1.02,,0.0
 2026-11-27T05:51:23+00:00,1028289222,fiba_world_cup_qualification_-_asia,Jordan,New Zealand,2026-11-27T06:00:00+00:00,spread,18.5,1.88,1.82,,0.0
 2026-11-27T05:51:23+00:00,1028289222,fiba_world_cup_qualification_-_asia,Jordan,New Zealand,2026-11-27T06:00:00+00:00,total,177.5,1.77,1.94,,0.0
+2026-11-27T06:01:29+00:00,1028289224,fiba_world_cup_qualification_-_asia,Syria,Philippines,2026-11-27T12:00:00+00:00,spread,22.5,1.85,1.85,,28.5
+2026-11-27T06:01:29+00:00,1028289224,fiba_world_cup_qualification_-_asia,Syria,Philippines,2026-11-27T12:00:00+00:00,total,159.5,1.84,1.86,,28.5
