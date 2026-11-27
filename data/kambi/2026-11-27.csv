@@ -46,3 +46,5 @@ ts,event_id,group,home,away,start,type,line,dec_1,dec_2,pin_matchup_id,match_sco
 2026-11-27T07:12:35+00:00,1028635593,italy/serie_a2,Cividale,Real Sebastiani Rieti,2026-11-28T19:00:00+00:00,moneyline,,1.53,2.25,1641079648,100.0
 2026-11-27T07:12:35+00:00,1028635593,italy/serie_a2,Cividale,Real Sebastiani Rieti,2026-11-28T19:00:00+00:00,spread,-3.5,1.86,1.78,1641079648,100.0
 2026-11-27T07:12:35+00:00,1028635593,italy/serie_a2,Cividale,Real Sebastiani Rieti,2026-11-28T19:00:00+00:00,total,146.5,1.84,1.8,1641079648,100.0
+2026-11-27T07:32:48+00:00,1028289587,fiba_world_cup_qualification_-_europe,Estonia,France,2026-11-27T17:00:00+00:00,moneyline,,7.0,1.08,,39.3
+2026-11-27T07:32:48+00:00,1028289587,fiba_world_cup_qualification_-_europe,Estonia,France,2026-11-27T17:00:00+00:00,spread,16.5,1.72,2.06,,39.3
