@@ -10,3 +10,6 @@ ts,event_id,group,home,away,start,type,line,dec_1,dec_2,pin_matchup_id,match_sco
 2026-11-28T00:52:39+00:00,1028584565,fiba_world_cup_qualification_-_americas,Colombia,Dominican Republic,2026-11-28T01:10:00+00:00,total,170.5,1.81,1.89,,0.0
 2026-11-28T01:07:45+00:00,1028584565,fiba_world_cup_qualification_-_americas,Colombia,Dominican Republic,2026-11-28T01:12:00+00:00,spread,24.5,1.83,1.87,,0.0
 2026-11-28T01:07:45+00:00,1028584565,fiba_world_cup_qualification_-_americas,Colombia,Dominican Republic,2026-11-28T01:12:00+00:00,total,170.5,1.8,1.9,,0.0
+2026-11-28T02:23:15+00:00,1028635561,italy/serie_a2,Urania Milano,Tramec Cento,2026-11-28T19:30:00+00:00,moneyline,,1.29,3.05,1641079419,79.4
+2026-11-28T02:23:15+00:00,1028635561,italy/serie_a2,Urania Milano,Tramec Cento,2026-11-28T19:30:00+00:00,spread,-6.5,1.81,1.83,1641079419,79.4
+2026-11-28T02:23:15+00:00,1028635561,italy/serie_a2,Urania Milano,Tramec Cento,2026-11-28T19:30:00+00:00,total,156.5,1.85,1.8,1641079419,79.4
