@@ -33,3 +33,6 @@ ts,event_id,group,home,away,start,type,line,dec_1,dec_2,pin_matchup_id,match_sco
 2026-11-28T06:30:30+00:00,1029396586,turkey/tbl,Demir İnşaat Büyükçekmece,Final Gençlik,2026-11-28T15:00:00+00:00,moneyline,,1.49,2.45,1640898403,85.3
 2026-11-28T06:30:30+00:00,1029396586,turkey/tbl,Demir İnşaat Büyükçekmece,Final Gençlik,2026-11-28T15:00:00+00:00,spread,-4.5,1.91,1.8,1640898403,85.3
 2026-11-28T06:30:30+00:00,1029396586,turkey/tbl,Demir İnşaat Büyükçekmece,Final Gençlik,2026-11-28T15:00:00+00:00,total,158.5,1.82,1.88,1640898403,85.3
+2026-11-28T08:11:27+00:00,1029957389,belgium/top_division_1,Basket Willebroek,Basics Melsele,2026-11-28T19:30:00+00:00,moneyline,,1.66,2.08,1640923554,100.0
+2026-11-28T08:11:27+00:00,1029957389,belgium/top_division_1,Basket Willebroek,Basics Melsele,2026-11-28T19:30:00+00:00,spread,-1.5,1.78,1.93,1640923554,100.0
+2026-11-28T08:11:27+00:00,1029957389,belgium/top_division_1,Basket Willebroek,Basics Melsele,2026-11-28T19:30:00+00:00,total,174.5,1.86,1.84,1640923554,100.0
