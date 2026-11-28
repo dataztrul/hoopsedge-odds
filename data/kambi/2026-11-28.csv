@@ -81,3 +81,5 @@ ts,event_id,group,home,away,start,type,line,dec_1,dec_2,pin_matchup_id,match_sco
 2026-11-28T12:26:18+00:00,1029396583,turkey/tbl,Konya Buyuksehir Belediye Spor Kulubu,Kahramanmaras Istiklal,2026-11-29T12:00:00+00:00,spread,6.5,1.91,1.79,1640941363,83.3
 2026-11-28T12:26:18+00:00,1029396583,turkey/tbl,Konya Buyuksehir Belediye Spor Kulubu,Kahramanmaras Istiklal,2026-11-29T12:00:00+00:00,total,167.5,1.85,1.85,1640941363,83.3
 2026-11-28T12:31:23+00:00,1029396585,turkey/tbl,Mersin Spor,Cedi Osman Basketbol,2026-11-28T13:00:00+00:00,spread,5.5,1.79,1.91,1640887995,81.0
+2026-11-28T12:36:28+00:00,1029396585,turkey/tbl,Mersin Spor,Cedi Osman Basketbol,2026-11-28T13:00:00+00:00,moneyline,,2.95,1.34,1640887995,81.0
+2026-11-28T12:36:28+00:00,1029396585,turkey/tbl,Mersin Spor,Cedi Osman Basketbol,2026-11-28T13:00:00+00:00,spread,5.5,1.95,1.76,1640887995,81.0
