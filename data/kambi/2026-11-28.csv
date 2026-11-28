@@ -13,3 +13,6 @@ ts,event_id,group,home,away,start,type,line,dec_1,dec_2,pin_matchup_id,match_sco
 2026-11-28T02:23:15+00:00,1028635561,italy/serie_a2,Urania Milano,Tramec Cento,2026-11-28T19:30:00+00:00,moneyline,,1.29,3.05,1641079419,79.4
 2026-11-28T02:23:15+00:00,1028635561,italy/serie_a2,Urania Milano,Tramec Cento,2026-11-28T19:30:00+00:00,spread,-6.5,1.81,1.83,1641079419,79.4
 2026-11-28T02:23:15+00:00,1028635561,italy/serie_a2,Urania Milano,Tramec Cento,2026-11-28T19:30:00+00:00,total,156.5,1.85,1.8,1641079419,79.4
+2026-11-28T02:38:21+00:00,1028635558,italy/serie_a2,Basket Mestre,IVPC Del Fes Avellino,2026-11-28T19:30:00+00:00,moneyline,,2.1,1.61,1641079647,100.0
+2026-11-28T02:38:21+00:00,1028635558,italy/serie_a2,Basket Mestre,IVPC Del Fes Avellino,2026-11-28T19:30:00+00:00,spread,2.5,1.8,1.84,1641079647,100.0
+2026-11-28T02:38:21+00:00,1028635558,italy/serie_a2,Basket Mestre,IVPC Del Fes Avellino,2026-11-28T19:30:00+00:00,total,154.5,1.7,1.95,1641079647,100.0
