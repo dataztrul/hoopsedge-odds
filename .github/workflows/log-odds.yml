@@ -47,8 +47,10 @@ jobs:
             fi
             # GitHub runs the private model repo's hourly schedule only every ~6 h. If a token with
             # Actions access to that repo is stored as the secret HOOPSEDGE_TOKEN, start its model job
-            # from here instead, at most once an hour.
-            if [ -n "$HOOPSEDGE_TOKEN" ] && [ $(( $(date +%s) - ${last_model:-0} )) -ge 3600 ]; then
+            # from here instead, at most once an hour and only 06-21 UTC (the private repo has 2,000
+            # Actions minutes a month; each model run costs one).
+            h=$((10#$(date -u +%H)))
+            if [ -n "$HOOPSEDGE_TOKEN" ] && [ "$h" -ge 6 ] && [ "$h" -le 21 ] && [ $(( $(date +%s) - ${last_model:-0} )) -ge 3600 ]; then
               GH_TOKEN="$HOOPSEDGE_TOKEN" gh workflow run snapshot.yml -R dataztrul/hoopsedge --ref main && last_model=$(date +%s) || echo "model dispatch failed"
             fi
             # ... and the nightly job too: GitHub skips its 04:40 schedule on some nights
